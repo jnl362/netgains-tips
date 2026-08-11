@@ -1,7 +1,7 @@
 {
   "title": "NetGains — NRL Match Forecasts",
   "round": 24,
-  "generated_at": "Tue 11 Aug 2026, 11:26 PM NZT",
+  "generated_at": "Wed 12 Aug 2026, 12:04 AM NZT",
   "engine_version": "1.65.35",
   "fixtures": [
     {
@@ -62,7 +62,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 62,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-11T11:19:38.766514+00:00",
+      "bookmaker_observed_at": "2026-08-11T11:57:17.423547+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -449,7 +449,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 57,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-11T11:20:26.677361+00:00",
+      "bookmaker_observed_at": "2026-08-11T11:58:04.520462+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -836,7 +836,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-11T11:21:14.388592+00:00",
+      "bookmaker_observed_at": "2026-08-11T11:58:51.650391+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -880,8 +880,8 @@
           "team": "South Sydney Rabbitohs",
           "probability": 0.38527228840997024,
           "fair_odds": 2.5955669018579783,
-          "bookmaker_odds": 2.45,
-          "ev": -0.05608289339557282
+          "bookmaker_odds": 2.3,
+          "ev": -0.11387373665706846
         },
         {
           "player": "Matthew Dufty",
@@ -904,8 +904,8 @@
           "team": "Canterbury-Bankstown Bulldogs",
           "probability": 0.3438965879865117,
           "fair_odds": 2.9078508916151913,
-          "bookmaker_odds": 1.96,
-          "ev": -0.3259626875464371
+          "bookmaker_odds": 1.98,
+          "ev": -0.3190847557867069
         },
         {
           "player": "Jack Wighton",
@@ -952,8 +952,8 @@
           "team": "Canterbury-Bankstown Bulldogs",
           "probability": 0.2515712934581209,
           "fair_odds": 3.9750163313703757,
-          "bookmaker_odds": 2.9,
-          "ev": -0.27044324897144945
+          "bookmaker_odds": 2.95,
+          "ev": -0.25786468429854326
         },
         {
           "player": "Stephen Crichton",
@@ -1056,8 +1056,8 @@
           "team": "Canterbury-Bankstown Bulldogs",
           "probability": 0.09994683002111844,
           "fair_odds": 10.00531982643875,
-          "bookmaker_odds": 9.0,
-          "ev": -0.10047852980993399
+          "bookmaker_odds": 9.25,
+          "ev": -0.07549182230465445
         },
         {
           "player": "Josh Curran",
@@ -1088,8 +1088,8 @@
           "team": "South Sydney Rabbitohs",
           "probability": 0.07692937741556749,
           "fair_odds": 12.998935303974514,
-          "bookmaker_odds": 9.25,
-          "ev": -0.2884032589060007
+          "bookmaker_odds": 9.5,
+          "ev": -0.26917091455210884
         },
         {
           "player": "Sean Keppie",
@@ -1104,8 +1104,8 @@
           "team": "South Sydney Rabbitohs",
           "probability": 0.06223984318364208,
           "fair_odds": 16.066878527464233,
-          "bookmaker_odds": 12.0,
-          "ev": -0.253121881796295
+          "bookmaker_odds": 16.0,
+          "ev": -0.004162509061726771
         },
         {
           "player": "Harry Hayes",
@@ -1120,16 +1120,16 @@
           "team": "Canterbury-Bankstown Bulldogs",
           "probability": 0.054551979827419946,
           "fair_odds": 18.3311403759055,
-          "bookmaker_odds": 10.0,
-          "ev": -0.4544802017258005
+          "bookmaker_odds": 10.5,
+          "ev": -0.42720421181209056
         },
         {
           "player": "Max King",
           "team": "Canterbury-Bankstown Bulldogs",
           "probability": 0.054519376989281526,
           "fair_odds": 18.342102482143172,
-          "bookmaker_odds": 10.0,
-          "ev": -0.4548062301071847
+          "bookmaker_odds": 10.5,
+          "ev": -0.427546541612544
         },
         {
           "player": "Alekolasimi Jones",
@@ -1144,7 +1144,7 @@
         "available": true,
         "probability": 0.1908,
         "fair_odds": 5.241090146750524,
-        "singles_product_odds": 4.4835,
+        "singles_product_odds": 4.209,
         "target_met": false,
         "legs": [
           {
@@ -1159,7 +1159,7 @@
             "team": "South Sydney Rabbitohs",
             "probability": 0.38527228840997024,
             "fair_odds": 2.5955669018579783,
-            "market_odds": 2.45
+            "market_odds": 2.3
           }
         ],
         "method": "Highest simulated joint hit probability"
@@ -1224,7 +1224,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 71,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-11T11:22:00.582109+00:00",
+      "bookmaker_observed_at": "2026-08-11T11:59:37.907388+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -1612,7 +1612,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-11T11:22:47.791349+00:00",
+      "bookmaker_observed_at": "2026-08-11T12:00:24.165756+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1999,7 +1999,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-11T11:23:33.321931+00:00",
+      "bookmaker_observed_at": "2026-08-11T12:01:11.140173+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2387,7 +2387,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-11T11:24:20.472855+00:00",
+      "bookmaker_observed_at": "2026-08-11T12:01:58.453742+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2775,7 +2775,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-11T11:25:08.735917+00:00",
+      "bookmaker_observed_at": "2026-08-11T12:02:45.859808+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
