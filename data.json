@@ -1,7 +1,7 @@
 {
   "title": "NetGains — NRL Match Forecasts",
   "round": 24,
-  "generated_at": "Wed 12 Aug 2026, 3:17 PM NZT",
+  "generated_at": "Wed 12 Aug 2026, 3:48 PM NZT",
   "engine_version": "1.65.35",
   "fixtures": [
     {
@@ -16,12 +16,12 @@
       "independent_away_win_probability": 0.35189678736429,
       "home_fair_odds": 1.5429641151340603,
       "away_fair_odds": 2.8417423401049176,
-      "home_conservative_fair_odds": 1.6493268443993852,
-      "away_conservative_fair_odds": 2.5400564578921436,
-      "home_bookmaker_odds": 1.77,
-      "away_bookmaker_odds": 2.05,
-      "home_h2h_ev": 0.14714268636520678,
-      "away_h2h_ev": -0.27861158590320556,
+      "home_conservative_fair_odds": 1.609241780941336,
+      "away_conservative_fair_odds": 2.6413844737550756,
+      "home_bookmaker_odds": 1.65,
+      "away_bookmaker_odds": 2.25,
+      "home_h2h_ev": 0.06937030084892148,
+      "away_h2h_ev": -0.2082322284303475,
       "winner": "Penrith Panthers",
       "home_points": 23.934790194269365,
       "away_points": 19.087182056835633,
@@ -40,16 +40,16 @@
         "Sydney Roosters 13+": 0.08682058488432393
       },
       "margin_remainder_probability": 0.02910146389325141,
-      "market_line": -1.5,
-      "home_line_odds": 1.83,
-      "away_line": 1.5,
-      "away_line_odds": 1.98,
-      "home_cover_probability": 0.6035541698438311,
-      "away_cover_probability": 0.39644583015616885,
-      "home_line_fair_odds": 1.6568521103230034,
-      "away_line_fair_odds": 2.5224127079507372,
-      "home_line_ev": 0.10450413081421095,
-      "away_line_ev": -0.21503725629078563,
+      "market_line": -3.5,
+      "home_line_odds": 1.8,
+      "away_line": 3.5,
+      "away_line_odds": 1.94,
+      "home_cover_probability": 0.5420877293754067,
+      "away_cover_probability": 0.4579122706245933,
+      "home_line_fair_odds": 1.8447198595552046,
+      "away_line_fair_odds": 2.183824422603915,
+      "home_line_ev": -0.024242087124267897,
+      "away_line_ev": -0.1116501949882891,
       "market_total": 42.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
@@ -62,7 +62,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 62,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:09:57.279547+00:00",
+      "bookmaker_observed_at": "2026-08-12T03:45:42.068318+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -88,8 +88,8 @@
         "Late-season elite interaction input: Applied -2.00 home-margin points: Penrith Panthers elite effect -1.13 (n=33) active; Sydney Roosters elite effect +0.98 (n=46) active.",
         "Stacked-advantage control: learned context +2.92, live availability +1.02, final downstream adjustment +3.93; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
-        "Low-confidence reversal guardrail: INACTIVE: no-vig market was too close to even (53.7% home).",
-        "Market-relative H2H calibration retains 62.5% of the +11.1pp raw market disagreement, leaving +7.0pp of betting edge."
+        "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 62/100, above the low-confidence ceiling of 59/100.",
+        "Market-relative H2H calibration retains 62.5% of the +7.1pp raw market disagreement, leaving +4.4pp of betting edge."
       ],
       "ats_players": [
         {
@@ -97,64 +97,64 @@
           "team": "Sydney Roosters",
           "probability": 0.3666783348505962,
           "fair_odds": 2.727185941889509,
-          "bookmaker_odds": 2.02,
-          "ev": -0.2593097636017957
+          "bookmaker_odds": 2.1,
+          "ev": -0.22997549681374796
         },
         {
           "player": "Thomas Jenkins",
           "team": "Penrith Panthers",
           "probability": 0.36659507330570723,
           "fair_odds": 2.727805343870757,
-          "bookmaker_odds": 1.72,
-          "ev": -0.36945647391418357
+          "bookmaker_odds": 1.7,
+          "ev": -0.37678837538029775
         },
         {
           "player": "Brian To'o",
           "team": "Penrith Panthers",
           "probability": 0.3511439410301356,
           "fair_odds": 2.8478349848963473,
-          "bookmaker_odds": 2.02,
-          "ev": -0.29068923911912614
+          "bookmaker_odds": 2.0,
+          "ev": -0.29771211793972885
         },
         {
           "player": "James Tedesco",
           "team": "Sydney Roosters",
           "probability": 0.3209603838934713,
           "fair_odds": 3.115649314315084,
-          "bookmaker_odds": 2.6,
-          "ev": -0.16550300187697453
+          "bookmaker_odds": 2.7,
+          "ev": -0.13340696348762737
         },
         {
           "player": "Billy Smith",
           "team": "Sydney Roosters",
           "probability": 0.3137629988732227,
           "fair_odds": 3.187118951537222,
-          "bookmaker_odds": 2.35,
-          "ev": -0.26265695264792666
+          "bookmaker_odds": 2.45,
+          "ev": -0.2312806527606044
         },
         {
           "player": "Paul Alamoti",
           "team": "Penrith Panthers",
           "probability": 0.27205703539172277,
           "fair_odds": 3.675699834632634,
-          "bookmaker_odds": 3.1,
-          "ev": -0.1566231902856594
+          "bookmaker_odds": 3.05,
+          "ev": -0.1702260420552456
         },
         {
           "player": "Robert Toia",
           "team": "Sydney Roosters",
           "probability": 0.2661466718032152,
           "fair_odds": 3.7573267147198623,
-          "bookmaker_odds": 2.85,
-          "ev": -0.24148198536083665
+          "bookmaker_odds": 3.0,
+          "ev": -0.2015599845903544
         },
         {
           "player": "Izack Tago",
           "team": "Penrith Panthers",
           "probability": 0.25792800338824784,
           "fair_odds": 3.877050909027289,
-          "bookmaker_odds": 3.0,
-          "ev": -0.22621598983525648
+          "bookmaker_odds": 2.95,
+          "ev": -0.23911239000466877
         },
         {
           "player": "Jaxen Edgar",
@@ -169,24 +169,24 @@
           "team": "Sydney Roosters",
           "probability": 0.24195415557194483,
           "fair_odds": 4.1330143623123305,
-          "bookmaker_odds": 3.05,
-          "ev": -0.26203982550556837
+          "bookmaker_odds": 3.15,
+          "ev": -0.23784440994837386
         },
         {
           "player": "Nathan Cleary",
           "team": "Penrith Panthers",
           "probability": 0.20275243075575258,
           "fair_odds": 4.9321233598657,
-          "bookmaker_odds": 3.5,
-          "ev": -0.290366492354866
+          "bookmaker_odds": 3.45,
+          "ev": -0.3005041138926535
         },
         {
           "player": "Sam Walker",
           "team": "Sydney Roosters",
           "probability": 0.16702368064954545,
           "fair_odds": 5.9871749689089455,
-          "bookmaker_odds": 3.4,
-          "ev": -0.43211948579154547
+          "bookmaker_odds": 3.6,
+          "ev": -0.39871474966163634
         },
         {
           "player": "Liam Martin",
@@ -209,24 +209,24 @@
           "team": "Sydney Roosters",
           "probability": 0.15624443602795124,
           "fair_odds": 6.400227908410804,
-          "bookmaker_odds": 5.0,
-          "ev": -0.2187778198602438
+          "bookmaker_odds": 5.2,
+          "ev": -0.18752893265465354
         },
         {
           "player": "Siua Wong",
           "team": "Sydney Roosters",
           "probability": 0.14225886661623494,
           "fair_odds": 7.02943882364572,
-          "bookmaker_odds": 5.0,
-          "ev": -0.28870566691882527
+          "bookmaker_odds": 5.25,
+          "ev": -0.2531409502647666
         },
         {
           "player": "Victor Radley",
           "team": "Sydney Roosters",
           "probability": 0.1254651026757736,
           "fair_odds": 7.970343774270012,
-          "bookmaker_odds": 8.25,
-          "ev": 0.035087097075132245
+          "bookmaker_odds": 8.75,
+          "ev": 0.09781964841301893
         },
         {
           "player": "Lindsay Smith",
@@ -241,135 +241,135 @@
           "team": "Sydney Roosters",
           "probability": 0.11828133537281524,
           "fair_odds": 8.454419261061465,
-          "bookmaker_odds": 5.8,
-          "ev": -0.31396825483767166
+          "bookmaker_odds": 6.0,
+          "ev": -0.2903119877631086
         },
         {
           "player": "Reece Robson",
           "team": "Sydney Roosters",
           "probability": 0.10760273385203777,
           "fair_odds": 9.293444173779811,
-          "bookmaker_odds": 7.75,
-          "ev": -0.16607881264670732
+          "bookmaker_odds": 8.0,
+          "ev": -0.13917812918369787
         },
         {
           "player": "Connor Watson",
           "team": "Sydney Roosters",
           "probability": 0.0975777918597586,
           "fair_odds": 10.248233547211507,
-          "bookmaker_odds": 7.75,
-          "ev": -0.24377211308687086
+          "bookmaker_odds": 8.25,
+          "ev": -0.19498321715699163
         },
         {
           "player": "Nat Butcher",
           "team": "Sydney Roosters",
           "probability": 0.09342165332046135,
           "fair_odds": 10.704156525358544,
-          "bookmaker_odds": 10.0,
-          "ev": -0.06578346679538649
+          "bookmaker_odds": 10.5,
+          "ev": -0.01907264013515586
         },
         {
           "player": "Jack Cogger",
           "team": "Penrith Panthers",
           "probability": 0.0908086825607463,
           "fair_odds": 11.01216284391145,
-          "bookmaker_odds": 5.2,
-          "ev": -0.5277948506841192
+          "bookmaker_odds": 5.0,
+          "ev": -0.5459565871962685
         },
         {
           "player": "Freddy Lussick",
           "team": "Penrith Panthers",
           "probability": 0.08370091633434713,
           "fair_odds": 11.94730050511579,
-          "bookmaker_odds": 7.5,
-          "ev": -0.3722431274923965
+          "bookmaker_odds": 7.25,
+          "ev": -0.39316835657598326
         },
         {
           "player": "Liam Henry",
           "team": "Penrith Panthers",
           "probability": 0.08306892460899547,
           "fair_odds": 12.038196048726876,
-          "bookmaker_odds": 8.75,
-          "ev": -0.27314690967128963
+          "bookmaker_odds": 8.5,
+          "ev": -0.2939141408235385
         },
         {
           "player": "Scott Sorensen",
           "team": "Penrith Panthers",
           "probability": 0.08275617902581836,
           "fair_odds": 12.08368984372779,
-          "bookmaker_odds": 8.25,
-          "ev": -0.3172615230369985
+          "bookmaker_odds": 8.0,
+          "ev": -0.3379505677934531
         },
         {
           "player": "Billy Phillips",
           "team": "Penrith Panthers",
           "probability": 0.08227719403860803,
           "fair_odds": 12.154036263448127,
-          "bookmaker_odds": 10.5,
-          "ev": -0.13608946259461563
+          "bookmaker_odds": 10.0,
+          "ev": -0.17722805961391974
         },
         {
           "player": "Spencer Leniu",
           "team": "Sydney Roosters",
           "probability": 0.07849003574938629,
           "fair_odds": 12.740470690992378,
-          "bookmaker_odds": 11.0,
-          "ev": -0.13660960675675082
+          "bookmaker_odds": 11.5,
+          "ev": -0.09736458888205768
         },
         {
           "player": "Egan Butcher",
           "team": "Sydney Roosters",
           "probability": 0.07834211266665687,
           "fair_odds": 12.764526842095353,
-          "bookmaker_odds": 11.0,
-          "ev": -0.13823676066677437
+          "bookmaker_odds": 11.5,
+          "ev": -0.09906570433344597
         },
         {
           "player": "Moses Leota",
           "team": "Penrith Panthers",
           "probability": 0.07449313142769988,
           "fair_odds": 13.42405643090143,
-          "bookmaker_odds": 10.5,
-          "ev": -0.21782212000915124
+          "bookmaker_odds": 10.0,
+          "ev": -0.25506868572300123
         },
         {
           "player": "Lindsay Collins",
           "team": "Sydney Roosters",
           "probability": 0.07438251045002704,
           "fair_odds": 13.444020562761692,
-          "bookmaker_odds": 12.0,
-          "ev": -0.10740987459967544
+          "bookmaker_odds": 12.5,
+          "ev": -0.070218619374662
         },
         {
           "player": "Naufahu Whyte",
           "team": "Sydney Roosters",
           "probability": 0.06753256831331772,
           "fair_odds": 14.807670209734873,
-          "bookmaker_odds": 11.0,
-          "ev": -0.257141748553505
+          "bookmaker_odds": 11.5,
+          "ev": -0.2233754643968462
         },
         {
           "player": "Luron Patea",
           "team": "Penrith Panthers",
           "probability": 0.06452571311289126,
           "fair_odds": 15.497697766632122,
-          "bookmaker_odds": 10.5,
-          "ev": -0.32248001231464174
+          "bookmaker_odds": 10.0,
+          "ev": -0.3547428688710874
         },
         {
           "player": "Billy Scott",
           "team": "Penrith Panthers",
           "probability": 0.051226758961814,
           "fair_odds": 19.52104759829586,
-          "bookmaker_odds": 10.5,
-          "ev": -0.46211903090095297
+          "bookmaker_odds": 10.0,
+          "ev": -0.48773241038186
         }
       ],
       "safe_bet": {
         "available": true,
         "probability": 0.13696,
         "fair_odds": 7.3014018691588785,
-        "singles_product_odds": 3.4744,
+        "singles_product_odds": 3.57,
         "target_met": false,
         "legs": [
           {
@@ -377,14 +377,14 @@
             "team": "Sydney Roosters",
             "probability": 0.3666783348505962,
             "fair_odds": 2.727185941889509,
-            "market_odds": 2.02
+            "market_odds": 2.1
           },
           {
             "player": "Thomas Jenkins",
             "team": "Penrith Panthers",
             "probability": 0.36659507330570723,
             "fair_odds": 2.727805343870757,
-            "market_odds": 1.72
+            "market_odds": 1.7
           }
         ],
         "method": "Highest simulated joint hit probability"
@@ -449,7 +449,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 57,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:10:43.892316+00:00",
+      "bookmaker_observed_at": "2026-08-12T03:46:30.940093+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -836,7 +836,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:11:31.155083+00:00",
+      "bookmaker_observed_at": "2026-08-12T03:47:18.579697+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1224,7 +1224,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 71,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:12:17.597489+00:00",
+      "bookmaker_observed_at": "2026-08-12T03:31:52.701951+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -1612,7 +1612,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:13:04.492613+00:00",
+      "bookmaker_observed_at": "2026-08-12T03:32:39.621096+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1999,7 +1999,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:13:51.056875+00:00",
+      "bookmaker_observed_at": "2026-08-12T03:33:27.862128+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2387,7 +2387,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:14:39.438276+00:00",
+      "bookmaker_observed_at": "2026-08-12T03:34:14.432875+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2775,7 +2775,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:15:29.047932+00:00",
+      "bookmaker_observed_at": "2026-08-12T03:35:03.968577+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
