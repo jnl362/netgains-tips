@@ -1,7 +1,7 @@
 {
   "title": "NetGains — NRL Match Forecasts",
   "round": 24,
-  "generated_at": "Wed 12 Aug 2026, 3:48 PM NZT",
+  "generated_at": "Wed 12 Aug 2026, 4:20 PM NZT",
   "engine_version": "1.65.35",
   "fixtures": [
     {
@@ -62,7 +62,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 62,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:45:42.068318+00:00",
+      "bookmaker_observed_at": "2026-08-12T04:08:37.798742+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -449,7 +449,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 57,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:46:30.940093+00:00",
+      "bookmaker_observed_at": "2026-08-12T04:09:26.463606+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -836,7 +836,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:47:18.579697+00:00",
+      "bookmaker_observed_at": "2026-08-12T04:10:16.071516+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1224,7 +1224,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 71,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:31:52.701951+00:00",
+      "bookmaker_observed_at": "2026-08-12T04:11:04.179951+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -1612,7 +1612,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:32:39.621096+00:00",
+      "bookmaker_observed_at": "2026-08-12T04:11:49.824322+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1953,12 +1953,12 @@
       "independent_away_win_probability": 0.7724645473842304,
       "home_fair_odds": 4.394919510361587,
       "away_fair_odds": 1.2945577934757846,
-      "home_conservative_fair_odds": 3.6729979331223754,
-      "away_conservative_fair_odds": 1.3741117745017792,
-      "home_bookmaker_odds": 2.75,
-      "away_bookmaker_odds": 1.46,
-      "home_h2h_ev": -0.3742775053066336,
-      "away_h2h_ev": 0.12779823918097644,
+      "home_conservative_fair_odds": 3.7096370834114567,
+      "away_conservative_fair_odds": 1.369053112729396,
+      "home_bookmaker_odds": 2.8,
+      "away_bookmaker_odds": 1.44,
+      "home_h2h_ev": -0.3629007326758452,
+      "away_h2h_ev": 0.11234894823329178,
       "winner": "Warriors",
       "home_points": 17.54055091579227,
       "away_points": 27.91751963326008,
@@ -1999,7 +1999,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:33:27.862128+00:00",
+      "bookmaker_observed_at": "2026-08-12T04:12:35.852803+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2027,7 +2027,7 @@
         "Stacked-advantage control: learned context -3.02, live availability -1.66, final downstream adjustment -3.50; same-direction evidence cap 3.50, opposing cap 5.00.",
         "Extreme-stack guardrail: Same-direction context exceeded the 3.50-point evidence cap for |raw margin|=6.88.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 75/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 62.5% of the -11.9pp raw market disagreement, leaving -7.5pp of betting edge."
+        "Market-relative H2H calibration retains 62.5% of the -11.2pp raw market disagreement, leaving -7.0pp of betting edge."
       ],
       "ats_players": [
         {
@@ -2387,7 +2387,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:34:14.432875+00:00",
+      "bookmaker_observed_at": "2026-08-12T04:13:24.653020+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2775,7 +2775,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-12T03:35:03.968577+00:00",
+      "bookmaker_observed_at": "2026-08-12T04:14:13.874996+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
