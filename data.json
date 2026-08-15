@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "TAB NZ",
   "round": 24,
-  "generated_at": "Sat 15 Aug 2026, 9:58 PM NZT",
-  "generated_at_iso": "2026-08-15T21:58:42.557092+12:00",
+  "generated_at": "Sat 15 Aug 2026, 10:30 PM NZT",
+  "generated_at_iso": "2026-08-15T22:30:27.345315+12:00",
   "engine_version": "1.65.41",
   "fixtures": [
     {
@@ -18,13 +18,13 @@
       "away_team": "Warriors",
       "kickoff": "Sat 15 Aug, 9:35 PM NZT",
       "venue": "Suncorp Stadium",
-      "home_win_probability": 0.22174411995472915,
-      "away_win_probability": 0.7782558800452708,
-      "independent_home_win_probability": 0.22174411995472915,
-      "independent_away_win_probability": 0.7782558800452708,
-      "home_fair_odds": 4.509702445341766,
-      "away_fair_odds": 1.2849244389156822,
-      "home_conservative_fair_odds": 3.913168594730217,
+      "home_win_probability": 0.2217441199547293,
+      "away_win_probability": 0.7782558800452707,
+      "independent_home_win_probability": 0.2217441199547293,
+      "independent_away_win_probability": 0.7782558800452707,
+      "home_fair_odds": 4.509702445341763,
+      "away_fair_odds": 1.2849244389156824,
+      "home_conservative_fair_odds": 3.913168594730215,
       "away_conservative_fair_odds": 1.3432688385454081,
       "bookmaker_provider": "TAB NZ",
       "bookmaker_prices": {
@@ -75,24 +75,24 @@
       },
       "home_bookmaker_odds": 2.9,
       "away_bookmaker_odds": 1.42,
-      "home_h2h_ev": -0.3569420521312855,
-      "away_h2h_ev": 0.1051233496642845,
+      "home_h2h_ev": -0.35694205213128505,
+      "away_h2h_ev": 0.10512334966428427,
       "winner": "Warriors",
-      "home_points": 17.833433490106565,
-      "away_points": 27.603963785159607,
+      "home_points": 17.835440592670892,
+      "away_points": 27.605970887723927,
       "likely_home_points": 18,
       "likely_away_points": 28,
-      "projected_margin": 9.770530295053042,
-      "projected_total": 45.43739727526617,
-      "close_game_probability": 0.3357367426236739,
-      "fav_1_12_probability": 0.5257367426236739,
-      "fav_13_plus_probability": 0.47426325737632613,
-      "high_scoring_probability": 0.602808904634316,
+      "projected_margin": 9.770530295053035,
+      "projected_total": 45.44141148039482,
+      "close_game_probability": 0.33573674262367403,
+      "fav_1_12_probability": 0.5257367426236741,
+      "fav_13_plus_probability": 0.4742632573763259,
+      "high_scoring_probability": 0.6029494018138187,
       "margin_probabilities": {
-        "Brisbane Broncos 1-12": 0.16991245663282128,
-        "Brisbane Broncos 13+": 0.04034397856351768,
-        "Warriors 1-12": 0.35117390378752944,
-        "Warriors 13+": 0.41524387403018925
+        "Brisbane Broncos 1-12": 0.1699124566328214,
+        "Brisbane Broncos 13+": 0.04034397856351779,
+        "Warriors 1-12": 0.3511739037875294,
+        "Warriors 13+": 0.4152438740301891
       },
       "margin_remainder_probability": 0.023325786985942343,
       "market_line": null,
@@ -124,7 +124,7 @@
         "ladder": 0.0,
         "availability_margin": -1.6561873810181313,
         "availability_total": -2.191850085085675,
-        "weather_total": 0.5462308196143709,
+        "weather_total": 0.5502450247430124,
         "referee_margin": 0.060298672566371725,
         "referee_total": 2.1636050366246486,
         "late_season_margin": 0.19959969246305942,
@@ -138,7 +138,7 @@
         "Brisbane Broncos are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 4 Brisbane Broncos absence(s), 2 Warriors absence(s); replacement-adjusted score effects -1.92/-0.27; net pre-team margin swing -1.66 pts.",
-        "Weather Fine / Dry: scoring +0.8% vs NRL across 1281 games; Suncorp Stadium in fine / dry conditions +2.7% vs its own baseline across 145 games. Sample-shrunk forecast effect +0.5 points.",
+        "Weather Fine / Dry: scoring +0.9% vs NRL across 1282 games; Suncorp Stadium in fine / dry conditions +2.7% vs its own baseline across 145 games. Sample-shrunk forecast effect +0.6 points.",
         "Referee Wyatt Raymond environment: stoppages -3.5% vs NRL, historical scoring +14.5% vs NRL and home-win environment +8.0% vs NRL; conservative adjustments +2.2 total points and +0.1 home-margin points.",
         "Late-season elite interaction input: Applied +0.20 home-margin points: Brisbane Broncos elite effect +0.20 (n=42) active; Warriors elite effect -2.00 (n=37) inactive.",
         "Stacked-advantage control: learned context -1.26, live availability -1.66, final downstream adjustment -2.92; same-direction evidence cap 3.50, opposing cap 5.00.",
@@ -398,10 +398,10 @@
         {
           "player": "Tanner Stowers-Smith",
           "team": "Warriors",
-          "probability": 0.053526827689099665,
-          "fair_odds": 18.682220545710436,
+          "probability": 0.053526827689099644,
+          "fair_odds": 18.682220545710443,
           "bookmaker_odds": 11.5,
-          "ev": -0.38444148157535385
+          "ev": -0.38444148157535407
         },
         {
           "player": "Va'a Semu",
@@ -422,8 +422,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.13456,
-        "fair_odds": 7.431629013079666,
+        "probability": 0.1352,
+        "fair_odds": 7.396449704142013,
         "singles_product_odds": 5.9925,
         "target_met": false,
         "legs": [
@@ -452,14 +452,14 @@
       "away_team": "Gold Coast Titans",
       "kickoff": "Sun 16 Aug, 4:00 PM NZT",
       "venue": "McDonald Jones Stadium",
-      "home_win_probability": 0.7027452675985776,
-      "away_win_probability": 0.2972547324014224,
-      "independent_home_win_probability": 0.7027452675985776,
-      "independent_away_win_probability": 0.2972547324014224,
-      "home_fair_odds": 1.4229907280872938,
-      "away_fair_odds": 3.3641180139381857,
-      "home_conservative_fair_odds": 1.3770281105589979,
-      "away_conservative_fair_odds": 3.6523221266376065,
+      "home_win_probability": 0.7027584677973185,
+      "away_win_probability": 0.29724153220268146,
+      "independent_home_win_probability": 0.7027584677973185,
+      "independent_away_win_probability": 0.29724153220268146,
+      "home_fair_odds": 1.4229639994724452,
+      "away_fair_odds": 3.3642674110498305,
+      "home_conservative_fair_odds": 1.3770109909901067,
+      "away_conservative_fair_odds": 3.6524425650663352,
       "bookmaker_provider": "TAB NZ",
       "bookmaker_prices": {
         "Betcha": {
@@ -484,7 +484,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T09:57:37.361688+00:00"
+          "observed_at": "2026-08-15T10:29:20.632608+00:00"
         },
         "Best Available": {
           "home_h2h": 1.22,
@@ -496,7 +496,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-15T09:57:37.361688+00:00",
+          "observed_at": "2026-08-15T10:29:20.632608+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -509,26 +509,26 @@
       },
       "home_bookmaker_odds": 1.22,
       "away_bookmaker_odds": 4.25,
-      "home_h2h_ev": -0.14265077352973532,
-      "away_h2h_ev": 0.26333261270604535,
+      "home_h2h_ev": -0.14263466928727142,
+      "away_h2h_ev": 0.2632765118613962,
       "winner": "Newcastle Knights",
-      "home_points": 26.92298355941621,
-      "away_points": 19.255915521522493,
+      "home_points": 26.92499066198053,
+      "away_points": 19.257922624086813,
       "likely_home_points": 26,
       "likely_away_points": 20,
       "projected_margin": 7.667068037893717,
-      "projected_total": 46.178899080938706,
+      "projected_total": 46.18291328606735,
       "close_game_probability": 0.38832329905265706,
       "fav_1_12_probability": 0.5783232990526571,
       "fav_13_plus_probability": 0.4216767009473429,
-      "high_scoring_probability": 0.6287614678328547,
+      "high_scoring_probability": 0.6289019650123572,
       "margin_probabilities": {
-        "Newcastle Knights 1-12": 0.32200868295331597,
-        "Newcastle Knights 13+": 0.36860776355904923,
-        "Gold Coast Titans 1-12": 0.20461649490513129,
-        "Gold Coast Titans 13+": 0.08073146254122811
+        "Newcastle Knights 1-12": 0.32203030735842797,
+        "Newcastle Knights 13+": 0.3685987010966114,
+        "Gold Coast Titans 1-12": 0.20461770986744138,
+        "Gold Coast Titans 13+": 0.08071645232167719
       },
-      "margin_remainder_probability": 0.024035596041275364,
+      "margin_remainder_probability": 0.02403682935584206,
       "market_line": null,
       "home_line_odds": null,
       "away_line": null,
@@ -551,14 +551,14 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T09:57:37.361688+00:00",
+      "bookmaker_observed_at": "2026-08-15T10:29:20.632608+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": 1.44,
         "availability_margin": -0.7253071491961087,
         "availability_total": -3.425690890943974,
-        "weather_total": 0.4830997023044564,
+        "weather_total": 0.48711390743309785,
         "referee_margin": 0.08810840707964612,
         "referee_total": 2.3386071476361874,
         "late_season_margin": 1.8116837372829413,
@@ -573,7 +573,7 @@
         "Newcastle Knights are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 4 Newcastle Knights absence(s), 4 Gold Coast Titans absence(s); replacement-adjusted score effects -2.08/-1.35; net pre-team margin swing -0.73 pts.",
-        "Weather Fine / Dry: scoring +0.8% vs NRL across 1281 games; McDonald Jones Stadium in fine / dry conditions +2.2% vs its own baseline across 75 games. Sample-shrunk forecast effect +0.5 points.",
+        "Weather Fine / Dry: scoring +0.9% vs NRL across 1282 games; McDonald Jones Stadium in fine / dry conditions +2.2% vs its own baseline across 75 games. Sample-shrunk forecast effect +0.5 points.",
         "Referee Liam Kennedy environment: stoppages -9.5% vs NRL, historical scoring +15.7% vs NRL and home-win environment +9.8% vs NRL; conservative adjustments +2.3 total points and +0.1 home-margin points.",
         "Late-season elite interaction input: Applied +1.81 home-margin points: Newcastle Knights elite effect -1.00 (n=40) inactive; Gold Coast Titans elite effect -1.81 (n=44) active.",
         "Stacked-advantage control: learned context +4.99, live availability -0.73, final downstream adjustment +3.88; same-direction evidence cap 4.61, opposing cap 5.00.",
@@ -593,10 +593,10 @@
         {
           "player": "Greg Marzhew",
           "team": "Newcastle Knights",
-          "probability": 0.530312811358118,
-          "fair_odds": 1.885679505722339,
+          "probability": 0.530185555643997,
+          "fair_odds": 1.8861321085696807,
           "bookmaker_odds": 1.55,
-          "ev": -0.178015142394917
+          "ev": -0.17821238875180456
         },
         {
           "player": "Kalyn Ponga",
@@ -625,18 +625,18 @@
         {
           "player": "Phillip Sami",
           "team": "Gold Coast Titans",
-          "probability": 0.3757221652891467,
-          "fair_odds": 2.6615411396621336,
+          "probability": 0.3756569096825271,
+          "fair_odds": 2.662003477708194,
           "bookmaker_odds": 2.05,
-          "ev": -0.22976956115724934
+          "ev": -0.22990333515081962
         },
         {
           "player": "Dean Ieremia",
           "team": "Gold Coast Titans",
-          "probability": 0.349148976218532,
-          "fair_odds": 2.864106923155063,
+          "probability": 0.34909585430338863,
+          "fair_odds": 2.864542754297306,
           "bookmaker_odds": 2.65,
-          "ev": -0.07475521302089017
+          "ev": -0.0748959860960201
         },
         {
           "player": "Jojo Fifita",
@@ -849,8 +849,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.37328,
-        "fair_odds": 2.6789541363051863,
+        "probability": 0.36976,
+        "fair_odds": 2.704456945045435,
         "singles_product_odds": 2.325,
         "target_met": false,
         "legs": [
@@ -864,8 +864,8 @@
           {
             "player": "Greg Marzhew",
             "team": "Newcastle Knights",
-            "probability": 0.530312811358118,
-            "fair_odds": 1.885679505722339,
+            "probability": 0.530185555643997,
+            "fair_odds": 1.8861321085696807,
             "market_odds": 1.55
           }
         ],
@@ -911,7 +911,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T09:58:03.223137+00:00"
+          "observed_at": "2026-08-15T10:29:47.823809+00:00"
         },
         "Best Available": {
           "home_h2h": 1.95,
@@ -923,7 +923,7 @@
           "total": 47.5,
           "over_odds": 1.83,
           "under_odds": 1.98,
-          "observed_at": "2026-08-15T09:58:03.223137+00:00",
+          "observed_at": "2026-08-15T10:29:47.823809+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -939,16 +939,16 @@
       "home_h2h_ev": 0.03752202089652723,
       "away_h2h_ev": -0.12495701491102851,
       "winner": "Wests Tigers",
-      "home_points": 22.691660996637694,
-      "away_points": 21.665851176230078,
+      "home_points": 22.709071139033703,
+      "away_points": 21.683261318626087,
       "likely_home_points": 23,
       "likely_away_points": 22,
       "projected_margin": 1.0258098204076163,
-      "projected_total": 44.35751217286777,
+      "projected_total": 44.39233245765979,
       "close_game_probability": 0.5543547544898095,
       "fav_1_12_probability": 0.62,
       "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.565012926050372,
+      "high_scoring_probability": 0.5662316360180927,
       "margin_probabilities": {
         "Wests Tigers 1-12": 0.33237068536730335,
         "Wests Tigers 13+": 0.1840770263212198,
@@ -978,14 +978,14 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T09:58:03.223137+00:00",
+      "bookmaker_observed_at": "2026-08-15T10:29:47.823809+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
         "ladder": 0.54,
         "availability_margin": -0.7866466878847291,
         "availability_total": -2.8969488130777004,
-        "weather_total": 0.2869631685711826,
+        "weather_total": 0.3217834533632,
         "referee_margin": -0.11809022305734021,
         "referee_total": 0.16343899397769604,
         "late_season_margin": 0.0,
@@ -998,7 +998,7 @@
         "CommBank Stadium is not a recognised home ground for either side; treated as neutral.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 4 Wests Tigers absence(s), 4 St. George Illawarra Dragons absence(s); replacement-adjusted score effects -1.84/-1.06; net pre-team margin swing -0.79 pts.",
-        "Weather Fine / Dry: scoring +0.8% vs NRL across 1281 games; CommBank Stadium in fine / dry conditions +0.7% vs its own baseline across 91 games. Sample-shrunk forecast effect +0.3 points.",
+        "Weather Fine / Dry: scoring +0.9% vs NRL across 1282 games; CommBank Stadium in fine / dry conditions +0.9% vs its own baseline across 92 games. Sample-shrunk forecast effect +0.3 points.",
         "Referee Peter Gough environment: stoppages +8.3% vs NRL, historical scoring +1.1% vs NRL and home-win environment -3.8% vs NRL; conservative adjustments +0.2 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Inactive because neither side currently faces a top-eight opponent.",
         "Stacked-advantage control: learned context +2.53, live availability -0.79, final downstream adjustment +1.75; same-direction evidence cap 5.00, opposing cap 5.00.",
@@ -1026,10 +1026,10 @@
         {
           "player": "Sunia Turuva",
           "team": "Wests Tigers",
-          "probability": 0.3757788651325895,
-          "fair_odds": 2.6611395498444566,
+          "probability": 0.3757092803493542,
+          "fair_odds": 2.66163241714484,
           "bookmaker_odds": 2.05,
-          "ev": -0.2296533264781916
+          "ev": -0.229795975283824
         },
         {
           "player": "Jahream Bula",
@@ -1050,10 +1050,10 @@
         {
           "player": "Junior Tupou",
           "team": "Wests Tigers",
-          "probability": 0.33745855415974657,
-          "fair_odds": 2.9633268668798323,
+          "probability": 0.33740758651798153,
+          "fair_odds": 2.963774496951647,
           "bookmaker_odds": 2.15,
-          "ev": -0.2744641085565449
+          "ev": -0.2745736889863397
         },
         {
           "player": "Solomone Saukuru",
@@ -1106,10 +1106,10 @@
         {
           "player": "Jarome Luai",
           "team": "Wests Tigers",
-          "probability": 0.1886815916850675,
-          "fair_odds": 5.299934090386101,
+          "probability": 0.1885485785318185,
+          "fair_odds": 5.30367297269889,
           "bookmaker_odds": 4.1,
-          "ev": -0.22640547409122325
+          "ev": -0.22695082801954425
         },
         {
           "player": "Hamish Stewart",
@@ -1154,10 +1154,10 @@
         {
           "player": "Lyhkan King-Togia",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.11667508479791264,
-          "fair_odds": 8.570810141102982,
+          "probability": 0.1165889970828564,
+          "fair_odds": 8.577138709661677,
           "bookmaker_odds": 4.8,
-          "ev": -0.4399595929700194
+          "ev": -0.44037281400228934
         },
         {
           "player": "Sione Fainu",
@@ -1274,8 +1274,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.1596,
-        "fair_odds": 6.265664160401003,
+        "probability": 0.16112,
+        "fair_odds": 6.206554121151936,
         "singles_product_odds": 3.5874999999999995,
         "target_met": false,
         "legs": [
@@ -1289,8 +1289,8 @@
           {
             "player": "Sunia Turuva",
             "team": "Wests Tigers",
-            "probability": 0.3757788651325895,
-            "fair_odds": 2.6611395498444566,
+            "probability": 0.3757092803493542,
+            "fair_odds": 2.66163241714484,
             "market_odds": 2.05
           }
         ],
