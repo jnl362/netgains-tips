@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "TAB NZ",
   "round": 24,
-  "generated_at": "Sat 15 Aug 2026, 7:02 PM NZT",
-  "generated_at_iso": "2026-08-15T19:02:41.043470+12:00",
+  "generated_at": "Sat 15 Aug 2026, 7:12 PM NZT",
+  "generated_at_iso": "2026-08-15T19:12:42.671004+12:00",
   "engine_version": "1.65.41",
   "fixtures": [
     {
@@ -18,14 +18,14 @@
       "away_team": "North Queensland Cowboys",
       "kickoff": "Sat 15 Aug, 7:30 PM NZT",
       "venue": "CommBank Stadium",
-      "home_win_probability": 0.48179794966315953,
-      "away_win_probability": 0.5182020503368405,
-      "independent_home_win_probability": 0.48179794966315953,
-      "independent_away_win_probability": 0.5182020503368405,
-      "home_fair_odds": 2.075558853455338,
-      "away_fair_odds": 1.9297492152915687,
-      "home_conservative_fair_odds": 2.237720999348616,
-      "away_conservative_fair_odds": 1.8079365224685346,
+      "home_win_probability": 0.48179684173532544,
+      "away_win_probability": 0.5182031582646746,
+      "independent_home_win_probability": 0.48179684173532544,
+      "independent_away_win_probability": 0.5182031582646746,
+      "home_fair_odds": 2.075563626357993,
+      "away_fair_odds": 1.9297450894524375,
+      "home_conservative_fair_odds": 2.2377247334729407,
+      "away_conservative_fair_odds": 1.8079340849835754,
       "bookmaker_provider": "TAB NZ",
       "bookmaker_prices": {
         "Betcha": {
@@ -50,7 +50,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T07:00:32.768284+00:00"
+          "observed_at": "2026-08-15T07:10:32.329367+00:00"
         },
         "Best Available": {
           "home_h2h": 2.55,
@@ -62,7 +62,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-15T07:00:32.768284+00:00",
+          "observed_at": "2026-08-15T07:10:32.329367+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -75,26 +75,26 @@
       },
       "home_bookmaker_odds": 2.55,
       "away_bookmaker_odds": 1.53,
-      "home_h2h_ev": 0.22858477164105673,
-      "away_h2h_ev": -0.20715086298463403,
+      "home_h2h_ev": 0.22858194642507979,
+      "away_h2h_ev": -0.2071491678550479,
       "winner": "North Queensland Cowboys",
-      "home_points": 23.798279444434307,
-      "away_points": 24.454741466238076,
+      "home_points": 23.798313267566503,
+      "away_points": 24.45477528937027,
       "likely_home_points": 24,
       "likely_away_points": 25,
       "projected_margin": 0.6564620218037689,
-      "projected_total": 48.25302091067238,
+      "projected_total": 48.253088556936774,
       "close_game_probability": 0.5635884494549057,
       "fav_1_12_probability": 0.62,
       "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.7013557318735334,
+      "high_scoring_probability": 0.701358099492787,
       "margin_probabilities": {
-        "Parramatta Eels 1-12": 0.28778957078687384,
-        "Parramatta Eels 13+": 0.18016802492546824,
-        "North Queensland Cowboys 1-12": 0.2992112939884144,
-        "North Queensland Cowboys 13+": 0.20512842731972036
+        "Parramatta Eels 1-12": 0.28780225145431937,
+        "Parramatta Eels 13+": 0.1801533967390878,
+        "North Queensland Cowboys 1-12": 0.29922581401772785,
+        "North Queensland Cowboys 13+": 0.20511417161494774
       },
-      "margin_remainder_probability": 0.027702682979523163,
+      "margin_remainder_probability": 0.02770436617391725,
       "market_line": null,
       "home_line_odds": null,
       "away_line": null,
@@ -117,14 +117,14 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T07:00:32.768284+00:00",
+      "bookmaker_observed_at": "2026-08-15T07:10:32.329367+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": -0.8999999999999999,
         "availability_margin": 0.3344108847466586,
         "availability_total": -1.4092485905561967,
-        "weather_total": 0.2868955223067912,
+        "weather_total": 0.2869631685711826,
         "referee_margin": -0.0644423477355543,
         "referee_total": 1.1592395421183443,
         "late_season_margin": -1.8977777705309358,
@@ -138,7 +138,7 @@
         "Parramatta Eels are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 2 Parramatta Eels absence(s), 1 North Queensland Cowboys absence(s); replacement-adjusted score effects -0.54/-0.87; net pre-team margin swing +0.33 pts.",
-        "Weather Fine / Dry: scoring +0.8% vs NRL across 1280 games; CommBank Stadium in fine / dry conditions +0.7% vs its own baseline across 91 games. Sample-shrunk forecast effect +0.3 points.",
+        "Weather Fine / Dry: scoring +0.8% vs NRL across 1281 games; CommBank Stadium in fine / dry conditions +0.7% vs its own baseline across 91 games. Sample-shrunk forecast effect +0.3 points.",
         "Referee Todd Smith environment: stoppages +9.2% vs NRL, historical scoring +7.8% vs NRL and home-win environment -4.7% vs NRL; conservative adjustments +1.2 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied -1.90 home-margin points: Parramatta Eels elite effect -1.90 (n=40) active; North Queensland Cowboys elite effect +0.32 (n=39) inactive.",
         "Stacked-advantage control: learned context +1.25, live availability +0.33, final downstream adjustment +0.66; same-direction evidence cap 5.00, opposing cap 5.00.",
@@ -414,8 +414,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.1966,
-        "fair_odds": 5.0864699898270604,
+        "probability": 0.19904,
+        "fair_odds": 5.02411575562701,
         "singles_product_odds": 2.8055999999999996,
         "target_met": false,
         "legs": [
@@ -476,7 +476,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T07:01:00.134770+00:00"
+          "observed_at": "2026-08-15T07:10:59.298152+00:00"
         },
         "Best Available": {
           "home_h2h": 2.9,
@@ -488,7 +488,7 @@
           "total": 46.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-15T07:01:00.134770+00:00",
+          "observed_at": "2026-08-15T07:10:59.298152+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -504,16 +504,16 @@
       "home_h2h_ev": -0.3386513101074696,
       "away_h2h_ev": 0.09616719322503675,
       "winner": "Warriors",
-      "home_points": 17.53335927552002,
-      "away_points": 27.885870187670644,
+      "home_points": 17.533393098652216,
+      "away_points": 27.88590401080284,
       "likely_home_points": 18,
       "likely_away_points": 28,
       "projected_margin": 10.352510912150624,
-      "projected_total": 45.41922946319066,
+      "projected_total": 45.41929710945506,
       "close_game_probability": 0.3211872271962343,
       "fav_1_12_probability": 0.5111872271962343,
       "fav_13_plus_probability": 0.48881277280376567,
-      "high_scoring_probability": 0.6021730312116731,
+      "high_scoring_probability": 0.6021753988309271,
       "margin_probabilities": {
         "Brisbane Broncos 1-12": 0.1673517720641715,
         "Brisbane Broncos 13+": 0.049968612905811005,
@@ -543,14 +543,14 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T07:01:00.134770+00:00",
+      "bookmaker_observed_at": "2026-08-15T07:10:59.298152+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": -2.34,
         "availability_margin": -1.6561873810181313,
         "availability_total": -2.191850085085675,
-        "weather_total": 0.5461631733499795,
+        "weather_total": 0.5462308196143709,
         "referee_margin": 0.060298672566371725,
         "referee_total": 2.1636050366246486,
         "late_season_margin": 0.19959969246305942,
@@ -565,7 +565,7 @@
         "Brisbane Broncos are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 4 Brisbane Broncos absence(s), 2 Warriors absence(s); replacement-adjusted score effects -1.92/-0.27; net pre-team margin swing -1.66 pts.",
-        "Weather Fine / Dry: scoring +0.8% vs NRL across 1280 games; Suncorp Stadium in fine / dry conditions +2.7% vs its own baseline across 145 games. Sample-shrunk forecast effect +0.5 points.",
+        "Weather Fine / Dry: scoring +0.8% vs NRL across 1281 games; Suncorp Stadium in fine / dry conditions +2.7% vs its own baseline across 145 games. Sample-shrunk forecast effect +0.5 points.",
         "Referee Wyatt Raymond environment: stoppages -3.5% vs NRL, historical scoring +14.5% vs NRL and home-win environment +8.0% vs NRL; conservative adjustments +2.2 total points and +0.1 home-margin points.",
         "Late-season elite interaction input: Applied +0.20 home-margin points: Brisbane Broncos elite effect +0.20 (n=42) active; Warriors elite effect -2.00 (n=37) inactive.",
         "Stacked-advantage control: learned context -3.00, live availability -1.66, final downstream adjustment -3.50; same-direction evidence cap 3.50, opposing cap 5.00.",
@@ -911,7 +911,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T07:01:23.271080+00:00"
+          "observed_at": "2026-08-15T07:11:26.446490+00:00"
         },
         "Best Available": {
           "home_h2h": 1.22,
@@ -923,7 +923,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-15T07:01:23.271080+00:00",
+          "observed_at": "2026-08-15T07:11:26.446490+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -978,7 +978,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T07:01:23.271080+00:00",
+      "bookmaker_observed_at": "2026-08-15T07:11:26.446490+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1338,7 +1338,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T07:01:49.238637+00:00"
+          "observed_at": "2026-08-15T07:11:52.560362+00:00"
         },
         "Best Available": {
           "home_h2h": 1.95,
@@ -1350,7 +1350,7 @@
           "total": 47.5,
           "over_odds": 1.83,
           "under_odds": 1.98,
-          "observed_at": "2026-08-15T07:01:49.238637+00:00",
+          "observed_at": "2026-08-15T07:11:52.560362+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -1405,7 +1405,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T07:01:49.238637+00:00",
+      "bookmaker_observed_at": "2026-08-15T07:11:52.560362+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
