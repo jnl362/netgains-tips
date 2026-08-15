@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "TAB NZ",
   "round": 24,
-  "generated_at": "Sat 15 Aug 2026, 7:54 PM NZT",
-  "generated_at_iso": "2026-08-15T19:54:08.094093+12:00",
+  "generated_at": "Sat 15 Aug 2026, 8:25 PM NZT",
+  "generated_at_iso": "2026-08-15T20:25:18.650119+12:00",
   "engine_version": "1.65.41",
   "fixtures": [
     {
@@ -475,7 +475,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T07:52:57.409212+00:00"
+          "observed_at": "2026-08-15T08:24:09.740587+00:00"
         },
         "Best Available": {
           "home_h2h": 2.9,
@@ -487,7 +487,7 @@
           "total": 46.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-15T07:52:57.409212+00:00",
+          "observed_at": "2026-08-15T08:24:09.740587+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -542,7 +542,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T07:52:57.409212+00:00",
+      "bookmaker_observed_at": "2026-08-15T08:24:09.740587+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -556,7 +556,7 @@
         "controlled_context_margin": -3.5
       },
       "drivers": [
-        "Point-in-time scoring base: Brisbane Broncos 21.5 PF / 25.2 PA from 66 prior games; Warriors 25.2 PF / 18.3 PA from 67 prior games.",
+        "Point-in-time scoring base: Brisbane Broncos 21.6 PF / 25.2 PA from 66 prior games; Warriors 25.2 PF / 18.3 PA from 67 prior games.",
         "Ladder rank supplies a nominal -2.3-point input to the residual stack controller; it is not added independently.",
         "Warriors hold a 11.0-point attacking-rating advantage.",
         "Warriors hold a 20.7-point defensive-rating advantage.",
@@ -910,7 +910,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T07:53:25.932445+00:00"
+          "observed_at": "2026-08-15T08:24:38.729581+00:00"
         },
         "Best Available": {
           "home_h2h": 1.22,
@@ -922,7 +922,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-15T07:53:25.932445+00:00",
+          "observed_at": "2026-08-15T08:24:38.729581+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -977,7 +977,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T07:53:25.932445+00:00",
+      "bookmaker_observed_at": "2026-08-15T08:24:38.729581+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1337,7 +1337,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T07:53:53.999003+00:00"
+          "observed_at": "2026-08-15T08:25:06.112654+00:00"
         },
         "Best Available": {
           "home_h2h": 1.95,
@@ -1349,7 +1349,7 @@
           "total": 47.5,
           "over_odds": 1.83,
           "under_odds": 1.98,
-          "observed_at": "2026-08-15T07:53:53.999003+00:00",
+          "observed_at": "2026-08-15T08:25:06.112654+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -1404,7 +1404,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T07:53:53.999003+00:00",
+      "bookmaker_observed_at": "2026-08-15T08:25:06.112654+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -1418,7 +1418,7 @@
         "controlled_context_margin": 1.7475924696353082
       },
       "drivers": [
-        "Point-in-time scoring base: Wests Tigers 18.6 PF / 28.7 PA from 67 prior games; St. George Illawarra Dragons 18.7 PF / 27.7 PA from 66 prior games.",
+        "Point-in-time scoring base: Wests Tigers 18.6 PF / 28.7 PA from 67 prior games; St. George Illawarra Dragons 18.8 PF / 27.7 PA from 66 prior games.",
         "Ladder rank supplies a nominal +0.5-point input to the residual stack controller; it is not added independently.",
         "No nominal home advantage was applied because the venue is neutral for these teams.",
         "CommBank Stadium is not a recognised home ground for either side; treated as neutral.",
@@ -1452,18 +1452,18 @@
         {
           "player": "Sunia Turuva",
           "team": "Wests Tigers",
-          "probability": 0.3757553971430865,
-          "fair_odds": 2.6613057526335493,
+          "probability": 0.37568579386043155,
+          "fair_odds": 2.661798812577681,
           "bookmaker_odds": 2.05,
-          "ev": -0.2297014358566728
+          "ev": -0.22984412258611542
         },
         {
           "player": "Jahream Bula",
           "team": "Wests Tigers",
-          "probability": 0.36333667504606076,
-          "fair_odds": 2.752268264339757,
+          "probability": 0.3631416140947283,
+          "fair_odds": 2.7537466409430627,
           "bookmaker_odds": 2.45,
-          "ev": -0.10982514613715111
+          "ev": -0.1103030454679157
         },
         {
           "player": "Valentine Holmes",
@@ -1476,10 +1476,10 @@
         {
           "player": "Junior Tupou",
           "team": "Wests Tigers",
-          "probability": 0.3374408311734985,
-          "fair_odds": 2.963482506021449,
+          "probability": 0.33738984960732044,
+          "fair_odds": 2.9639303054430206,
           "bookmaker_odds": 2.15,
-          "ev": -0.2745022129769783
+          "ev": -0.27461182334426104
         },
         {
           "player": "Solomone Saukuru",
@@ -1532,10 +1532,10 @@
         {
           "player": "Jarome Luai",
           "team": "Wests Tigers",
-          "probability": 0.18874833870128252,
-          "fair_odds": 5.298059876344783,
+          "probability": 0.18861516966229078,
+          "fair_odds": 5.301800495635992,
           "bookmaker_odds": 4.1,
-          "ev": -0.2261318113247417
+          "ev": -0.22667780438460783
         },
         {
           "player": "Hamish Stewart",
@@ -1556,10 +1556,10 @@
         {
           "player": "Apisai Koroisau",
           "team": "Wests Tigers",
-          "probability": 0.14404355116840215,
-          "fair_odds": 6.942344810916903,
+          "probability": 0.1436268466346863,
+          "fair_odds": 6.96248663415616,
           "bookmaker_odds": 5.0,
-          "ev": -0.27978224415798925
+          "ev": -0.2818657668265685
         },
         {
           "player": "Tony Sukkar",
@@ -1580,10 +1580,10 @@
         {
           "player": "Lyhkan King-Togia",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.1167205677229744,
-          "fair_odds": 8.5674703225691,
+          "probability": 0.11663437905988973,
+          "fair_odds": 8.573801378807165,
           "bookmaker_odds": 4.8,
-          "ev": -0.4397412749297229
+          "ev": -0.4401549805125293
         },
         {
           "player": "Sione Fainu",
@@ -1604,10 +1604,10 @@
         {
           "player": "Damien Cook",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.09288963543087314,
-          "fair_odds": 10.76546371789975,
+          "probability": 0.09262667434823826,
+          "fair_odds": 10.79602616672181,
           "bookmaker_odds": 5.8,
-          "ev": -0.4612401145009358
+          "ev": -0.46276528878021805
         },
         {
           "player": "Fonua Pole",
@@ -1700,8 +1700,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.15856,
-        "fair_odds": 6.306760847628658,
+        "probability": 0.1608,
+        "fair_odds": 6.218905472636816,
         "singles_product_odds": 3.5874999999999995,
         "target_met": false,
         "legs": [
@@ -1715,8 +1715,8 @@
           {
             "player": "Sunia Turuva",
             "team": "Wests Tigers",
-            "probability": 0.3757553971430865,
-            "fair_odds": 2.6613057526335493,
+            "probability": 0.37568579386043155,
+            "fair_odds": 2.661798812577681,
             "market_odds": 2.05
           }
         ],
