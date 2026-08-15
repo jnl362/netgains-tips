@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "TAB NZ",
   "round": 24,
-  "generated_at": "Sat 15 Aug 2026, 8:25 PM NZT",
-  "generated_at_iso": "2026-08-15T20:25:18.650119+12:00",
+  "generated_at": "Sat 15 Aug 2026, 8:37 PM NZT",
+  "generated_at_iso": "2026-08-15T20:37:19.174097+12:00",
   "engine_version": "1.65.41",
   "fixtures": [
     {
@@ -157,10 +157,10 @@
         {
           "player": "Josh Addo-Carr",
           "team": "Parramatta Eels",
-          "probability": 0.39765538981344517,
-          "fair_odds": 2.514740213804563,
+          "probability": 0.39756454309167977,
+          "fair_odds": 2.515314852334295,
           "bookmaker_odds": 1.96,
-          "ev": -0.22059543596564746
+          "ev": -0.22077349554030767
         },
         {
           "player": "Braidon Burns",
@@ -173,18 +173,18 @@
         {
           "player": "Brian Kelly",
           "team": "Parramatta Eels",
-          "probability": 0.33080150613762127,
-          "fair_odds": 3.022960843424867,
+          "probability": 0.33074881324454264,
+          "fair_odds": 3.0234424431952216,
           "bookmaker_odds": 2.25,
-          "ev": -0.25569661119035214
+          "ev": -0.25581517019977906
         },
         {
           "player": "Scott Drinkwater",
           "team": "North Queensland Cowboys",
-          "probability": 0.30932677698781275,
-          "fair_odds": 3.2328271407276175,
+          "probability": 0.30917394725313146,
+          "fair_odds": 3.2344251800144894,
           "bookmaker_odds": 2.3,
-          "ev": -0.2885484129280307
+          "ev": -0.28889992131779774
         },
         {
           "player": "Tom Chester",
@@ -195,20 +195,20 @@
           "ev": -0.22939640924022642
         },
         {
+          "player": "Apa Twidle",
+          "team": "Parramatta Eels",
+          "probability": 0.27768799529775473,
+          "fair_odds": 3.6011639571517535,
+          "bookmaker_odds": 2.5,
+          "ev": -0.3057800117556132
+        },
+        {
           "player": "Zac Laybutt",
           "team": "North Queensland Cowboys",
           "probability": 0.27625788321955086,
           "fair_odds": 3.6198062055129427,
           "bookmaker_odds": 3.6,
           "ev": -0.005471620409616906
-        },
-        {
-          "player": "Apa Twidle",
-          "team": "Parramatta Eels",
-          "probability": 0.2716629223177765,
-          "fair_odds": 3.6810323303165178,
-          "bookmaker_odds": 2.5,
-          "ev": -0.3208426942055588
         },
         {
           "player": "Will Penisini",
@@ -259,20 +259,20 @@
           "ev": 0.4566687540944787
         },
         {
-          "player": "Jake Clifford",
-          "team": "North Queensland Cowboys",
-          "probability": 0.15607424666900538,
-          "fair_odds": 6.407206962983143,
-          "bookmaker_odds": 3.25,
-          "ev": -0.4927586983257325
-        },
-        {
           "player": "Kitione Kautoga",
           "team": "Parramatta Eels",
           "probability": 0.15598157033465315,
           "fair_odds": 6.411013800249183,
           "bookmaker_odds": 5.5,
           "ev": -0.1421013631594077
+        },
+        {
+          "player": "Jake Clifford",
+          "team": "North Queensland Cowboys",
+          "probability": 0.15595393603908556,
+          "fair_odds": 6.412149801396341,
+          "bookmaker_odds": 3.25,
+          "ev": -0.49314970787297197
         },
         {
           "player": "Reed Mahoney",
@@ -285,10 +285,10 @@
         {
           "player": "Tallyn Da Silva",
           "team": "Parramatta Eels",
-          "probability": 0.13957809617687253,
-          "fair_odds": 7.164447914039506,
+          "probability": 0.14250515880484602,
+          "fair_odds": 7.017289818745804,
           "bookmaker_odds": 4.0,
-          "ev": -0.4416876152925099
+          "ev": -0.42997936478061594
         },
         {
           "player": "Ronald Volkman",
@@ -413,8 +413,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.17468,
-        "fair_odds": 5.724753835585069,
+        "probability": 0.17392,
+        "fair_odds": 5.749770009199632,
         "singles_product_odds": 3.2927999999999997,
         "target_met": false,
         "legs": [
@@ -428,8 +428,8 @@
           {
             "player": "Josh Addo-Carr",
             "team": "Parramatta Eels",
-            "probability": 0.39765538981344517,
-            "fair_odds": 2.514740213804563,
+            "probability": 0.39756454309167977,
+            "fair_odds": 2.515314852334295,
             "market_odds": 1.96
           }
         ],
@@ -475,7 +475,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T08:24:09.740587+00:00"
+          "observed_at": "2026-08-15T08:35:31.807947+00:00"
         },
         "Best Available": {
           "home_h2h": 2.9,
@@ -487,7 +487,7 @@
           "total": 46.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-15T08:24:09.740587+00:00",
+          "observed_at": "2026-08-15T08:35:31.807947+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -542,7 +542,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T08:24:09.740587+00:00",
+      "bookmaker_observed_at": "2026-08-15T08:35:31.807947+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -576,18 +576,18 @@
         {
           "player": "Alofiana Khan-Pereira",
           "team": "Warriors",
-          "probability": 0.46057593203613945,
-          "fair_odds": 2.171194650964815,
+          "probability": 0.46044753323509113,
+          "fair_odds": 2.171800102769644,
           "bookmaker_odds": 1.67,
-          "ev": -0.23083819349964718
+          "ev": -0.23105261949739786
         },
         {
           "player": "Dallin Watene-Zelezniak",
           "team": "Warriors",
-          "probability": 0.3689645354273289,
-          "fair_odds": 2.710287585883602,
+          "probability": 0.36889214456466685,
+          "fair_odds": 2.710819448812361,
           "bookmaker_odds": 1.68,
-          "ev": -0.3801395804820875
+          "ev": -0.38026119713135975
         },
         {
           "player": "Leka Halasima",
@@ -600,10 +600,10 @@
         {
           "player": "Charnze Nicoll-Klokstad",
           "team": "Warriors",
-          "probability": 0.35063772083323147,
-          "fair_odds": 2.851946440969524,
+          "probability": 0.3504466977950819,
+          "fair_odds": 2.8535009925667323,
           "bookmaker_odds": 2.9,
-          "ev": 0.016849390416371124
+          "ev": 0.016295423605737547
         },
         {
           "player": "Ali Leiataua",
@@ -616,26 +616,26 @@
         {
           "player": "Grant Anderson",
           "team": "Brisbane Broncos",
-          "probability": 0.32763294979214064,
-          "fair_odds": 3.052196064633998,
+          "probability": 0.32758108383472545,
+          "fair_odds": 3.0526793192507116,
           "bookmaker_odds": 2.35,
-          "ev": -0.23006256798846947
+          "ev": -0.23018445298839518
         },
         {
           "player": "Josiah Karapani",
           "team": "Brisbane Broncos",
-          "probability": 0.3273403114621633,
-          "fair_odds": 3.054924691472313,
+          "probability": 0.32728721931742266,
+          "fair_odds": 3.0554202577343554,
           "bookmaker_odds": 2.35,
-          "ev": -0.2307502680639162
+          "ev": -0.23087503460405667
         },
         {
           "player": "Reece Walsh",
           "team": "Brisbane Broncos",
-          "probability": 0.32247454305635664,
-          "fair_odds": 3.1010199767156097,
+          "probability": 0.3223024833010863,
+          "fair_odds": 3.1026754425153684,
           "bookmaker_odds": 2.55,
-          "ev": -0.17768991520629063
+          "ev": -0.17812866758223
         },
         {
           "player": "Deine Mariner",
@@ -664,10 +664,10 @@
         {
           "player": "Ezra Mam",
           "team": "Brisbane Broncos",
-          "probability": 0.23035657873117465,
-          "fair_odds": 4.341095902309769,
+          "probability": 0.230172743135213,
+          "fair_odds": 4.344563071973116,
           "bookmaker_odds": 3.1,
-          "ev": -0.2858946059333586
+          "ev": -0.2864644962808397
         },
         {
           "player": "Jacob Laban",
@@ -848,23 +848,23 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.1684,
-        "fair_odds": 5.938242280285036,
+        "probability": 0.1692,
+        "fair_odds": 5.91016548463357,
         "singles_product_odds": 2.8055999999999996,
         "target_met": false,
         "legs": [
           {
             "player": "Alofiana Khan-Pereira",
             "team": "Warriors",
-            "probability": 0.46057593203613945,
-            "fair_odds": 2.171194650964815,
+            "probability": 0.46044753323509113,
+            "fair_odds": 2.171800102769644,
             "market_odds": 1.67
           },
           {
             "player": "Dallin Watene-Zelezniak",
             "team": "Warriors",
-            "probability": 0.3689645354273289,
-            "fair_odds": 2.710287585883602,
+            "probability": 0.36889214456466685,
+            "fair_odds": 2.710819448812361,
             "market_odds": 1.68
           }
         ],
@@ -910,7 +910,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T08:24:38.729581+00:00"
+          "observed_at": "2026-08-15T08:36:00.043761+00:00"
         },
         "Best Available": {
           "home_h2h": 1.22,
@@ -922,7 +922,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-15T08:24:38.729581+00:00",
+          "observed_at": "2026-08-15T08:36:00.043761+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -977,7 +977,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T08:24:38.729581+00:00",
+      "bookmaker_observed_at": "2026-08-15T08:36:00.043761+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1019,10 +1019,10 @@
         {
           "player": "Greg Marzhew",
           "team": "Newcastle Knights",
-          "probability": 0.5302751016247501,
-          "fair_odds": 1.8858136030449557,
+          "probability": 0.5301478137175767,
+          "fair_odds": 1.8862663848175851,
           "bookmaker_odds": 1.55,
-          "ev": -0.17807359248163734
+          "ev": -0.1782708887377561
         },
         {
           "player": "Kalyn Ponga",
@@ -1051,18 +1051,18 @@
         {
           "player": "Phillip Sami",
           "team": "Gold Coast Titans",
-          "probability": 0.37570236947573693,
-          "fair_odds": 2.661681376658394,
+          "probability": 0.3756370963831693,
+          "fair_odds": 2.6621438873543743,
           "bookmaker_odds": 2.05,
-          "ev": -0.2298101425747393
+          "ev": -0.22994395241450305
         },
         {
           "player": "Dean Ieremia",
           "team": "Gold Coast Titans",
-          "probability": 0.3491328199600625,
-          "fair_odds": 2.8642394608286628,
+          "probability": 0.34907968337474876,
+          "fair_odds": 2.8646754527001974,
           "bookmaker_odds": 2.65,
-          "ev": -0.07479802710583439
+          "ev": -0.07493883905691578
         },
         {
           "player": "Jojo Fifita",
@@ -1083,10 +1083,10 @@
         {
           "player": "Keano Kini",
           "team": "Gold Coast Titans",
-          "probability": 0.25144748793359883,
-          "fair_odds": 3.976973515297459,
+          "probability": 0.25133514818389696,
+          "fair_odds": 3.9787511107213693,
           "bookmaker_odds": 3.8,
-          "ev": -0.04449954585232452
+          "ev": -0.04492643690119158
         },
         {
           "player": "Jermaine McEwen",
@@ -1187,10 +1187,10 @@
         {
           "player": "Phoenix Crossland",
           "team": "Newcastle Knights",
-          "probability": 0.11341874394672276,
-          "fair_odds": 8.816884804065008,
+          "probability": 0.11310480090121729,
+          "fair_odds": 8.841357679179094,
           "bookmaker_odds": 5.2,
-          "ev": -0.4102225314770417
+          "ev": -0.41185503531367007
         },
         {
           "player": "Lachlan Ilias",
@@ -1275,8 +1275,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.3716,
-        "fair_odds": 2.691065662002153,
+        "probability": 0.3708,
+        "fair_odds": 2.696871628910464,
         "singles_product_odds": 2.325,
         "target_met": false,
         "legs": [
@@ -1290,8 +1290,8 @@
           {
             "player": "Greg Marzhew",
             "team": "Newcastle Knights",
-            "probability": 0.5302751016247501,
-            "fair_odds": 1.8858136030449557,
+            "probability": 0.5301478137175767,
+            "fair_odds": 1.8862663848175851,
             "market_odds": 1.55
           }
         ],
@@ -1337,7 +1337,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T08:25:06.112654+00:00"
+          "observed_at": "2026-08-15T08:36:27.106771+00:00"
         },
         "Best Available": {
           "home_h2h": 1.95,
@@ -1349,7 +1349,7 @@
           "total": 47.5,
           "over_odds": 1.83,
           "under_odds": 1.98,
-          "observed_at": "2026-08-15T08:25:06.112654+00:00",
+          "observed_at": "2026-08-15T08:36:27.106771+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -1404,7 +1404,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T08:25:06.112654+00:00",
+      "bookmaker_observed_at": "2026-08-15T08:36:27.106771+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
