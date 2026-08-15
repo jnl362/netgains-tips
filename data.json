@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "TAB NZ",
   "round": 24,
-  "generated_at": "Sat 15 Aug 2026, 10:30 PM NZT",
-  "generated_at_iso": "2026-08-15T22:30:27.345315+12:00",
+  "generated_at": "Sat 15 Aug 2026, 11:02 PM NZT",
+  "generated_at_iso": "2026-08-15T23:02:05.267967+12:00",
   "engine_version": "1.65.41",
   "fixtures": [
     {
@@ -150,18 +150,18 @@
         {
           "player": "Josiah Karapani",
           "team": "Brisbane Broncos",
-          "probability": 0.363945455429091,
-          "fair_odds": 2.7476644785164357,
+          "probability": 0.3638796178601221,
+          "fair_odds": 2.7481616197156917,
           "bookmaker_odds": 2.35,
-          "ev": -0.1447281797416361
+          "ev": -0.14488289802871313
         },
         {
           "player": "Grant Anderson",
           "team": "Brisbane Broncos",
-          "probability": 0.3625639051334174,
-          "fair_odds": 2.7581344580675147,
+          "probability": 0.36250016474431757,
+          "fair_odds": 2.7586194359534444,
           "bookmaker_odds": 2.35,
-          "ev": -0.14797482293646902
+          "ev": -0.14812461285085365
         },
         {
           "player": "Reece Walsh",
@@ -182,10 +182,10 @@
         {
           "player": "Alofiana Khan-Pereira",
           "team": "Warriors",
-          "probability": 0.3573843493165719,
-          "fair_odds": 2.798107980700066,
+          "probability": 0.3589254057911132,
+          "fair_odds": 2.7860942242187736,
           "bookmaker_odds": 1.67,
-          "ev": -0.4031681366413249
+          "ev": -0.400594572328841
         },
         {
           "player": "Deine Mariner",
@@ -198,10 +198,10 @@
         {
           "player": "Dallin Watene-Zelezniak",
           "team": "Warriors",
-          "probability": 0.32813017824741997,
-          "fair_odds": 3.0475709529099455,
+          "probability": 0.32913109425701825,
+          "fair_odds": 3.0383030271187343,
           "bookmaker_odds": 1.68,
-          "ev": -0.4487413005443345
+          "ev": -0.4470597616482094
         },
         {
           "player": "Charnze Nicoll-Klokstad",
@@ -222,10 +222,10 @@
         {
           "player": "Ezra Mam",
           "team": "Brisbane Broncos",
-          "probability": 0.2845687042813972,
-          "fair_odds": 3.5140898663654347,
+          "probability": 0.28433410563373335,
+          "fair_odds": 3.5169892748925307,
           "bookmaker_odds": 3.1,
-          "ev": -0.11783701672766866
+          "ev": -0.11856427253542656
         },
         {
           "player": "Ali Leiataua",
@@ -422,24 +422,24 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.1352,
-        "fair_odds": 7.396449704142013,
-        "singles_product_odds": 5.9925,
+        "probability": 0.13492,
+        "fair_odds": 7.411799584939223,
+        "singles_product_odds": 5.522500000000001,
         "target_met": false,
         "legs": [
           {
             "player": "Josiah Karapani",
             "team": "Brisbane Broncos",
-            "probability": 0.363945455429091,
-            "fair_odds": 2.7476644785164357,
+            "probability": 0.3638796178601221,
+            "fair_odds": 2.7481616197156917,
             "market_odds": 2.35
           },
           {
-            "player": "Reece Walsh",
+            "player": "Grant Anderson",
             "team": "Brisbane Broncos",
-            "probability": 0.36237450775197444,
-            "fair_odds": 2.7595760148902233,
-            "market_odds": 2.55
+            "probability": 0.36250016474431757,
+            "fair_odds": 2.7586194359534444,
+            "market_odds": 2.35
           }
         ],
         "method": "Highest simulated joint hit probability"
@@ -484,7 +484,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T10:29:20.632608+00:00"
+          "observed_at": "2026-08-15T11:01:01.081703+00:00"
         },
         "Best Available": {
           "home_h2h": 1.22,
@@ -496,7 +496,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-15T10:29:20.632608+00:00",
+          "observed_at": "2026-08-15T11:01:01.081703+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -551,7 +551,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T10:29:20.632608+00:00",
+      "bookmaker_observed_at": "2026-08-15T11:01:01.081703+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -565,7 +565,7 @@
         "controlled_context_margin": 3.8823176637140637
       },
       "drivers": [
-        "Point-in-time scoring base: Newcastle Knights 22.7 PF / 23.1 PA from 67 prior games; Gold Coast Titans 20.8 PF / 26.6 PA from 66 prior games.",
+        "Point-in-time scoring base: Newcastle Knights 22.7 PF / 23.1 PA from 67 prior games; Gold Coast Titans 20.9 PF / 26.6 PA from 66 prior games.",
         "Ladder rank supplies a nominal +1.4-point input to the residual stack controller; it is not added independently.",
         "Newcastle Knights hold a 5.6-point attacking-rating advantage.",
         "Newcastle Knights hold a 10.4-point defensive-rating advantage.",
@@ -911,7 +911,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-15T10:29:47.823809+00:00"
+          "observed_at": "2026-08-15T11:01:28.451374+00:00"
         },
         "Best Available": {
           "home_h2h": 1.95,
@@ -923,7 +923,7 @@
           "total": 47.5,
           "over_odds": 1.83,
           "under_odds": 1.98,
-          "observed_at": "2026-08-15T10:29:47.823809+00:00",
+          "observed_at": "2026-08-15T11:01:28.451374+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -978,7 +978,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 52,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-15T10:29:47.823809+00:00",
+      "bookmaker_observed_at": "2026-08-15T11:01:28.451374+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
