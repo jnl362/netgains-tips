@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "TAB NZ",
   "round": 25,
-  "generated_at": "Tue 18 Aug 2026, 6:29 PM NZT",
-  "generated_at_iso": "2026-08-18T18:29:10.933857+12:00",
+  "generated_at": "Tue 18 Aug 2026, 7:00 PM NZT",
+  "generated_at_iso": "2026-08-18T19:00:15.569006+12:00",
   "engine_version": "1.65.41",
   "fixtures": [
     {
@@ -24,13 +24,13 @@
       "independent_away_win_probability": 0.7200460893993272,
       "home_fair_odds": 3.5720165432030826,
       "away_fair_odds": 1.3887999875594275,
-      "home_conservative_fair_odds": 3.477216745467105,
-      "away_conservative_fair_odds": 1.4036788471698467,
+      "home_conservative_fair_odds": 3.4289477098577903,
+      "away_conservative_fair_odds": 1.4117009172085255,
       "bookmaker_provider": "TAB NZ",
       "bookmaker_prices": {
         "TAB NZ": {
-          "home_h2h": 3.1,
-          "away_h2h": 1.36,
+          "home_h2h": 3.0,
+          "away_h2h": 1.4,
           "home_line": null,
           "home_line_odds": null,
           "away_line": null,
@@ -38,11 +38,11 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:25:41.858675+00:00"
+          "observed_at": "2026-08-18T06:58:14.111245+00:00"
         },
         "Best Available": {
-          "home_h2h": 3.1,
-          "away_h2h": 1.36,
+          "home_h2h": 3.0,
+          "away_h2h": 1.4,
           "home_line": null,
           "home_line_odds": null,
           "away_line": null,
@@ -50,17 +50,17 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:25:41.858675+00:00",
+          "observed_at": "2026-08-18T06:58:14.111245+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ"
           }
         }
       },
-      "home_bookmaker_odds": 3.1,
-      "away_bookmaker_odds": 1.36,
-      "home_h2h_ev": -0.1321428771379144,
-      "away_h2h_ev": -0.02073731841691484,
+      "home_bookmaker_odds": 3.0,
+      "away_bookmaker_odds": 1.4,
+      "home_h2h_ev": -0.16013826819798171,
+      "away_h2h_ev": 0.008064525159058089,
       "winner": "Penrith Panthers",
       "home_points": 17.794677042990678,
       "away_points": 25.227652019869623,
@@ -101,7 +101,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-18T06:25:41.858675+00:00",
+      "bookmaker_observed_at": "2026-08-18T06:58:14.111245+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -128,7 +128,7 @@
         "Stacked-advantage control: learned context -1.31, live availability -0.72, final downstream adjustment -2.03; same-direction evidence cap 3.80, opposing cap 5.00.",
         "Extreme-stack guardrail: Reduced same-direction cap is 3.80, but the contextual adjustment remained inside it.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 68/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 69.4% of the -2.5pp raw market disagreement, leaving -1.7pp of betting edge."
+        "Market-relative H2H calibration retains 69.4% of the -3.8pp raw market disagreement, leaving -2.7pp of betting edge."
       ],
       "ats_players": [
         {
@@ -422,13 +422,13 @@
       "independent_away_win_probability": 0.2888357830506054,
       "home_fair_odds": 1.4061449889725801,
       "away_fair_odds": 3.462174905886904,
-      "home_conservative_fair_odds": 1.4159378170056776,
-      "away_conservative_fair_odds": 3.4042055305260925,
+      "home_conservative_fair_odds": 1.407043823530932,
+      "away_conservative_fair_odds": 3.4567379289173963,
       "bookmaker_provider": "TAB NZ",
       "bookmaker_prices": {
         "TAB NZ": {
-          "home_h2h": 1.36,
-          "away_h2h": 3.1,
+          "home_h2h": 1.35,
+          "away_h2h": 3.3,
           "home_line": null,
           "home_line_odds": null,
           "away_line": null,
@@ -436,11 +436,11 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:26:04.436784+00:00"
+          "observed_at": "2026-08-18T06:58:37.267145+00:00"
         },
         "Best Available": {
-          "home_h2h": 1.36,
-          "away_h2h": 3.1,
+          "home_h2h": 1.35,
+          "away_h2h": 3.3,
           "home_line": null,
           "home_line_odds": null,
           "away_line": null,
@@ -448,17 +448,17 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:26:04.436784+00:00",
+          "observed_at": "2026-08-18T06:58:37.267145+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ"
           }
         }
       },
-      "home_bookmaker_odds": 1.36,
-      "away_bookmaker_odds": 3.1,
-      "home_h2h_ev": -0.03281666494882329,
-      "away_h2h_ev": -0.10460907254312313,
+      "home_bookmaker_odds": 1.35,
+      "away_bookmaker_odds": 3.3,
+      "home_h2h_ev": -0.0399283071183173,
+      "away_h2h_ev": -0.04684191593300213,
       "winner": "Canberra Raiders",
       "home_points": 26.609605665111047,
       "away_points": 18.787826022978788,
@@ -499,7 +499,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-18T06:26:04.436784+00:00",
+      "bookmaker_observed_at": "2026-08-18T06:58:37.267145+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -526,7 +526,7 @@
         "Stacked-advantage control: learned context +4.26, live availability +0.83, final downstream adjustment +5.00; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Same-direction context exceeded the 5.00-point evidence cap for |raw margin|=2.82.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 69/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 69.4% of the +1.6pp raw market disagreement, leaving +1.1pp of betting edge."
+        "Market-relative H2H calibration retains 69.4% of the +0.1pp raw market disagreement, leaving +0.1pp of betting edge."
       ],
       "ats_players": [
         {
@@ -834,7 +834,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:26:27.720639+00:00"
+          "observed_at": "2026-08-18T06:59:00.438493+00:00"
         },
         "Best Available": {
           "home_h2h": 1.25,
@@ -846,7 +846,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:26:27.720639+00:00",
+          "observed_at": "2026-08-18T06:59:00.438493+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ"
@@ -897,7 +897,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 72,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-18T06:26:27.720639+00:00",
+      "bookmaker_observed_at": "2026-08-18T06:59:00.438493+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1218,13 +1218,13 @@
       "independent_away_win_probability": 0.34487006934174935,
       "home_fair_odds": 1.5264147662971779,
       "away_fair_odds": 2.8996427608481414,
-      "home_conservative_fair_odds": 1.5149916296098465,
-      "away_conservative_fair_odds": 2.9417791329105527,
+      "home_conservative_fair_odds": 1.5277852299651158,
+      "away_conservative_fair_odds": 2.894710088924041,
       "bookmaker_provider": "TAB NZ",
       "bookmaker_prices": {
         "TAB NZ": {
-          "home_h2h": 1.42,
-          "away_h2h": 2.9,
+          "home_h2h": 1.46,
+          "away_h2h": 2.75,
           "home_line": null,
           "home_line_odds": null,
           "away_line": null,
@@ -1232,11 +1232,11 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:26:50.749918+00:00"
+          "observed_at": "2026-08-18T06:59:23.673369+00:00"
         },
         "Best Available": {
-          "home_h2h": 1.42,
-          "away_h2h": 2.9,
+          "home_h2h": 1.46,
+          "away_h2h": 2.75,
           "home_line": null,
           "home_line_odds": null,
           "away_line": null,
@@ -1244,17 +1244,17 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:26:50.749918+00:00",
+          "observed_at": "2026-08-18T06:59:23.673369+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ"
           }
         }
       },
-      "home_bookmaker_odds": 1.42,
-      "away_bookmaker_odds": 2.9,
-      "home_h2h_ev": -0.06971549846528413,
-      "away_h2h_ev": 0.0001232010910729997,
+      "home_bookmaker_odds": 1.46,
+      "away_bookmaker_odds": 2.75,
+      "home_h2h_ev": -0.04351030123895405,
+      "away_h2h_ev": -0.05160730931018931,
       "winner": "Newcastle Knights",
       "home_points": 23.9814201406982,
       "away_points": 18.89152142266273,
@@ -1295,7 +1295,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 62,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-18T06:26:50.749918+00:00",
+      "bookmaker_observed_at": "2026-08-18T06:59:23.673369+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1320,7 +1320,7 @@
         "Stacked-advantage control: learned context +3.24, live availability +1.21, final downstream adjustment +4.45; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 62/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 69.4% of the -1.6pp raw market disagreement, leaving -1.1pp of betting edge."
+        "Market-relative H2H calibration retains 69.4% of the +0.2pp raw market disagreement, leaving +0.1pp of betting edge."
       ],
       "ats_players": [
         {
@@ -1614,13 +1614,13 @@
       "independent_away_win_probability": 0.6142173327837657,
       "home_fair_odds": 2.5921330453125098,
       "away_fair_odds": 1.628088213446833,
-      "home_conservative_fair_odds": 2.5531438880875763,
-      "away_conservative_fair_odds": 1.643855348927989,
+      "home_conservative_fair_odds": 2.598444370441089,
+      "away_conservative_fair_odds": 1.625608259187682,
       "bookmaker_provider": "TAB NZ",
       "bookmaker_prices": {
         "TAB NZ": {
-          "home_h2h": 2.35,
-          "away_h2h": 1.6,
+          "home_h2h": 2.5,
+          "away_h2h": 1.55,
           "home_line": null,
           "home_line_odds": null,
           "away_line": null,
@@ -1628,11 +1628,11 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:27:13.783232+00:00"
+          "observed_at": "2026-08-18T06:59:46.992021+00:00"
         },
         "Best Available": {
-          "home_h2h": 2.35,
-          "away_h2h": 1.6,
+          "home_h2h": 2.5,
+          "away_h2h": 1.55,
           "home_line": null,
           "home_line_odds": null,
           "away_line": null,
@@ -1640,17 +1640,17 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:27:13.783232+00:00",
+          "observed_at": "2026-08-18T06:59:46.992021+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ"
           }
         }
       },
-      "home_bookmaker_odds": 2.35,
-      "away_bookmaker_odds": 1.6,
-      "home_h2h_ev": -0.09341073204184924,
-      "away_h2h_ev": -0.017252267545974864,
+      "home_bookmaker_odds": 2.5,
+      "away_bookmaker_odds": 1.55,
+      "home_h2h_ev": -0.03554333195941417,
+      "away_h2h_ev": -0.04796313418516318,
       "winner": "Warriors",
       "home_points": 20.6568620171494,
       "away_points": 24.35854377629819,
@@ -1691,7 +1691,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 59,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-18T06:27:13.783232+00:00",
+      "bookmaker_observed_at": "2026-08-18T06:59:46.992021+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1718,7 +1718,7 @@
         "Stacked-advantage control: learned context +0.20, live availability -0.21, final downstream adjustment -0.01; same-direction evidence cap 4.66, opposing cap 5.00.",
         "Extreme-stack guardrail: Reduced same-direction cap is 4.66, but the contextual adjustment remained inside it.",
         "Low-confidence reversal guardrail: INACTIVE: opposing context remained inside the protected reversal allowance.",
-        "Market-relative H2H calibration retains 69.4% of the -1.9pp raw market disagreement, leaving -1.3pp of betting edge."
+        "Market-relative H2H calibration retains 69.4% of the +0.3pp raw market disagreement, leaving +0.2pp of betting edge."
       ],
       "ats_players": [
         {
@@ -2026,7 +2026,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:27:36.812274+00:00"
+          "observed_at": "2026-08-18T06:41:20.468954+00:00"
         },
         "Best Available": {
           "home_h2h": 2.6,
@@ -2038,7 +2038,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:27:36.812274+00:00",
+          "observed_at": "2026-08-18T06:41:20.468954+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ"
@@ -2089,7 +2089,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 58,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-18T06:27:36.812274+00:00",
+      "bookmaker_observed_at": "2026-08-18T06:41:20.468954+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -2424,7 +2424,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:27:59.896474+00:00"
+          "observed_at": "2026-08-18T06:41:43.687930+00:00"
         },
         "Best Available": {
           "home_h2h": 2.6,
@@ -2436,7 +2436,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:27:59.896474+00:00",
+          "observed_at": "2026-08-18T06:41:43.687930+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ"
@@ -2487,7 +2487,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-18T06:27:59.896474+00:00",
+      "bookmaker_observed_at": "2026-08-18T06:41:43.687930+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2822,7 +2822,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:28:22.736133+00:00"
+          "observed_at": "2026-08-18T06:42:07.073599+00:00"
         },
         "Best Available": {
           "home_h2h": 1.08,
@@ -2834,7 +2834,7 @@
           "total": null,
           "over_odds": null,
           "under_odds": null,
-          "observed_at": "2026-08-18T06:28:22.736133+00:00",
+          "observed_at": "2026-08-18T06:42:07.073599+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ"
@@ -2885,7 +2885,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 79,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-18T06:28:22.736133+00:00",
+      "bookmaker_observed_at": "2026-08-18T06:42:07.073599+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
