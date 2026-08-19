@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 25,
-  "generated_at": "Thu 20 Aug 2026, 11:20 AM NZT",
-  "generated_at_iso": "2026-08-20T11:20:21.242423+12:00",
+  "generated_at": "Thu 20 Aug 2026, 11:57 AM NZT",
+  "generated_at_iso": "2026-08-20T11:57:59.270176+12:00",
   "engine_version": "1.65.41",
   "fixtures": [
     {
@@ -35,10 +35,10 @@
           "home_line_odds": 1.98,
           "away_line": -7.5,
           "away_line_odds": 1.83,
-          "total": 42.5,
+          "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:13:04.078292+00:00"
+          "observed_at": "2026-08-19T23:50:50.923418+00:00"
         },
         "TAB NZ": {
           "home_h2h": 3.0,
@@ -59,10 +59,10 @@
           "home_line_odds": 1.98,
           "away_line": -7.5,
           "away_line_odds": 1.83,
-          "total": 42.5,
+          "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:13:04.078292+00:00",
+          "observed_at": "2026-08-19T23:50:50.923418+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -105,19 +105,19 @@
       "away_line_fair_odds": 2.0080663577191067,
       "home_line_ev": -0.006023192106566544,
       "away_line_ev": -0.08867553456817334,
-      "market_total": 42.5,
+      "market_total": 43.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.5282578400372095,
-      "under_probability": 0.47174215996279045,
-      "over_ev": 0.00368989607069814,
-      "under_ev": -0.10368989607069823,
+      "over_probability": 0.49759365749740114,
+      "under_probability": 0.5024063425025989,
+      "over_ev": -0.05457205075493787,
+      "under_ev": -0.045427949245062216,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T23:13:04.078292+00:00",
+      "bookmaker_observed_at": "2026-08-19T23:50:50.923418+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -153,32 +153,32 @@
           "team": "Penrith Panthers",
           "probability": 0.4702445170114373,
           "fair_odds": 2.126553237356892,
-          "bookmaker_odds": 1.7,
-          "ev": -0.20058432108055657
+          "bookmaker_odds": 1.68,
+          "ev": -0.2099892114207853
         },
         {
           "player": "Brian To'o",
           "team": "Penrith Panthers",
           "probability": 0.4017266622551702,
           "fair_odds": 2.4892547444730377,
-          "bookmaker_odds": 1.95,
-          "ev": -0.2166330086024182
+          "bookmaker_odds": 1.92,
+          "ev": -0.22868480847007333
         },
         {
           "player": "Casey McLean",
           "team": "Penrith Panthers",
           "probability": 0.3257013758084717,
           "fair_odds": 3.070297131898051,
-          "bookmaker_odds": 2.25,
-          "ev": -0.26717190443093863
+          "bookmaker_odds": 2.2,
+          "ev": -0.2834569732213622
         },
         {
           "player": "Dylan Edwards",
           "team": "Penrith Panthers",
           "probability": 0.2931372183871592,
           "fair_odds": 3.4113716623975603,
-          "bookmaker_odds": 2.8,
-          "ev": -0.1792157885159542
+          "bookmaker_odds": 2.75,
+          "ev": -0.19387264943531213
         },
         {
           "player": "Izack Tago",
@@ -193,40 +193,40 @@
           "team": "Melbourne Storm",
           "probability": 0.2742645968590862,
           "fair_odds": 3.6461140499070237,
-          "bookmaker_odds": 2.6,
-          "ev": -0.28691204816637583
+          "bookmaker_odds": 2.55,
+          "ev": -0.30062527800933014
         },
         {
           "player": "Sualauvi Faalogo",
           "team": "Melbourne Storm",
           "probability": 0.27272325496754196,
           "fair_odds": 3.66672068400993,
-          "bookmaker_odds": 2.45,
-          "ev": -0.33182802532952216
+          "bookmaker_odds": 2.4,
+          "ev": -0.34546418807789936
         },
         {
           "player": "Siulagi Tuimalatu-Brown",
           "team": "Melbourne Storm",
           "probability": 0.22478722647550842,
           "fair_odds": 4.448651356570541,
-          "bookmaker_odds": 2.9,
-          "ev": -0.34811704322102566
+          "bookmaker_odds": 2.8,
+          "ev": -0.37059576586857645
         },
         {
           "player": "Nick Meaney",
           "team": "Melbourne Storm",
           "probability": 0.2200526814398003,
           "fair_odds": 4.544366346535838,
-          "bookmaker_odds": 4.2,
-          "ev": -0.07577873795283863
+          "bookmaker_odds": 4.1,
+          "ev": -0.09778400609681881
         },
         {
           "player": "Nathan Cleary",
           "team": "Penrith Panthers",
           "probability": 0.20271282504778218,
           "fair_odds": 4.93308699024981,
-          "bookmaker_odds": 3.1,
-          "ev": -0.3715902423518752
+          "bookmaker_odds": 3.05,
+          "ev": -0.3817258836042644
         },
         {
           "player": "Liam Martin",
@@ -241,32 +241,32 @@
           "team": "Melbourne Storm",
           "probability": 0.1856319479313681,
           "fair_odds": 5.387003752014283,
-          "bookmaker_odds": 3.9,
-          "ev": -0.2760354030676644
+          "bookmaker_odds": 3.8,
+          "ev": -0.2945985978608012
         },
         {
           "player": "Isaiah Papali'i",
           "team": "Penrith Panthers",
           "probability": 0.1733480826840616,
           "fair_odds": 5.768739893261851,
-          "bookmaker_odds": 4.8,
-          "ev": -0.1679292031165044
+          "bookmaker_odds": 4.75,
+          "ev": -0.17659660725070736
         },
         {
           "player": "Harry Grant",
           "team": "Melbourne Storm",
           "probability": 0.1338170684623677,
           "fair_odds": 7.47288826074696,
-          "bookmaker_odds": 4.4,
-          "ev": -0.41120489876558197
+          "bookmaker_odds": 4.25,
+          "ev": -0.4312774590349372
         },
         {
           "player": "Cameron Munster",
           "team": "Melbourne Storm",
           "probability": 0.13120007249248872,
           "fair_odds": 7.621947008125705,
-          "bookmaker_odds": 4.5,
-          "ev": -0.4095996737838008
+          "bookmaker_odds": 4.4,
+          "ev": -0.4227196810330496
         },
         {
           "player": "Oryn Keeley",
@@ -281,16 +281,16 @@
           "team": "Penrith Panthers",
           "probability": 0.10436663123811396,
           "fair_odds": 9.581606574217057,
-          "bookmaker_odds": 8.25,
-          "ev": -0.13897529228555983
+          "bookmaker_odds": 8.0,
+          "ev": -0.16506695009508832
         },
         {
           "player": "Tyran Wishart",
           "team": "Melbourne Storm",
           "probability": 0.09076074135875048,
           "fair_odds": 11.017979635570565,
-          "bookmaker_odds": 7.75,
-          "ev": -0.29660425446968375
+          "bookmaker_odds": 7.5,
+          "ev": -0.31929443980937144
         },
         {
           "player": "Jack Cogger",
@@ -305,8 +305,8 @@
           "team": "Penrith Panthers",
           "probability": 0.08844735488141466,
           "fair_odds": 11.306160612047075,
-          "bookmaker_odds": 6.6,
-          "ev": -0.41624745778266325
+          "bookmaker_odds": 6.5,
+          "ev": -0.4250921932708047
         },
         {
           "player": "Liam Henry",
@@ -321,48 +321,48 @@
           "team": "Penrith Panthers",
           "probability": 0.08592159997744334,
           "fair_odds": 11.63851697666857,
-          "bookmaker_odds": 11.0,
-          "ev": -0.05486240024812328
+          "bookmaker_odds": 10.5,
+          "ev": -0.09782320023684499
         },
         {
           "player": "Shawn Blore",
           "team": "Melbourne Storm",
           "probability": 0.08586272756305621,
           "fair_odds": 11.646497011938225,
-          "bookmaker_odds": 7.25,
-          "ev": -0.3774952251678425
+          "bookmaker_odds": 7.0,
+          "ev": -0.39896090705860654
         },
         {
           "player": "Scott Sorensen",
           "team": "Penrith Panthers",
           "probability": 0.08415052939784269,
           "fair_odds": 11.883466534978641,
-          "bookmaker_odds": 8.25,
-          "ev": -0.3057581324677978
+          "bookmaker_odds": 8.0,
+          "ev": -0.32679576481725847
         },
         {
           "player": "Trent Loiero",
           "team": "Melbourne Storm",
           "probability": 0.08386016726532619,
           "fair_odds": 11.924612514020966,
-          "bookmaker_odds": 11.5,
-          "ev": -0.03560807644874875
+          "bookmaker_odds": 11.0,
+          "ev": -0.0775381600814119
         },
         {
           "player": "Trent Toelau",
           "team": "Melbourne Storm",
           "probability": 0.08217321439051806,
           "fair_odds": 12.16941563521689,
-          "bookmaker_odds": 6.2,
-          "ev": -0.49052607077878807
+          "bookmaker_odds": 6.0,
+          "ev": -0.5069607136568917
         },
         {
           "player": "Stefano Utoikamanu",
           "team": "Melbourne Storm",
           "probability": 0.07953258761523752,
           "fair_odds": 12.57346240056713,
-          "bookmaker_odds": 10.0,
-          "ev": -0.20467412384762484
+          "bookmaker_odds": 9.5,
+          "ev": -0.2444404176552436
         },
         {
           "player": "Moses Leota",
@@ -377,32 +377,32 @@
           "team": "Melbourne Storm",
           "probability": 0.07448731200175462,
           "fair_odds": 13.425105204178182,
-          "bookmaker_odds": 7.5,
-          "ev": -0.4413451599868403
+          "bookmaker_odds": 7.25,
+          "ev": -0.459966987987279
         },
         {
           "player": "Cooper Clarke",
           "team": "Melbourne Storm",
           "probability": 0.0698943701722791,
           "fair_odds": 14.307303972196193,
-          "bookmaker_odds": 10.0,
-          "ev": -0.3010562982772089
+          "bookmaker_odds": 9.5,
+          "ev": -0.3360034833633485
         },
         {
           "player": "Luron Patea",
           "team": "Penrith Panthers",
           "probability": 0.0675444488229129,
           "fair_odds": 14.805065663083374,
-          "bookmaker_odds": 9.5,
-          "ev": -0.3583277361823275
+          "bookmaker_odds": 9.25,
+          "ev": -0.3752138483880557
         },
         {
           "player": "Josh King",
           "team": "Melbourne Storm",
           "probability": 0.06619691345310474,
           "fair_odds": 15.106444512830958,
-          "bookmaker_odds": 11.5,
-          "ev": -0.2387354952892955
+          "bookmaker_odds": 11.0,
+          "ev": -0.2718339520158478
         },
         {
           "player": "Alec MacDonald",
@@ -417,15 +417,15 @@
           "team": "Penrith Panthers",
           "probability": 0.053404479688502954,
           "fair_odds": 18.725020931442245,
-          "bookmaker_odds": 8.0,
-          "ev": -0.5727641624919764
+          "bookmaker_odds": 7.75,
+          "ev": -0.586115282414102
         }
       ],
       "safe_bet": {
         "available": true,
         "probability": 0.18484,
         "fair_odds": 5.410084397316598,
-        "singles_product_odds": 3.315,
+        "singles_product_odds": 3.2255999999999996,
         "target_met": false,
         "legs": [
           {
@@ -433,14 +433,14 @@
             "team": "Penrith Panthers",
             "probability": 0.4702445170114373,
             "fair_odds": 2.126553237356892,
-            "market_odds": 1.7
+            "market_odds": 1.68
           },
           {
             "player": "Brian To'o",
             "team": "Penrith Panthers",
             "probability": 0.4017266622551702,
             "fair_odds": 2.4892547444730377,
-            "market_odds": 1.95
+            "market_odds": 1.92
           }
         ],
         "method": "Highest simulated joint hit probability"
@@ -473,7 +473,7 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:13:55.680729+00:00"
+          "observed_at": "2026-08-19T23:51:39.812843+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.35,
@@ -497,7 +497,7 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:13:55.680729+00:00",
+          "observed_at": "2026-08-19T23:51:39.812843+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -552,7 +552,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T23:13:55.680729+00:00",
+      "bookmaker_observed_at": "2026-08-19T23:51:39.812843+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -908,7 +908,7 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:14:44.192566+00:00"
+          "observed_at": "2026-08-19T23:52:28.535890+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.25,
@@ -932,7 +932,7 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:14:44.192566+00:00",
+          "observed_at": "2026-08-19T23:52:28.535890+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -987,7 +987,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 72,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T23:14:44.192566+00:00",
+      "bookmaker_observed_at": "2026-08-19T23:52:28.535890+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1343,7 +1343,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:15:29.489569+00:00"
+          "observed_at": "2026-08-19T23:53:14.536807+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.46,
@@ -1367,7 +1367,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:15:29.489569+00:00",
+          "observed_at": "2026-08-19T23:53:14.536807+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1421,7 +1421,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 62,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T23:15:29.489569+00:00",
+      "bookmaker_observed_at": "2026-08-19T23:53:14.536807+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1775,7 +1775,7 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:16:18.422879+00:00"
+          "observed_at": "2026-08-19T23:54:01.992393+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.5,
@@ -1799,7 +1799,7 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:16:18.422879+00:00",
+          "observed_at": "2026-08-19T23:54:01.992393+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1854,7 +1854,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 59,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T23:16:18.422879+00:00",
+      "bookmaker_observed_at": "2026-08-19T23:54:01.992393+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2210,7 +2210,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:17:04.496459+00:00"
+          "observed_at": "2026-08-19T23:54:49.096748+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.6,
@@ -2234,7 +2234,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:17:04.496459+00:00",
+          "observed_at": "2026-08-19T23:54:49.096748+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -2288,7 +2288,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 58,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T23:17:04.496459+00:00",
+      "bookmaker_observed_at": "2026-08-19T23:54:49.096748+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -2644,7 +2644,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:17:51.110661+00:00"
+          "observed_at": "2026-08-19T23:55:35.684763+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.6,
@@ -2668,7 +2668,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:17:51.110661+00:00",
+          "observed_at": "2026-08-19T23:55:35.684763+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -2722,7 +2722,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T23:17:51.110661+00:00",
+      "bookmaker_observed_at": "2026-08-19T23:55:35.684763+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -3078,7 +3078,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:18:37.180715+00:00"
+          "observed_at": "2026-08-19T23:56:22.290881+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.07,
@@ -3102,7 +3102,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T23:18:37.180715+00:00",
+          "observed_at": "2026-08-19T23:56:22.290881+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -3157,7 +3157,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 79,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T23:18:37.180715+00:00",
+      "bookmaker_observed_at": "2026-08-19T23:56:22.290881+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
