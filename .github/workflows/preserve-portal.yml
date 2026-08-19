@@ -1,0 +1,27 @@
+name: Preserve NetGains portal shell
+
+on:
+  push:
+    branches: [main]
+    paths: [index.html]
+
+permissions:
+  contents: write
+
+jobs:
+  restore-shell:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Keep the app interface while forecasts update
+        run: |
+          if cmp -s portal-shell.html index.html; then
+            exit 0
+          fi
+          cp portal-shell.html index.html
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Restore NetGains app portal shell"
+          git push
