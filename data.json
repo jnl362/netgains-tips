@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 25,
-  "generated_at": "Wed 19 Aug 2026, 2:01 PM NZT",
-  "generated_at_iso": "2026-08-19T14:01:38.194375+12:00",
+  "generated_at": "Wed 19 Aug 2026, 2:39 PM NZT",
+  "generated_at_iso": "2026-08-19T14:39:33.746512+12:00",
   "engine_version": "1.65.41",
   "fixtures": [
     {
@@ -38,7 +38,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:54:26.942808+00:00"
+          "observed_at": "2026-08-19T02:32:10.658320+00:00"
         },
         "TAB NZ": {
           "home_h2h": 3.0,
@@ -62,7 +62,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:54:26.942808+00:00",
+          "observed_at": "2026-08-19T02:32:10.658320+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -117,7 +117,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T01:54:26.942808+00:00",
+      "bookmaker_observed_at": "2026-08-19T02:32:10.658320+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -473,7 +473,7 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:55:15.338786+00:00"
+          "observed_at": "2026-08-19T02:33:00.599498+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.35,
@@ -497,7 +497,7 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:55:15.338786+00:00",
+          "observed_at": "2026-08-19T02:33:00.599498+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -552,7 +552,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T01:55:15.338786+00:00",
+      "bookmaker_observed_at": "2026-08-19T02:33:00.599498+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -588,8 +588,8 @@
           "team": "Canberra Raiders",
           "probability": 0.3602761907555346,
           "fair_odds": 2.775648309989349,
-          "bookmaker_odds": 1.77,
-          "ev": -0.3623111423627038
+          "bookmaker_odds": 1.78,
+          "ev": -0.3587083804551484
         },
         {
           "player": "Kaeo Weekes",
@@ -636,8 +636,8 @@
           "team": "Brisbane Broncos",
           "probability": 0.3202049860600057,
           "fair_odds": 3.1229994645136547,
-          "bookmaker_odds": 2.75,
-          "ev": -0.11943628833498432
+          "bookmaker_odds": 2.8,
+          "ev": -0.10342603903198411
         },
         {
           "player": "Matthew Timoko",
@@ -652,8 +652,8 @@
           "team": "Canberra Raiders",
           "probability": 0.2945289393357977,
           "fair_odds": 3.3952521007108305,
-          "bookmaker_odds": 4.25,
-          "ev": 0.2517479921771404
+          "bookmaker_odds": 4.4,
+          "ev": 0.29592733307751007
         },
         {
           "player": "Ezra Mam",
@@ -684,16 +684,16 @@
           "team": "Canberra Raiders",
           "probability": 0.23753411694085852,
           "fair_odds": 4.20992155939006,
-          "bookmaker_odds": 3.3,
-          "ev": -0.21613741409516696
+          "bookmaker_odds": 3.35,
+          "ev": -0.20426070824812392
         },
         {
           "player": "Hayze Perham",
           "team": "Brisbane Broncos",
           "probability": 0.22229475126054982,
           "fair_odds": 4.498531766177009,
-          "bookmaker_odds": 3.6,
-          "ev": -0.19973889546202062
+          "bookmaker_odds": 3.7,
+          "ev": -0.17750942033596562
         },
         {
           "player": "Jordan Riki",
@@ -716,8 +716,8 @@
           "team": "Canberra Raiders",
           "probability": 0.13505138003730258,
           "fair_odds": 7.404589273532708,
-          "bookmaker_odds": 3.9,
-          "ev": -0.47329961785452
+          "bookmaker_odds": 4.0,
+          "ev": -0.4597944798507897
         },
         {
           "player": "Owen Pattie",
@@ -732,8 +732,8 @@
           "team": "Canberra Raiders",
           "probability": 0.12871228683450373,
           "fair_odds": 7.769266047504731,
-          "bookmaker_odds": 4.25,
-          "ev": -0.45297278095335913
+          "bookmaker_odds": 3.5,
+          "ev": -0.5495069960792369
         },
         {
           "player": "Xavier Willison",
@@ -748,16 +748,16 @@
           "team": "Canberra Raiders",
           "probability": 0.1209327994533391,
           "fair_odds": 8.269055248207014,
-          "bookmaker_odds": 4.2,
-          "ev": -0.49208224229597575
+          "bookmaker_odds": 4.25,
+          "ev": -0.4860356023233089
         },
         {
           "player": "Jaiyden Hunt",
           "team": "Brisbane Broncos",
           "probability": 0.11950676651327623,
           "fair_odds": 8.36772702647685,
-          "bookmaker_odds": 7.0,
-          "ev": -0.16345263440706637
+          "bookmaker_odds": 7.25,
+          "ev": -0.1335759427787474
         },
         {
           "player": "Billy Walters",
@@ -772,8 +772,8 @@
           "team": "Canberra Raiders",
           "probability": 0.10389479739397835,
           "fair_odds": 9.625121036695521,
-          "bookmaker_odds": 6.75,
-          "ev": -0.29871011759064614
+          "bookmaker_odds": 6.8,
+          "ev": -0.29351537772094727
         },
         {
           "player": "Ata Mariota",
@@ -812,8 +812,8 @@
           "team": "Canberra Raiders",
           "probability": 0.08707327316540991,
           "fair_odds": 11.484580326965963,
-          "bookmaker_odds": 4.25,
-          "ev": -0.6299385890470078
+          "bookmaker_odds": 4.4,
+          "ev": -0.6168775980721963
         },
         {
           "player": "Payne Haas",
@@ -844,8 +844,8 @@
           "team": "Brisbane Broncos",
           "probability": 0.04993970759356465,
           "fair_odds": 20.024146079078413,
-          "bookmaker_odds": 12.0,
-          "ev": -0.4007235088772242
+          "bookmaker_odds": 12.5,
+          "ev": -0.3757536550804419
         },
         {
           "player": "Aublix Tawha",
@@ -860,7 +860,7 @@
         "available": true,
         "probability": 0.11916,
         "fair_odds": 8.392077878482713,
-        "singles_product_odds": 3.3276,
+        "singles_product_odds": 3.3464,
         "target_met": false,
         "legs": [
           {
@@ -868,7 +868,7 @@
             "team": "Canberra Raiders",
             "probability": 0.3602761907555346,
             "fair_odds": 2.775648309989349,
-            "market_odds": 1.77
+            "market_odds": 1.78
           },
           {
             "player": "Kaeo Weekes",
@@ -908,7 +908,7 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:56:02.552145+00:00"
+          "observed_at": "2026-08-19T02:33:48.385515+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.25,
@@ -932,7 +932,7 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:56:02.552145+00:00",
+          "observed_at": "2026-08-19T02:33:48.385515+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -987,7 +987,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 72,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T01:56:02.552145+00:00",
+      "bookmaker_observed_at": "2026-08-19T02:33:48.385515+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1343,7 +1343,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:56:48.169363+00:00"
+          "observed_at": "2026-08-19T02:34:36.253409+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.46,
@@ -1367,7 +1367,7 @@
           "total": 50.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:56:48.169363+00:00",
+          "observed_at": "2026-08-19T02:34:36.253409+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1421,7 +1421,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 62,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T01:56:48.169363+00:00",
+      "bookmaker_observed_at": "2026-08-19T02:34:36.253409+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1775,7 +1775,7 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:57:36.980735+00:00"
+          "observed_at": "2026-08-19T02:35:29.977406+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.5,
@@ -1799,7 +1799,7 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:57:36.980735+00:00",
+          "observed_at": "2026-08-19T02:35:29.977406+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1854,7 +1854,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 59,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T01:57:36.980735+00:00",
+      "bookmaker_observed_at": "2026-08-19T02:35:29.977406+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2210,7 +2210,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:58:23.651708+00:00"
+          "observed_at": "2026-08-19T02:36:16.758644+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.6,
@@ -2234,7 +2234,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:58:23.651708+00:00",
+          "observed_at": "2026-08-19T02:36:16.758644+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -2288,7 +2288,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 58,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T01:58:23.651708+00:00",
+      "bookmaker_observed_at": "2026-08-19T02:36:16.758644+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -2644,7 +2644,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:59:11.718017+00:00"
+          "observed_at": "2026-08-19T02:37:04.586907+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.6,
@@ -2668,7 +2668,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:59:11.718017+00:00",
+          "observed_at": "2026-08-19T02:37:04.586907+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -2722,7 +2722,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T01:59:11.718017+00:00",
+      "bookmaker_observed_at": "2026-08-19T02:37:04.586907+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -3078,7 +3078,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:59:57.358979+00:00"
+          "observed_at": "2026-08-19T02:37:51.903719+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.07,
@@ -3102,7 +3102,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-19T01:59:57.358979+00:00",
+          "observed_at": "2026-08-19T02:37:51.903719+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -3157,7 +3157,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 79,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-19T01:59:57.358979+00:00",
+      "bookmaker_observed_at": "2026-08-19T02:37:51.903719+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
