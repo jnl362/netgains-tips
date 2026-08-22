@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 25,
-  "generated_at": "Sat 22 Aug 2026, 8:28 PM NZT",
-  "generated_at_iso": "2026-08-22T20:28:57.062665+12:00",
+  "generated_at": "Sat 22 Aug 2026, 8:36 PM NZT",
+  "generated_at_iso": "2026-08-22T20:36:00.507794+12:00",
   "engine_version": "1.65.43",
   "fixtures": [
     {
@@ -634,7 +634,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:27:41.169990+00:00"
+          "observed_at": "2026-08-22T08:34:58.608607+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.6,
@@ -658,7 +658,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:27:41.169990+00:00",
+          "observed_at": "2026-08-22T08:34:58.608607+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "TAB NZ",
@@ -679,7 +679,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:27:41.169990+00:00",
+          "observed_at": "2026-08-22T08:34:58.608607+00:00",
           "home_cover_probability": 0.603928921444947,
           "away_cover_probability": 0.39607107855505297,
           "over_probability": 0.531438951681011,
@@ -719,7 +719,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:27:41.169990+00:00",
+          "observed_at": "2026-08-22T08:34:58.608607+00:00",
           "home_cover_probability": 0.603928921444947,
           "away_cover_probability": 0.39607107855505297,
           "over_probability": 0.531438951681011,
@@ -774,7 +774,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 58,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-22T08:27:41.169990+00:00",
+      "bookmaker_observed_at": "2026-08-22T08:34:58.608607+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -808,385 +808,376 @@
         {
           "player": "Jacob Kiraz",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.3968893736356924,
-          "fair_odds": 2.5195937871541685,
+          "probability": 0.3918792286259179,
+          "fair_odds": 2.551806594869526,
           "bookmaker_odds": 2.1,
           "bookmaker_prices": {
             "Betcha": 2.1
           },
-          "ev": -0.16653231536504598
+          "ev": -0.17705361988557233
         },
         {
           "player": "Connor Tracey",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.38244497189210563,
-          "fair_odds": 2.6147552549916053,
+          "probability": 0.38096815567440157,
+          "fair_odds": 2.6248913068069144,
           "bookmaker_odds": 3.75,
           "bookmaker_prices": {
             "Betcha": 3.75
           },
-          "ev": 0.43416864459539606
-        },
-        {
-          "player": "Bronson Xerri",
-          "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.3804587275805395,
-          "fair_odds": 2.6284059938888102,
-          "bookmaker_odds": 2.75,
-          "bookmaker_prices": {
-            "Betcha": 2.75
-          },
-          "ev": 0.04626150084648373
-        },
-        {
-          "player": "Enari Tuala",
-          "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.3778791517413079,
-          "fair_odds": 2.6463486947927457,
-          "bookmaker_odds": 2.02,
-          "bookmaker_prices": {},
-          "ev": -0.23668411348255813
+          "ev": 0.42863058377900587
         },
         {
           "player": "Tyrell Sloan",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.3717019900551613,
-          "fair_odds": 2.6903272695731277,
+          "probability": 0.3806544640142282,
+          "fair_odds": 2.6270544405401264,
           "bookmaker_odds": 2.1,
           "bookmaker_prices": {
             "Betcha": 2.1
           },
-          "ev": -0.21942582088416118
+          "ev": -0.20062562557012076
+        },
+        {
+          "player": "Bronson Xerri",
+          "team": "Canterbury-Bankstown Bulldogs",
+          "probability": 0.37648389313004765,
+          "fair_odds": 2.6561561284497586,
+          "bookmaker_odds": 2.75,
+          "bookmaker_prices": {
+            "Betcha": 2.75
+          },
+          "ev": 0.035330706107631116
         },
         {
           "player": "Matt Burton",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.36390322621488536,
-          "fair_odds": 2.747983331726492,
+          "probability": 0.35819463955374015,
+          "fair_odds": 2.7917782389090426,
           "bookmaker_odds": 2.6,
           "bookmaker_prices": {
             "Betcha": 2.6
           },
-          "ev": -0.05385161184129805
+          "ev": -0.06869393716027561
         },
         {
           "player": "Mathew Feagai",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.33067966306304264,
-          "fair_odds": 3.024074691310407,
+          "probability": 0.3374335784398608,
+          "fair_odds": 2.9635462025550168,
           "bookmaker_odds": 2.6,
           "bookmaker_prices": {
             "Betcha": 2.6
           },
-          "ev": -0.14023287603608914
+          "ev": -0.12267269605636177
         },
         {
           "player": "Stephen Crichton",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.3283034620817665,
-          "fair_odds": 3.0459623960680084,
+          "probability": 0.3253267056132452,
+          "fair_odds": 3.073833112209422,
           "bookmaker_odds": 2.9,
           "bookmaker_prices": {
             "Betcha": 2.9
           },
-          "ev": -0.047919959962877234
+          "ev": -0.05655255372158885
         },
         {
           "player": "Jacob Preston",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.31747312849199455,
-          "fair_odds": 3.1498728876677706,
+          "probability": 0.31277334587937433,
+          "fair_odds": 3.1972033844139163,
           "bookmaker_odds": 3.1,
           "bookmaker_prices": {
             "Betcha": 3.1
           },
-          "ev": -0.01583330167481689
+          "ev": -0.03040262777393954
         },
         {
           "player": "Valentine Holmes",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.29514091094912986,
-          "fair_odds": 3.3882120807452507,
+          "probability": 0.3042409966321381,
+          "fair_odds": 3.286868012758693,
           "bookmaker_odds": 2.9,
           "bookmaker_prices": {
             "Betcha": 2.9
           },
-          "ev": -0.1440913582475234
+          "ev": -0.11770110976679948
         },
         {
           "player": "Viliame Kikau",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.284152386156602,
-          "fair_odds": 3.5192384393664047,
+          "probability": 0.2798750052130452,
+          "fair_odds": 3.5730236047294914,
           "bookmaker_odds": 3.75,
           "bookmaker_prices": {
             "Betcha": 3.75
           },
-          "ev": 0.06557144808725734
+          "ev": 0.04953126954891962
         },
         {
           "player": "Daniel Atkinson",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.24039234579267435,
-          "fair_odds": 4.1598662249522995,
+          "probability": 0.24503150314372585,
+          "fair_odds": 4.081107886823187,
           "bookmaker_odds": 3.6,
           "bookmaker_prices": {
             "Betcha": 3.6
           },
-          "ev": -0.13458755514637233
+          "ev": -0.11788658868258695
         },
         {
           "player": "Lachlan Galvin",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.22380704541704546,
-          "fair_odds": 4.468134585024277,
+          "probability": 0.22069984757539743,
+          "fair_odds": 4.531040736937397,
           "bookmaker_odds": 3.7,
           "bookmaker_prices": {
             "Betcha": 3.7
           },
-          "ev": -0.17191393195693172
+          "ev": -0.1834105639710295
         },
         {
           "player": "Moses Suli",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.18635060548430724,
-          "fair_odds": 5.366228874873235,
+          "probability": 0.19053712930981165,
+          "fair_odds": 5.2483209105875055,
           "bookmaker_odds": 4.1,
           "bookmaker_prices": {
             "Betcha": 4.1
           },
-          "ev": -0.2359625175143404
-        },
-        {
-          "player": "Kurt Mann",
-          "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.18050569463439212,
-          "fair_odds": 5.539991422572371,
-          "bookmaker_odds": 8.75,
-          "bookmaker_prices": {
-            "Betcha": 8.75
-          },
-          "ev": 0.5794248280509311
+          "ev": -0.21879776982977228
         },
         {
           "player": "Dylan Egan",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.17418933298430825,
-          "fair_odds": 5.740879667356465,
+          "probability": 0.17826346752491548,
+          "fair_odds": 5.6096743426144355,
           "bookmaker_odds": 5.25,
           "bookmaker_prices": {
             "Betcha": 5.25
           },
-          "ev": -0.08550600183238166
+          "ev": -0.06411679549419369
+        },
+        {
+          "player": "Kurt Mann",
+          "team": "Canterbury-Bankstown Bulldogs",
+          "probability": 0.17443614859389123,
+          "fair_odds": 5.7327567024431545,
+          "bookmaker_odds": 8.75,
+          "bookmaker_prices": {
+            "Betcha": 8.75
+          },
+          "ev": 0.5263163001965483
         },
         {
           "player": "Josh Curran",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.17216004010927805,
-          "fair_odds": 5.808548832616751,
+          "probability": 0.16949284377922014,
+          "fair_odds": 5.899954108402306,
           "bookmaker_odds": 7.5,
           "bookmaker_prices": {
             "Betcha": 7.5
           },
-          "ev": 0.29120030081958537
+          "ev": 0.27119632834415097
         },
         {
           "player": "Hamish Stewart",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.15092154765649057,
-          "fair_odds": 6.625959086213981,
+          "probability": 0.1540977351249421,
+          "fair_odds": 6.48938804447192,
           "bookmaker_odds": 4.4,
           "bookmaker_prices": {
             "Betcha": 4.4
           },
-          "ev": -0.33594519031144143
+          "ev": -0.3219699654502547
         },
         {
           "player": "Jaeman Salmon",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.14153448799840823,
-          "fair_odds": 7.065415745251055,
+          "probability": 0.1393851880436135,
+          "fair_odds": 7.174363460248738,
           "bookmaker_odds": 6.75,
           "bookmaker_prices": {
             "Betcha": 6.75
           },
-          "ev": -0.04464220601074442
+          "ev": -0.05914998070560895
         },
         {
           "player": "Jacob Liddle",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.1051657224241273,
-          "fair_odds": 9.508801698399955,
+          "probability": 0.10746886474407631,
+          "fair_odds": 9.305020597187616,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6
           },
-          "ev": -0.30590623200075984
+          "ev": -0.2907054926890964
         },
         {
           "player": "Kyle Flanagan",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.10326946133279605,
-          "fair_odds": 9.683404823594472,
+          "probability": 0.10550873666381409,
+          "fair_odds": 9.477888103108773,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6
           },
-          "ev": -0.3184215552035461
+          "ev": -0.303642338018827
         },
         {
           "player": "Damien Cook",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.0906676257794359,
-          "fair_odds": 11.02929509186296,
+          "probability": 0.09262777090901096,
+          "fair_odds": 10.795898359492083,
           "bookmaker_odds": 9.25,
           "bookmaker_prices": {
             "Betcha": 9.25
           },
-          "ev": -0.16132446154021785
+          "ev": -0.14319311909164856
         },
         {
           "player": "Lyhkan King-Togia",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.08848544350977662,
-          "fair_odds": 11.301293866369235,
+          "probability": 0.09032461470696754,
+          "fair_odds": 11.071179248804048,
           "bookmaker_odds": 6.2,
           "bookmaker_prices": {
             "Betcha": 6.2
           },
-          "ev": -0.45139025023938495
-        },
-        {
-          "player": "Bailey Hayward",
-          "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.08766643637487678,
-          "fair_odds": 11.40687407121042,
-          "bookmaker_odds": 8.25,
-          "bookmaker_prices": {
-            "Betcha": 8.25
-          },
-          "ev": -0.27675189990726656
+          "ev": -0.4399873888168012
         },
         {
           "player": "Ryan Couchman",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.08624295160813981,
-          "fair_odds": 11.595150459873844,
+          "probability": 0.08793963677162216,
+          "fair_odds": 11.371436552518226,
           "bookmaker_odds": 9.25,
           "bookmaker_prices": {
             "Betcha": 9.25
           },
-          "ev": -0.20225269762470677
+          "ev": -0.18655835986249503
         },
         {
-          "player": "Harry Hayes",
+          "player": "Bailey Hayward",
           "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.08574215547715648,
-          "fair_odds": 11.662874515283455,
-          "bookmaker_odds": 9.5,
-          "bookmaker_prices": {
-            "Betcha": 9.5
-          },
-          "ev": -0.18544952296701345
-        },
-        {
-          "player": "Alekolasimi Jones",
-          "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.07945846172352529,
-          "fair_odds": 12.58519204008111,
-          "bookmaker_odds": 7.5,
-          "bookmaker_prices": {
-            "Betcha": 7.5
-          },
-          "ev": -0.4040615370735603
-        },
-        {
-          "player": "Leo Thompson",
-          "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.07853667145364214,
-          "fair_odds": 12.732905297498764,
-          "bookmaker_odds": 10.0,
-          "bookmaker_prices": {
-            "Betcha": 10.0
-          },
-          "ev": -0.21463328546357863
-        },
-        {
-          "player": "Max King",
-          "team": "Canterbury-Bankstown Bulldogs",
-          "probability": 0.07851127117270584,
-          "fair_odds": 12.737024698023822,
-          "bookmaker_odds": 10.0,
-          "bookmaker_prices": {
-            "Betcha": 10.0
-          },
-          "ev": -0.21488728827294157
-        },
-        {
-          "player": "Jacob Webster",
-          "team": "St. George Illawarra Dragons",
-          "probability": 0.07529193402277339,
-          "fair_odds": 13.281635184155745,
-          "bookmaker_odds": 9.75,
-          "bookmaker_prices": {
-            "Betcha": 9.75
-          },
-          "ev": -0.26590364327795946
-        },
-        {
-          "player": "Toby Couchman",
-          "team": "St. George Illawarra Dragons",
-          "probability": 0.07056986590616358,
-          "fair_odds": 14.170354260410459,
+          "probability": 0.08642652503524852,
+          "fair_odds": 11.570521892349094,
           "bookmaker_odds": 8.25,
           "bookmaker_prices": {
             "Betcha": 8.25
           },
-          "ev": -0.41779860627415044
+          "ev": -0.28698116845919974
         },
         {
-          "player": "Loko Jnr Pasifiki Tonga",
-          "team": "St. George Illawarra Dragons",
-          "probability": 0.06102516300879193,
-          "fair_odds": 16.386682979542872,
-          "bookmaker_odds": 10.5,
+          "player": "Harry Hayes",
+          "team": "Canterbury-Bankstown Bulldogs",
+          "probability": 0.08463397677371626,
+          "fair_odds": 11.81558563263162,
+          "bookmaker_odds": 9.5,
           "bookmaker_prices": {
-            "Betcha": 10.5
+            "Betcha": 9.5
           },
-          "ev": -0.35923578840768466
+          "ev": -0.19597722064969558
         },
         {
-          "player": "Jacob Halangahu",
-          "team": "St. George Illawarra Dragons",
-          "probability": 0.0529463984354049,
-          "fair_odds": 18.88702592717443,
+          "player": "Alekolasimi Jones",
+          "team": "Canterbury-Bankstown Bulldogs",
+          "probability": 0.07898324416777514,
+          "fair_odds": 12.660913216932613,
           "bookmaker_odds": 7.5,
           "bookmaker_prices": {
             "Betcha": 7.5
           },
-          "ev": -0.6029020117344632
+          "ev": -0.4076256687416865
+        },
+        {
+          "player": "Leo Thompson",
+          "team": "Canterbury-Bankstown Bulldogs",
+          "probability": 0.07771618243480809,
+          "fair_odds": 12.867333014444528,
+          "bookmaker_odds": 10.0,
+          "bookmaker_prices": {
+            "Betcha": 10.0
+          },
+          "ev": -0.2228381756519191
+        },
+        {
+          "player": "Max King",
+          "team": "Canterbury-Bankstown Bulldogs",
+          "probability": 0.07760421840103147,
+          "fair_odds": 12.885897449960124,
+          "bookmaker_odds": 10.0,
+          "bookmaker_prices": {
+            "Betcha": 10.0
+          },
+          "ev": -0.22395781598968523
+        },
+        {
+          "player": "Jacob Webster",
+          "team": "St. George Illawarra Dragons",
+          "probability": 0.07654100317362228,
+          "fair_odds": 13.064892783435873,
+          "bookmaker_odds": 9.75,
+          "bookmaker_prices": {
+            "Betcha": 9.75
+          },
+          "ev": -0.2537252190571828
+        },
+        {
+          "player": "Toby Couchman",
+          "team": "St. George Illawarra Dragons",
+          "probability": 0.07174447955783853,
+          "fair_odds": 13.938354646420233,
+          "bookmaker_odds": 8.25,
+          "bookmaker_prices": {
+            "Betcha": 8.25
+          },
+          "ev": -0.40810804364783215
+        },
+        {
+          "player": "Loko Jnr Pasifiki Tonga",
+          "team": "St. George Illawarra Dragons",
+          "probability": 0.06199337938159644,
+          "fair_odds": 16.130754767288316,
+          "bookmaker_odds": 10.5,
+          "bookmaker_prices": {
+            "Betcha": 10.5
+          },
+          "ev": -0.34906951649323736
+        },
+        {
+          "player": "Jacob Halangahu",
+          "team": "St. George Illawarra Dragons",
+          "probability": 0.05373409310342463,
+          "fair_odds": 18.610158695248682,
+          "bookmaker_odds": 7.5,
+          "bookmaker_prices": {
+            "Betcha": 7.5
+          },
+          "ev": -0.5969943017243153
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.15632,
-        "fair_odds": 6.3971340839304,
-        "singles_product_odds": 7.875,
+        "probability": 0.1484,
+        "fair_odds": 6.738544474393531,
+        "singles_product_odds": 4.41,
         "target_met": false,
         "legs": [
           {
             "player": "Jacob Kiraz",
             "team": "Canterbury-Bankstown Bulldogs",
-            "probability": 0.3968893736356924,
-            "fair_odds": 2.5195937871541685,
+            "probability": 0.3918792286259179,
+            "fair_odds": 2.551806594869526,
             "market_odds": 2.1
           },
           {
-            "player": "Connor Tracey",
-            "team": "Canterbury-Bankstown Bulldogs",
-            "probability": 0.38244497189210563,
-            "fair_odds": 2.6147552549916053,
-            "market_odds": 3.75
+            "player": "Tyrell Sloan",
+            "team": "St. George Illawarra Dragons",
+            "probability": 0.3806544640142282,
+            "fair_odds": 2.6270544405401264,
+            "market_odds": 2.1
           }
         ],
         "method": "Highest simulated joint hit probability"
@@ -1219,7 +1210,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:21:22.084486+00:00"
+          "observed_at": "2026-08-22T08:28:29.582805+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.6,
@@ -1243,7 +1234,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:21:22.084486+00:00",
+          "observed_at": "2026-08-22T08:28:29.582805+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1264,7 +1255,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:21:22.084486+00:00",
+          "observed_at": "2026-08-22T08:28:29.582805+00:00",
           "home_cover_probability": 0.41979387873577045,
           "away_cover_probability": 0.5802061212642295,
           "over_probability": 0.3926839795381788,
@@ -1304,7 +1295,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:21:22.084486+00:00",
+          "observed_at": "2026-08-22T08:28:29.582805+00:00",
           "home_cover_probability": 0.41979387873577045,
           "away_cover_probability": 0.5802061212642295,
           "over_probability": 0.3926839795381788,
@@ -1359,7 +1350,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-22T08:21:22.084486+00:00",
+      "bookmaker_observed_at": "2026-08-22T08:28:29.582805+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1817,7 +1808,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:22:09.873825+00:00"
+          "observed_at": "2026-08-22T08:29:18.028784+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.07,
@@ -1841,7 +1832,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:22:09.873825+00:00",
+          "observed_at": "2026-08-22T08:29:18.028784+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "TAB NZ",
@@ -1863,7 +1854,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:22:09.873825+00:00",
+          "observed_at": "2026-08-22T08:29:18.028784+00:00",
           "home_cover_probability": 0.23024442626788844,
           "away_cover_probability": 0.7697555737321116,
           "over_probability": 0.25206646989479076,
@@ -1903,7 +1894,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-22T08:22:09.873825+00:00",
+          "observed_at": "2026-08-22T08:29:18.028784+00:00",
           "home_cover_probability": 0.23024442626788844,
           "away_cover_probability": 0.7697555737321116,
           "over_probability": 0.25206646989479076,
@@ -1958,7 +1949,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 79,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-22T08:22:09.873825+00:00",
+      "bookmaker_observed_at": "2026-08-22T08:29:18.028784+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
