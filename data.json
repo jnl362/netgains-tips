@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 25,
-  "generated_at": "Sun 23 Aug 2026, 2:18 PM NZT",
-  "generated_at_iso": "2026-08-23T14:18:40.752151+12:00",
+  "generated_at": "Sun 23 Aug 2026, 2:50 PM NZT",
+  "generated_at_iso": "2026-08-23T14:50:53.745675+12:00",
   "engine_version": "1.65.43",
   "fixtures": [
     {
@@ -38,7 +38,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-23T02:16:53.472011+00:00"
+          "observed_at": "2026-08-23T02:49:06.274874+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.6,
@@ -62,7 +62,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-23T02:16:53.472011+00:00",
+          "observed_at": "2026-08-23T02:49:06.274874+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "TAB NZ",
@@ -83,7 +83,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-23T02:16:53.472011+00:00",
+          "observed_at": "2026-08-23T02:49:06.274874+00:00",
           "home_cover_probability": 0.42181630980507334,
           "away_cover_probability": 0.5781836901949267,
           "over_probability": 0.39077212947197015,
@@ -123,7 +123,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-23T02:16:53.472011+00:00",
+          "observed_at": "2026-08-23T02:49:06.274874+00:00",
           "home_cover_probability": 0.42181630980507334,
           "away_cover_probability": 0.5781836901949267,
           "over_probability": 0.39077212947197015,
@@ -178,7 +178,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 74,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-23T02:16:53.472011+00:00",
+      "bookmaker_observed_at": "2026-08-23T02:49:06.274874+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -214,11 +214,11 @@
           "team": "Cronulla-Sutherland Sharks",
           "probability": 0.68,
           "fair_odds": 1.4705882352941175,
-          "bookmaker_odds": 1.64,
+          "bookmaker_odds": 1.65,
           "bookmaker_prices": {
-            "Betcha": 1.64
+            "Betcha": 1.65
           },
-          "ev": 0.11519999999999997
+          "ev": 0.12200000000000011
         },
         {
           "player": "Sione Katoa",
@@ -342,6 +342,17 @@
           "ev": -0.04084319893622468
         },
         {
+          "player": "Thomas Hazelton",
+          "team": "Cronulla-Sutherland Sharks",
+          "probability": 0.23106157448908793,
+          "fair_odds": 4.327850713434941,
+          "bookmaker_odds": 6.5,
+          "bookmaker_prices": {
+            "Betcha": 6.5
+          },
+          "ev": 0.5019002341790715
+        },
+        {
           "player": "Jaylan De Groot",
           "team": "Gold Coast Titans",
           "probability": 0.22996226591230795,
@@ -386,17 +397,6 @@
           "ev": -0.3782083943532373
         },
         {
-          "player": "Thomas Hazelton",
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.17967029098162807,
-          "fair_odds": 5.5657504339560155,
-          "bookmaker_odds": 7.5,
-          "bookmaker_prices": {
-            "Betcha": 7.5
-          },
-          "ev": 0.3475271823622106
-        },
-        {
           "player": "Addin Fonua-Blake",
           "team": "Cronulla-Sutherland Sharks",
           "probability": 0.1778787613087148,
@@ -419,17 +419,6 @@
           "ev": -0.22414533455935914
         },
         {
-          "player": "Cameron McInnes",
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.17495629251143793,
-          "fair_odds": 5.715713254123878,
-          "bookmaker_odds": 9.0,
-          "bookmaker_prices": {
-            "Betcha": 9.0
-          },
-          "ev": 0.5746066326029413
-        },
-        {
           "player": "Jayden Campbell",
           "team": "Gold Coast Titans",
           "probability": 0.1455047857874664,
@@ -439,6 +428,17 @@
             "Betcha": 2.95
           },
           "ev": -0.570760881926974
+        },
+        {
+          "player": "Cameron McInnes",
+          "team": "Cronulla-Sutherland Sharks",
+          "probability": 0.13054376996299755,
+          "fair_odds": 7.660265980394534,
+          "bookmaker_odds": 10.5,
+          "bookmaker_prices": {
+            "Betcha": 10.5
+          },
+          "ev": 0.3707095846114743
         },
         {
           "player": "Kurtis Morrin",
@@ -586,9 +586,9 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.40116,
-        "fair_odds": 2.492770964203809,
-        "singles_product_odds": 2.9848,
+        "probability": 0.4012,
+        "fair_odds": 2.4925224327018944,
+        "singles_product_odds": 3.003,
         "target_met": false,
         "legs": [
           {
@@ -596,7 +596,7 @@
             "team": "Cronulla-Sutherland Sharks",
             "probability": 0.68,
             "fair_odds": 1.4705882352941175,
-            "market_odds": 1.64
+            "market_odds": 1.65
           },
           {
             "player": "Sione Katoa",
@@ -636,7 +636,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-23T02:17:44.552402+00:00"
+          "observed_at": "2026-08-23T02:49:57.213717+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.07,
@@ -660,7 +660,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-23T02:17:44.552402+00:00",
+          "observed_at": "2026-08-23T02:49:57.213717+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "TAB NZ",
@@ -682,7 +682,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-23T02:17:44.552402+00:00",
+          "observed_at": "2026-08-23T02:49:57.213717+00:00",
           "home_cover_probability": 0.22928220839536995,
           "away_cover_probability": 0.77071779160463,
           "over_probability": 0.25336932583921823,
@@ -722,7 +722,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-23T02:17:44.552402+00:00",
+          "observed_at": "2026-08-23T02:49:57.213717+00:00",
           "home_cover_probability": 0.22928220839536995,
           "away_cover_probability": 0.77071779160463,
           "over_probability": 0.25336932583921823,
@@ -777,7 +777,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 79,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-23T02:17:44.552402+00:00",
+      "bookmaker_observed_at": "2026-08-23T02:49:57.213717+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
