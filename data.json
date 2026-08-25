@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 26,
-  "generated_at": "Tue 25 Aug 2026, 11:41 PM NZT",
-  "generated_at_iso": "2026-08-25T23:41:49.130917+12:00",
+  "generated_at": "Wed 26 Aug 2026, 12:19 AM NZT",
+  "generated_at_iso": "2026-08-26T00:19:40.891303+12:00",
   "engine_version": "1.65.43",
   "fixtures": [
     {
@@ -18,14 +18,14 @@
       "away_team": "Melbourne Storm",
       "kickoff": "Thu 27 Aug, 9:50 PM NZT",
       "venue": "Suncorp Stadium",
-      "home_win_probability": 0.45607857788157813,
-      "away_win_probability": 0.5439214221184219,
-      "independent_home_win_probability": 0.45607857788157813,
-      "independent_away_win_probability": 0.5439214221184219,
-      "home_fair_odds": 2.1926046266958243,
-      "away_fair_odds": 1.838500855703163,
-      "home_conservative_fair_odds": 2.21887538155327,
-      "away_conservative_fair_odds": 1.8204284171575054,
+      "home_win_probability": 0.4561251262514039,
+      "away_win_probability": 0.5438748737485961,
+      "independent_home_win_probability": 0.4561251262514039,
+      "independent_away_win_probability": 0.5438748737485961,
+      "home_fair_odds": 2.192380867544725,
+      "away_fair_odds": 1.8386582066342079,
+      "home_conservative_fair_odds": 2.218699816587805,
+      "away_conservative_fair_odds": 1.8205466074491299,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -38,7 +38,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:38:31.619663+00:00"
+          "observed_at": "2026-08-25T12:12:16.248720+00:00"
         },
         "Best Available": {
           "home_h2h": 2.2,
@@ -50,7 +50,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:38:31.619663+00:00",
+          "observed_at": "2026-08-25T12:12:16.248720+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -72,15 +72,15 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:38:31.619663+00:00",
-          "home_cover_probability": 0.53417155575333,
-          "away_cover_probability": 0.46582844424667,
-          "over_probability": 0.34549298500145753,
-          "under_probability": 0.6545070149985425,
-          "home_line_fair_odds": 1.8720577485443282,
-          "away_line_fair_odds": 2.1467130493011934,
-          "over_fair_odds": 2.894414773705988,
-          "under_fair_odds": 1.5278675049834676
+          "observed_at": "2026-08-25T12:12:16.248720+00:00",
+          "home_cover_probability": 0.53421821579155,
+          "away_cover_probability": 0.46578178420844996,
+          "over_probability": 0.4086239073907718,
+          "under_probability": 0.5913760926092282,
+          "home_line_fair_odds": 1.871894238047091,
+          "away_line_fair_odds": 2.146928097884723,
+          "over_fair_odds": 2.447238112878423,
+          "under_fair_odds": 1.6909712998167883
         },
         "Best Available": {
           "home_h2h": 2.2,
@@ -92,62 +92,62 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:38:31.619663+00:00",
-          "home_cover_probability": 0.53417155575333,
-          "away_cover_probability": 0.46582844424667,
-          "over_probability": 0.34549298500145753,
-          "under_probability": 0.6545070149985425,
-          "home_line_fair_odds": 1.8720577485443282,
-          "away_line_fair_odds": 2.1467130493011934,
-          "over_fair_odds": 2.894414773705988,
-          "under_fair_odds": 1.5278675049834676
+          "observed_at": "2026-08-25T12:12:16.248720+00:00",
+          "home_cover_probability": 0.53421821579155,
+          "away_cover_probability": 0.46578178420844996,
+          "over_probability": 0.4086239073907718,
+          "under_probability": 0.5913760926092282,
+          "home_line_fair_odds": 1.871894238047091,
+          "away_line_fair_odds": 2.146928097884723,
+          "over_fair_odds": 2.447238112878423,
+          "under_fair_odds": 1.6909712998167883
         }
       },
       "home_bookmaker_odds": 2.2,
       "away_bookmaker_odds": 1.68,
-      "home_h2h_ev": 0.003372871339472061,
-      "away_h2h_ev": -0.08621201084105135,
+      "home_h2h_ev": 0.003475277753088646,
+      "away_h2h_ev": -0.08629021210235854,
       "winner": "Melbourne Storm",
-      "home_points": 21.462859541202068,
-      "away_points": 22.869414470351977,
+      "home_points": 22.54541042626709,
+      "away_points": 23.950468621911604,
       "likely_home_points": 22,
-      "likely_away_points": 23,
-      "projected_margin": 1.4065549291499089,
-      "projected_total": 44.33227401155405,
-      "close_game_probability": 0.5448361267712523,
+      "likely_away_points": 24,
+      "projected_margin": 1.4050581956445143,
+      "projected_total": 46.49587904817869,
+      "close_game_probability": 0.5448735451088871,
       "fav_1_12_probability": 0.62,
       "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.5641295904043917,
+      "high_scoring_probability": 0.6398557666862543,
       "margin_probabilities": {
-        "Brisbane Broncos 1-12": 0.3028660393387945,
-        "Brisbane Broncos 13+": 0.137700212565656,
-        "Melbourne Storm 1-12": 0.33621190101644094,
-        "Melbourne Storm 13+": 0.19212994900408256
+        "Brisbane Broncos 1-12": 0.3028865141803476,
+        "Brisbane Broncos 13+": 0.13772604963360202,
+        "Melbourne Storm 1-12": 0.3361972595675368,
+        "Melbourne Storm 13+": 0.19209787631105874
       },
-      "margin_remainder_probability": 0.031091898075025992,
+      "margin_remainder_probability": 0.0310923003074548,
       "market_line": 2.5,
       "home_line_odds": 1.9,
       "away_line": -2.5,
       "away_line_odds": 1.9,
-      "home_cover_probability": 0.53417155575333,
-      "away_cover_probability": 0.46582844424667,
-      "home_line_fair_odds": 1.8720577485443282,
-      "away_line_fair_odds": 2.1467130493011934,
-      "home_line_ev": 0.01492595593132684,
-      "away_line_ev": -0.11492595593132704,
+      "home_cover_probability": 0.53421821579155,
+      "away_cover_probability": 0.46578178420844996,
+      "home_line_fair_odds": 1.871894238047091,
+      "away_line_fair_odds": 2.146928097884723,
+      "home_line_ev": 0.015014610003944995,
+      "away_line_ev": -0.11501461000394508,
       "market_total": 49.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.34549298500145753,
-      "under_probability": 0.6545070149985425,
-      "over_ev": -0.3435633284972307,
-      "under_ev": 0.24356332849723072,
+      "over_probability": 0.4086239073907718,
+      "under_probability": 0.5913760926092282,
+      "over_ev": -0.22361457595753365,
+      "under_ev": 0.12361457595753356,
       "confidence": "Developing",
-      "confidence_score": 55,
+      "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 53,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-25T11:38:31.619663+00:00",
+      "bookmaker_observed_at": "2026-08-25T12:12:16.248720+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -155,10 +155,10 @@
         "availability_margin": 0.5719962468114284,
         "availability_total": -3.9505743775053057,
         "weather_total": 0.5734170897986461,
-        "referee_margin": 0.0,
-        "referee_total": 0.0,
+        "referee_margin": 0.060298672566371725,
+        "referee_total": 2.1636050366246486,
         "late_season_margin": 0.0,
-        "controlled_context_margin": 1.2735360606177055
+        "controlled_context_margin": 1.2750327941231028
       },
       "drivers": [
         "Point-in-time scoring base: Brisbane Broncos 21.5 PF / 26.0 PA from 68 prior games; Melbourne Storm 24.2 PF / 22.8 PA from 68 prior games.",
@@ -170,8 +170,9 @@
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 4 Brisbane Broncos absence(s), 7 Melbourne Storm absence(s); replacement-adjusted score effects -1.69/-2.26; net pre-team margin swing +0.57 pts.",
         "Weather Fine / Dry: scoring +1.0% vs NRL across 1290 games; Suncorp Stadium in fine / dry conditions +2.7% vs its own baseline across 147 games. Sample-shrunk forecast effect +0.6 points.",
+        "Referee Wyatt Raymond environment: stoppages -3.5% vs NRL, historical scoring +14.5% vs NRL and home-win environment +8.0% vs NRL; conservative adjustments +2.2 total points and +0.1 home-margin points.",
         "Late-season elite interaction input: Inactive because neither side currently faces a top-eight opponent.",
-        "Stacked-advantage control: learned context +0.70, live availability +0.57, final downstream adjustment +1.27; same-direction evidence cap 5.00, opposing cap 5.00.",
+        "Stacked-advantage control: learned context +0.70, live availability +0.57, final downstream adjustment +1.28; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: INACTIVE: opposing context remained inside the protected reversal allowance.",
         "Market-relative H2H calibration retains 76.6% of the +2.3pp raw market disagreement, leaving +1.8pp of betting edge."
@@ -180,397 +181,397 @@
         {
           "player": "Sualauvi Faalogo",
           "team": "Melbourne Storm",
-          "probability": 0.4005183006690304,
-          "fair_odds": 2.4967648128177626,
+          "probability": 0.4101559800270751,
+          "fair_odds": 2.438096842898617,
           "bookmaker_odds": 1.82,
           "bookmaker_prices": {
             "Betcha": 1.82
           },
-          "ev": -0.27105669278236466
+          "ev": -0.25351611635072335
         },
         {
           "player": "Moses Leo",
           "team": "Melbourne Storm",
-          "probability": 0.3648435658507414,
-          "fair_odds": 2.74090074102911,
+          "probability": 0.36094166396151944,
+          "fair_odds": 2.770530808287656,
           "bookmaker_odds": 1.8,
           "bookmaker_prices": {
             "Betcha": 1.8
           },
-          "ev": -0.3432815814686655
+          "ev": -0.35030500486926497
         },
         {
           "player": "Nick Meaney",
           "team": "Melbourne Storm",
-          "probability": 0.3327030948815847,
-          "fair_odds": 3.005682890794625,
+          "probability": 0.33786808482680447,
+          "fair_odds": 2.95973501170616,
           "bookmaker_odds": 3.2,
           "bookmaker_prices": {
             "Betcha": 3.2
           },
-          "ev": 0.06464990362107126
+          "ev": 0.08117787144577426
         },
         {
           "player": "Siulagi Tuimalatu-Brown",
           "team": "Melbourne Storm",
-          "probability": 0.31059956806377215,
-          "fair_odds": 3.2195794934096,
+          "probability": 0.3148451706396835,
+          "fair_odds": 3.176164328543646,
           "bookmaker_odds": 2.05,
           "bookmaker_prices": {
             "Betcha": 2.05
           },
-          "ev": -0.3632708854692671
+          "ev": -0.35456740018864896
         },
         {
           "player": "Grant Anderson",
           "team": "Brisbane Broncos",
-          "probability": 0.30543519256841084,
-          "fair_odds": 3.2740169578724028,
+          "probability": 0.309862653958297,
+          "fair_odds": 3.227236284288024,
           "bookmaker_odds": 1.91,
           "bookmaker_prices": {
             "Betcha": 1.91
           },
-          "ev": -0.41661878219433535
+          "ev": -0.4081623309396528
         },
         {
           "player": "Josiah Karapani",
           "team": "Brisbane Broncos",
-          "probability": 0.29927415052976114,
-          "fair_odds": 3.3414178880128693,
+          "probability": 0.30362679721559166,
+          "fair_odds": 3.293516939777701,
           "bookmaker_odds": 2.15,
           "bookmaker_prices": {
             "Betcha": 2.15
           },
-          "ev": -0.35656057636101357
+          "ev": -0.347202385986478
         },
         {
           "player": "Tyran Wishart",
           "team": "Melbourne Storm",
-          "probability": 0.27310147827629583,
-          "fair_odds": 3.6616425744437144,
+          "probability": 0.277013749384471,
+          "fair_odds": 3.6099291180384228,
           "bookmaker_odds": 3.15,
           "bookmaker_prices": {
             "Betcha": 3.15
           },
-          "ev": -0.13973034342966817
+          "ev": -0.12740668943891642
         },
         {
           "player": "Harry Grant",
           "team": "Melbourne Storm",
-          "probability": 0.264633205316188,
-          "fair_odds": 3.778815280588783,
+          "probability": 0.26872730799314215,
+          "fair_odds": 3.721244437225262,
           "bookmaker_odds": 3.05,
           "bookmaker_prices": {
             "Betcha": 3.05
           },
-          "ev": -0.19286872378562658
+          "ev": -0.18038171062091646
         },
         {
           "player": "Deine Mariner",
           "team": "Brisbane Broncos",
-          "probability": 0.2510643803852482,
-          "fair_odds": 3.9830421124077424,
+          "probability": 0.2549371072907129,
+          "fair_odds": 3.922536074199933,
           "bookmaker_odds": 3.0,
           "bookmaker_prices": {
             "Betcha": 3.0
           },
-          "ev": -0.24680685884425535
+          "ev": -0.23518867812786137
         },
         {
           "player": "Kotoni Staggs",
           "team": "Brisbane Broncos",
-          "probability": 0.2443103909612694,
-          "fair_odds": 4.093153778950525,
+          "probability": 0.24802044873157955,
+          "fair_odds": 4.031925613852313,
           "bookmaker_odds": 2.35,
           "bookmaker_prices": {
             "Betcha": 2.35
           },
-          "ev": -0.42587058124101684
+          "ev": -0.41715194548078804
         },
         {
           "player": "Cameron Munster",
           "team": "Melbourne Storm",
-          "probability": 0.24360474168331578,
-          "fair_odds": 4.1050104078022915,
+          "probability": 0.24719215380147044,
+          "fair_odds": 4.045435846653687,
           "bookmaker_odds": 3.5,
           "bookmaker_prices": {
             "Betcha": 3.5
           },
-          "ev": -0.1473834041083948
+          "ev": -0.1348274616948535
         },
         {
           "player": "Jahrome Hughes",
           "team": "Melbourne Storm",
-          "probability": 0.21914888092219342,
-          "fair_odds": 4.563107946487939,
+          "probability": 0.2225262565516169,
+          "fair_odds": 4.493851716631207,
           "bookmaker_odds": 3.7,
           "bookmaker_prices": {
             "Betcha": 3.7
           },
-          "ev": -0.18914914058788435
+          "ev": -0.1766528507590175
         },
         {
           "player": "Oryn Keeley",
           "team": "Melbourne Storm",
-          "probability": 0.2060868634692153,
-          "fair_odds": 4.852322866029631,
+          "probability": 0.20894682532409278,
+          "fair_odds": 4.785906646099658,
           "bookmaker_odds": 3.9,
           "bookmaker_prices": {
             "Betcha": 3.9
           },
-          "ev": -0.19626123247006044
+          "ev": -0.1851073812360382
         },
         {
           "player": "Hayze Perham",
           "team": "Brisbane Broncos",
-          "probability": 0.19516955172690487,
-          "fair_odds": 5.123750047852091,
+          "probability": 0.19785333040347172,
+          "fair_odds": 5.0542490134523055,
           "bookmaker_odds": 3.1,
           "bookmaker_prices": {
             "Betcha": 3.1
           },
-          "ev": -0.3949743896465949
+          "ev": -0.3866546757492376
         },
         {
           "player": "Ezra Mam",
           "team": "Brisbane Broncos",
-          "probability": 0.18351368042596097,
-          "fair_odds": 5.449185029033584,
+          "probability": 0.1864601878679915,
+          "fair_odds": 5.363075149897261,
           "bookmaker_odds": 2.65,
           "bookmaker_prices": {
             "Betcha": 2.65
           },
-          "ev": -0.5136887468712035
+          "ev": -0.5058805021498225
         },
         {
           "player": "Shawn Blore",
           "team": "Melbourne Storm",
-          "probability": 0.15049666670788545,
-          "fair_odds": 6.644665439275166,
+          "probability": 0.15267411267555647,
+          "fair_odds": 6.549898882497993,
           "bookmaker_odds": 5.6,
           "bookmaker_prices": {
             "Betcha": 5.6
           },
-          "ev": -0.1572186664358416
+          "ev": -0.14502496901688378
         },
         {
           "player": "Trent Loiero",
           "team": "Melbourne Storm",
-          "probability": 0.1354304935897243,
-          "fair_odds": 7.383861444302336,
+          "probability": 0.13743106692068915,
+          "fair_odds": 7.2763751486925115,
           "bookmaker_odds": 9.25,
           "bookmaker_prices": {
             "Betcha": 9.25
           },
-          "ev": 0.2527320657049499
+          "ev": 0.27123736901637474
         },
         {
           "player": "Jordan Riki",
           "team": "Brisbane Broncos",
-          "probability": 0.13022798737358712,
-          "fair_odds": 7.678840932489296,
+          "probability": 0.13218171811564416,
+          "fair_odds": 7.5653427285996715,
           "bookmaker_odds": 5.4,
           "bookmaker_prices": {
             "Betcha": 5.4
           },
-          "ev": -0.2967688681826295
+          "ev": -0.28621872217552147
         },
         {
           "player": "Ben Hunt",
           "team": "Brisbane Broncos",
-          "probability": 0.12668237399441404,
-          "fair_odds": 7.893757974918391,
+          "probability": 0.1286322205210764,
+          "fair_odds": 7.774101978097703,
           "bookmaker_odds": 5.75,
           "bookmaker_prices": {
             "Betcha": 5.75
           },
-          "ev": -0.2715763495321193
+          "ev": -0.2603647320038107
         },
         {
           "player": "Xavier Willison",
           "team": "Brisbane Broncos",
-          "probability": 0.09069236165909765,
-          "fair_odds": 11.026286907809139,
+          "probability": 0.09213480359393852,
+          "fair_odds": 10.853661819340864,
           "bookmaker_odds": 4.5,
           "bookmaker_prices": {
             "Betcha": 4.5
           },
-          "ev": -0.5918843725340606
+          "ev": -0.5853933838272767
         },
         {
           "player": "Cooper Clarke",
           "team": "Melbourne Storm",
-          "probability": 0.09032209800681287,
-          "fair_odds": 11.071487731878985,
+          "probability": 0.0917058218736789,
+          "fair_odds": 10.904433105429883,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6
           },
-          "ev": -0.40387415315503505
+          "ev": -0.39474157563371925
         },
         {
           "player": "Billy Walters",
           "team": "Brisbane Broncos",
-          "probability": 0.08964781441633003,
-          "fair_odds": 11.154761624817061,
+          "probability": 0.08906280304567221,
+          "fair_odds": 11.228031970734078,
           "bookmaker_odds": 5.0,
           "bookmaker_prices": {
             "Betcha": 5.0
           },
-          "ev": -0.5517609279183499
+          "ev": -0.554685984771639
         },
         {
           "player": "Stefano Utoikamanu",
           "team": "Melbourne Storm",
-          "probability": 0.08731677511656066,
-          "fair_odds": 11.45255305942166,
+          "probability": 0.08850440994439644,
+          "fair_odds": 11.298872006810253,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0
           },
-          "ev": -0.38878257418407536
-        },
-        {
-          "player": "Jack Gosiewski",
-          "team": "Brisbane Broncos",
-          "probability": 0.08683902745454804,
-          "fair_odds": 11.515559643081042,
-          "bookmaker_odds": 7.5,
-          "bookmaker_prices": {
-            "Betcha": 7.5
-          },
-          "ev": -0.34870729409088974
+          "ev": -0.3804691303892249
         },
         {
           "player": "Trent Toelau",
           "team": "Melbourne Storm",
-          "probability": 0.08673574428038729,
-          "fair_odds": 11.529272139146448,
+          "probability": 0.08791075432253331,
+          "fair_odds": 11.375172556603575,
           "bookmaker_odds": 9.75,
           "bookmaker_prices": {
             "Betcha": 9.75
           },
-          "ev": -0.15432649326622394
+          "ev": -0.14287014535530018
+        },
+        {
+          "player": "Jack Gosiewski",
+          "team": "Brisbane Broncos",
+          "probability": 0.08790146866536698,
+          "fair_odds": 11.376374196964905,
+          "bookmaker_odds": 7.5,
+          "bookmaker_prices": {
+            "Betcha": 7.5
+          },
+          "ev": -0.34073898500974764
         },
         {
           "player": "Josh King",
           "team": "Melbourne Storm",
-          "probability": 0.08499903733205799,
-          "fair_odds": 11.76483912509963,
+          "probability": 0.08557739272137489,
+          "fair_odds": 11.68532912957311,
           "bookmaker_odds": 9.25,
           "bookmaker_prices": {
             "Betcha": 9.25
           },
-          "ev": -0.2137589046784636
+          "ev": -0.2084091173272823
         },
         {
           "player": "Alec MacDonald",
           "team": "Melbourne Storm",
-          "probability": 0.08390340760665367,
-          "fair_odds": 11.918467062602335,
+          "probability": 0.08492438748185442,
+          "fair_odds": 11.775180600668653,
           "bookmaker_odds": 11.0,
           "bookmaker_prices": {
             "Betcha": 11.0
           },
-          "ev": -0.0770625163268096
+          "ev": -0.06583173769960138
         },
         {
           "player": "Jaiyden Hunt",
           "team": "Brisbane Broncos",
-          "probability": 0.08342117270142524,
-          "fair_odds": 11.987364449779728,
+          "probability": 0.08460419815599135,
+          "fair_odds": 11.819744431076838,
           "bookmaker_odds": 6.2,
           "bookmaker_prices": {
             "Betcha": 6.2
           },
-          "ev": -0.48278872925116345
+          "ev": -0.4754539714328536
         },
         {
           "player": "Payne Haas",
           "team": "Brisbane Broncos",
-          "probability": 0.07511104232626607,
-          "fair_odds": 13.313621659731693,
+          "probability": 0.07601994971746026,
+          "fair_odds": 13.154441744787421,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0
           },
-          "ev": -0.4742227037161375
+          "ev": -0.4678603519777782
         },
         {
           "player": "Patrick Carrigan",
           "team": "Brisbane Broncos",
-          "probability": 0.07240481152534237,
-          "fair_odds": 13.811236835413771,
+          "probability": 0.07324990196416109,
+          "fair_odds": 13.651895404437115,
           "bookmaker_odds": 10.5,
           "bookmaker_prices": {
             "Betcha": 10.5
           },
-          "ev": -0.2397494789839052
+          "ev": -0.23087602937630858
         },
         {
           "player": "Jack Hetherington",
           "team": "Melbourne Storm",
-          "probability": 0.06922903287146247,
-          "fair_odds": 14.44480673096647,
+          "probability": 0.0700308039236826,
+          "fair_odds": 14.279430535879168,
           "bookmaker_odds": 9.75,
           "bookmaker_prices": {
             "Betcha": 9.75
           },
-          "ev": -0.3250169295032409
+          "ev": -0.31719966174409464
         },
         {
           "player": "Blake Mozer",
           "team": "Brisbane Broncos",
-          "probability": 0.06365729623017473,
-          "fair_odds": 15.709118344960144,
+          "probability": 0.06438897027353675,
+          "fair_odds": 15.530610223331843,
           "bookmaker_odds": 8.5,
           "bookmaker_prices": {
             "Betcha": 8.5
           },
-          "ev": -0.4589129820435148
+          "ev": -0.4526937526749376
         },
         {
           "player": "Va'a Semu",
           "team": "Brisbane Broncos",
-          "probability": 0.04466252122315612,
-          "fair_odds": 22.390137695171834,
+          "probability": 0.0451081659831735,
+          "fair_odds": 22.16893500775504,
           "bookmaker_odds": 10.5,
           "bookmaker_prices": {
             "Betcha": 10.5
           },
-          "ev": -0.5310435271568608
+          "ev": -0.5263642571766782
         },
         {
           "player": "Aublix Tawha",
           "team": "Brisbane Broncos",
-          "probability": 0.04339314151989321,
-          "fair_odds": 23.0451164625073,
+          "probability": 0.04381936141476431,
+          "fair_odds": 22.820962417381654,
           "bookmaker_odds": 9.5,
           "bookmaker_prices": {
             "Betcha": 9.5
           },
-          "ev": -0.5877651555610145
+          "ev": -0.5837160665597391
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.14512,
-        "fair_odds": 6.890848952590959,
+        "probability": 0.14496,
+        "fair_odds": 6.898454746136865,
         "singles_product_odds": 3.2760000000000002,
         "target_met": false,
         "legs": [
           {
             "player": "Sualauvi Faalogo",
             "team": "Melbourne Storm",
-            "probability": 0.4005183006690304,
-            "fair_odds": 2.4967648128177626,
+            "probability": 0.4101559800270751,
+            "fair_odds": 2.438096842898617,
             "market_odds": 1.82
           },
           {
             "player": "Moses Leo",
             "team": "Melbourne Storm",
-            "probability": 0.3648435658507414,
-            "fair_odds": 2.74090074102911,
+            "probability": 0.36094166396151944,
+            "fair_odds": 2.770530808287656,
             "market_odds": 1.8
           }
         ],
@@ -604,7 +605,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:39:20.822037+00:00"
+          "observed_at": "2026-08-25T12:13:06.170600+00:00"
         },
         "Best Available": {
           "home_h2h": null,
@@ -616,7 +617,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:39:20.822037+00:00",
+          "observed_at": "2026-08-25T12:13:06.170600+00:00",
           "price_sources": {
             "away_h2h": "Betcha",
             "away_line_odds": "Betcha",
@@ -636,7 +637,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:39:20.822037+00:00",
+          "observed_at": "2026-08-25T12:13:06.170600+00:00",
           "home_cover_probability": 0.8953434448375184,
           "away_cover_probability": 0.10465655516248162,
           "over_probability": 0.3507686359156478,
@@ -656,7 +657,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:39:20.822037+00:00",
+          "observed_at": "2026-08-25T12:13:06.170600+00:00",
           "home_cover_probability": 0.8953434448375184,
           "away_cover_probability": 0.10465655516248162,
           "over_probability": 0.3507686359156478,
@@ -711,7 +712,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 70,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-25T11:39:20.822037+00:00",
+      "bookmaker_observed_at": "2026-08-25T12:13:06.170600+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1168,7 +1169,7 @@
           "total": 40.5,
           "over_odds": 1.96,
           "under_odds": 1.85,
-          "observed_at": "2026-08-25T11:40:10.021193+00:00"
+          "observed_at": "2026-08-25T12:13:55.023642+00:00"
         },
         "Best Available": {
           "home_h2h": 1.35,
@@ -1180,7 +1181,7 @@
           "total": 40.5,
           "over_odds": 1.96,
           "under_odds": 1.85,
-          "observed_at": "2026-08-25T11:40:10.021193+00:00",
+          "observed_at": "2026-08-25T12:13:55.023642+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "home_line_odds": "Betcha",
@@ -1200,7 +1201,7 @@
           "total": 40.5,
           "over_odds": 1.96,
           "under_odds": 1.85,
-          "observed_at": "2026-08-25T11:40:10.021193+00:00",
+          "observed_at": "2026-08-25T12:13:55.023642+00:00",
           "home_cover_probability": 0.8690368552910435,
           "away_cover_probability": 0.13096314470895654,
           "over_probability": 0.5136670726162725,
@@ -1220,7 +1221,7 @@
           "total": 40.5,
           "over_odds": 1.96,
           "under_odds": 1.85,
-          "observed_at": "2026-08-25T11:40:10.021193+00:00",
+          "observed_at": "2026-08-25T12:13:55.023642+00:00",
           "home_cover_probability": 0.8690368552910435,
           "away_cover_probability": 0.13096314470895654,
           "over_probability": 0.5136670726162725,
@@ -1275,7 +1276,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-25T11:40:10.021193+00:00",
+      "bookmaker_observed_at": "2026-08-25T12:13:55.023642+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1733,7 +1734,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:40:57.273159+00:00"
+          "observed_at": "2026-08-25T12:14:42.955854+00:00"
         },
         "Best Available": {
           "home_h2h": 3.1,
@@ -1745,7 +1746,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:40:57.273159+00:00",
+          "observed_at": "2026-08-25T12:14:42.955854+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -1767,7 +1768,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:40:57.273159+00:00",
+          "observed_at": "2026-08-25T12:14:42.955854+00:00",
           "home_cover_probability": 0.6188365705617542,
           "away_cover_probability": 0.38116342943824577,
           "over_probability": 0.36965328685916765,
@@ -1787,7 +1788,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:40:57.273159+00:00",
+          "observed_at": "2026-08-25T12:14:42.955854+00:00",
           "home_cover_probability": 0.6188365705617542,
           "away_cover_probability": 0.38116342943824577,
           "over_probability": 0.36965328685916765,
@@ -1842,7 +1843,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 64,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-25T11:40:57.273159+00:00",
+      "bookmaker_observed_at": "2026-08-25T12:14:42.955854+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2300,7 +2301,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:20:52.626163+00:00"
+          "observed_at": "2026-08-25T12:15:31.633819+00:00"
         },
         "Best Available": {
           "home_h2h": 1.55,
@@ -2312,7 +2313,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:20:52.626163+00:00",
+          "observed_at": "2026-08-25T12:15:31.633819+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -2334,7 +2335,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:20:52.626163+00:00",
+          "observed_at": "2026-08-25T12:15:31.633819+00:00",
           "home_cover_probability": 0.4392661411882439,
           "away_cover_probability": 0.5607338588117561,
           "over_probability": 0.4988295240349985,
@@ -2354,7 +2355,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:20:52.626163+00:00",
+          "observed_at": "2026-08-25T12:15:31.633819+00:00",
           "home_cover_probability": 0.4392661411882439,
           "away_cover_probability": 0.5607338588117561,
           "over_probability": 0.4988295240349985,
@@ -2409,7 +2410,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 56,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-25T11:20:52.626163+00:00",
+      "bookmaker_observed_at": "2026-08-25T12:15:31.633819+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2866,7 +2867,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:21:37.977327+00:00"
+          "observed_at": "2026-08-25T12:16:16.982255+00:00"
         },
         "Best Available": {
           "home_h2h": 1.28,
@@ -2878,7 +2879,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:21:37.977327+00:00",
+          "observed_at": "2026-08-25T12:16:16.982255+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -2900,7 +2901,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:21:37.977327+00:00",
+          "observed_at": "2026-08-25T12:16:16.982255+00:00",
           "home_cover_probability": 0.37776184023208603,
           "away_cover_probability": 0.622238159767914,
           "over_probability": 0.35412244794662673,
@@ -2920,7 +2921,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:21:37.977327+00:00",
+          "observed_at": "2026-08-25T12:16:16.982255+00:00",
           "home_cover_probability": 0.37776184023208603,
           "away_cover_probability": 0.622238159767914,
           "over_probability": 0.35412244794662673,
@@ -2975,7 +2976,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-25T11:21:37.977327+00:00",
+      "bookmaker_observed_at": "2026-08-25T12:16:16.982255+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -3433,7 +3434,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:22:25.213211+00:00"
+          "observed_at": "2026-08-25T12:17:03.769338+00:00"
         },
         "Best Available": {
           "home_h2h": 1.28,
@@ -3445,7 +3446,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:22:25.213211+00:00",
+          "observed_at": "2026-08-25T12:17:03.769338+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -3467,7 +3468,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:22:25.213211+00:00",
+          "observed_at": "2026-08-25T12:17:03.769338+00:00",
           "home_cover_probability": 0.42752449212493815,
           "away_cover_probability": 0.5724755078750619,
           "over_probability": 0.4161734769618167,
@@ -3487,7 +3488,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:22:25.213211+00:00",
+          "observed_at": "2026-08-25T12:17:03.769338+00:00",
           "home_cover_probability": 0.42752449212493815,
           "away_cover_probability": 0.5724755078750619,
           "over_probability": 0.4161734769618167,
@@ -3542,7 +3543,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 71,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-25T11:22:25.213211+00:00",
+      "bookmaker_observed_at": "2026-08-25T12:17:03.769338+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -4000,7 +4001,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:23:12.481933+00:00"
+          "observed_at": "2026-08-25T12:17:51.424117+00:00"
         },
         "Best Available": {
           "home_h2h": 2.6,
@@ -4012,7 +4013,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:23:12.481933+00:00",
+          "observed_at": "2026-08-25T12:17:51.424117+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "home_line_odds": "Betcha",
@@ -4032,7 +4033,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:23:12.481933+00:00",
+          "observed_at": "2026-08-25T12:17:51.424117+00:00",
           "home_cover_probability": 0.4096403026376031,
           "away_cover_probability": 0.5903596973623969,
           "over_probability": 0.36667467667427545,
@@ -4052,7 +4053,7 @@
           "total": 52.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-25T11:23:12.481933+00:00",
+          "observed_at": "2026-08-25T12:17:51.424117+00:00",
           "home_cover_probability": 0.4096403026376031,
           "away_cover_probability": 0.5903596973623969,
           "over_probability": 0.36667467667427545,
@@ -4107,7 +4108,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 73,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-25T11:23:12.481933+00:00",
+      "bookmaker_observed_at": "2026-08-25T12:17:51.424117+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
