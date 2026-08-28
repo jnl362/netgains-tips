@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 26,
-  "generated_at": "Fri 28 Aug 2026, 10:37 PM NZT",
-  "generated_at_iso": "2026-08-28T22:37:36.893859+12:00",
+  "generated_at": "Fri 28 Aug 2026, 11:13 PM NZT",
+  "generated_at_iso": "2026-08-28T23:13:05.953793+12:00",
   "engine_version": "1.65.43",
   "fixtures": [
     {
@@ -18,14 +18,14 @@
       "away_team": "Canterbury-Bankstown Bulldogs",
       "kickoff": "Fri 28 Aug, 10:00 PM NZT",
       "venue": "CommBank Stadium",
-      "home_win_probability": 0.70176248899059,
-      "away_win_probability": 0.29823751100941,
-      "independent_home_win_probability": 0.70176248899059,
-      "independent_away_win_probability": 0.29823751100941,
-      "home_fair_odds": 1.4249835459834745,
-      "away_fair_odds": 3.353032274898673,
-      "home_conservative_fair_odds": 1.4249835459834745,
-      "away_conservative_fair_odds": 3.353032274898673,
+      "home_win_probability": 0.7017441399498638,
+      "away_win_probability": 0.29825586005013616,
+      "independent_home_win_probability": 0.7017441399498638,
+      "independent_away_win_probability": 0.29825586005013616,
+      "home_fair_odds": 1.425020806118089,
+      "away_fair_odds": 3.3528259925283685,
+      "home_conservative_fair_odds": 1.425020806118089,
+      "away_conservative_fair_odds": 3.3528259925283685,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -71,14 +71,14 @@
           "over_odds": 1.9,
           "under_odds": 1.9,
           "observed_at": "2026-08-28T09:59:46.168262+00:00",
-          "home_cover_probability": 0.869019699875873,
-          "away_cover_probability": 0.13098030012412698,
-          "over_probability": 0.5137178081768251,
-          "under_probability": 0.4862821918231749,
-          "home_line_fair_odds": 1.1507218997944875,
-          "away_line_fair_odds": 7.634735903432221,
-          "over_fair_odds": 1.9465939939847157,
-          "under_fair_odds": 2.056419126208978
+          "home_cover_probability": 0.8689958592875051,
+          "away_cover_probability": 0.1310041407124949,
+          "over_probability": 0.5137849771356816,
+          "under_probability": 0.4862150228643184,
+          "home_line_fair_odds": 1.1507534694352928,
+          "away_line_fair_odds": 7.6333465076850215,
+          "over_fair_odds": 1.9463395087472897,
+          "under_fair_odds": 2.056703213547264
         },
         "Best Available": {
           "home_h2h": 1.35,
@@ -91,55 +91,55 @@
           "over_odds": 1.9,
           "under_odds": 1.9,
           "observed_at": "2026-08-28T09:59:46.168262+00:00",
-          "home_cover_probability": 0.869019699875873,
-          "away_cover_probability": 0.13098030012412698,
-          "over_probability": 0.5137178081768251,
-          "under_probability": 0.4862821918231749,
-          "home_line_fair_odds": 1.1507218997944875,
-          "away_line_fair_odds": 7.634735903432221,
-          "over_fair_odds": 1.9465939939847157,
-          "under_fair_odds": 2.056419126208978
+          "home_cover_probability": 0.8689958592875051,
+          "away_cover_probability": 0.1310041407124949,
+          "over_probability": 0.5137849771356816,
+          "under_probability": 0.4862150228643184,
+          "home_line_fair_odds": 1.1507534694352928,
+          "away_line_fair_odds": 7.6333465076850215,
+          "over_fair_odds": 1.9463395087472897,
+          "under_fair_odds": 2.056703213547264
         }
       },
       "home_bookmaker_odds": 1.35,
       "away_bookmaker_odds": null,
-      "home_h2h_ev": -0.05262063986270338,
+      "home_h2h_ev": -0.05264541106768372,
       "away_h2h_ev": null,
       "winner": "Penrith Panthers",
-      "home_points": 24.272810086884387,
-      "away_points": 16.674288833397615,
+      "home_points": 24.273905126963395,
+      "away_points": 16.675383873476623,
       "likely_home_points": 24,
       "likely_away_points": 16,
       "projected_margin": 7.598521253486773,
-      "projected_total": 40.947098920282,
+      "projected_total": 40.94928900044002,
       "close_game_probability": 0.39003696866283066,
       "fav_1_12_probability": 0.5800369686628307,
       "fav_13_plus_probability": 0.4199630313371693,
-      "high_scoring_probability": 0.4456484622098701,
+      "high_scoring_probability": 0.44572511501540063,
       "margin_probabilities": {
-        "Penrith Panthers 1-12": 0.32322368530269063,
-        "Penrith Panthers 13+": 0.36634764244677587,
-        "Canterbury-Bankstown Bulldogs 1-12": 0.20558661729307312,
-        "Canterbury-Bankstown Bulldogs 13+": 0.08068254316589193
+        "Penrith Panthers 1-12": 0.3231933895683543,
+        "Penrith Panthers 13+": 0.366360488022087,
+        "Canterbury-Bankstown Bulldogs 1-12": 0.20558486107194054,
+        "Canterbury-Bankstown Bulldogs 13+": 0.08070348676630598
       },
-      "margin_remainder_probability": 0.0241595117915685,
+      "margin_remainder_probability": 0.024157774571312185,
       "market_line": 8.5,
       "home_line_odds": 1.9,
       "away_line": -8.5,
       "away_line_odds": null,
-      "home_cover_probability": 0.869019699875873,
-      "away_cover_probability": 0.13098030012412698,
-      "home_line_fair_odds": 1.1507218997944875,
-      "away_line_fair_odds": 7.634735903432221,
-      "home_line_ev": 0.6511374297641586,
+      "home_cover_probability": 0.8689958592875051,
+      "away_cover_probability": 0.1310041407124949,
+      "home_line_fair_odds": 1.1507534694352928,
+      "away_line_fair_odds": 7.6333465076850215,
+      "home_line_ev": 0.6510921326462595,
       "away_line_ev": null,
       "market_total": 40.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.5137178081768251,
-      "under_probability": 0.4862821918231749,
-      "over_ev": -0.02393616446403235,
-      "under_ev": -0.07606383553596774,
+      "over_probability": 0.5137849771356816,
+      "under_probability": 0.4862150228643184,
+      "over_ev": -0.023808543442204955,
+      "under_ev": -0.07619145655779513,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
@@ -152,7 +152,7 @@
         "ladder": 0.0,
         "availability_margin": -1.5580129007530137,
         "availability_total": -2.039986087014014,
-        "weather_total": 0.3515121476491279,
+        "weather_total": 0.35370222780714217,
         "referee_margin": -0.1209026387184289,
         "referee_total": -0.06893579523414789,
         "late_season_margin": 0.5942285800210666,
@@ -166,7 +166,7 @@
         "Penrith Panthers are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 2 Penrith Panthers absence(s), 2 Canterbury-Bankstown Bulldogs absence(s); replacement-adjusted score effects -1.80/-0.24; net pre-team margin swing -1.56 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1291 games; CommBank Stadium in fine / dry conditions +0.9% vs its own baseline across 92 games. Sample-shrunk forecast effect +0.4 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1292 games; CommBank Stadium in fine / dry conditions +0.9% vs its own baseline across 92 games. Sample-shrunk forecast effect +0.4 points.",
         "Referee Gerard Sutton environment: stoppages -0.2% vs NRL, historical scoring -0.5% vs NRL and home-win environment -4.1% vs NRL; conservative adjustments -0.1 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied +0.59 home-margin points: Penrith Panthers elite effect -1.13 (n=33) inactive; Canterbury-Bankstown Bulldogs elite effect -0.59 (n=39) active.",
         "Stacked-advantage control: learned context +5.61, live availability -1.56, final downstream adjustment +2.29; same-direction evidence cap 3.84, opposing cap 5.00.",
@@ -210,24 +210,24 @@
         {
           "player": "Casey McLean",
           "team": "Penrith Panthers",
-          "probability": 0.3325445076229878,
-          "fair_odds": 3.0071162718877904,
+          "probability": 0.33244339588966937,
+          "fair_odds": 3.0080308779299014,
           "bookmaker_odds": 2.55,
           "bookmaker_prices": {
             "Betcha": 2.55
           },
-          "ev": -0.1520115055613811
+          "ev": -0.15226934048134322
         },
         {
           "player": "Izack Tago",
           "team": "Penrith Panthers",
-          "probability": 0.2963851368252696,
-          "fair_odds": 3.373988354178294,
+          "probability": 0.2963054137528938,
+          "fair_odds": 3.3748961496665655,
           "bookmaker_odds": 3.3,
           "bookmaker_prices": {
             "Betcha": 3.3
           },
-          "ev": -0.021929048476610258
+          "ev": -0.022192134615450443
         },
         {
           "player": "Jacob Kiraz",
@@ -276,13 +276,13 @@
         {
           "player": "Liam Martin",
           "team": "Penrith Panthers",
-          "probability": 0.22313398914466115,
-          "fair_odds": 4.48161216421262,
+          "probability": 0.22449605052392238,
+          "fair_odds": 4.454421348020284,
           "bookmaker_odds": 4.1,
           "bookmaker_prices": {
             "Betcha": 4.1
           },
-          "ev": -0.08515064450688936
+          "ev": -0.07956619285191835
         },
         {
           "player": "Matt Burton",
@@ -298,13 +298,13 @@
         {
           "player": "Isaiah Papali'i",
           "team": "Penrith Panthers",
-          "probability": 0.21616669698623198,
-          "fair_odds": 4.626059489930087,
+          "probability": 0.21747408955406416,
+          "fair_odds": 4.5982489318636715,
           "bookmaker_odds": 5.4,
           "bookmaker_prices": {
             "Betcha": 5.4
           },
-          "ev": 0.16730016372565282
+          "ev": 0.17436008359194655
         },
         {
           "player": "Nathan Cleary",
@@ -551,8 +551,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.19912,
-        "fair_odds": 5.02209722780233,
+        "probability": 0.20132,
+        "fair_odds": 4.967216371945162,
         "singles_product_odds": 3.3735,
         "target_met": false,
         "legs": [
@@ -601,7 +601,7 @@
           "total": 52.5,
           "over_odds": 1.82,
           "under_odds": 1.92,
-          "observed_at": "2026-08-28T10:32:53.786824+00:00"
+          "observed_at": "2026-08-28T11:08:05.318653+00:00"
         },
         "Best Available": {
           "home_h2h": 3.35,
@@ -613,7 +613,7 @@
           "total": 52.5,
           "over_odds": 1.82,
           "under_odds": 1.92,
-          "observed_at": "2026-08-28T10:32:53.786824+00:00",
+          "observed_at": "2026-08-28T11:08:05.318653+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -635,15 +635,15 @@
           "total": 52.5,
           "over_odds": 1.82,
           "under_odds": 1.92,
-          "observed_at": "2026-08-28T10:32:53.786824+00:00",
+          "observed_at": "2026-08-28T11:08:05.318653+00:00",
           "home_cover_probability": 0.6468901830994163,
           "away_cover_probability": 0.35310981690058374,
-          "over_probability": 0.39872595405938516,
-          "under_probability": 0.6012740459406148,
+          "over_probability": 0.39879098697341464,
+          "under_probability": 0.6012090130265854,
           "home_line_fair_odds": 1.5458574362788198,
           "away_line_fair_odds": 2.8319801719971576,
-          "over_fair_odds": 2.507988230560639,
-          "under_fair_odds": 1.663135149024486
+          "over_fair_odds": 2.5075792399156325,
+          "under_fair_odds": 1.6633150507272587
         },
         "Best Available": {
           "home_h2h": 3.35,
@@ -655,15 +655,15 @@
           "total": 52.5,
           "over_odds": 1.82,
           "under_odds": 1.92,
-          "observed_at": "2026-08-28T10:32:53.786824+00:00",
+          "observed_at": "2026-08-28T11:08:05.318653+00:00",
           "home_cover_probability": 0.6468901830994163,
           "away_cover_probability": 0.35310981690058374,
-          "over_probability": 0.39872595405938516,
-          "under_probability": 0.6012740459406148,
+          "over_probability": 0.39879098697341464,
+          "under_probability": 0.6012090130265854,
           "home_line_fair_odds": 1.5458574362788198,
           "away_line_fair_odds": 2.8319801719971576,
-          "over_fair_odds": 2.507988230560639,
-          "under_fair_odds": 1.663135149024486
+          "over_fair_odds": 2.5075792399156325,
+          "under_fair_odds": 1.6633150507272587
         }
       },
       "home_bookmaker_odds": 3.35,
@@ -671,16 +671,16 @@
       "home_h2h_ev": 0.09740999009406881,
       "away_h2h_ev": -0.10568814532092874,
       "winner": "South Sydney Rabbitohs",
-      "home_points": 21.73477986479388,
-      "away_points": 27.42881955809623,
+      "home_points": 21.735874904872887,
+      "away_points": 27.429914598175237,
       "likely_home_points": 22,
       "likely_away_points": 28,
       "projected_margin": 5.694039693302351,
-      "projected_total": 49.16359942289011,
+      "projected_total": 49.165789503048124,
       "close_game_probability": 0.4376490076674412,
       "fav_1_12_probability": 0.62,
       "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.7332259798011538,
+      "high_scoring_probability": 0.7333026326066844,
       "margin_probabilities": {
         "Gold Coast Titans 1-12": 0.23675966849976426,
         "Gold Coast Titans 13+": 0.07679232456433238,
@@ -701,23 +701,23 @@
       "market_total": 52.5,
       "over_odds": 1.82,
       "under_odds": 1.92,
-      "over_probability": 0.39872595405938516,
-      "under_probability": 0.6012740459406148,
-      "over_ev": -0.274318763611919,
-      "under_ev": 0.15444616820598056,
+      "over_probability": 0.39879098697341464,
+      "under_probability": 0.6012090130265854,
+      "over_ev": -0.2742004037083853,
+      "under_ev": 0.1543213050110439,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 64,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-28T10:32:53.786824+00:00",
+      "bookmaker_observed_at": "2026-08-28T11:08:05.318653+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": -1.6199999999999999,
         "availability_margin": -1.5897778730208383,
         "availability_total": -1.6066955163449446,
-        "weather_total": -0.1346699457471209,
+        "weather_total": -0.13247986558910674,
         "referee_margin": 0.08810840707964612,
         "referee_total": 2.3386071476361874,
         "late_season_margin": -1.8116837372829413,
@@ -732,7 +732,7 @@
         "Gold Coast Titans are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 4 Gold Coast Titans absence(s), 1 South Sydney Rabbitohs absence(s); replacement-adjusted score effects -1.60/-0.01; net pre-team margin swing -1.59 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1291 games; Cbus Super Stadium in fine / dry conditions -2.9% vs its own baseline across 91 games. Sample-shrunk forecast effect -0.1 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1292 games; Cbus Super Stadium in fine / dry conditions -2.9% vs its own baseline across 91 games. Sample-shrunk forecast effect -0.1 points.",
         "Referee Liam Kennedy environment: stoppages -9.5% vs NRL, historical scoring +15.7% vs NRL and home-win environment +9.8% vs NRL; conservative adjustments +2.3 total points and +0.1 home-margin points.",
         "Late-season elite interaction input: Applied -1.81 home-margin points: Gold Coast Titans elite effect -1.81 (n=44) active; South Sydney Rabbitohs elite effect -1.04 (n=48) inactive.",
         "Stacked-advantage control: learned context -0.52, live availability -1.59, final downstream adjustment -2.11; same-direction evidence cap 4.71, opposing cap 5.00.",
@@ -810,13 +810,13 @@
         {
           "player": "David Fifita",
           "team": "South Sydney Rabbitohs",
-          "probability": 0.35253265591268607,
-          "fair_odds": 2.836616645941805,
+          "probability": 0.352366360922654,
+          "fair_odds": 2.8379553524392884,
           "bookmaker_odds": 2.5,
           "bookmaker_prices": {
             "Betcha": 2.5
           },
-          "ev": -0.11866836021828486
+          "ev": -0.11908409769336503
         },
         {
           "player": "Phillip Sami",
@@ -832,13 +832,13 @@
         {
           "player": "Euan Aitken",
           "team": "South Sydney Rabbitohs",
-          "probability": 0.31943456863146674,
-          "fair_odds": 3.13053156483419,
+          "probability": 0.3192952944888839,
+          "fair_odds": 3.1318970785359146,
           "bookmaker_odds": 3.6,
           "bookmaker_prices": {
             "Betcha": 3.6
           },
-          "ev": 0.14996444707328038
+          "ev": 0.149463060159982
         },
         {
           "player": "Jaylan De Groot",
@@ -854,13 +854,13 @@
         {
           "player": "AJ Brimson",
           "team": "Gold Coast Titans",
-          "probability": 0.24031912074710754,
-          "fair_odds": 4.161133732893103,
+          "probability": 0.2402546939987563,
+          "fair_odds": 4.16224958337412,
           "bookmaker_odds": 3.35,
           "bookmaker_prices": {
             "Betcha": 3.35
           },
-          "ev": -0.1949309454971897
+          "ev": -0.19514677510416645
         },
         {
           "player": "Jye Gray",
@@ -964,24 +964,24 @@
         {
           "player": "Kurtis Morrin",
           "team": "Gold Coast Titans",
-          "probability": 0.12127177201504649,
-          "fair_odds": 8.245942014238297,
+          "probability": 0.12121773758849635,
+          "fair_odds": 8.249617753094418,
           "bookmaker_odds": 5.4,
           "bookmaker_prices": {
             "Betcha": 5.4
           },
-          "ev": -0.3451324311187489
+          "ev": -0.3454242170221197
         },
         {
           "player": "Josh Patston",
           "team": "Gold Coast Titans",
-          "probability": 0.10416023522187029,
-          "fair_odds": 9.600592758550455,
+          "probability": 0.1041152585617205,
+          "fair_odds": 9.604740110280671,
           "bookmaker_odds": 5.4,
           "bookmaker_prices": {
             "Betcha": 5.4
           },
-          "ev": -0.43753472980190045
+          "ev": -0.43777760376670927
         },
         {
           "player": "Lachlan Ilias",
@@ -1107,8 +1107,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.34976,
-        "fair_odds": 2.859103385178408,
+        "probability": 0.351,
+        "fair_odds": 2.8490028490028494,
         "singles_product_odds": 2.52,
         "target_met": false,
         "legs": [
@@ -1157,7 +1157,7 @@
           "total": 46.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:33:44.423116+00:00"
+          "observed_at": "2026-08-28T11:08:55.199578+00:00"
         },
         "Best Available": {
           "home_h2h": 1.55,
@@ -1169,7 +1169,7 @@
           "total": 46.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:33:44.423116+00:00",
+          "observed_at": "2026-08-28T11:08:55.199578+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -1191,15 +1191,15 @@
           "total": 46.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:33:44.423116+00:00",
+          "observed_at": "2026-08-28T11:08:55.199578+00:00",
           "home_cover_probability": 0.4395566604734904,
           "away_cover_probability": 0.5604433395265096,
-          "over_probability": 0.5289655182104573,
-          "under_probability": 0.47103448178954266,
+          "over_probability": 0.5290325494628965,
+          "under_probability": 0.47096745053710354,
           "home_line_fair_odds": 2.275019559305051,
           "away_line_fair_odds": 1.7843016938069953,
-          "over_fair_odds": 1.8904823954935643,
-          "under_fair_odds": 2.1229868272081154
+          "over_fair_odds": 1.890242861266771,
+          "under_fair_odds": 2.1232889849597334
         },
         "Best Available": {
           "home_h2h": 1.55,
@@ -1211,15 +1211,15 @@
           "total": 46.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:33:44.423116+00:00",
+          "observed_at": "2026-08-28T11:08:55.199578+00:00",
           "home_cover_probability": 0.4395566604734904,
           "away_cover_probability": 0.5604433395265096,
-          "over_probability": 0.5289655182104573,
-          "under_probability": 0.47103448178954266,
+          "over_probability": 0.5290325494628965,
+          "under_probability": 0.47096745053710354,
           "home_line_fair_odds": 2.275019559305051,
           "away_line_fair_odds": 1.7843016938069953,
-          "over_fair_odds": 1.8904823954935643,
-          "under_fair_odds": 2.1229868272081154
+          "over_fair_odds": 1.890242861266771,
+          "under_fair_odds": 2.1232889849597334
         }
       },
       "home_bookmaker_odds": 1.55,
@@ -1227,16 +1227,16 @@
       "home_h2h_ev": -0.1016336035725901,
       "away_h2h_ev": 0.030001502421190818,
       "winner": "Sydney Roosters",
-      "home_points": 25.00275801561648,
-      "away_points": 22.44194803695194,
+      "home_points": 25.003853055695487,
+      "away_points": 22.443043077030946,
       "likely_home_points": 24,
       "likely_away_points": 22,
       "projected_margin": 2.5608099786645404,
-      "projected_total": 47.44470605256842,
+      "projected_total": 47.44689613272644,
       "close_game_probability": 0.5159797505333864,
       "fav_1_12_probability": 0.62,
       "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.6730647118398947,
+      "high_scoring_probability": 0.6731413646454253,
       "margin_probabilities": {
         "Sydney Roosters 1-12": 0.34637266127690153,
         "Sydney Roosters 13+": 0.21782957168770145,
@@ -1257,23 +1257,23 @@
       "market_total": 46.5,
       "over_odds": 1.85,
       "under_odds": 1.9,
-      "over_probability": 0.5289655182104573,
-      "under_probability": 0.47103448178954266,
-      "over_ev": -0.021413791310653907,
-      "under_ev": -0.10503448459986897,
+      "over_probability": 0.5290325494628965,
+      "under_probability": 0.47096745053710354,
+      "over_ev": -0.021289783493641523,
+      "under_ev": -0.10516184397950334,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 56,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-28T10:33:44.423116+00:00",
+      "bookmaker_observed_at": "2026-08-28T11:08:55.199578+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": 0.18,
         "availability_margin": -1.3096893675281207,
         "availability_total": -1.0290416459149518,
-        "weather_total": 0.3622018136388528,
+        "weather_total": 0.36439189379686693,
         "referee_margin": -0.0644423477355543,
         "referee_total": 1.1592395421183443,
         "late_season_margin": 0.9832233893981207,
@@ -1287,7 +1287,7 @@
         "Sydney Roosters are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 2 Sydney Roosters absence(s), 0 Dolphins absence(s); replacement-adjusted score effects -1.17/+0.14; net pre-team margin swing -1.31 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1291 games; Allianz Stadium in fine / dry conditions +1.0% vs its own baseline across 74 games. Sample-shrunk forecast effect +0.4 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1292 games; Allianz Stadium in fine / dry conditions +1.0% vs its own baseline across 74 games. Sample-shrunk forecast effect +0.4 points.",
         "Referee Todd Smith environment: stoppages +9.2% vs NRL, historical scoring +7.8% vs NRL and home-win environment -4.7% vs NRL; conservative adjustments +1.2 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied +0.98 home-margin points: Sydney Roosters elite effect +0.98 (n=46) active; Dolphins elite effect +0.00 (n=9) active.",
         "Stacked-advantage control: learned context +3.14, live availability -1.31, final downstream adjustment +1.83; same-direction evidence cap 5.00, opposing cap 5.00.",
@@ -1431,13 +1431,13 @@
         {
           "player": "Siua Wong",
           "team": "Sydney Roosters",
-          "probability": 0.19039804644068226,
-          "fair_odds": 5.252154728969585,
+          "probability": 0.19032419145597715,
+          "fair_odds": 5.2541928188424984,
           "bookmaker_odds": 4.4,
           "bookmaker_prices": {
             "Betcha": 4.4
           },
-          "ev": -0.16224859566099803
+          "ev": -0.1625735575937005
         },
         {
           "player": "Nat Butcher",
@@ -1475,13 +1475,13 @@
         {
           "player": "Salesi Foketi",
           "team": "Sydney Roosters",
-          "probability": 0.14552234757279878,
-          "fair_odds": 6.871796783650303,
+          "probability": 0.14546305758342035,
+          "fair_odds": 6.874597692452042,
           "bookmaker_odds": 4.8,
           "bookmaker_prices": {
             "Betcha": 4.8
           },
-          "ev": -0.3014927316505659
+          "ev": -0.3017773235995823
         },
         {
           "player": "Reece Robson",
@@ -1673,8 +1673,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.25308,
-        "fair_odds": 3.9513197407934246,
+        "probability": 0.25368,
+        "fair_odds": 3.941974140649637,
         "singles_product_odds": 3.9600000000000004,
         "target_met": false,
         "legs": [
@@ -1703,14 +1703,14 @@
       "away_team": "Wests Tigers",
       "kickoff": "Sat 29 Aug, 9:35 PM NZT",
       "venue": "Queensland Country Bank Stadium",
-      "home_win_probability": 0.7153712213139408,
-      "away_win_probability": 0.2846287786860592,
-      "independent_home_win_probability": 0.7153712213139408,
-      "independent_away_win_probability": 0.2846287786860592,
-      "home_fair_odds": 1.3978756346436108,
-      "away_fair_odds": 3.513348174476002,
-      "home_conservative_fair_odds": 1.3851033961604209,
-      "away_conservative_fair_odds": 3.596705222468187,
+      "home_win_probability": 0.7153519226460496,
+      "away_win_probability": 0.28464807735395037,
+      "independent_home_win_probability": 0.7153519226460496,
+      "independent_away_win_probability": 0.28464807735395037,
+      "home_fair_odds": 1.3979133463443447,
+      "away_fair_odds": 3.5131099752925206,
+      "home_conservative_fair_odds": 1.3851323223228564,
+      "away_conservative_fair_odds": 3.596510191532821,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -1723,7 +1723,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:34:33.736063+00:00"
+          "observed_at": "2026-08-28T11:09:43.511921+00:00"
         },
         "Best Available": {
           "home_h2h": 1.28,
@@ -1735,7 +1735,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:34:33.736063+00:00",
+          "observed_at": "2026-08-28T11:09:43.511921+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -1757,15 +1757,15 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:34:33.736063+00:00",
-          "home_cover_probability": 0.35152006181594597,
-          "away_cover_probability": 0.648479938184054,
-          "over_probability": 0.32683130581224284,
-          "under_probability": 0.6731686941877572,
-          "home_line_fair_odds": 2.844787847481646,
-          "away_line_fair_odds": 1.5420677512404033,
-          "over_fair_odds": 3.0596824178601705,
-          "under_fair_odds": 1.485511742649584
+          "observed_at": "2026-08-28T11:09:43.511921+00:00",
+          "home_cover_probability": 0.3515341955800789,
+          "away_cover_probability": 0.6484658044199211,
+          "over_probability": 0.32689208129796,
+          "under_probability": 0.67310791870204,
+          "home_line_fair_odds": 2.8446734701011516,
+          "away_line_fair_odds": 1.542101361681732,
+          "over_fair_odds": 3.0591135644197713,
+          "under_fair_odds": 1.4856458707666207
         },
         "Best Available": {
           "home_h2h": 1.28,
@@ -1777,69 +1777,69 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:34:33.736063+00:00",
-          "home_cover_probability": 0.35152006181594597,
-          "away_cover_probability": 0.648479938184054,
-          "over_probability": 0.32683130581224284,
-          "under_probability": 0.6731686941877572,
-          "home_line_fair_odds": 2.844787847481646,
-          "away_line_fair_odds": 1.5420677512404033,
-          "over_fair_odds": 3.0596824178601705,
-          "under_fair_odds": 1.485511742649584
+          "observed_at": "2026-08-28T11:09:43.511921+00:00",
+          "home_cover_probability": 0.3515341955800789,
+          "away_cover_probability": 0.6484658044199211,
+          "over_probability": 0.32689208129796,
+          "under_probability": 0.67310791870204,
+          "home_line_fair_odds": 2.8446734701011516,
+          "away_line_fair_odds": 1.542101361681732,
+          "over_fair_odds": 3.0591135644197713,
+          "under_fair_odds": 1.4856458707666207
         }
       },
       "home_bookmaker_odds": 1.28,
       "away_bookmaker_odds": 3.75,
-      "home_h2h_ev": -0.08432483671815572,
-      "away_h2h_ev": 0.0673579200727219,
+      "home_h2h_ev": -0.08434953901305642,
+      "away_h2h_ev": 0.06743029007731383,
       "winner": "North Queensland Cowboys",
-      "home_points": 27.875954183167067,
-      "away_points": 19.791207571945975,
+      "home_points": 27.877049223246075,
+      "away_points": 19.792302612024983,
       "likely_home_points": 28,
       "likely_away_points": 20,
       "projected_margin": 8.084746611221092,
-      "projected_total": 47.66716175511304,
+      "projected_total": 47.66935183527106,
       "close_game_probability": 0.3778813347194726,
       "fav_1_12_probability": 0.5678813347194727,
       "fav_13_plus_probability": 0.43211866528052734,
-      "high_scoring_probability": 0.6808506614289564,
+      "high_scoring_probability": 0.680927314234487,
       "margin_probabilities": {
-        "North Queensland Cowboys 1-12": 0.3253429391386836,
-        "North Queensland Cowboys 13+": 0.3779678083635496,
-        "Wests Tigers 1-12": 0.1991544683684559,
-        "Wests Tigers 13+": 0.07365301765464684
+        "North Queensland Cowboys 1-12": 0.3253126712095988,
+        "North Queensland Cowboys 13+": 0.3779796162619782,
+        "Wests Tigers 1-12": 0.199154321263175,
+        "Wests Tigers 13+": 0.07367323811485477
       },
-      "margin_remainder_probability": 0.023881766474664,
+      "margin_remainder_probability": 0.02388015315039327,
       "market_line": -13.5,
       "home_line_odds": 1.9,
       "away_line": 13.5,
       "away_line_odds": 1.9,
-      "home_cover_probability": 0.35152006181594597,
-      "away_cover_probability": 0.648479938184054,
-      "home_line_fair_odds": 2.844787847481646,
-      "away_line_fair_odds": 1.5420677512404033,
-      "home_line_ev": -0.3321118825497027,
-      "away_line_ev": 0.2321118825497026,
+      "home_cover_probability": 0.3515341955800789,
+      "away_cover_probability": 0.6484658044199211,
+      "home_line_fair_odds": 2.8446734701011516,
+      "away_line_fair_odds": 1.542101361681732,
+      "home_line_ev": -0.33208502839785004,
+      "away_line_ev": 0.23208502839784995,
       "market_total": 53.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.32683130581224284,
-      "under_probability": 0.6731686941877572,
-      "over_ev": -0.3790205189567386,
-      "under_ev": 0.2790205189567385,
+      "over_probability": 0.32689208129796,
+      "under_probability": 0.67310791870204,
+      "over_ev": -0.37890504553387605,
+      "under_ev": 0.27890504553387596,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-28T10:34:33.736063+00:00",
+      "bookmaker_observed_at": "2026-08-28T11:09:43.511921+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": 1.08,
         "availability_margin": 0.3944265946117974,
         "availability_total": -1.9819066100521265,
-        "weather_total": 0.004430207644388506,
+        "weather_total": 0.0066202878024026746,
         "referee_margin": -0.11419032348944351,
         "referee_total": 0.3992569816304931,
         "late_season_margin": 2.0,
@@ -1854,7 +1854,7 @@
         "North Queensland Cowboys are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 1 North Queensland Cowboys absence(s), 3 Wests Tigers absence(s); replacement-adjusted score effects -0.79/-1.19; net pre-team margin swing +0.39 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1291 games; Queensland Country Bank Stadium in fine / dry conditions -1.8% vs its own baseline across 41 games. Sample-shrunk forecast effect +0.0 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1292 games; Queensland Country Bank Stadium in fine / dry conditions -1.8% vs its own baseline across 41 games. Sample-shrunk forecast effect +0.0 points.",
         "Referee Grant Atkins environment: stoppages +7.3% vs NRL, historical scoring +2.7% vs NRL and home-win environment -3.6% vs NRL; conservative adjustments +0.4 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied +2.00 home-margin points: North Queensland Cowboys elite effect +0.32 (n=39) inactive; Wests Tigers elite effect -2.00 (n=36) active.",
         "Stacked-advantage control: learned context +4.69, live availability +0.39, final downstream adjustment +4.92; same-direction evidence cap 4.92, opposing cap 5.00.",
@@ -1998,13 +1998,13 @@
         {
           "player": "Patrick Herbert",
           "team": "Wests Tigers",
-          "probability": 0.2126294297725743,
-          "fair_odds": 4.703017832806998,
+          "probability": 0.21257459678603155,
+          "fair_odds": 4.704230962303351,
           "bookmaker_odds": 3.9,
           "bookmaker_prices": {
             "Betcha": 3.9
           },
-          "ev": -0.17074522388696023
+          "ev": -0.17095907253447695
         },
         {
           "player": "Coen Hess",
@@ -2020,13 +2020,13 @@
         {
           "player": "Samuela Fainu",
           "team": "Wests Tigers",
-          "probability": 0.14625468071741674,
-          "fair_odds": 6.837388007650377,
+          "probability": 0.1461882624307036,
+          "fair_odds": 6.840494464964461,
           "bookmaker_odds": 4.0,
           "bookmaker_prices": {
             "Betcha": 4.0
           },
-          "ev": -0.41498127713033306
+          "ev": -0.4152469502771856
         },
         {
           "player": "Reuben Cotter",
@@ -2042,13 +2042,13 @@
         {
           "player": "Solomone Saukuru",
           "team": "Wests Tigers",
-          "probability": 0.1402137315094887,
-          "fair_odds": 7.1319690962816065,
+          "probability": 0.14016618665551667,
+          "fair_odds": 7.134388284798515,
           "bookmaker_odds": 2.8,
           "bookmaker_prices": {
             "Betcha": 2.8
           },
-          "ev": -0.6074015517734317
+          "ev": -0.6075346773645534
         },
         {
           "player": "Reed Mahoney",
@@ -2086,13 +2086,13 @@
         {
           "player": "Tony Sukkar",
           "team": "Wests Tigers",
-          "probability": 0.11405993229983483,
-          "fair_odds": 8.76732065184163,
+          "probability": 0.11400973930740373,
+          "fair_odds": 8.77118048050006,
           "bookmaker_odds": 6.4,
           "bookmaker_prices": {
             "Betcha": 6.4
           },
-          "ev": -0.27001643328105707
+          "ev": -0.2703376684326161
         },
         {
           "player": "Jarome Luai",
@@ -2240,9 +2240,9 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.18056,
-        "fair_odds": 5.538325210456358,
-        "singles_product_odds": 4.2,
+        "probability": 0.17888,
+        "fair_odds": 5.590339892665474,
+        "singles_product_odds": 4.032,
         "target_met": false,
         "legs": [
           {
@@ -2253,11 +2253,11 @@
             "market_odds": 1.68
           },
           {
-            "player": "Jeremiah Nanai",
+            "player": "Jaxon Purdue",
             "team": "North Queensland Cowboys",
-            "probability": 0.4056174862385816,
-            "fair_odds": 2.46537694731387,
-            "market_odds": 2.5
+            "probability": 0.40507360881619564,
+            "fair_odds": 2.4686871181819092,
+            "market_odds": 2.4
           }
         ],
         "method": "Highest simulated joint hit probability"
@@ -2270,14 +2270,14 @@
       "away_team": "Newcastle Knights",
       "kickoff": "Sun 30 Aug, 4:00 PM NZT",
       "venue": "Go Media Stadium",
-      "home_win_probability": 0.7345784977130274,
-      "away_win_probability": 0.2654215022869726,
-      "independent_home_win_probability": 0.7345784977130274,
-      "independent_away_win_probability": 0.2654215022869726,
-      "home_fair_odds": 1.361324900079859,
-      "away_fair_odds": 3.7675922688388837,
-      "home_conservative_fair_odds": 1.3527703825040878,
-      "away_conservative_fair_odds": 3.8347050931590387,
+      "home_win_probability": 0.7345579658587738,
+      "away_win_probability": 0.26544203414122625,
+      "independent_home_win_probability": 0.7345579658587738,
+      "independent_away_win_probability": 0.26544203414122625,
+      "home_fair_odds": 1.36136295088829,
+      "away_fair_odds": 3.767300846812974,
+      "home_conservative_fair_odds": 1.3527997370792613,
+      "away_conservative_fair_odds": 3.8344692325417924,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -2290,7 +2290,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:35:22.255341+00:00"
+          "observed_at": "2026-08-28T11:10:32.061267+00:00"
         },
         "Best Available": {
           "home_h2h": 1.26,
@@ -2302,7 +2302,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:35:22.255341+00:00",
+          "observed_at": "2026-08-28T11:10:32.061267+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -2324,15 +2324,15 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:35:22.255341+00:00",
-          "home_cover_probability": 0.3986230912109192,
-          "away_cover_probability": 0.6013769087890808,
-          "over_probability": 0.41641265024034047,
-          "under_probability": 0.5835873497596595,
-          "home_line_fair_odds": 2.5086354053455486,
-          "away_line_fair_odds": 1.6628506771461808,
-          "over_fair_odds": 2.4014640271443026,
-          "under_fair_odds": 1.7135395419585995
+          "observed_at": "2026-08-28T11:10:32.061267+00:00",
+          "home_cover_probability": 0.3986330016121771,
+          "away_cover_probability": 0.6013669983878229,
+          "over_probability": 0.4164783796228785,
+          "under_probability": 0.5835216203771215,
+          "home_line_fair_odds": 2.508573038247551,
+          "away_line_fair_odds": 1.6628780805745143,
+          "over_fair_odds": 2.4010850236823837,
+          "under_fair_odds": 1.7137325594786266
         },
         "Best Available": {
           "home_h2h": 1.26,
@@ -2344,69 +2344,69 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:35:22.255341+00:00",
-          "home_cover_probability": 0.3986230912109192,
-          "away_cover_probability": 0.6013769087890808,
-          "over_probability": 0.41641265024034047,
-          "under_probability": 0.5835873497596595,
-          "home_line_fair_odds": 2.5086354053455486,
-          "away_line_fair_odds": 1.6628506771461808,
-          "over_fair_odds": 2.4014640271443026,
-          "under_fair_odds": 1.7135395419585995
+          "observed_at": "2026-08-28T11:10:32.061267+00:00",
+          "home_cover_probability": 0.3986330016121771,
+          "away_cover_probability": 0.6013669983878229,
+          "over_probability": 0.4164783796228785,
+          "under_probability": 0.5835216203771215,
+          "home_line_fair_odds": 2.508573038247551,
+          "away_line_fair_odds": 1.6628780805745143,
+          "over_fair_odds": 2.4010850236823837,
+          "under_fair_odds": 1.7137325594786266
         }
       },
       "home_bookmaker_odds": 1.26,
       "away_bookmaker_odds": 3.9,
-      "home_h2h_ev": -0.07443109288158545,
-      "away_h2h_ev": 0.03514385891919303,
+      "home_h2h_ev": -0.07445696301794502,
+      "away_h2h_ev": 0.03522393315078243,
       "winner": "Warriors",
-      "home_points": 27.31082052791167,
-      "away_points": 18.445147038401572,
+      "home_points": 27.311915567990678,
+      "away_points": 18.44624207848058,
       "likely_home_points": 28,
       "likely_away_points": 18,
       "projected_margin": 8.865673489510097,
-      "projected_total": 45.755967566313245,
+      "projected_total": 45.75815764647126,
       "close_game_probability": 0.3583581627622475,
       "fav_1_12_probability": 0.5483581627622476,
       "fav_13_plus_probability": 0.4516418372377524,
-      "high_scoring_probability": 0.6139588648209636,
+      "high_scoring_probability": 0.6140355176264941,
       "margin_probabilities": {
-        "Warriors 1-12": 0.32424210773302375,
-        "Warriors 13+": 0.3986230912109192,
-        "Newcastle Knights 1-12": 0.18848798148453483,
-        "Newcastle Knights 13+": 0.06547681110667651
+        "Warriors 1-12": 0.32421240187852846,
+        "Warriors 13+": 0.3986330016121771,
+        "Newcastle Knights 1-12": 0.18848993354103116,
+        "Newcastle Knights 13+": 0.06549606046522059
       },
-      "margin_remainder_probability": 0.023170008464845737,
+      "margin_remainder_probability": 0.023168602503042757,
       "market_line": -12.5,
       "home_line_odds": 1.94,
       "away_line": 12.5,
       "away_line_odds": 1.8,
-      "home_cover_probability": 0.3986230912109192,
-      "away_cover_probability": 0.6013769087890808,
-      "home_line_fair_odds": 2.5086354053455486,
-      "away_line_fair_odds": 1.6628506771461808,
-      "home_line_ev": -0.22667120305081678,
-      "away_line_ev": 0.08247843582034542,
+      "home_cover_probability": 0.3986330016121771,
+      "away_cover_probability": 0.6013669983878229,
+      "home_line_fair_odds": 2.508573038247551,
+      "away_line_fair_odds": 1.6628780805745143,
+      "home_line_ev": -0.22665197687237648,
+      "away_line_ev": 0.0824605970980814,
       "market_total": 48.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.41641265024034047,
-      "under_probability": 0.5835873497596595,
-      "over_ev": -0.20881596454335316,
-      "under_ev": 0.10881596454335307,
+      "over_probability": 0.4164783796228785,
+      "under_probability": 0.5835216203771215,
+      "over_ev": -0.20869107871653092,
+      "under_ev": 0.10869107871653094,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 71,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-28T10:35:22.255341+00:00",
+      "bookmaker_observed_at": "2026-08-28T11:10:32.061267+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": 0.8999999999999999,
         "availability_margin": 1.0259966335097,
         "availability_total": -1.696700212043336,
-        "weather_total": 0.829776593445986,
+        "weather_total": 0.8319666736040001,
         "referee_margin": -0.09392979050027102,
         "referee_total": 0.11394365834644528,
         "late_season_margin": -0.9966778064686488,
@@ -2421,7 +2421,7 @@
         "Warriors are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 2 Warriors absence(s), 2 Newcastle Knights absence(s); replacement-adjusted score effects -0.34/-1.36; net pre-team margin swing +1.03 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1291 games; Go Media Stadium in fine / dry conditions +4.7% vs its own baseline across 17 games. Sample-shrunk forecast effect +0.8 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1292 games; Go Media Stadium in fine / dry conditions +4.7% vs its own baseline across 17 games. Sample-shrunk forecast effect +0.8 points.",
         "Referee Adam Gee environment: stoppages +6.3% vs NRL, historical scoring +0.8% vs NRL and home-win environment -0.8% vs NRL; conservative adjustments +0.1 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied -1.00 home-margin points: Warriors elite effect -2.00 (n=37) active; Newcastle Knights elite effect -1.00 (n=40) active.",
         "Stacked-advantage control: learned context +5.14, live availability +1.03, final downstream adjustment +4.13; same-direction evidence cap 4.13, opposing cap 5.00.",
@@ -2455,13 +2455,13 @@
         {
           "player": "Leka Halasima",
           "team": "Warriors",
-          "probability": 0.3641563687410516,
-          "fair_odds": 2.746073076950883,
+          "probability": 0.36404933912820986,
+          "fair_odds": 2.746880415700529,
           "bookmaker_odds": 2.3,
           "bookmaker_prices": {
             "Betcha": 2.3
           },
-          "ev": -0.16244035189558137
+          "ev": -0.1626865200051174
         },
         {
           "player": "Greg Marzhew",
@@ -2488,13 +2488,13 @@
         {
           "player": "Ali Leiataua",
           "team": "Warriors",
-          "probability": 0.3425115460106848,
-          "fair_odds": 2.919609606295738,
+          "probability": 0.34241852505336323,
+          "fair_odds": 2.9204027435260924,
           "bookmaker_odds": 2.75,
           "bookmaker_prices": {
             "Betcha": 2.75
           },
-          "ev": -0.05809324847061681
+          "ev": -0.05834905610325114
         },
         {
           "player": "Kalyn Ponga",
@@ -2510,13 +2510,13 @@
         {
           "player": "Bradman Best",
           "team": "Newcastle Knights",
-          "probability": 0.30215045358248416,
-          "fair_odds": 3.3096094615890084,
+          "probability": 0.3020667202550784,
+          "fair_odds": 3.3105268900710283,
           "bookmaker_odds": 3.35,
           "bookmaker_prices": {
             "Betcha": 3.35
           },
-          "ev": 0.012204019501321994
+          "ev": 0.011923512854512763
         },
         {
           "player": "Taine Tuaupiki",
@@ -2543,35 +2543,35 @@
         {
           "player": "Kurt Capewell",
           "team": "Warriors",
-          "probability": 0.2503889485726072,
-          "fair_odds": 3.9937864897820057,
+          "probability": 0.25028155084369946,
+          "fair_odds": 3.9955002541297935,
           "bookmaker_odds": 4.6,
           "bookmaker_prices": {
             "Betcha": 4.6
           },
-          "ev": 0.15178916343399296
+          "ev": 0.15129513388101734
         },
         {
           "player": "Dane Gagai",
           "team": "Newcastle Knights",
-          "probability": 0.24919955552038625,
-          "fair_odds": 4.012848248913482,
+          "probability": 0.24913426991268608,
+          "fair_odds": 4.013899815350451,
           "bookmaker_odds": 4.6,
           "bookmaker_prices": {
             "Betcha": 4.6
           },
-          "ev": 0.14631795539377657
+          "ev": 0.14601764159835584
         },
         {
           "player": "Jacob Laban",
           "team": "Warriors",
-          "probability": 0.23769777627319646,
-          "fair_odds": 4.207022950230112,
+          "probability": 0.23759651509645713,
+          "fair_odds": 4.208815939888805,
           "bookmaker_odds": 3.6,
           "bookmaker_prices": {
             "Betcha": 3.6
           },
-          "ev": -0.14428800541649267
+          "ev": -0.14465254565275432
         },
         {
           "player": "Chanel Harris-Tavita",
@@ -2620,13 +2620,13 @@
         {
           "player": "Jermaine McEwen",
           "team": "Newcastle Knights",
-          "probability": 0.11825136792555291,
-          "fair_odds": 8.456561793260324,
+          "probability": 0.11819893688699695,
+          "fair_odds": 8.460312980276981,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0
           },
-          "ev": -0.17224042452112964
+          "ev": -0.17260744179102128
         },
         {
           "player": "Sam Healey",
@@ -2642,13 +2642,13 @@
         {
           "player": "Francis Manuleleua",
           "team": "Newcastle Knights",
-          "probability": 0.11452713648123418,
-          "fair_odds": 8.731555077026263,
+          "probability": 0.1144771102306129,
+          "fair_odds": 8.735370747789762,
           "bookmaker_odds": 5.5,
           "bookmaker_prices": {
             "Betcha": 5.5
           },
-          "ev": -0.370100749353212
+          "ev": -0.37037589373162905
         },
         {
           "player": "Harrison Graham",
@@ -2807,8 +2807,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.31208,
-        "fair_odds": 3.2043065880543447,
+        "probability": 0.31328,
+        "fair_odds": 3.192032686414709,
         "singles_product_odds": 2.5536,
         "target_met": false,
         "legs": [
@@ -2857,7 +2857,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:36:10.927826+00:00"
+          "observed_at": "2026-08-28T11:11:20.151689+00:00"
         },
         "Best Available": {
           "home_h2h": 2.6,
@@ -2869,7 +2869,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:36:10.927826+00:00",
+          "observed_at": "2026-08-28T11:11:20.151689+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "home_line_odds": "Betcha",
@@ -2889,15 +2889,15 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:36:10.927826+00:00",
+          "observed_at": "2026-08-28T11:11:20.151689+00:00",
           "home_cover_probability": 0.41298777359997796,
           "away_cover_probability": 0.587012226400022,
-          "over_probability": 0.3394730005682496,
-          "under_probability": 0.6605269994317504,
+          "over_probability": 0.33953469434294514,
+          "under_probability": 0.6604653056570549,
           "home_line_fair_odds": 2.4213791882580162,
           "away_line_fair_odds": 1.703542030346989,
-          "over_fair_odds": 2.945742366332766,
-          "under_fair_odds": 1.5139426561825593
+          "over_fair_odds": 2.9452071221621776,
+          "under_fair_odds": 1.5140840729024574
         },
         "Best Available": {
           "home_h2h": 2.6,
@@ -2909,15 +2909,15 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-28T10:36:10.927826+00:00",
+          "observed_at": "2026-08-28T11:11:20.151689+00:00",
           "home_cover_probability": 0.41298777359997796,
           "away_cover_probability": 0.587012226400022,
-          "over_probability": 0.3394730005682496,
-          "under_probability": 0.6605269994317504,
+          "over_probability": 0.33953469434294514,
+          "under_probability": 0.6604653056570549,
           "home_line_fair_odds": 2.4213791882580162,
           "away_line_fair_odds": 1.703542030346989,
-          "over_fair_odds": 2.945742366332766,
-          "under_fair_odds": 1.5139426561825593
+          "over_fair_odds": 2.9452071221621776,
+          "under_fair_odds": 1.5140840729024574
         }
       },
       "home_bookmaker_odds": 2.6,
@@ -2925,16 +2925,16 @@
       "home_h2h_ev": -0.3947304063951713,
       "away_h2h_ev": null,
       "winner": "Cronulla-Sutherland Sharks",
-      "home_points": 19.4079925846275,
-      "away_points": 28.71128358121136,
+      "home_points": 19.409087624706505,
+      "away_points": 28.712378621290366,
       "likely_home_points": 20,
       "likely_away_points": 28,
       "projected_margin": 9.303290996583861,
-      "projected_total": 48.11927616583886,
+      "projected_total": 48.12146624599687,
       "close_game_probability": 0.3474177250854034,
       "fav_1_12_probability": 0.5374177250854034,
       "fav_13_plus_probability": 0.4625822749145966,
-      "high_scoring_probability": 0.6966746658043602,
+      "high_scoring_probability": 0.6967513186098905,
       "margin_probabilities": {
         "Parramatta Eels 1-12": 0.17735342195109305,
         "Parramatta Eels 13+": 0.04362720076093862,
@@ -2955,23 +2955,23 @@
       "market_total": 53.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.3394730005682496,
-      "under_probability": 0.6605269994317504,
-      "over_ev": -0.35500129892032584,
-      "under_ev": 0.25500129892032564,
+      "over_probability": 0.33953469434294514,
+      "under_probability": 0.6604653056570549,
+      "over_ev": -0.3548840807484043,
+      "under_ev": 0.2548840807484041,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 72,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-28T10:36:10.927826+00:00",
+      "bookmaker_observed_at": "2026-08-28T11:11:20.151689+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": -1.44,
         "availability_margin": -0.7295891152533414,
         "availability_total": -0.5732485905561968,
-        "weather_total": 0.3515121476491279,
+        "weather_total": 0.35370222780714217,
         "referee_margin": 0.025709342280139054,
         "referee_total": 0.39746901556971925,
         "late_season_margin": -1.8977777705309358,
@@ -2986,7 +2986,7 @@
         "Parramatta Eels are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 2 Parramatta Eels absence(s), 0 Cronulla-Sutherland Sharks absence(s); replacement-adjusted score effects -0.65/+0.08; net pre-team margin swing -0.73 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1291 games; CommBank Stadium in fine / dry conditions +0.9% vs its own baseline across 92 games. Sample-shrunk forecast effect +0.4 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1292 games; CommBank Stadium in fine / dry conditions +0.9% vs its own baseline across 92 games. Sample-shrunk forecast effect +0.4 points.",
         "Referee Ashley Klein environment: stoppages +2.7% vs NRL, historical scoring +2.7% vs NRL and home-win environment +4.2% vs NRL; conservative adjustments +0.4 total points and +0.0 home-margin points.",
         "Late-season elite interaction input: Applied -1.90 home-margin points: Parramatta Eels elite effect -1.90 (n=40) active; Cronulla-Sutherland Sharks elite effect -0.83 (n=35) inactive.",
         "Stacked-advantage control: learned context -2.23, live availability -0.73, final downstream adjustment -2.96; same-direction evidence cap 3.50, opposing cap 5.00.",
@@ -3020,13 +3020,13 @@
         {
           "player": "KL Iro",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.3715163614298236,
-          "fair_odds": 2.6916714950356013,
+          "probability": 0.37139188479700336,
+          "fair_odds": 2.6925736423847373,
           "bookmaker_odds": 2.5,
           "bookmaker_prices": {
             "Betcha": 2.5
           },
-          "ev": -0.07120909642544104
+          "ev": -0.07152028800749166
         },
         {
           "player": "William Kennedy",
@@ -3042,13 +3042,13 @@
         {
           "player": "Mawene Hiroti",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.32523184207478023,
-          "fair_odds": 3.074729687046052,
+          "probability": 0.3251466650285745,
+          "fair_odds": 3.0755351586094792,
           "bookmaker_odds": 2.9,
           "bookmaker_prices": {
             "Betcha": 2.9
           },
-          "ev": -0.05682765798313738
+          "ev": -0.05707467141713407
         },
         {
           "player": "Josh Addo-Carr",
@@ -3064,13 +3064,13 @@
         {
           "player": "Briton Nikora",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.24715278669623075,
-          "fair_odds": 4.046080213649684,
+          "probability": 0.24704314208191336,
+          "fair_odds": 4.047875976530548,
           "bookmaker_odds": 3.0,
           "bookmaker_prices": {
             "Betcha": 3.0
           },
-          "ev": -0.25854163991130774
+          "ev": -0.2588705737542599
         },
         {
           "player": "Brian Kelly",
@@ -3086,35 +3086,35 @@
         {
           "player": "Sean Russell",
           "team": "Parramatta Eels",
-          "probability": 0.23102042922762372,
-          "fair_odds": 4.328621513445043,
+          "probability": 0.23095865993309123,
+          "fair_odds": 4.329779192041122,
           "bookmaker_odds": 2.9,
           "bookmaker_prices": {
             "Betcha": 2.9
           },
-          "ev": -0.3300407552398912
+          "ev": -0.3302198861940354
         },
         {
           "player": "Will Penisini",
           "team": "Parramatta Eels",
-          "probability": 0.2300086556701188,
-          "fair_odds": 4.3476624698603175,
+          "probability": 0.22994711091535278,
+          "fair_odds": 4.348826110575123,
           "bookmaker_odds": 2.9,
           "bookmaker_prices": {
             "Betcha": 2.9
           },
-          "ev": -0.3329748985566555
+          "ev": -0.333153378345477
         },
         {
           "player": "Teig Wilton",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.2278281760410545,
-          "fair_odds": 4.389272729022773,
+          "probability": 0.22772938206289028,
+          "fair_odds": 4.391176891367657,
           "bookmaker_odds": 3.4,
           "bookmaker_prices": {
             "Betcha": 3.4
           },
-          "ev": -0.2253842014604147
+          "ev": -0.225720100986173
         },
         {
           "player": "Apa Twidle",
@@ -3218,13 +3218,13 @@
         {
           "player": "Kitione Kautoga",
           "team": "Parramatta Eels",
-          "probability": 0.12068052106378797,
-          "fair_odds": 8.286341417695994,
+          "probability": 0.12062692454583472,
+          "fair_odds": 8.290023174884386,
           "bookmaker_odds": 5.5,
           "bookmaker_prices": {
             "Betcha": 5.5
           },
-          "ev": -0.33625713414916614
+          "ev": -0.33655191499790904
         },
         {
           "player": "Tallyn Da Silva",
@@ -3273,13 +3273,13 @@
         {
           "player": "Jack Williams",
           "team": "Parramatta Eels",
-          "probability": 0.1078022901230482,
-          "fair_odds": 9.276240781699306,
+          "probability": 0.1077546110921955,
+          "fair_odds": 9.280345312966643,
           "bookmaker_odds": 4.6,
           "bookmaker_prices": {
             "Betcha": 4.6
           },
-          "ev": -0.5041094654339783
+          "ev": -0.5043287889759007
         },
         {
           "player": "Jesse Colquhoun",
@@ -3372,8 +3372,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.3444,
-        "fair_odds": 2.9036004645760745,
+        "probability": 0.34424,
+        "fair_odds": 2.9049500348594006,
         "singles_product_odds": 2.772,
         "target_met": false,
         "legs": [
