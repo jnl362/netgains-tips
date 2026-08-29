@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 26,
-  "generated_at": "Sat 29 Aug 2026, 3:04 PM NZT",
-  "generated_at_iso": "2026-08-29T15:04:17.483506+12:00",
+  "generated_at": "Sat 29 Aug 2026, 3:39 PM NZT",
+  "generated_at_iso": "2026-08-29T15:39:15.829070+12:00",
   "engine_version": "1.65.43",
   "fixtures": [
     {
@@ -38,7 +38,7 @@
           "total": 54.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T02:59:48.595017+00:00"
+          "observed_at": "2026-08-29T03:34:46.962144+00:00"
         },
         "Best Available": {
           "home_h2h": 3.6,
@@ -50,7 +50,7 @@
           "total": 54.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T02:59:48.595017+00:00",
+          "observed_at": "2026-08-29T03:34:46.962144+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -72,7 +72,7 @@
           "total": 54.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T02:59:48.595017+00:00",
+          "observed_at": "2026-08-29T03:34:46.962144+00:00",
           "home_cover_probability": 0.6762196466959042,
           "away_cover_probability": 0.3237803533040958,
           "over_probability": 0.3398425037969397,
@@ -92,7 +92,7 @@
           "total": 54.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T02:59:48.595017+00:00",
+          "observed_at": "2026-08-29T03:34:46.962144+00:00",
           "home_cover_probability": 0.6762196466959042,
           "away_cover_probability": 0.3237803533040958,
           "over_probability": 0.3398425037969397,
@@ -147,7 +147,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 64,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-29T02:59:48.595017+00:00",
+      "bookmaker_observed_at": "2026-08-29T03:34:46.962144+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -282,11 +282,11 @@
           "team": "Gold Coast Titans",
           "probability": 0.26864430374194165,
           "fair_odds": 3.7223942070277243,
-          "bookmaker_odds": 2.4,
+          "bookmaker_odds": 3.15,
           "bookmaker_prices": {
-            "Betcha": 2.4
+            "Betcha": 3.15
           },
-          "ev": -0.35525367101934
+          "ev": -0.1537704432128838
         },
         {
           "player": "AJ Brimson",
@@ -594,7 +594,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:00:37.752050+00:00"
+          "observed_at": "2026-08-29T03:35:35.476299+00:00"
         },
         "Best Available": {
           "home_h2h": 1.55,
@@ -606,7 +606,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:00:37.752050+00:00",
+          "observed_at": "2026-08-29T03:35:35.476299+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -628,7 +628,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:00:37.752050+00:00",
+          "observed_at": "2026-08-29T03:35:35.476299+00:00",
           "home_cover_probability": 0.43948478381438527,
           "away_cover_probability": 0.5605152161856147,
           "over_probability": 0.4361255966045815,
@@ -648,7 +648,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:00:37.752050+00:00",
+          "observed_at": "2026-08-29T03:35:35.476299+00:00",
           "home_cover_probability": 0.43948478381438527,
           "away_cover_probability": 0.5605152161856147,
           "over_probability": 0.4361255966045815,
@@ -703,7 +703,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 56,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-29T03:00:37.752050+00:00",
+      "bookmaker_observed_at": "2026-08-29T03:35:35.476299+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1160,7 +1160,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:01:25.241005+00:00"
+          "observed_at": "2026-08-29T03:36:23.499506+00:00"
         },
         "Best Available": {
           "home_h2h": 1.28,
@@ -1172,7 +1172,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:01:25.241005+00:00",
+          "observed_at": "2026-08-29T03:36:23.499506+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -1194,7 +1194,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:01:25.241005+00:00",
+          "observed_at": "2026-08-29T03:36:23.499506+00:00",
           "home_cover_probability": 0.3517848533098533,
           "away_cover_probability": 0.6482151466901467,
           "over_probability": 0.32591119238179167,
@@ -1214,7 +1214,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:01:25.241005+00:00",
+          "observed_at": "2026-08-29T03:36:23.499506+00:00",
           "home_cover_probability": 0.3517848533098533,
           "away_cover_probability": 0.6482151466901467,
           "over_probability": 0.32591119238179167,
@@ -1269,7 +1269,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-29T03:01:25.241005+00:00",
+      "bookmaker_observed_at": "2026-08-29T03:36:23.499506+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1713,33 +1713,33 @@
       "independent_away_win_probability": 0.26545869379754916,
       "home_fair_odds": 1.3613938270809576,
       "away_fair_odds": 3.767064418551857,
-      "home_conservative_fair_odds": 1.3531043725193024,
-      "away_conservative_fair_odds": 3.8320238372163895,
+      "home_conservative_fair_odds": 1.3796925238487718,
+      "away_conservative_fair_odds": 3.6337100079386633,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
-          "home_h2h": 1.26,
-          "away_h2h": 3.9,
-          "home_line": -12.5,
-          "home_line_odds": 1.94,
-          "away_line": 12.5,
-          "away_line_odds": 1.8,
+          "home_h2h": 1.38,
+          "away_h2h": 3.05,
+          "home_line": -8.5,
+          "home_line_odds": 1.9,
+          "away_line": 8.5,
+          "away_line_odds": 1.9,
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:02:13.316616+00:00"
+          "observed_at": "2026-08-29T03:37:12.098119+00:00"
         },
         "Best Available": {
-          "home_h2h": 1.26,
-          "away_h2h": 3.9,
-          "home_line": -12.5,
-          "home_line_odds": 1.94,
-          "away_line": 12.5,
-          "away_line_odds": 1.8,
+          "home_h2h": 1.38,
+          "away_h2h": 3.05,
+          "home_line": -8.5,
+          "home_line_odds": 1.9,
+          "away_line": 8.5,
+          "away_line_odds": 1.9,
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:02:13.316616+00:00",
+          "observed_at": "2026-08-29T03:37:12.098119+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -1752,50 +1752,50 @@
       },
       "bookmaker_views": {
         "Betcha": {
-          "home_h2h": 1.26,
-          "away_h2h": 3.9,
-          "home_line": -12.5,
-          "home_line_odds": 1.94,
-          "away_line": 12.5,
-          "away_line_odds": 1.8,
+          "home_h2h": 1.38,
+          "away_h2h": 3.05,
+          "home_line": -8.5,
+          "home_line_odds": 1.9,
+          "away_line": 8.5,
+          "away_line_odds": 1.9,
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:02:13.316616+00:00",
-          "home_cover_probability": 0.3986110407193374,
-          "away_cover_probability": 0.6013889592806626,
+          "observed_at": "2026-08-29T03:37:12.098119+00:00",
+          "home_cover_probability": 0.5102884345651737,
+          "away_cover_probability": 0.4897115654348263,
           "over_probability": 0.41539849633592374,
           "under_probability": 0.5846015036640763,
-          "home_line_fair_odds": 2.5087112444135773,
-          "away_line_fair_odds": 1.662817357332477,
+          "home_line_fair_odds": 1.9596760033413625,
+          "away_line_fair_odds": 2.04201834423101,
           "over_fair_odds": 2.4073269615095616,
           "under_fair_odds": 1.7105669310331095
         },
         "Best Available": {
-          "home_h2h": 1.26,
-          "away_h2h": 3.9,
-          "home_line": -12.5,
-          "home_line_odds": 1.94,
-          "away_line": 12.5,
-          "away_line_odds": 1.8,
+          "home_h2h": 1.38,
+          "away_h2h": 3.05,
+          "home_line": -8.5,
+          "home_line_odds": 1.9,
+          "away_line": 8.5,
+          "away_line_odds": 1.9,
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:02:13.316616+00:00",
-          "home_cover_probability": 0.3986110407193374,
-          "away_cover_probability": 0.6013889592806626,
+          "observed_at": "2026-08-29T03:37:12.098119+00:00",
+          "home_cover_probability": 0.5102884345651737,
+          "away_cover_probability": 0.4897115654348263,
           "over_probability": 0.41539849633592374,
           "under_probability": 0.5846015036640763,
-          "home_line_fair_odds": 2.5087112444135773,
-          "away_line_fair_odds": 1.662817357332477,
+          "home_line_fair_odds": 1.9596760033413625,
+          "away_line_fair_odds": 2.04201834423101,
           "over_fair_odds": 2.4073269615095616,
           "under_fair_odds": 1.7105669310331095
         }
       },
-      "home_bookmaker_odds": 1.26,
-      "away_bookmaker_odds": 3.9,
-      "home_h2h_ev": -0.07447795418491199,
-      "away_h2h_ev": 0.03528890581044175,
+      "home_bookmaker_odds": 1.38,
+      "away_bookmaker_odds": 3.05,
+      "home_h2h_ev": 0.013667002559382135,
+      "away_h2h_ev": -0.19035098391747507,
       "winner": "Warriors",
       "home_points": 27.2935299817921,
       "away_points": 18.428636416763634,
@@ -1814,16 +1814,16 @@
         "Newcastle Knights 13+": 0.06550176728395694
       },
       "margin_remainder_probability": 0.02316949929935308,
-      "market_line": -12.5,
-      "home_line_odds": 1.94,
-      "away_line": 12.5,
-      "away_line_odds": 1.8,
-      "home_cover_probability": 0.3986110407193374,
-      "away_cover_probability": 0.6013889592806626,
-      "home_line_fair_odds": 2.5087112444135773,
-      "away_line_fair_odds": 1.662817357332477,
-      "home_line_ev": -0.22669458100448547,
-      "away_line_ev": 0.0825001267051928,
+      "market_line": -8.5,
+      "home_line_odds": 1.9,
+      "away_line": 8.5,
+      "away_line_odds": 1.9,
+      "home_cover_probability": 0.5102884345651737,
+      "away_cover_probability": 0.4897115654348263,
+      "home_line_fair_odds": 1.9596760033413625,
+      "away_line_fair_odds": 2.04201834423101,
+      "home_line_ev": -0.030451974326169973,
+      "away_line_ev": -0.06954802567383012,
       "market_total": 48.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
@@ -1836,7 +1836,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 71,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-29T03:02:13.316616+00:00",
+      "bookmaker_observed_at": "2026-08-29T03:37:12.098119+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1864,7 +1864,7 @@
         "Stacked-advantage control: learned context +5.14, live availability +1.03, final downstream adjustment +4.14; same-direction evidence cap 4.14, opposing cap 5.00.",
         "Extreme-stack guardrail: Same-direction context exceeded the 4.14-point evidence cap for |raw margin|=4.73.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 71/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 78.8% of the -2.1pp raw market disagreement, leaving -1.7pp of betting edge."
+        "Market-relative H2H calibration retains 78.8% of the +4.6pp raw market disagreement, leaving +3.6pp of betting edge."
       ],
       "ats_players": [
         {
@@ -1872,143 +1872,143 @@
           "team": "Warriors",
           "probability": 0.6322039983384683,
           "fair_odds": 1.5817679145151842,
-          "bookmaker_odds": 1.52,
+          "bookmaker_odds": 1.55,
           "bookmaker_prices": {
-            "Betcha": 1.52
+            "Betcha": 1.55
           },
-          "ev": -0.03904992252552819
+          "ev": -0.02008380257537412
         },
         {
           "player": "Luke Laulilii",
           "team": "Warriors",
           "probability": 0.43895615884416006,
           "fair_odds": 2.2781318358379017,
-          "bookmaker_odds": 1.68,
+          "bookmaker_odds": 1.72,
           "bookmaker_prices": {
-            "Betcha": 1.68
+            "Betcha": 1.72
           },
-          "ev": -0.2625536531418111
+          "ev": -0.24499540678804466
         },
         {
           "player": "Greg Marzhew",
           "team": "Newcastle Knights",
           "probability": 0.36457655733261857,
           "fair_odds": 2.7429081214557023,
-          "bookmaker_odds": 2.25,
+          "bookmaker_odds": 2.1,
           "bookmaker_prices": {
-            "Betcha": 2.25
+            "Betcha": 2.1
           },
-          "ev": -0.17970274600160818
+          "ev": -0.234389229601501
         },
         {
           "player": "Leka Halasima",
           "team": "Warriors",
           "probability": 0.36214346825746074,
           "fair_odds": 2.7613365631354263,
-          "bookmaker_odds": 2.3,
+          "bookmaker_odds": 2.35,
           "bookmaker_prices": {
-            "Betcha": 2.3
+            "Betcha": 2.35
           },
-          "ev": -0.16707002300784035
+          "ev": -0.1489628495949672
         },
         {
           "player": "Fletcher Hunt",
           "team": "Newcastle Knights",
           "probability": 0.35362443834681273,
           "fair_odds": 2.8278588569132275,
-          "bookmaker_odds": 2.25,
+          "bookmaker_odds": 2.1,
           "bookmaker_prices": {
-            "Betcha": 2.25
+            "Betcha": 2.1
           },
-          "ev": -0.2043450137196714
+          "ev": -0.2573886794716932
         },
         {
           "player": "Ali Leiataua",
           "team": "Warriors",
           "probability": 0.336574513380241,
           "fair_odds": 2.971110289834281,
-          "bookmaker_odds": 2.75,
+          "bookmaker_odds": 2.8,
           "bookmaker_prices": {
-            "Betcha": 2.75
+            "Betcha": 2.8
           },
-          "ev": -0.07442008820433721
+          "ev": -0.05759136253532515
         },
         {
           "player": "Kalyn Ponga",
           "team": "Newcastle Knights",
           "probability": 0.3173473033387629,
           "fair_odds": 3.1511217819693176,
-          "bookmaker_odds": 3.35,
+          "bookmaker_odds": 3.1,
           "bookmaker_prices": {
-            "Betcha": 3.35
+            "Betcha": 3.1
           },
-          "ev": 0.06311346618485558
+          "ev": -0.016223359649835012
         },
         {
           "player": "Bradman Best",
           "team": "Newcastle Knights",
           "probability": 0.3081950824466771,
           "fair_odds": 3.244698105048502,
-          "bookmaker_odds": 3.35,
+          "bookmaker_odds": 3.05,
           "bookmaker_prices": {
-            "Betcha": 3.35
+            "Betcha": 3.05
           },
-          "ev": 0.03245352619636832
+          "ev": -0.06000499853763497
         },
         {
           "player": "Fletcher Sharpe",
           "team": "Newcastle Knights",
           "probability": 0.27071421547523894,
           "fair_odds": 3.6939323568380016,
-          "bookmaker_odds": 2.55,
+          "bookmaker_odds": 2.4,
           "bookmaker_prices": {
-            "Betcha": 2.55
+            "Betcha": 2.4
           },
-          "ev": -0.30967875053814076
+          "ev": -0.3502858828594265
         },
         {
           "player": "Taine Tuaupiki",
           "team": "Warriors",
           "probability": 0.26498307304544505,
           "fair_odds": 3.773825959926498,
-          "bookmaker_odds": 2.85,
+          "bookmaker_odds": 2.9,
           "bookmaker_prices": {
-            "Betcha": 2.85
+            "Betcha": 2.9
           },
-          "ev": -0.2447982418204816
+          "ev": -0.2315490881682094
         },
         {
           "player": "Dane Gagai",
           "team": "Newcastle Knights",
           "probability": 0.2539069420546498,
           "fair_odds": 3.9384508036994292,
-          "bookmaker_odds": 4.6,
+          "bookmaker_odds": 4.2,
           "bookmaker_prices": {
-            "Betcha": 4.6
+            "Betcha": 4.2
           },
-          "ev": 0.16797193345138894
+          "ev": 0.06640915662952929
         },
         {
           "player": "Kurt Capewell",
           "team": "Warriors",
           "probability": 0.24604797935764988,
           "fair_odds": 4.064247967451999,
-          "bookmaker_odds": 4.6,
+          "bookmaker_odds": 4.75,
           "bookmaker_prices": {
-            "Betcha": 4.6
+            "Betcha": 4.75
           },
-          "ev": 0.1318207050451894
+          "ev": 0.16872790194883702
         },
         {
           "player": "Jacob Laban",
           "team": "Warriors",
           "probability": 0.2336045515801789,
           "fair_odds": 4.280738509740788,
-          "bookmaker_odds": 3.6,
+          "bookmaker_odds": 3.7,
           "bookmaker_prices": {
-            "Betcha": 3.6
+            "Betcha": 3.7
           },
-          "ev": -0.15902361431135592
+          "ev": -0.13566315915333804
         },
         {
           "player": "Chanel Harris-Tavita",
@@ -2016,9 +2016,7 @@
           "probability": 0.21799398593860198,
           "fair_odds": 4.587282514672905,
           "bookmaker_odds": 2.45,
-          "bookmaker_prices": {
-            "Betcha": 2.45
-          },
+          "bookmaker_prices": {},
           "ev": -0.4659147344504251
         },
         {
@@ -2027,9 +2025,7 @@
           "probability": 0.16450574195282405,
           "fair_odds": 6.078815171611298,
           "bookmaker_odds": 2.7,
-          "bookmaker_prices": {
-            "Betcha": 2.7
-          },
+          "bookmaker_prices": {},
           "ev": -0.555834496727375
         },
         {
@@ -2037,216 +2033,216 @@
           "team": "Warriors",
           "probability": 0.1382927948966177,
           "fair_odds": 7.2310347097082035,
-          "bookmaker_odds": 5.75,
+          "bookmaker_odds": 5.8,
           "bookmaker_prices": {
-            "Betcha": 5.75
+            "Betcha": 5.8
           },
-          "ev": -0.20481642934444821
+          "ev": -0.19790178959961735
         },
         {
           "player": "Mitchell Barnett",
           "team": "Warriors",
           "probability": 0.12800662987029285,
           "fair_odds": 7.812095365789136,
-          "bookmaker_odds": 8.5,
+          "bookmaker_odds": 8.75,
           "bookmaker_prices": {
-            "Betcha": 8.5
+            "Betcha": 8.75
           },
-          "ev": 0.08805635389748923
+          "ev": 0.12005801136506244
         },
         {
           "player": "Jermaine McEwen",
           "team": "Newcastle Knights",
           "probability": 0.12046336093103188,
           "fair_odds": 8.301279262601046,
-          "bookmaker_odds": 7.0,
+          "bookmaker_odds": 6.4,
           "bookmaker_prices": {
-            "Betcha": 7.0
+            "Betcha": 6.4
           },
-          "ev": -0.15675647348277688
+          "ev": -0.22903449004139587
         },
         {
           "player": "Francis Manuleleua",
           "team": "Newcastle Knights",
           "probability": 0.11663740362056922,
           "fair_odds": 8.5735790489051,
-          "bookmaker_odds": 5.5,
+          "bookmaker_odds": 5.0,
           "bookmaker_prices": {
-            "Betcha": 5.5
+            "Betcha": 5.0
           },
-          "ev": -0.35849428008686923
+          "ev": -0.4168129818971539
         },
         {
           "player": "Sam Healey",
           "team": "Warriors",
           "probability": 0.11582256550276232,
           "fair_odds": 8.633896129473582,
-          "bookmaker_odds": 5.0,
+          "bookmaker_odds": 5.2,
           "bookmaker_prices": {
-            "Betcha": 5.0
+            "Betcha": 5.2
           },
-          "ev": -0.42088717248618845
+          "ev": -0.3977226593856359
         },
         {
           "player": "Harrison Graham",
           "team": "Newcastle Knights",
           "probability": 0.10676198931928407,
           "fair_odds": 9.36662951276961,
-          "bookmaker_odds": 7.0,
+          "bookmaker_odds": 6.4,
           "bookmaker_prices": {
-            "Betcha": 7.0
+            "Betcha": 6.4
           },
-          "ev": -0.25266607476501146
+          "ev": -0.31672326835658193
         },
         {
           "player": "James Fisher-Harris",
           "team": "Warriors",
           "probability": 0.09544903059415742,
           "fair_odds": 10.476795770215098,
-          "bookmaker_odds": 7.5,
+          "bookmaker_odds": 7.75,
           "bookmaker_prices": {
-            "Betcha": 7.5
+            "Betcha": 7.75
           },
-          "ev": -0.2841322705438193
+          "ev": -0.26027001289527996
         },
         {
           "player": "Mat Croker",
           "team": "Newcastle Knights",
           "probability": 0.08976154833573052,
           "fair_odds": 11.140627791532197,
-          "bookmaker_odds": 12.5,
+          "bookmaker_odds": 11.5,
           "bookmaker_prices": {
-            "Betcha": 12.5
+            "Betcha": 11.5
           },
-          "ev": 0.12201935419663146
+          "ev": 0.0322578058609011
         },
         {
           "player": "Trey Mooney",
           "team": "Newcastle Knights",
           "probability": 0.08969544234656422,
           "fair_odds": 11.148838489877908,
-          "bookmaker_odds": 8.5,
+          "bookmaker_odds": 7.75,
           "bookmaker_prices": {
-            "Betcha": 8.5
+            "Betcha": 7.75
           },
-          "ev": -0.23758874005420416
+          "ev": -0.30486032181412726
         },
         {
           "player": "Eddie Ieremia-Toeava",
           "team": "Warriors",
           "probability": 0.08891659478318338,
           "fair_odds": 11.24649456536687,
-          "bookmaker_odds": 9.0,
+          "bookmaker_odds": 9.25,
           "bookmaker_prices": {
-            "Betcha": 9.0
+            "Betcha": 9.25
           },
-          "ev": -0.1997506469513496
+          "ev": -0.17752149825555374
         },
         {
           "player": "Erin Clark",
           "team": "Warriors",
           "probability": 0.08794224065471976,
           "fair_odds": 11.371099855486014,
-          "bookmaker_odds": 5.5,
+          "bookmaker_odds": 5.75,
           "bookmaker_prices": {
-            "Betcha": 5.5
+            "Betcha": 5.75
           },
-          "ev": -0.5163176763990414
+          "ev": -0.49433211623536144
         },
         {
           "player": "Sandon Smith",
           "team": "Newcastle Knights",
           "probability": 0.0873921318952958,
           "fair_odds": 11.442677713802617,
-          "bookmaker_odds": 6.4,
+          "bookmaker_odds": 5.8,
           "bookmaker_prices": {
-            "Betcha": 6.4
+            "Betcha": 5.8
           },
-          "ev": -0.44069035587010685
+          "ev": -0.49312563500728446
         },
         {
           "player": "Demitric Vaimauga",
           "team": "Warriors",
           "probability": 0.08688302781986722,
           "fair_odds": 11.509727792558971,
-          "bookmaker_odds": 9.0,
+          "bookmaker_odds": 9.25,
           "bookmaker_prices": {
-            "Betcha": 9.0
+            "Betcha": 9.25
           },
-          "ev": -0.21805274962119503
+          "ev": -0.19633199266622825
         },
         {
           "player": "Jacob Saifiti",
           "team": "Newcastle Knights",
           "probability": 0.07876617733958927,
           "fair_odds": 12.695804643262564,
-          "bookmaker_odds": 12.5,
+          "bookmaker_odds": 11.5,
           "bookmaker_prices": {
-            "Betcha": 12.5
+            "Betcha": 11.5
           },
-          "ev": -0.015422783255134132
+          "ev": -0.09418896059472348
         },
         {
           "player": "Tanner Stowers-Smith",
           "team": "Warriors",
           "probability": 0.061143793602000555,
           "fair_odds": 16.354889696724364,
-          "bookmaker_odds": 10.0,
+          "bookmaker_odds": 10.5,
           "bookmaker_prices": {
-            "Betcha": 10.0
+            "Betcha": 10.5
           },
-          "ev": -0.3885620639799945
+          "ev": -0.3579901671789941
         },
         {
           "player": "Lachlan Crouch",
           "team": "Newcastle Knights",
           "probability": 0.05446615043596648,
           "fair_odds": 18.36002713604034,
-          "bookmaker_odds": 14.0,
+          "bookmaker_odds": 12.5,
           "bookmaker_prices": {
-            "Betcha": 14.0
+            "Betcha": 12.5
           },
-          "ev": -0.23747389389646922
+          "ev": -0.31917311955041894
         },
         {
           "player": "Cody Hopwood",
           "team": "Newcastle Knights",
           "probability": 0.046685045255461126,
           "fair_odds": 21.420135602910698,
-          "bookmaker_odds": 12.5,
+          "bookmaker_odds": 11.5,
           "bookmaker_prices": {
-            "Betcha": 12.5
+            "Betcha": 11.5
           },
-          "ev": -0.4164369343067359
+          "ev": -0.46312197956219703
         },
         {
           "player": "Thomas Cant",
           "team": "Newcastle Knights",
           "probability": 0.041298818497034685,
           "fair_odds": 24.21376776364199,
-          "bookmaker_odds": 12.0,
+          "bookmaker_odds": 10.5,
           "bookmaker_prices": {
-            "Betcha": 12.0
+            "Betcha": 10.5
           },
-          "ev": -0.5044141780355837
+          "ev": -0.5663624057811358
         },
         {
           "player": "Pasami Saulo",
           "team": "Newcastle Knights",
           "probability": 0.04035126902005667,
           "fair_odds": 24.782368046540203,
-          "bookmaker_odds": 11.0,
+          "bookmaker_odds": 10.0,
           "bookmaker_prices": {
-            "Betcha": 11.0
+            "Betcha": 10.0
           },
-          "ev": -0.5561360407793767
+          "ev": -0.5964873097994333
         }
       ],
       "safe_bet": {
         "available": true,
         "probability": 0.28052,
         "fair_odds": 3.564808213318124,
-        "singles_product_odds": 2.5536,
+        "singles_product_odds": 2.666,
         "target_met": false,
         "legs": [
           {
@@ -2254,14 +2250,14 @@
             "team": "Warriors",
             "probability": 0.6322039983384683,
             "fair_odds": 1.5817679145151842,
-            "market_odds": 1.52
+            "market_odds": 1.55
           },
           {
             "player": "Luke Laulilii",
             "team": "Warriors",
             "probability": 0.43895615884416006,
             "fair_odds": 2.2781318358379017,
-            "market_odds": 1.68
+            "market_odds": 1.72
           }
         ],
         "method": "Highest simulated joint hit probability"
@@ -2294,7 +2290,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:03:02.950888+00:00"
+          "observed_at": "2026-08-29T03:38:00.419471+00:00"
         },
         "Best Available": {
           "home_h2h": 2.6,
@@ -2306,7 +2302,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:03:02.950888+00:00",
+          "observed_at": "2026-08-29T03:38:00.419471+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "home_line_odds": "Betcha",
@@ -2326,7 +2322,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:03:02.950888+00:00",
+          "observed_at": "2026-08-29T03:38:00.419471+00:00",
           "home_cover_probability": 0.4126092108499193,
           "away_cover_probability": 0.5873907891500807,
           "over_probability": 0.338238895419808,
@@ -2346,7 +2342,7 @@
           "total": 53.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-08-29T03:03:02.950888+00:00",
+          "observed_at": "2026-08-29T03:38:00.419471+00:00",
           "home_cover_probability": 0.4126092108499193,
           "away_cover_probability": 0.5873907891500807,
           "over_probability": 0.338238895419808,
@@ -2401,7 +2397,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 72,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-08-29T03:03:02.950888+00:00",
+      "bookmaker_observed_at": "2026-08-29T03:38:00.419471+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
