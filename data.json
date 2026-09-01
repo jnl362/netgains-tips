@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 27,
-  "generated_at": "Tue 1 Sep 2026, 7:32 PM NZT",
-  "generated_at_iso": "2026-09-01T19:32:42.464841+12:00",
+  "generated_at": "Tue 1 Sep 2026, 8:04 PM NZT",
+  "generated_at_iso": "2026-09-01T20:04:53.809390+12:00",
   "engine_version": "1.66.16",
   "fixtures": [
     {
@@ -24,8 +24,8 @@
       "independent_away_win_probability": 0.2861210149444131,
       "home_fair_odds": 1.400797643485939,
       "away_fair_odds": 3.495024649602468,
-      "home_conservative_fair_odds": 1.3954612629670142,
-      "away_conservative_fair_odds": 3.5286926777539045,
+      "home_conservative_fair_odds": 1.4001206564239728,
+      "away_conservative_fair_odds": 3.4992461247498996,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -41,33 +41,33 @@
           "observed_at": "2026-08-31T01:07:59.798221+00:00"
         },
         "TAB NZ": {
-          "home_h2h": 1.3,
-          "away_h2h": 3.5,
+          "home_h2h": 1.33,
+          "away_h2h": 3.35,
           "home_line": 10.5,
-          "home_line_odds": 1.9,
+          "home_line_odds": 1.94,
           "away_line": -10.5,
-          "away_line_odds": 1.9,
-          "total": 50.5,
-          "over_odds": 1.82,
-          "under_odds": 1.92,
-          "observed_at": "2026-09-01T07:26:55.181490+00:00"
+          "away_line_odds": 1.87,
+          "total": 52.5,
+          "over_odds": 1.9,
+          "under_odds": 1.9,
+          "observed_at": "2026-09-01T07:56:09.568729+00:00"
         },
         "Best Available": {
-          "home_h2h": 1.3,
+          "home_h2h": 1.33,
           "away_h2h": 3.5,
           "home_line": 10.5,
-          "home_line_odds": 1.9,
+          "home_line_odds": 1.94,
           "away_line": -10.5,
           "away_line_odds": 1.9,
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.181490+00:00",
+          "observed_at": "2026-09-01T07:56:09.568729+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
-            "away_h2h": "TAB NZ",
+            "away_h2h": "Betcha",
             "home_line_odds": "TAB NZ",
-            "away_line_odds": "TAB NZ",
+            "away_line_odds": "Betcha",
             "over_odds": "Betcha",
             "under_odds": "Betcha"
           }
@@ -95,36 +95,36 @@
           "under_fair_odds": 1.483804982148959
         },
         "TAB NZ": {
-          "home_h2h": 1.3,
-          "away_h2h": 3.5,
+          "home_h2h": 1.33,
+          "away_h2h": 3.35,
           "home_line": 10.5,
-          "home_line_odds": 1.9,
+          "home_line_odds": 1.94,
           "away_line": -10.5,
-          "away_line_odds": 1.9,
-          "total": 50.5,
-          "over_odds": 1.82,
-          "under_odds": 1.92,
-          "observed_at": "2026-09-01T07:26:55.181490+00:00",
+          "away_line_odds": 1.87,
+          "total": 52.5,
+          "over_odds": 1.9,
+          "under_odds": 1.9,
+          "observed_at": "2026-09-01T07:56:09.568729+00:00",
           "home_cover_probability": 0.9038537131690885,
           "away_cover_probability": 0.09614628683091153,
-          "over_probability": 0.2988362778309077,
-          "under_probability": 0.7011637221690923,
+          "over_probability": 0.24774703300898704,
+          "under_probability": 0.752252966991013,
           "home_line_fair_odds": 1.1063737255598627,
           "away_line_fair_odds": 10.400817680652175,
-          "over_fair_odds": 3.34631393235943,
-          "under_fair_odds": 1.4262004270649367
+          "over_fair_odds": 4.0363752810865146,
+          "under_fair_odds": 1.3293400543170564
         },
         "Best Available": {
-          "home_h2h": 1.3,
+          "home_h2h": 1.33,
           "away_h2h": 3.5,
           "home_line": 10.5,
-          "home_line_odds": 1.9,
+          "home_line_odds": 1.94,
           "away_line": -10.5,
           "away_line_odds": 1.9,
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.181490+00:00",
+          "observed_at": "2026-09-01T07:56:09.568729+00:00",
           "home_cover_probability": 0.9038537131690885,
           "away_cover_probability": 0.09614628683091153,
           "over_probability": 0.3260569872519742,
@@ -206,7 +206,7 @@
         "Stacked-advantage control: learned context +4.39, live availability +1.66, final downstream adjustment +4.98; same-direction evidence cap 4.98, opposing cap 5.00.",
         "Extreme-stack guardrail: Same-direction context exceeded the 4.98-point evidence cap for |raw margin|=3.05.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 69/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 82.1% of the -1.5pp raw market disagreement, leaving -1.3pp of betting edge."
+        "Market-relative H2H calibration retains 82.1% of the -0.2pp raw market disagreement, leaving -0.2pp of betting edge."
       ],
       "ats_players": [
         {
@@ -215,7 +215,9 @@
           "probability": 0.3605226057483428,
           "fair_odds": 2.77375117137047,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.64
+          },
           "ev": null
         },
         {
@@ -224,7 +226,9 @@
           "probability": 0.34964826787292086,
           "fair_odds": 2.8600170282080404,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.9
+          },
           "ev": null
         },
         {
@@ -233,7 +237,9 @@
           "probability": 0.34812454033565876,
           "fair_odds": 2.8725352112086333,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.67
+          },
           "ev": null
         },
         {
@@ -242,7 +248,9 @@
           "probability": 0.3453596499781729,
           "fair_odds": 2.8955322373739985,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.45
+          },
           "ev": null
         },
         {
@@ -251,7 +259,9 @@
           "probability": 0.3390478703616073,
           "fair_odds": 2.9494360160217568,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.2
+          },
           "ev": null
         },
         {
@@ -260,7 +270,9 @@
           "probability": 0.3358439300561537,
           "fair_odds": 2.977573540878938,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.2
+          },
           "ev": null
         },
         {
@@ -269,7 +281,9 @@
           "probability": 0.3321504777748635,
           "fair_odds": 3.010683611534091,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.5
+          },
           "ev": null
         },
         {
@@ -278,7 +292,9 @@
           "probability": 0.3311361567319052,
           "fair_odds": 3.019905799080772,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.2
+          },
           "ev": null
         },
         {
@@ -287,7 +303,9 @@
           "probability": 0.3210842009659334,
           "fair_odds": 3.1144478519704517,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.5
+          },
           "ev": null
         },
         {
@@ -296,7 +314,9 @@
           "probability": 0.2810251425559022,
           "fair_odds": 3.5584004723032123,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.05
+          },
           "ev": null
         },
         {
@@ -305,7 +325,9 @@
           "probability": 0.2762953555020085,
           "fair_odds": 3.619315272900889,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.2
+          },
           "ev": null
         },
         {
@@ -314,7 +336,9 @@
           "probability": 0.26952647729262097,
           "fair_odds": 3.710210625853706,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.6
+          },
           "ev": null
         },
         {
@@ -323,7 +347,9 @@
           "probability": 0.2527607566546611,
           "fair_odds": 3.956310359389642,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.5
+          },
           "ev": null
         },
         {
@@ -332,7 +358,9 @@
           "probability": 0.20274794934099577,
           "fair_odds": 4.93223237645738,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.8
+          },
           "ev": null
         },
         {
@@ -341,7 +369,9 @@
           "probability": 0.16949251993671594,
           "fair_odds": 5.899965381206049,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.75
+          },
           "ev": null
         },
         {
@@ -350,7 +380,9 @@
           "probability": 0.15409868311501232,
           "fair_odds": 6.48934812281066,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.0
+          },
           "ev": null
         },
         {
@@ -359,7 +391,9 @@
           "probability": 0.15222357764351088,
           "fair_odds": 6.569284571289465,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.75
+          },
           "ev": null
         },
         {
@@ -368,7 +402,9 @@
           "probability": 0.1498490204958601,
           "fair_odds": 6.673383627673609,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.85
+          },
           "ev": null
         },
         {
@@ -377,7 +413,9 @@
           "probability": 0.12806883120881693,
           "fair_odds": 7.808301134329043,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.4
+          },
           "ev": null
         },
         {
@@ -386,7 +424,9 @@
           "probability": 0.10413936412507042,
           "fair_odds": 9.60251686191409,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.2
+          },
           "ev": null
         },
         {
@@ -395,7 +435,9 @@
           "probability": 0.09275009923604341,
           "fair_odds": 10.781659623404394,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.75
+          },
           "ev": null
         },
         {
@@ -404,7 +446,9 @@
           "probability": 0.09002671766989573,
           "fair_odds": 11.107813612251606,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.6
+          },
           "ev": null
         },
         {
@@ -413,7 +457,9 @@
           "probability": 0.08953270175912985,
           "fair_odds": 11.169103359466394,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.25
+          },
           "ev": null
         },
         {
@@ -422,7 +468,9 @@
           "probability": 0.08654597033601823,
           "fair_odds": 11.554552986319981,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.0
+          },
           "ev": null
         },
         {
@@ -431,7 +479,9 @@
           "probability": 0.08262415315193104,
           "fair_odds": 12.102998479889758,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         },
         {
@@ -440,7 +490,9 @@
           "probability": 0.08032993423958451,
           "fair_odds": 12.44865951237423,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.75
+          },
           "ev": null
         },
         {
@@ -449,7 +501,9 @@
           "probability": 0.07875272566738059,
           "fair_odds": 12.697973200617746,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         },
         {
@@ -458,7 +512,9 @@
           "probability": 0.07653551051448103,
           "fair_odds": 13.065830400527522,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.8
+          },
           "ev": null
         },
         {
@@ -467,7 +523,9 @@
           "probability": 0.0714286199131906,
           "fair_odds": 13.999990497021091,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 10.5
+          },
           "ev": null
         },
         {
@@ -476,7 +534,9 @@
           "probability": 0.07012102569504991,
           "fair_odds": 14.261057793833633,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         },
         {
@@ -485,7 +545,9 @@
           "probability": 0.066783866221344,
           "fair_odds": 14.973676376951083,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.0
+          },
           "ev": null
         },
         {
@@ -494,7 +556,9 @@
           "probability": 0.06259469497936854,
           "fair_odds": 15.975794759118228,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.5
+          },
           "ev": null
         },
         {
@@ -503,7 +567,9 @@
           "probability": 0.04930613401667503,
           "fair_odds": 20.281452195416623,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.5
+          },
           "ev": null
         },
         {
@@ -512,7 +578,9 @@
           "probability": 0.04779449362051485,
           "fair_odds": 20.92291233253635,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.5
+          },
           "ev": null
         }
       ],
@@ -560,7 +628,7 @@
           "total": 57.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.289863+00:00"
+          "observed_at": "2026-09-01T07:56:10.413353+00:00"
         },
         "Best Available": {
           "home_h2h": 4.0,
@@ -572,7 +640,7 @@
           "total": 56.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.289863+00:00",
+          "observed_at": "2026-09-01T07:56:10.413353+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -614,7 +682,7 @@
           "total": 57.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.289863+00:00",
+          "observed_at": "2026-09-01T07:56:10.413353+00:00",
           "home_cover_probability": 0.043903430161296386,
           "away_cover_probability": 0.9560965698387036,
           "over_probability": 0.2474221202901572,
@@ -634,7 +702,7 @@
           "total": 56.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.289863+00:00",
+          "observed_at": "2026-09-01T07:56:10.413353+00:00",
           "home_cover_probability": 0.47939677924962554,
           "away_cover_probability": 0.5206032207503745,
           "over_probability": 0.27235656774710115,
@@ -726,7 +794,9 @@
           "probability": 0.68,
           "fair_odds": 1.4705882352941175,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.58
+          },
           "ev": null
         },
         {
@@ -735,7 +805,9 @@
           "probability": 0.500096151209776,
           "fair_odds": 1.999615469107117,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.52
+          },
           "ev": null
         },
         {
@@ -744,7 +816,9 @@
           "probability": 0.48115164140797767,
           "fair_odds": 2.0783468535485694,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.48
+          },
           "ev": null
         },
         {
@@ -753,7 +827,9 @@
           "probability": 0.4740400163984982,
           "fair_odds": 2.109526549250976,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.15
+          },
           "ev": null
         },
         {
@@ -762,7 +838,9 @@
           "probability": 0.4505226390975542,
           "fair_odds": 2.219644282478476,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.9
+          },
           "ev": null
         },
         {
@@ -771,7 +849,9 @@
           "probability": 0.33023732096024344,
           "fair_odds": 3.0281253405649684,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.87
+          },
           "ev": null
         },
         {
@@ -780,7 +860,9 @@
           "probability": 0.31414429446740044,
           "fair_odds": 3.1832505559122053,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.98
+          },
           "ev": null
         },
         {
@@ -789,7 +871,9 @@
           "probability": 0.3007471577970153,
           "fair_odds": 3.325052204399999,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.7
+          },
           "ev": null
         },
         {
@@ -798,7 +882,9 @@
           "probability": 0.2967243983802236,
           "fair_odds": 3.370130685103275,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.3
+          },
           "ev": null
         },
         {
@@ -807,7 +893,9 @@
           "probability": 0.2567410727055081,
           "fair_odds": 3.894974767621379,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.15
+          },
           "ev": null
         },
         {
@@ -816,7 +904,9 @@
           "probability": 0.23811897934828158,
           "fair_odds": 4.199581246051635,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.15
+          },
           "ev": null
         },
         {
@@ -825,7 +915,9 @@
           "probability": 0.22608947355934406,
           "fair_odds": 4.423027681284417,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.9
+          },
           "ev": null
         },
         {
@@ -834,7 +926,9 @@
           "probability": 0.22600185377526721,
           "fair_odds": 4.424742466910845,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.6
+          },
           "ev": null
         },
         {
@@ -843,7 +937,9 @@
           "probability": 0.19794454235979014,
           "fair_odds": 5.05192003820125,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.75
+          },
           "ev": null
         },
         {
@@ -852,7 +948,9 @@
           "probability": 0.17684914255435275,
           "fair_odds": 5.654536886955278,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.8
+          },
           "ev": null
         },
         {
@@ -861,7 +959,9 @@
           "probability": 0.14823986511024706,
           "fair_odds": 6.745823731398384,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.0
+          },
           "ev": null
         },
         {
@@ -870,7 +970,9 @@
           "probability": 0.14520610480377377,
           "fair_odds": 6.886762793832694,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.25
+          },
           "ev": null
         },
         {
@@ -879,7 +981,9 @@
           "probability": 0.13761876508057108,
           "fair_odds": 7.266450904529874,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 10.0
+          },
           "ev": null
         },
         {
@@ -888,7 +992,9 @@
           "probability": 0.12178370028614852,
           "fair_odds": 8.2112794869129,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.1
+          },
           "ev": null
         },
         {
@@ -897,7 +1003,9 @@
           "probability": 0.12163666992447232,
           "fair_odds": 8.221205008497261,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.25
+          },
           "ev": null
         },
         {
@@ -906,7 +1014,9 @@
           "probability": 0.12105253290045886,
           "fair_odds": 8.260876299236935,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.2
+          },
           "ev": null
         },
         {
@@ -915,7 +1025,9 @@
           "probability": 0.12006998092107977,
           "fair_odds": 8.328476379598039,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.25
+          },
           "ev": null
         },
         {
@@ -924,7 +1036,9 @@
           "probability": 0.11261810548458207,
           "fair_odds": 8.879566884002543,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.5
+          },
           "ev": null
         },
         {
@@ -933,7 +1047,9 @@
           "probability": 0.10901930046251886,
           "fair_odds": 9.1726877328827,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.5
+          },
           "ev": null
         },
         {
@@ -942,7 +1058,9 @@
           "probability": 0.10544158496134214,
           "fair_odds": 9.483924206627094,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.25
+          },
           "ev": null
         },
         {
@@ -951,7 +1069,9 @@
           "probability": 0.09533541496517338,
           "fair_odds": 10.489281452913445,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.8
+          },
           "ev": null
         },
         {
@@ -960,7 +1080,9 @@
           "probability": 0.09400306223141905,
           "fair_odds": 10.637951320545021,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.75
+          },
           "ev": null
         },
         {
@@ -969,7 +1091,9 @@
           "probability": 0.09293487085234507,
           "fair_odds": 10.760223701056194,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.0
+          },
           "ev": null
         },
         {
@@ -978,7 +1102,9 @@
           "probability": 0.08540396939847231,
           "fair_odds": 11.709057635649987,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.5
+          },
           "ev": null
         },
         {
@@ -987,7 +1113,9 @@
           "probability": 0.08120328659625747,
           "fair_odds": 12.314772491561794,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 10.0
+          },
           "ev": null
         },
         {
@@ -996,7 +1124,9 @@
           "probability": 0.08106491464525595,
           "fair_odds": 12.335792918256303,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 10.5
+          },
           "ev": null
         },
         {
@@ -1005,7 +1135,9 @@
           "probability": 0.08088092977998917,
           "fair_odds": 12.3638539111776,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.25
+          },
           "ev": null
         },
         {
@@ -1014,7 +1146,9 @@
           "probability": 0.07686016694885683,
           "fair_odds": 13.010640487749725,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.5
+          },
           "ev": null
         },
         {
@@ -1023,7 +1157,9 @@
           "probability": 0.06353227393472106,
           "fair_odds": 15.740031610193782,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.5
+          },
           "ev": null
         }
       ],
@@ -1062,20 +1198,20 @@
           "observed_at": "2026-08-31T01:08:42.455664+00:00"
         },
         "TAB NZ": {
-          "home_h2h": 1.11,
-          "away_h2h": 6.8,
+          "home_h2h": 1.1,
+          "away_h2h": 7.25,
           "home_line": 23.5,
           "home_line_odds": 1.87,
           "away_line": -23.5,
           "away_line_odds": 1.94,
-          "total": 54.5,
+          "total": 55.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-01T07:26:55.408071+00:00"
+          "observed_at": "2026-09-01T07:56:10.567061+00:00"
         },
         "Best Available": {
           "home_h2h": 1.82,
-          "away_h2h": 6.8,
+          "away_h2h": 7.25,
           "home_line": -1.5,
           "home_line_odds": 1.9,
           "away_line": 1.5,
@@ -1083,7 +1219,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.408071+00:00",
+          "observed_at": "2026-09-01T07:56:10.567061+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "TAB NZ",
@@ -1116,28 +1252,28 @@
           "under_fair_odds": 1.952880762370332
         },
         "TAB NZ": {
-          "home_h2h": 1.11,
-          "away_h2h": 6.8,
+          "home_h2h": 1.1,
+          "away_h2h": 7.25,
           "home_line": 23.5,
           "home_line_odds": 1.87,
           "away_line": -23.5,
           "away_line_odds": 1.94,
-          "total": 54.5,
+          "total": 55.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-01T07:26:55.408071+00:00",
+          "observed_at": "2026-09-01T07:56:10.567061+00:00",
           "home_cover_probability": 0.9512880986976386,
           "away_cover_probability": 0.04871190130236136,
-          "over_probability": 0.2847777710938363,
-          "under_probability": 0.7152222289061637,
+          "over_probability": 0.259259737385781,
+          "under_probability": 0.740740262614219,
           "home_line_fair_odds": 1.0512062553594967,
           "away_line_fair_odds": 20.5288640612253,
-          "over_fair_odds": 3.511510031695883,
-          "under_fair_odds": 1.398166834844277
+          "over_fair_odds": 3.857135743804254,
+          "under_fair_odds": 1.3500008713861484
         },
         "Best Available": {
           "home_h2h": 1.82,
-          "away_h2h": 6.8,
+          "away_h2h": 7.25,
           "home_line": -1.5,
           "home_line_odds": 1.9,
           "away_line": 1.5,
@@ -1145,7 +1281,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.408071+00:00",
+          "observed_at": "2026-09-01T07:56:10.567061+00:00",
           "home_cover_probability": 0.45638082865743257,
           "away_cover_probability": 0.5436191713425674,
           "over_probability": 0.4879359665634484,
@@ -1228,7 +1364,7 @@
         "Stacked-advantage control: learned context +2.42, live availability +1.08, final downstream adjustment +2.41; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: ACTIVE: unvalidated live availability was prevented from independently reversing the raw-plus-validated-residual winner.",
-        "Market-relative H2H calibration retains 82.1% of the -36.1pp raw market disagreement, leaving -29.7pp of betting edge."
+        "Market-relative H2H calibration retains 82.1% of the -37.0pp raw market disagreement, leaving -30.4pp of betting edge."
       ],
       "ats_players": [
         {
@@ -1237,7 +1373,9 @@
           "probability": 0.4285169148036034,
           "fair_odds": 2.3336301682707603,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.4
+          },
           "ev": null
         },
         {
@@ -1246,7 +1384,9 @@
           "probability": 0.3761114301617487,
           "fair_odds": 2.6587865185855817,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.36
+          },
           "ev": null
         },
         {
@@ -1255,7 +1395,9 @@
           "probability": 0.3733662758122978,
           "fair_odds": 2.678335095542291,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.65
+          },
           "ev": null
         },
         {
@@ -1264,7 +1406,9 @@
           "probability": 0.33243033259312765,
           "fair_odds": 3.0081490825445605,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.58
+          },
           "ev": null
         },
         {
@@ -1273,7 +1417,9 @@
           "probability": 0.3323740463795838,
           "fair_odds": 3.0086585005435773,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.45
+          },
           "ev": null
         },
         {
@@ -1282,7 +1428,9 @@
           "probability": 0.31351443923504796,
           "fair_odds": 3.189645754243173,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.8
+          },
           "ev": null
         },
         {
@@ -1291,7 +1439,9 @@
           "probability": 0.3082192909920228,
           "fair_odds": 3.2444432559086045,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.9
+          },
           "ev": null
         },
         {
@@ -1300,7 +1450,9 @@
           "probability": 0.30483020475012046,
           "fair_odds": 3.2805148060039966,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.9
+          },
           "ev": null
         },
         {
@@ -1309,7 +1461,9 @@
           "probability": 0.2494689748052587,
           "fair_odds": 4.008514488748043,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.0
+          },
           "ev": null
         },
         {
@@ -1318,7 +1472,9 @@
           "probability": 0.24431361946751617,
           "fair_odds": 4.093099689569126,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.7
+          },
           "ev": null
         },
         {
@@ -1327,7 +1483,9 @@
           "probability": 0.21252543327374712,
           "fair_odds": 4.705319192136089,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.45
+          },
           "ev": null
         },
         {
@@ -1336,7 +1494,9 @@
           "probability": 0.17211510886781348,
           "fair_odds": 5.810065174278293,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.6
+          },
           "ev": null
         },
         {
@@ -1345,7 +1505,9 @@
           "probability": 0.16718008514732907,
           "fair_odds": 5.981573697122719,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.2
+          },
           "ev": null
         },
         {
@@ -1354,7 +1516,9 @@
           "probability": 0.15849492798863382,
           "fair_odds": 6.309350164641945,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.9
+          },
           "ev": null
         },
         {
@@ -1363,7 +1527,9 @@
           "probability": 0.15169003317410337,
           "fair_odds": 6.592390937460225,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.0
+          },
           "ev": null
         },
         {
@@ -1372,7 +1538,9 @@
           "probability": 0.14345662571089687,
           "fair_odds": 6.970748092285853,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.8
+          },
           "ev": null
         },
         {
@@ -1381,7 +1549,9 @@
           "probability": 0.13851616662995644,
           "fair_odds": 7.2193739137431,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.25
+          },
           "ev": null
         },
         {
@@ -1390,7 +1560,9 @@
           "probability": 0.13774983155138978,
           "fair_odds": 7.259537008050234,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.5
+          },
           "ev": null
         },
         {
@@ -1399,7 +1571,9 @@
           "probability": 0.1215189758757565,
           "fair_odds": 8.229167443135964,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.7
+          },
           "ev": null
         },
         {
@@ -1408,7 +1582,9 @@
           "probability": 0.12063498665846317,
           "fair_odds": 8.289469147380593,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.2
+          },
           "ev": null
         },
         {
@@ -1417,7 +1593,9 @@
           "probability": 0.11204735746924141,
           "fair_odds": 8.924797715774012,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.0
+          },
           "ev": null
         },
         {
@@ -1426,7 +1604,9 @@
           "probability": 0.10495904754435323,
           "fair_odds": 9.527525481568642,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.1
+          },
           "ev": null
         },
         {
@@ -1435,7 +1615,9 @@
           "probability": 0.10003688039609576,
           "fair_odds": 9.996313320052591,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.6
+          },
           "ev": null
         },
         {
@@ -1444,7 +1626,9 @@
           "probability": 0.0881332786386021,
           "fair_odds": 11.346451822138421,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.0
+          },
           "ev": null
         },
         {
@@ -1453,7 +1637,9 @@
           "probability": 0.08629845145631962,
           "fair_odds": 11.587693442056198,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 12.0
+          },
           "ev": null
         },
         {
@@ -1462,7 +1648,9 @@
           "probability": 0.08532952321455854,
           "fair_odds": 11.719273263551816,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.2
+          },
           "ev": null
         },
         {
@@ -1471,7 +1659,9 @@
           "probability": 0.08416391858836918,
           "fair_odds": 11.88157605744123,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.0
+          },
           "ev": null
         },
         {
@@ -1480,7 +1670,9 @@
           "probability": 0.08224789564452596,
           "fair_odds": 12.158365781441793,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 14.0
+          },
           "ev": null
         },
         {
@@ -1489,7 +1681,9 @@
           "probability": 0.07509554464016126,
           "fair_odds": 13.316369230581461,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.75
+          },
           "ev": null
         },
         {
@@ -1498,7 +1692,9 @@
           "probability": 0.07324522583063539,
           "fair_odds": 13.652766970946278,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         },
         {
@@ -1507,7 +1703,9 @@
           "probability": 0.06798976824960123,
           "fair_odds": 14.708095434725431,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.25
+          },
           "ev": null
         },
         {
@@ -1516,7 +1714,9 @@
           "probability": 0.05989372722425458,
           "fair_odds": 16.696239261513846,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.5
+          },
           "ev": null
         },
         {
@@ -1525,7 +1725,9 @@
           "probability": 0.058460233568855775,
           "fair_odds": 17.105644965003048,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 12.0
+          },
           "ev": null
         },
         {
@@ -1534,7 +1736,9 @@
           "probability": 0.05597359776298554,
           "fair_odds": 17.86556590902728,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.0
+          },
           "ev": null
         }
       ],
@@ -1580,9 +1784,9 @@
           "away_line": -11.5,
           "away_line_odds": 1.94,
           "total": 49.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.729542+00:00"
+          "over_odds": 1.87,
+          "under_odds": 1.94,
+          "observed_at": "2026-09-01T07:56:10.716687+00:00"
         },
         "Best Available": {
           "home_h2h": 1.3,
@@ -1594,7 +1798,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.729542+00:00",
+          "observed_at": "2026-09-01T07:56:10.716687+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1633,9 +1837,9 @@
           "away_line": -11.5,
           "away_line_odds": 1.94,
           "total": 49.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.729542+00:00",
+          "over_odds": 1.87,
+          "under_odds": 1.94,
+          "observed_at": "2026-09-01T07:56:10.716687+00:00",
           "home_cover_probability": 0.9175262547036709,
           "away_cover_probability": 0.08247374529632912,
           "over_probability": 0.3496488822178768,
@@ -1655,7 +1859,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:55.729542+00:00",
+          "observed_at": "2026-09-01T07:56:10.716687+00:00",
           "home_cover_probability": 0.9064071773760759,
           "away_cover_probability": 0.0935928226239241,
           "over_probability": 0.3785293586982479,
@@ -1747,7 +1951,9 @@
           "probability": 0.6168958142441171,
           "fair_odds": 1.6210192659927523,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.5
+          },
           "ev": null
         },
         {
@@ -1756,7 +1962,9 @@
           "probability": 0.3574486718927494,
           "fair_odds": 2.7976044636138546,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.2
+          },
           "ev": null
         },
         {
@@ -1765,7 +1973,9 @@
           "probability": 0.3540197686740344,
           "fair_odds": 2.8247010152722725,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.25
+          },
           "ev": null
         },
         {
@@ -1774,7 +1984,9 @@
           "probability": 0.3501629950046747,
           "fair_odds": 2.8558129050348393,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.7
+          },
           "ev": null
         },
         {
@@ -1783,7 +1995,9 @@
           "probability": 0.3495568601274378,
           "fair_odds": 2.8607649114236535,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.75
+          },
           "ev": null
         },
         {
@@ -1792,7 +2006,9 @@
           "probability": 0.33880721927382035,
           "fair_odds": 2.951530968387692,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.02
+          },
           "ev": null
         },
         {
@@ -1801,7 +2017,9 @@
           "probability": 0.3266542342287996,
           "fair_odds": 3.061340999791132,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.65
+          },
           "ev": null
         },
         {
@@ -1810,7 +2028,9 @@
           "probability": 0.32317787418109833,
           "fair_odds": 3.0942712354114708,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.85
+          },
           "ev": null
         },
         {
@@ -1819,7 +2039,9 @@
           "probability": 0.3203436515337222,
           "fair_odds": 3.1216476281401544,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.45
+          },
           "ev": null
         },
         {
@@ -1828,7 +2050,9 @@
           "probability": 0.23950659867992302,
           "fair_odds": 4.175250308390883,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.75
+          },
           "ev": null
         },
         {
@@ -1837,7 +2061,9 @@
           "probability": 0.20148427475918815,
           "fair_odds": 4.963166486293728,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.6
+          },
           "ev": null
         },
         {
@@ -1846,7 +2072,9 @@
           "probability": 0.2008883276978785,
           "fair_odds": 4.977890012126178,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.8
+          },
           "ev": null
         },
         {
@@ -1855,7 +2083,9 @@
           "probability": 0.19017665081650756,
           "fair_odds": 5.258269065663863,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.0
+          },
           "ev": null
         },
         {
@@ -1864,7 +2094,9 @@
           "probability": 0.1823865052247244,
           "fair_odds": 5.482861787213189,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.1
+          },
           "ev": null
         },
         {
@@ -1873,7 +2105,9 @@
           "probability": 0.15019616418219583,
           "fair_odds": 6.657959645273946,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.3
+          },
           "ev": null
         },
         {
@@ -1882,7 +2116,9 @@
           "probability": 0.1414073088346072,
           "fair_odds": 7.071770251774043,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.25
+          },
           "ev": null
         },
         {
@@ -1891,7 +2127,9 @@
           "probability": 0.1337981927149584,
           "fair_odds": 7.473942507806398,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.0
+          },
           "ev": null
         },
         {
@@ -1900,7 +2138,9 @@
           "probability": 0.13149729507180255,
           "fair_odds": 7.604719165165807,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.8
+          },
           "ev": null
         },
         {
@@ -1909,7 +2149,9 @@
           "probability": 0.11297151556244778,
           "fair_odds": 8.85178883386074,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.5
+          },
           "ev": null
         },
         {
@@ -1918,7 +2160,9 @@
           "probability": 0.1072103228512103,
           "fair_odds": 9.327460018825146,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 15.0
+          },
           "ev": null
         },
         {
@@ -1927,7 +2171,9 @@
           "probability": 0.08881460679645735,
           "fair_odds": 11.259409190334761,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.6
+          },
           "ev": null
         },
         {
@@ -1936,7 +2182,9 @@
           "probability": 0.08788010954887533,
           "fair_odds": 11.379139206054822,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.4
+          },
           "ev": null
         },
         {
@@ -1945,7 +2193,9 @@
           "probability": 0.0874153152390761,
           "fair_odds": 11.439643010667579,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.5
+          },
           "ev": null
         },
         {
@@ -1954,7 +2204,9 @@
           "probability": 0.08679102169113825,
           "fair_odds": 11.521929117952812,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.25
+          },
           "ev": null
         },
         {
@@ -1963,7 +2215,9 @@
           "probability": 0.08303055980487162,
           "fair_odds": 12.043758374628318,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.5
+          },
           "ev": null
         },
         {
@@ -1972,7 +2226,9 @@
           "probability": 0.07975410806869222,
           "fair_odds": 12.53853906984578,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         },
         {
@@ -1981,7 +2237,9 @@
           "probability": 0.07491093570913254,
           "fair_odds": 13.349185810237957,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.8
+          },
           "ev": null
         },
         {
@@ -1990,7 +2248,9 @@
           "probability": 0.07441428274513052,
           "fair_odds": 13.438280436364716,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.25
+          },
           "ev": null
         },
         {
@@ -1999,7 +2259,9 @@
           "probability": 0.07231748521490668,
           "fair_odds": 13.827914466719754,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         },
         {
@@ -2008,7 +2270,9 @@
           "probability": 0.060968536852926886,
           "fair_odds": 16.401902548724088,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         },
         {
@@ -2017,7 +2281,9 @@
           "probability": 0.06021158728461079,
           "fair_odds": 16.608098957317896,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 13.0
+          },
           "ev": null
         },
         {
@@ -2026,7 +2292,9 @@
           "probability": 0.053396700929674565,
           "fair_odds": 18.72774876704531,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 12.0
+          },
           "ev": null
         },
         {
@@ -2035,7 +2303,9 @@
           "probability": 0.0513984221939426,
           "fair_odds": 19.455850147046963,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.8
+          },
           "ev": null
         },
         {
@@ -2044,7 +2314,9 @@
           "probability": 0.049605649962380954,
           "fair_odds": 20.158994000851962,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         }
       ],
@@ -2083,19 +2355,19 @@
           "observed_at": "2026-08-31T01:09:26.734775+00:00"
         },
         "TAB NZ": {
-          "home_h2h": 1.58,
-          "away_h2h": 2.4,
-          "home_line": 4.5,
+          "home_h2h": 1.55,
+          "away_h2h": 2.45,
+          "home_line": 5.5,
           "home_line_odds": 1.9,
-          "away_line": -4.5,
+          "away_line": -5.5,
           "away_line_odds": 1.9,
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.053807+00:00"
+          "observed_at": "2026-09-01T07:56:11.492497+00:00"
         },
         "Best Available": {
-          "home_h2h": 1.58,
+          "home_h2h": 1.55,
           "away_h2h": 2.75,
           "home_line": -6.5,
           "home_line_odds": 1.9,
@@ -2104,7 +2376,7 @@
           "total": 54.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.053807+00:00",
+          "observed_at": "2026-09-01T07:56:11.492497+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -2137,27 +2409,27 @@
           "under_fair_odds": 1.4307349690075493
         },
         "TAB NZ": {
-          "home_h2h": 1.58,
-          "away_h2h": 2.4,
-          "home_line": 4.5,
+          "home_h2h": 1.55,
+          "away_h2h": 2.45,
+          "home_line": 5.5,
           "home_line_odds": 1.9,
-          "away_line": -4.5,
+          "away_line": -5.5,
           "away_line_odds": 1.9,
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.053807+00:00",
-          "home_cover_probability": 0.6906366877223022,
-          "away_cover_probability": 0.30936331227769776,
+          "observed_at": "2026-09-01T07:56:11.492497+00:00",
+          "home_cover_probability": 0.7177218895576629,
+          "away_cover_probability": 0.2822781104423371,
           "over_probability": 0.274826037350828,
           "under_probability": 0.725173962649172,
-          "home_line_fair_odds": 1.447939296850806,
-          "away_line_fair_odds": 3.2324453492479974,
+          "home_line_fair_odds": 1.3932973405845364,
+          "away_line_fair_odds": 3.5426055475324465,
           "over_fair_odds": 3.6386654250064896,
           "under_fair_odds": 1.378979460799787
         },
         "Best Available": {
-          "home_h2h": 1.58,
+          "home_h2h": 1.55,
           "away_h2h": 2.75,
           "home_line": -6.5,
           "home_line_odds": 1.9,
@@ -2166,7 +2438,7 @@
           "total": 54.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.053807+00:00",
+          "observed_at": "2026-09-01T07:56:11.492497+00:00",
           "home_cover_probability": 0.357522396980954,
           "away_cover_probability": 0.642477603019046,
           "over_probability": 0.3010585316904185,
@@ -2246,8 +2518,8 @@
         "Late-season elite interaction input: Applied +2.00 home-margin points: North Queensland Cowboys elite effect +0.32 (n=39) inactive; Canberra Raiders elite effect -2.00 (n=37) active.",
         "Stacked-advantage control: learned context +2.60, live availability +0.03, final downstream adjustment +2.64; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
-        "Low-confidence reversal guardrail: INACTIVE: raw model and 60.3% no-vig market did not agree; NetGains remains free to identify value.",
-        "Market-relative H2H calibration retains 82.1% of the -4.5pp raw market disagreement, leaving -3.7pp of betting edge."
+        "Low-confidence reversal guardrail: INACTIVE: raw model and 61.3% no-vig market did not agree; NetGains remains free to identify value.",
+        "Market-relative H2H calibration retains 82.1% of the -5.5pp raw market disagreement, leaving -4.5pp of betting edge."
       ],
       "ats_players": [
         {
@@ -2256,7 +2528,9 @@
           "probability": 0.36138329580259687,
           "fair_odds": 2.7671450551666976,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.65
+          },
           "ev": null
         },
         {
@@ -2265,7 +2539,9 @@
           "probability": 0.3572931365509041,
           "fair_odds": 2.798822304994175,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.83
+          },
           "ev": null
         },
         {
@@ -2274,7 +2550,9 @@
           "probability": 0.3544754769178751,
           "fair_odds": 2.8210696229112626,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.65
+          },
           "ev": null
         },
         {
@@ -2283,7 +2561,9 @@
           "probability": 0.35019367349043773,
           "fair_odds": 2.855562723429113,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.5
+          },
           "ev": null
         },
         {
@@ -2292,7 +2572,9 @@
           "probability": 0.32994087555488855,
           "fair_odds": 3.030846051791001,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.05
+          },
           "ev": null
         },
         {
@@ -2301,7 +2583,9 @@
           "probability": 0.32045454083644737,
           "fair_odds": 3.120567420857291,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.05
+          },
           "ev": null
         },
         {
@@ -2310,7 +2594,9 @@
           "probability": 0.30039074502470225,
           "fair_odds": 3.328997369468777,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.05
+          },
           "ev": null
         },
         {
@@ -2319,7 +2605,9 @@
           "probability": 0.2972958380331767,
           "fair_odds": 3.3636528739040235,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.55
+          },
           "ev": null
         },
         {
@@ -2328,7 +2616,9 @@
           "probability": 0.2503530501427172,
           "fair_odds": 3.9943591637087557,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.2
+          },
           "ev": null
         },
         {
@@ -2337,7 +2627,9 @@
           "probability": 0.23068028992881853,
           "fair_odds": 4.335004088596264,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.1
+          },
           "ev": null
         },
         {
@@ -2346,7 +2638,9 @@
           "probability": 0.22935133169853267,
           "fair_odds": 4.360122928409392,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.8
+          },
           "ev": null
         },
         {
@@ -2355,7 +2649,9 @@
           "probability": 0.20661797808202007,
           "fair_odds": 4.839849897297103,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.2
+          },
           "ev": null
         },
         {
@@ -2364,7 +2660,9 @@
           "probability": 0.20331680655988757,
           "fair_odds": 4.9184325532156485,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.3
+          },
           "ev": null
         },
         {
@@ -2373,7 +2671,9 @@
           "probability": 0.20090130864145886,
           "fair_odds": 4.977568373059546,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.5
+          },
           "ev": null
         },
         {
@@ -2382,7 +2682,9 @@
           "probability": 0.19626202271782675,
           "fair_odds": 5.095229256032571,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.0
+          },
           "ev": null
         },
         {
@@ -2391,7 +2693,9 @@
           "probability": 0.1606446629311823,
           "fair_odds": 6.224918909558699,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.9
+          },
           "ev": null
         },
         {
@@ -2400,7 +2704,9 @@
           "probability": 0.14556911655574192,
           "fair_odds": 6.86958898742149,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.2
+          },
           "ev": null
         },
         {
@@ -2409,7 +2715,9 @@
           "probability": 0.14111446496826732,
           "fair_odds": 7.086445746188188,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.0
+          },
           "ev": null
         },
         {
@@ -2418,7 +2726,9 @@
           "probability": 0.1369325517691987,
           "fair_odds": 7.30286544053828,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.75
+          },
           "ev": null
         },
         {
@@ -2427,7 +2737,9 @@
           "probability": 0.12336992460968399,
           "fair_odds": 8.105703259232635,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         },
         {
@@ -2436,7 +2748,9 @@
           "probability": 0.11825243100151547,
           "fair_odds": 8.45648576972751,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.0
+          },
           "ev": null
         },
         {
@@ -2445,7 +2759,9 @@
           "probability": 0.10319325539849636,
           "fair_odds": 9.690555803655469,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.25
+          },
           "ev": null
         },
         {
@@ -2454,7 +2770,9 @@
           "probability": 0.10267298985513183,
           "fair_odds": 9.739659879496708,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.0
+          },
           "ev": null
         },
         {
@@ -2463,7 +2781,9 @@
           "probability": 0.0996392050850813,
           "fair_odds": 10.036210135820596,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.5
+          },
           "ev": null
         },
         {
@@ -2472,7 +2792,9 @@
           "probability": 0.09183876203945025,
           "fair_odds": 10.888648516085617,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.25
+          },
           "ev": null
         },
         {
@@ -2481,7 +2803,9 @@
           "probability": 0.09132408858275892,
           "fair_odds": 10.950013468722315,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.2
+          },
           "ev": null
         },
         {
@@ -2490,7 +2814,9 @@
           "probability": 0.08382584327836261,
           "fair_odds": 11.929495259347103,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.0
+          },
           "ev": null
         },
         {
@@ -2499,7 +2825,9 @@
           "probability": 0.0800033082877602,
           "fair_odds": 12.499483101413084,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         },
         {
@@ -2508,7 +2836,9 @@
           "probability": 0.07777126891303537,
           "fair_odds": 12.85821890238425,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         },
         {
@@ -2517,7 +2847,9 @@
           "probability": 0.07483352546404641,
           "fair_odds": 13.362994644431762,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         },
         {
@@ -2526,7 +2858,9 @@
           "probability": 0.05972473865784551,
           "fair_odds": 16.743480548803355,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.6
+          },
           "ev": null
         },
         {
@@ -2535,7 +2869,9 @@
           "probability": 0.05775133402171504,
           "fair_odds": 17.315617326242034,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         },
         {
@@ -2544,7 +2880,9 @@
           "probability": 0.05150545886361563,
           "fair_odds": 19.41541774529103,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         },
         {
@@ -2553,7 +2891,9 @@
           "probability": 0.043537247758518804,
           "fair_odds": 22.968838212891693,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 10.0
+          },
           "ev": null
         }
       ],
@@ -2575,8 +2915,8 @@
       "independent_away_win_probability": 0.3008289756769875,
       "home_fair_odds": 1.4302652215432865,
       "away_fair_odds": 3.3241478742185437,
-      "home_conservative_fair_odds": 1.5998287058495955,
-      "away_conservative_fair_odds": 2.667142619631055,
+      "home_conservative_fair_odds": 1.5904033032094997,
+      "away_conservative_fair_odds": 2.6937574613215842,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -2592,19 +2932,19 @@
           "observed_at": "2026-08-31T01:09:48.874934+00:00"
         },
         "TAB NZ": {
-          "home_h2h": 3.35,
-          "away_h2h": 1.33,
+          "home_h2h": 3.1,
+          "away_h2h": 1.36,
           "home_line": -9.5,
-          "home_line_odds": 1.94,
+          "home_line_odds": 1.9,
           "away_line": 9.5,
-          "away_line_odds": 1.87,
-          "total": 51.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.415570+00:00"
+          "away_line_odds": 1.9,
+          "total": 50.5,
+          "over_odds": 1.83,
+          "under_odds": 1.91,
+          "observed_at": "2026-09-01T07:56:11.642575+00:00"
         },
         "Best Available": {
-          "home_h2h": 3.35,
+          "home_h2h": 3.1,
           "away_h2h": 2.45,
           "home_line": 4.5,
           "home_line_odds": null,
@@ -2613,13 +2953,13 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.415570+00:00",
+          "observed_at": "2026-09-01T07:56:11.642575+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
             "away_line_odds": "Betcha",
-            "over_odds": "TAB NZ",
-            "under_odds": "TAB NZ"
+            "over_odds": "Betcha",
+            "under_odds": "Betcha"
           }
         }
       },
@@ -2645,27 +2985,27 @@
           "under_fair_odds": 1.6814338930911479
         },
         "TAB NZ": {
-          "home_h2h": 3.35,
-          "away_h2h": 1.33,
+          "home_h2h": 3.1,
+          "away_h2h": 1.36,
           "home_line": -9.5,
-          "home_line_odds": 1.94,
+          "home_line_odds": 1.9,
           "away_line": 9.5,
-          "away_line_odds": 1.87,
-          "total": 51.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.415570+00:00",
+          "away_line_odds": 1.9,
+          "total": 50.5,
+          "over_odds": 1.83,
+          "under_odds": 1.91,
+          "observed_at": "2026-09-01T07:56:11.642575+00:00",
           "home_cover_probability": 0.41173652094032476,
           "away_cover_probability": 0.5882634790596752,
-          "over_probability": 0.40526951186787363,
-          "under_probability": 0.5947304881321264,
+          "over_probability": 0.4353349479653864,
+          "under_probability": 0.5646650520346136,
           "home_line_fair_odds": 2.4287376735884343,
           "away_line_fair_odds": 1.6999185494201943,
-          "over_fair_odds": 2.467493780598085,
-          "under_fair_odds": 1.6814338930911479
+          "over_fair_odds": 2.2970818324457385,
+          "under_fair_odds": 1.7709613803736886
         },
         "Best Available": {
-          "home_h2h": 3.35,
+          "home_h2h": 3.1,
           "away_h2h": 2.45,
           "home_line": 4.5,
           "home_line_odds": null,
@@ -2674,7 +3014,7 @@
           "total": 51.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.415570+00:00",
+          "observed_at": "2026-09-01T07:56:11.642575+00:00",
           "home_cover_probability": 0.8092018807717253,
           "away_cover_probability": 0.19079811922827472,
           "over_probability": 0.40526951186787363,
@@ -2755,8 +3095,8 @@
         "Late-season elite interaction input: Applied -2.00 home-margin points: Cronulla-Sutherland Sharks elite effect -0.83 (n=35) inactive; Melbourne Storm elite effect +2.00 (n=47) active.",
         "Stacked-advantage control: learned context +2.29, live availability +2.00, final downstream adjustment +4.29; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
-        "Low-confidence reversal guardrail: INACTIVE: raw model and 28.4% no-vig market did not agree; NetGains remains free to identify value.",
-        "Market-relative H2H calibration retains 82.1% of the +41.5pp raw market disagreement, leaving +34.1pp of betting edge."
+        "Low-confidence reversal guardrail: INACTIVE: raw model and 30.5% no-vig market did not agree; NetGains remains free to identify value.",
+        "Market-relative H2H calibration retains 82.1% of the +39.4pp raw market disagreement, leaving +32.4pp of betting edge."
       ],
       "ats_players": [
         {
@@ -2765,7 +3105,9 @@
           "probability": 0.41549502027710106,
           "fair_odds": 2.40676771368543,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.95
+          },
           "ev": null
         },
         {
@@ -2774,7 +3116,9 @@
           "probability": 0.3918071479375843,
           "fair_odds": 2.5522760502554744,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.05
+          },
           "ev": null
         },
         {
@@ -2783,7 +3127,9 @@
           "probability": 0.2973185922999693,
           "fair_odds": 3.3633954481766297,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.8
+          },
           "ev": null
         },
         {
@@ -2792,7 +3138,9 @@
           "probability": 0.2893674445202349,
           "fair_odds": 3.4558137722022564,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.68
+          },
           "ev": null
         },
         {
@@ -2801,7 +3149,9 @@
           "probability": 0.28321197703075535,
           "fair_odds": 3.5309241172784342,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.05
+          },
           "ev": null
         },
         {
@@ -2810,7 +3160,9 @@
           "probability": 0.2787240694613963,
           "fair_odds": 3.58777769688994,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.68
+          },
           "ev": null
         },
         {
@@ -2819,7 +3171,9 @@
           "probability": 0.2683285458766072,
           "fair_odds": 3.726774565609792,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.75
+          },
           "ev": null
         },
         {
@@ -2828,7 +3182,9 @@
           "probability": 0.2615483892252678,
           "fair_odds": 3.8233842806759353,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.05
+          },
           "ev": null
         },
         {
@@ -2837,7 +3193,9 @@
           "probability": 0.23365599285820265,
           "fair_odds": 4.279796070143442,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.35
+          },
           "ev": null
         },
         {
@@ -2846,7 +3204,9 @@
           "probability": 0.22227390547949383,
           "fair_odds": 4.498953657393024,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.5
+          },
           "ev": null
         },
         {
@@ -2855,7 +3215,9 @@
           "probability": 0.20642175253635128,
           "fair_odds": 4.844450682705535,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.8
+          },
           "ev": null
         },
         {
@@ -2864,7 +3226,9 @@
           "probability": 0.1724464370556264,
           "fair_odds": 5.7989020653261045,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.95
+          },
           "ev": null
         },
         {
@@ -2873,7 +3237,9 @@
           "probability": 0.1618902170872455,
           "fair_odds": 6.177025505260039,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.05
+          },
           "ev": null
         },
         {
@@ -2882,7 +3248,9 @@
           "probability": 0.15830678214559418,
           "fair_odds": 6.316848756866927,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.8
+          },
           "ev": null
         },
         {
@@ -2891,7 +3259,9 @@
           "probability": 0.13282715628270683,
           "fair_odds": 7.52858096179985,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.3
+          },
           "ev": null
         },
         {
@@ -2900,7 +3270,9 @@
           "probability": 0.12903685372021284,
           "fair_odds": 7.74972398326042,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.25
+          },
           "ev": null
         },
         {
@@ -2909,7 +3281,9 @@
           "probability": 0.12559536808754646,
           "fair_odds": 7.962077067228693,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.1
+          },
           "ev": null
         },
         {
@@ -2918,7 +3292,9 @@
           "probability": 0.11308483517381254,
           "fair_odds": 8.842918667768227,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.6
+          },
           "ev": null
         },
         {
@@ -2927,7 +3303,9 @@
           "probability": 0.10963859417646432,
           "fair_odds": 9.12087579662405,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.8
+          },
           "ev": null
         },
         {
@@ -2936,7 +3314,9 @@
           "probability": 0.10185560857844334,
           "fair_odds": 9.817819695513943,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.2
+          },
           "ev": null
         },
         {
@@ -2945,7 +3325,9 @@
           "probability": 0.09998530149508808,
           "fair_odds": 10.001470066568999,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 10.0
+          },
           "ev": null
         },
         {
@@ -2954,7 +3336,9 @@
           "probability": 0.09889496235422576,
           "fair_odds": 10.111738517257955,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.5
+          },
           "ev": null
         },
         {
@@ -2963,7 +3347,9 @@
           "probability": 0.0874200066337306,
           "fair_odds": 11.439029102225607,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.0
+          },
           "ev": null
         },
         {
@@ -2972,7 +3358,9 @@
           "probability": 0.08722317762618197,
           "fair_odds": 11.464842570695657,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.5
+          },
           "ev": null
         },
         {
@@ -2981,7 +3369,9 @@
           "probability": 0.08595094664634596,
           "fair_odds": 11.634543178617953,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         },
         {
@@ -2990,7 +3380,9 @@
           "probability": 0.08340238921381102,
           "fair_odds": 11.990064186727219,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.0
+          },
           "ev": null
         },
         {
@@ -2999,7 +3391,9 @@
           "probability": 0.08144524968163729,
           "fair_odds": 12.278186928137822,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.75
+          },
           "ev": null
         },
         {
@@ -3008,7 +3402,9 @@
           "probability": 0.07962649368220738,
           "fair_odds": 12.558634114809088,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.25
+          },
           "ev": null
         },
         {
@@ -3017,7 +3413,9 @@
           "probability": 0.07546266638335267,
           "fair_odds": 13.251585822848735,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.0
+          },
           "ev": null
         },
         {
@@ -3026,7 +3424,9 @@
           "probability": 0.07363020930474992,
           "fair_odds": 13.581382009401533,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.6
+          },
           "ev": null
         },
         {
@@ -3035,7 +3435,9 @@
           "probability": 0.06635090408889241,
           "fair_odds": 15.071384689201345,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 10.5
+          },
           "ev": null
         },
         {
@@ -3044,7 +3446,9 @@
           "probability": 0.06079102560941045,
           "fair_odds": 16.449796495047124,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 15.0
+          },
           "ev": null
         },
         {
@@ -3053,7 +3457,9 @@
           "probability": 0.057857094277943756,
           "fair_odds": 17.2839651296007,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 15.0
+          },
           "ev": null
         },
         {
@@ -3062,7 +3468,9 @@
           "probability": 0.05542702960814242,
           "fair_odds": 18.041738968690765,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.75
+          },
           "ev": null
         }
       ],
@@ -3101,19 +3509,19 @@
           "observed_at": "2026-08-31T01:10:09.343200+00:00"
         },
         "TAB NZ": {
-          "home_h2h": 2.2,
-          "away_h2h": 1.68,
+          "home_h2h": 2.15,
+          "away_h2h": 1.7,
           "home_line": -3.5,
           "home_line_odds": 1.9,
           "away_line": 3.5,
           "away_line_odds": 1.9,
-          "total": 55.5,
+          "total": 56.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.764894+00:00"
+          "observed_at": "2026-09-01T08:04:16.988183+00:00"
         },
         "Best Available": {
-          "home_h2h": 2.2,
+          "home_h2h": 2.15,
           "away_h2h": 1.82,
           "home_line": 1.5,
           "home_line_odds": 1.9,
@@ -3122,7 +3530,7 @@
           "total": 54.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.764894+00:00",
+          "observed_at": "2026-09-01T08:04:16.988183+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "Betcha",
@@ -3155,27 +3563,27 @@
           "under_fair_odds": 1.473269565925494
         },
         "TAB NZ": {
-          "home_h2h": 2.2,
-          "away_h2h": 1.68,
+          "home_h2h": 2.15,
+          "away_h2h": 1.7,
           "home_line": -3.5,
           "home_line_odds": 1.9,
           "away_line": 3.5,
           "away_line_odds": 1.9,
-          "total": 55.5,
+          "total": 56.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.764894+00:00",
+          "observed_at": "2026-09-01T08:04:16.988183+00:00",
           "home_cover_probability": 0.27320167410511487,
           "away_cover_probability": 0.7267983258948851,
-          "over_probability": 0.29419729202017586,
-          "under_probability": 0.7058027079798241,
+          "over_probability": 0.26825898722337393,
+          "under_probability": 0.7317410127766261,
           "home_line_fair_odds": 3.660299678893066,
           "away_line_fair_odds": 1.3758975005462895,
-          "over_fair_odds": 3.399079553497116,
-          "under_fair_odds": 1.4168265277165608
+          "over_fair_odds": 3.7277409057215287,
+          "under_fair_odds": 1.3666037334786696
         },
         "Best Available": {
-          "home_h2h": 2.2,
+          "home_h2h": 2.15,
           "away_h2h": 1.82,
           "home_line": 1.5,
           "home_line_odds": 1.9,
@@ -3184,7 +3592,7 @@
           "total": 54.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:56.764894+00:00",
+          "observed_at": "2026-09-01T08:04:16.988183+00:00",
           "home_cover_probability": 0.4164430530291282,
           "away_cover_probability": 0.5835569469708718,
           "over_probability": 0.32123759077870484,
@@ -3267,7 +3675,7 @@
         "Stacked-advantage control: learned context -0.03, live availability -0.26, final downstream adjustment -0.29; same-direction evidence cap 4.55, opposing cap 5.00.",
         "Extreme-stack guardrail: Reduced same-direction cap is 4.55, but the contextual adjustment remained inside it.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 60/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 82.1% of the -6.2pp raw market disagreement, leaving -5.1pp of betting edge."
+        "Market-relative H2H calibration retains 82.1% of the -7.0pp raw market disagreement, leaving -5.8pp of betting edge."
       ],
       "ats_players": [
         {
@@ -3276,7 +3684,9 @@
           "probability": 0.4897534425122048,
           "fair_odds": 2.041843738495171,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.7
+          },
           "ev": null
         },
         {
@@ -3285,7 +3695,9 @@
           "probability": 0.4437185609432703,
           "fair_odds": 2.2536807968415156,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.78
+          },
           "ev": null
         },
         {
@@ -3294,7 +3706,9 @@
           "probability": 0.38661793095690306,
           "fair_odds": 2.586532904785194,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.82
+          },
           "ev": null
         },
         {
@@ -3303,7 +3717,9 @@
           "probability": 0.3750671046634554,
           "fair_odds": 2.6661895633243864,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.55
+          },
           "ev": null
         },
         {
@@ -3312,7 +3728,9 @@
           "probability": 0.37175477693313247,
           "fair_odds": 2.6899452597481215,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.92
+          },
           "ev": null
         },
         {
@@ -3321,7 +3739,9 @@
           "probability": 0.36734738538903133,
           "fair_odds": 2.7222189125995047,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.1
+          },
           "ev": null
         },
         {
@@ -3330,7 +3750,9 @@
           "probability": 0.3580671904959237,
           "fair_odds": 2.792771933711654,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.4
+          },
           "ev": null
         },
         {
@@ -3339,7 +3761,9 @@
           "probability": 0.3436762799202878,
           "fair_odds": 2.9097149219374105,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.4
+          },
           "ev": null
         },
         {
@@ -3348,7 +3772,9 @@
           "probability": 0.2579806896614076,
           "fair_odds": 3.876259115798442,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.8
+          },
           "ev": null
         },
         {
@@ -3357,7 +3783,9 @@
           "probability": 0.23668397129069427,
           "fair_odds": 4.2250431854204615,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.75
+          },
           "ev": null
         },
         {
@@ -3366,7 +3794,9 @@
           "probability": 0.23462119387874736,
           "fair_odds": 4.26218954676704,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.8
+          },
           "ev": null
         },
         {
@@ -3375,7 +3805,9 @@
           "probability": 0.22424259391233098,
           "fair_odds": 4.45945608527413,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.65
+          },
           "ev": null
         },
         {
@@ -3384,7 +3816,9 @@
           "probability": 0.2232596112088644,
           "fair_odds": 4.479090483878329,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.8
+          },
           "ev": null
         },
         {
@@ -3393,7 +3827,9 @@
           "probability": 0.2189581012377546,
           "fair_odds": 4.567083813510763,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.1
+          },
           "ev": null
         },
         {
@@ -3402,7 +3838,9 @@
           "probability": 0.20630812543451288,
           "fair_odds": 4.847118832056975,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.5
+          },
           "ev": null
         },
         {
@@ -3411,7 +3849,9 @@
           "probability": 0.17725732829661875,
           "fair_odds": 5.641515697035785,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.7
+          },
           "ev": null
         },
         {
@@ -3420,7 +3860,9 @@
           "probability": 0.16384919834692654,
           "fair_odds": 6.103172979111239,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.8
+          },
           "ev": null
         },
         {
@@ -3429,7 +3871,9 @@
           "probability": 0.14641815363721486,
           "fair_odds": 6.829754201639049,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.9
+          },
           "ev": null
         },
         {
@@ -3438,7 +3882,9 @@
           "probability": 0.13419990699603251,
           "fair_odds": 7.451569992738996,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.0
+          },
           "ev": null
         },
         {
@@ -3447,7 +3893,9 @@
           "probability": 0.12266769037022393,
           "fair_odds": 8.152105880382155,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.4
+          },
           "ev": null
         },
         {
@@ -3456,7 +3904,9 @@
           "probability": 0.10887539322900851,
           "fair_odds": 9.1848118325194,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.0
+          },
           "ev": null
         },
         {
@@ -3465,7 +3915,9 @@
           "probability": 0.10484427383906329,
           "fair_odds": 9.537955325390561,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.4
+          },
           "ev": null
         },
         {
@@ -3474,7 +3926,9 @@
           "probability": 0.09351037358710214,
           "fair_odds": 10.694000693607856,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.25
+          },
           "ev": null
         },
         {
@@ -3483,7 +3937,9 @@
           "probability": 0.09219270761123993,
           "fair_odds": 10.846844895984834,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.75
+          },
           "ev": null
         },
         {
@@ -3492,7 +3948,9 @@
           "probability": 0.08985715820203931,
           "fair_odds": 11.128773934198433,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         },
         {
@@ -3501,7 +3959,9 @@
           "probability": 0.0874776774272242,
           "fair_odds": 11.43148777391736,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.6
+          },
           "ev": null
         },
         {
@@ -3510,7 +3970,9 @@
           "probability": 0.08155881045223103,
           "fair_odds": 12.26109103915511,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.25
+          },
           "ev": null
         },
         {
@@ -3519,7 +3981,9 @@
           "probability": 0.07784172080148163,
           "fair_odds": 12.846581366697716,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.4
+          },
           "ev": null
         },
         {
@@ -3528,7 +3992,9 @@
           "probability": 0.07234679232595609,
           "fair_odds": 13.822312888379805,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.25
+          },
           "ev": null
         },
         {
@@ -3537,7 +4003,9 @@
           "probability": 0.0703824945231856,
           "fair_odds": 14.208078397542122,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.75
+          },
           "ev": null
         },
         {
@@ -3546,7 +4014,9 @@
           "probability": 0.0693265981305349,
           "fair_odds": 14.424478150753945,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.75
+          },
           "ev": null
         },
         {
@@ -3555,7 +4025,9 @@
           "probability": 0.060616200067567426,
           "fair_odds": 16.497239993356956,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 9.25
+          },
           "ev": null
         },
         {
@@ -3564,7 +4036,9 @@
           "probability": 0.058600897612635365,
           "fair_odds": 17.064585027523243,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         },
         {
@@ -3573,7 +4047,9 @@
           "probability": 0.051214245219860365,
           "fair_odds": 19.525817391373174,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.75
+          },
           "ev": null
         }
       ],
@@ -3612,20 +4088,20 @@
           "observed_at": "2026-08-31T01:10:31.435849+00:00"
         },
         "TAB NZ": {
-          "home_h2h": 1.1,
-          "away_h2h": 7.25,
+          "home_h2h": 1.08,
+          "away_h2h": 7.75,
           "home_line": 19.5,
-          "home_line_odds": 1.85,
+          "home_line_odds": 1.9,
           "away_line": -19.5,
-          "away_line_odds": 1.96,
+          "away_line_odds": 1.9,
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:57.096062+00:00"
+          "observed_at": "2026-09-01T08:04:17.746752+00:00"
         },
         "Best Available": {
           "home_h2h": 1.33,
-          "away_h2h": 7.25,
+          "away_h2h": 7.75,
           "home_line": -10.5,
           "home_line_odds": 1.9,
           "away_line": 10.5,
@@ -3633,7 +4109,7 @@
           "total": 46.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:57.096062+00:00",
+          "observed_at": "2026-09-01T08:04:17.746752+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "TAB NZ",
@@ -3666,16 +4142,16 @@
           "under_fair_odds": 1.6462753480028836
         },
         "TAB NZ": {
-          "home_h2h": 1.1,
-          "away_h2h": 7.25,
+          "home_h2h": 1.08,
+          "away_h2h": 7.75,
           "home_line": 19.5,
-          "home_line_odds": 1.85,
+          "home_line_odds": 1.9,
           "away_line": -19.5,
-          "away_line_odds": 1.96,
+          "away_line_odds": 1.9,
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:57.096062+00:00",
+          "observed_at": "2026-09-01T08:04:17.746752+00:00",
           "home_cover_probability": 0.990373425420883,
           "away_cover_probability": 0.009626574579116975,
           "over_probability": 0.3348798674517345,
@@ -3687,7 +4163,7 @@
         },
         "Best Available": {
           "home_h2h": 1.33,
-          "away_h2h": 7.25,
+          "away_h2h": 7.75,
           "home_line": -10.5,
           "home_line_odds": 1.9,
           "away_line": 10.5,
@@ -3695,7 +4171,7 @@
           "total": 46.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-01T07:26:57.096062+00:00",
+          "observed_at": "2026-09-01T08:04:17.746752+00:00",
           "home_cover_probability": 0.5705056656352335,
           "away_cover_probability": 0.4294943343647665,
           "over_probability": 0.39256819874444937,
@@ -3778,7 +4254,7 @@
         "Stacked-advantage control: learned context +7.73, live availability -0.62, final downstream adjustment +2.88; same-direction evidence cap 3.50, opposing cap 5.00.",
         "Extreme-stack guardrail: Same-direction context exceeded the 3.50-point evidence cap for |raw margin|=10.08.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 81/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 82.1% of the -4.3pp raw market disagreement, leaving -3.6pp of betting edge."
+        "Market-relative H2H calibration retains 82.1% of the -5.3pp raw market disagreement, leaving -4.3pp of betting edge."
       ],
       "ats_players": [
         {
@@ -3787,7 +4263,9 @@
           "probability": 0.68,
           "fair_odds": 1.4705882352941175,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.55
+          },
           "ev": null
         },
         {
@@ -3796,7 +4274,9 @@
           "probability": 0.68,
           "fair_odds": 1.4705882352941175,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.57
+          },
           "ev": null
         },
         {
@@ -3805,7 +4285,9 @@
           "probability": 0.5156286188695414,
           "fair_odds": 1.939380328020561,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 1.88
+          },
           "ev": null
         },
         {
@@ -3814,7 +4296,9 @@
           "probability": 0.4480628561516157,
           "fair_odds": 2.2318297227066277,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.05
+          },
           "ev": null
         },
         {
@@ -3823,7 +4307,9 @@
           "probability": 0.3753088228750692,
           "fair_odds": 2.6644723999277646,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.4
+          },
           "ev": null
         },
         {
@@ -3832,7 +4318,9 @@
           "probability": 0.34341207472704965,
           "fair_odds": 2.9119535205476357,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.4
+          },
           "ev": null
         },
         {
@@ -3841,7 +4329,9 @@
           "probability": 0.3218892640988111,
           "fair_odds": 3.1066584429265953,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.4
+          },
           "ev": null
         },
         {
@@ -3850,7 +4340,9 @@
           "probability": 0.3068430659720626,
           "fair_odds": 3.2589949420302293,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 4.0
+          },
           "ev": null
         },
         {
@@ -3859,7 +4351,9 @@
           "probability": 0.22197981628625535,
           "fair_odds": 4.504914080613727,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.65
+          },
           "ev": null
         },
         {
@@ -3868,7 +4362,9 @@
           "probability": 0.19943903485097933,
           "fair_odds": 5.014063574601628,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.45
+          },
           "ev": null
         },
         {
@@ -3877,7 +4373,9 @@
           "probability": 0.19479657787396654,
           "fair_odds": 5.13356040908994,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 2.75
+          },
           "ev": null
         },
         {
@@ -3886,7 +4384,9 @@
           "probability": 0.17639517786188022,
           "fair_odds": 5.6690892127618895,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.5
+          },
           "ev": null
         },
         {
@@ -3895,7 +4395,9 @@
           "probability": 0.1728474324471642,
           "fair_odds": 5.785448969892445,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.0
+          },
           "ev": null
         },
         {
@@ -3904,7 +4406,9 @@
           "probability": 0.1545461190790315,
           "fair_odds": 6.470560412381639,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.0
+          },
           "ev": null
         },
         {
@@ -3913,7 +4417,9 @@
           "probability": 0.1438370720660451,
           "fair_odds": 6.952310594453938,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.6
+          },
           "ev": null
         },
         {
@@ -3922,7 +4428,9 @@
           "probability": 0.1432385965121058,
           "fair_odds": 6.9813585468598545,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 3.7
+          },
           "ev": null
         },
         {
@@ -3931,7 +4439,9 @@
           "probability": 0.12218570801232577,
           "fair_odds": 8.184263251960063,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.5
+          },
           "ev": null
         },
         {
@@ -3940,7 +4450,9 @@
           "probability": 0.11473109367384006,
           "fair_odds": 8.716033012313304,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.5
+          },
           "ev": null
         },
         {
@@ -3949,7 +4461,9 @@
           "probability": 0.11364431400636106,
           "fair_odds": 8.79938436641913,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.4
+          },
           "ev": null
         },
         {
@@ -3958,7 +4472,9 @@
           "probability": 0.10705698520267373,
           "fair_odds": 9.340819733591985,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.25
+          },
           "ev": null
         },
         {
@@ -3967,7 +4483,9 @@
           "probability": 0.10385374385077666,
           "fair_odds": 9.628925861708563,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.5
+          },
           "ev": null
         },
         {
@@ -3976,7 +4494,9 @@
           "probability": 0.09387069942688994,
           "fair_odds": 10.652951411945512,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.25
+          },
           "ev": null
         },
         {
@@ -3985,7 +4505,9 @@
           "probability": 0.08810712355978496,
           "fair_odds": 11.349820078071797,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.8
+          },
           "ev": null
         },
         {
@@ -3994,7 +4516,9 @@
           "probability": 0.0872623585450432,
           "fair_odds": 11.45969484063187,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.0
+          },
           "ev": null
         },
         {
@@ -4003,7 +4527,9 @@
           "probability": 0.08521806172737052,
           "fair_odds": 11.73460155898873,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         },
         {
@@ -4012,7 +4538,9 @@
           "probability": 0.08419246741516553,
           "fair_odds": 11.877547133389639,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 6.5
+          },
           "ev": null
         },
         {
@@ -4021,7 +4549,9 @@
           "probability": 0.08115636262749548,
           "fair_odds": 12.321892795885404,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 5.4
+          },
           "ev": null
         },
         {
@@ -4030,7 +4560,9 @@
           "probability": 0.08103663957477247,
           "fair_odds": 12.340097087531626,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 7.25
+          },
           "ev": null
         },
         {
@@ -4039,7 +4571,9 @@
           "probability": 0.06875478475576353,
           "fair_odds": 14.544442303939764,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 8.5
+          },
           "ev": null
         },
         {
@@ -4048,7 +4582,9 @@
           "probability": 0.06557400069731854,
           "fair_odds": 15.249946463017805,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.5
+          },
           "ev": null
         },
         {
@@ -4057,7 +4593,9 @@
           "probability": 0.06397036646798156,
           "fair_odds": 15.63223810044171,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 11.0
+          },
           "ev": null
         },
         {
@@ -4066,7 +4604,9 @@
           "probability": 0.06299823316193921,
           "fair_odds": 15.873461045002076,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 10.5
+          },
           "ev": null
         },
         {
@@ -4075,7 +4615,9 @@
           "probability": 0.05736100219197553,
           "fair_odds": 17.43344714677761,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 12.5
+          },
           "ev": null
         },
         {
@@ -4084,7 +4626,9 @@
           "probability": 0.04972663720291033,
           "fair_odds": 20.109946222976713,
           "bookmaker_odds": null,
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "TAB NZ": 14.0
+          },
           "ev": null
         }
       ],
