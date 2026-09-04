@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 27,
-  "generated_at": "Fri 4 Sep 2026, 7:21 PM NZT",
-  "generated_at_iso": "2026-09-04T19:21:22.762546+12:00",
+  "generated_at": "Fri 4 Sep 2026, 7:32 PM NZT",
+  "generated_at_iso": "2026-09-04T19:32:31.698661+12:00",
   "engine_version": "1.66.24",
   "fixtures": [
     {
@@ -24,13 +24,13 @@
       "independent_away_win_probability": 0.7691175690136167,
       "home_fair_odds": 4.331208727003473,
       "away_fair_odds": 1.3001913365241247,
-      "home_conservative_fair_odds": 4.288573420606637,
-      "away_conservative_fair_odds": 1.3040832215372986,
+      "home_conservative_fair_odds": 4.326916953973573,
+      "away_conservative_fair_odds": 1.3005785878741667,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
-          "home_h2h": 3.9,
-          "away_h2h": 1.26,
+          "home_h2h": 4.1,
+          "away_h2h": 1.24,
           "home_line": 13.5,
           "home_line_odds": 1.94,
           "away_line": -13.5,
@@ -38,11 +38,11 @@
           "total": 57.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-04T07:15:59.412587+00:00"
+          "observed_at": "2026-09-04T07:30:03.200411+00:00"
         },
         "TAB NZ": {
-          "home_h2h": 3.9,
-          "away_h2h": 1.26,
+          "home_h2h": 4.1,
+          "away_h2h": 1.24,
           "home_line": -13.5,
           "home_line_odds": 1.94,
           "away_line": 13.5,
@@ -50,11 +50,11 @@
           "total": 57.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-04T07:16:54.860079+00:00"
+          "observed_at": "2026-09-04T07:31:00.888649+00:00"
         },
         "Best Available": {
-          "home_h2h": 3.9,
-          "away_h2h": 1.26,
+          "home_h2h": 4.1,
+          "away_h2h": 1.24,
           "home_line": 13.5,
           "home_line_odds": 1.94,
           "away_line": -13.5,
@@ -62,7 +62,7 @@
           "total": 57.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-04T07:16:54.860079+00:00",
+          "observed_at": "2026-09-04T07:31:00.888649+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -75,8 +75,8 @@
       },
       "bookmaker_views": {
         "Betcha": {
-          "home_h2h": 3.9,
-          "away_h2h": 1.26,
+          "home_h2h": 4.1,
+          "away_h2h": 1.24,
           "home_line": 13.5,
           "home_line_odds": 1.94,
           "away_line": -13.5,
@@ -84,7 +84,7 @@
           "total": 57.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-04T07:15:59.412587+00:00",
+          "observed_at": "2026-09-04T07:30:03.200411+00:00",
           "home_cover_probability": 0.5931746195689105,
           "away_cover_probability": 0.4068253804310895,
           "over_probability": 0.24735477487053636,
@@ -95,8 +95,8 @@
           "under_fair_odds": 1.328647238581748
         },
         "TAB NZ": {
-          "home_h2h": 3.9,
-          "away_h2h": 1.26,
+          "home_h2h": 4.1,
+          "away_h2h": 1.24,
           "home_line": -13.5,
           "home_line_odds": 1.94,
           "away_line": 13.5,
@@ -104,7 +104,7 @@
           "total": 57.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-04T07:16:54.860079+00:00",
+          "observed_at": "2026-09-04T07:31:00.888649+00:00",
           "home_cover_probability": 0.04385467401897336,
           "away_cover_probability": 0.9561453259810266,
           "over_probability": 0.24735477487053636,
@@ -115,8 +115,8 @@
           "under_fair_odds": 1.328647238581748
         },
         "Best Available": {
-          "home_h2h": 3.9,
-          "away_h2h": 1.26,
+          "home_h2h": 4.1,
+          "away_h2h": 1.24,
           "home_line": 13.5,
           "home_line_odds": 1.94,
           "away_line": -13.5,
@@ -124,7 +124,7 @@
           "total": 57.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-04T07:16:54.860079+00:00",
+          "observed_at": "2026-09-04T07:31:00.888649+00:00",
           "home_cover_probability": 0.5931746195689105,
           "away_cover_probability": 0.4068253804310895,
           "over_probability": 0.24735477487053636,
@@ -135,10 +135,10 @@
           "under_fair_odds": 1.328647238581748
         }
       },
-      "home_bookmaker_odds": 3.9,
-      "away_bookmaker_odds": 1.26,
-      "home_h2h_ev": -0.09955851915310543,
-      "away_h2h_ev": -0.03091186304284288,
+      "home_bookmaker_odds": 4.1,
+      "away_bookmaker_odds": 1.24,
+      "home_h2h_ev": -0.053382032955828884,
+      "away_h2h_ev": -0.04629421442311532,
       "winner": "Dolphins",
       "home_points": 19.199061671602383,
       "away_points": 29.42405121841443,
@@ -179,7 +179,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 75,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T07:15:59.412587+00:00",
+      "bookmaker_observed_at": "2026-09-04T07:30:03.200411+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -207,7 +207,7 @@
         "Stacked-advantage control: learned context -3.13, live availability -1.82, final downstream adjustment -3.50; same-direction evidence cap 3.50, opposing cap 5.00.",
         "Extreme-stack guardrail: Same-direction context exceeded the 3.50-point evidence cap for |raw margin|=6.72.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 75/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 82.7% of the -1.3pp raw market disagreement, leaving -1.1pp of betting edge."
+        "Market-relative H2H calibration retains 82.7% of the -0.1pp raw market disagreement, leaving -0.1pp of betting edge."
       ],
       "ats_players": [
         {
@@ -644,7 +644,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:05.956318+00:00"
+          "observed_at": "2026-09-04T07:30:10.890387+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.1,
@@ -656,7 +656,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.030358+00:00"
+          "observed_at": "2026-09-04T07:31:01.068216+00:00"
         },
         "Best Available": {
           "home_h2h": 1.1,
@@ -668,7 +668,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.030358+00:00",
+          "observed_at": "2026-09-04T07:31:01.068216+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -690,7 +690,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:05.956318+00:00",
+          "observed_at": "2026-09-04T07:30:10.890387+00:00",
           "home_cover_probability": 0.05548242990443808,
           "away_cover_probability": 0.9445175700955619,
           "over_probability": 0.258919072514189,
@@ -710,7 +710,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.030358+00:00",
+          "observed_at": "2026-09-04T07:31:01.068216+00:00",
           "home_cover_probability": 0.9437213826548131,
           "away_cover_probability": 0.05627861734518691,
           "over_probability": 0.258919072514189,
@@ -730,7 +730,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.030358+00:00",
+          "observed_at": "2026-09-04T07:31:01.068216+00:00",
           "home_cover_probability": 0.05548242990443808,
           "away_cover_probability": 0.9445175700955619,
           "over_probability": 0.258919072514189,
@@ -785,7 +785,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 50,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T07:16:05.956318+00:00",
+      "bookmaker_observed_at": "2026-09-04T07:30:10.890387+00:00",
       "context_effects": {
         "venue_classification": "AWAY_VENUE",
         "home_advantage": -0.5,
@@ -1274,7 +1274,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:14.537218+00:00"
+          "observed_at": "2026-09-04T07:30:19.142377+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.33,
@@ -1286,7 +1286,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.207292+00:00"
+          "observed_at": "2026-09-04T07:31:02.225571+00:00"
         },
         "Best Available": {
           "home_h2h": 1.33,
@@ -1298,7 +1298,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.207292+00:00",
+          "observed_at": "2026-09-04T07:31:02.225571+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1320,7 +1320,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:14.537218+00:00",
+          "observed_at": "2026-09-04T07:30:19.142377+00:00",
           "home_cover_probability": 0.906571400182149,
           "away_cover_probability": 0.09342859981785101,
           "over_probability": 0.3496130462475797,
@@ -1340,7 +1340,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.207292+00:00",
+          "observed_at": "2026-09-04T07:31:02.225571+00:00",
           "home_cover_probability": 0.906571400182149,
           "away_cover_probability": 0.09342859981785101,
           "over_probability": 0.3496130462475797,
@@ -1360,7 +1360,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.207292+00:00",
+          "observed_at": "2026-09-04T07:31:02.225571+00:00",
           "home_cover_probability": 0.906571400182149,
           "away_cover_probability": 0.09342859981785101,
           "over_probability": 0.3496130462475797,
@@ -1415,7 +1415,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 70,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T07:16:14.537218+00:00",
+      "bookmaker_observed_at": "2026-09-04T07:30:19.142377+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1883,7 +1883,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:24.146541+00:00"
+          "observed_at": "2026-09-04T07:30:28.717214+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.55,
@@ -1895,7 +1895,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.439002+00:00"
+          "observed_at": "2026-09-04T07:31:02.356857+00:00"
         },
         "Best Available": {
           "home_h2h": 1.55,
@@ -1907,7 +1907,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.439002+00:00",
+          "observed_at": "2026-09-04T07:31:02.356857+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1929,7 +1929,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:24.146541+00:00",
+          "observed_at": "2026-09-04T07:30:28.717214+00:00",
           "home_cover_probability": 0.38852983386797935,
           "away_cover_probability": 0.6114701661320207,
           "over_probability": 0.2746052637095284,
@@ -1949,7 +1949,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.439002+00:00",
+          "observed_at": "2026-09-04T07:31:02.356857+00:00",
           "home_cover_probability": 0.7189051880295599,
           "away_cover_probability": 0.28109481197044006,
           "over_probability": 0.2746052637095284,
@@ -1969,7 +1969,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:55.439002+00:00",
+          "observed_at": "2026-09-04T07:31:02.356857+00:00",
           "home_cover_probability": 0.38852983386797935,
           "away_cover_probability": 0.6114701661320207,
           "over_probability": 0.2746052637095284,
@@ -2024,7 +2024,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 55,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T07:16:24.146541+00:00",
+      "bookmaker_observed_at": "2026-09-04T07:30:28.717214+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -2514,7 +2514,7 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T07:16:31.520149+00:00"
+          "observed_at": "2026-09-04T07:30:36.786632+00:00"
         },
         "TAB NZ": {
           "home_h2h": 3.1,
@@ -2526,7 +2526,7 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T07:16:55.576131+00:00"
+          "observed_at": "2026-09-04T07:31:03.195436+00:00"
         },
         "Best Available": {
           "home_h2h": 3.1,
@@ -2538,7 +2538,7 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T07:16:55.576131+00:00",
+          "observed_at": "2026-09-04T07:31:03.195436+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -2559,7 +2559,7 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T07:16:31.520149+00:00",
+          "observed_at": "2026-09-04T07:30:36.786632+00:00",
           "home_cover_probability": 0.897322037537857,
           "away_cover_probability": 0.102677962462143,
           "over_probability": 0.43495542202615045,
@@ -2579,7 +2579,7 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T07:16:55.576131+00:00",
+          "observed_at": "2026-09-04T07:31:03.195436+00:00",
           "home_cover_probability": 0.411473198159248,
           "away_cover_probability": 0.588526801840752,
           "over_probability": 0.43495542202615045,
@@ -2599,7 +2599,7 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T07:16:55.576131+00:00",
+          "observed_at": "2026-09-04T07:31:03.195436+00:00",
           "home_cover_probability": 0.897322037537857,
           "away_cover_probability": 0.102677962462143,
           "over_probability": 0.43495542202615045,
@@ -2654,7 +2654,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 66,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T07:16:31.520149+00:00",
+      "bookmaker_observed_at": "2026-09-04T07:30:36.786632+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -3145,7 +3145,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T07:16:41.288795+00:00"
+          "observed_at": "2026-09-04T07:30:45.966030+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.3,
@@ -3157,7 +3157,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T07:16:56.346118+00:00"
+          "observed_at": "2026-09-04T07:31:03.953193+00:00"
         },
         "Best Available": {
           "home_h2h": 2.3,
@@ -3169,7 +3169,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T07:16:56.346118+00:00",
+          "observed_at": "2026-09-04T07:31:03.953193+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -3191,7 +3191,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T07:16:41.288795+00:00",
+          "observed_at": "2026-09-04T07:30:45.966030+00:00",
           "home_cover_probability": 0.47896563106138557,
           "away_cover_probability": 0.5210343689386144,
           "over_probability": 0.2681021012025845,
@@ -3211,7 +3211,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T07:16:56.346118+00:00",
+          "observed_at": "2026-09-04T07:31:03.953193+00:00",
           "home_cover_probability": 0.27366382176675774,
           "away_cover_probability": 0.7263361782332423,
           "over_probability": 0.2681021012025845,
@@ -3231,7 +3231,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T07:16:56.346118+00:00",
+          "observed_at": "2026-09-04T07:31:03.953193+00:00",
           "home_cover_probability": 0.47896563106138557,
           "away_cover_probability": 0.5210343689386144,
           "over_probability": 0.2681021012025845,
@@ -3286,7 +3286,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 60,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T07:16:41.288795+00:00",
+      "bookmaker_observed_at": "2026-09-04T07:30:45.966030+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -3778,7 +3778,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:49.153039+00:00"
+          "observed_at": "2026-09-04T07:30:55.214087+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.08,
@@ -3790,7 +3790,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:56.490698+00:00"
+          "observed_at": "2026-09-04T07:31:04.206859+00:00"
         },
         "Best Available": {
           "home_h2h": 1.08,
@@ -3802,7 +3802,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:56.490698+00:00",
+          "observed_at": "2026-09-04T07:31:04.206859+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -3824,7 +3824,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:49.153039+00:00",
+          "observed_at": "2026-09-04T07:30:55.214087+00:00",
           "home_cover_probability": 0.3189159452026509,
           "away_cover_probability": 0.6810840547973491,
           "over_probability": 0.3343291365470549,
@@ -3844,7 +3844,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:56.490698+00:00",
+          "observed_at": "2026-09-04T07:31:04.206859+00:00",
           "home_cover_probability": 0.9903864286621438,
           "away_cover_probability": 0.00961357133785623,
           "over_probability": 0.3343291365470549,
@@ -3864,7 +3864,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T07:16:56.490698+00:00",
+          "observed_at": "2026-09-04T07:31:04.206859+00:00",
           "home_cover_probability": 0.3189159452026509,
           "away_cover_probability": 0.6810840547973491,
           "over_probability": 0.3343291365470549,
@@ -3919,7 +3919,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 81,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T07:16:49.153039+00:00",
+      "bookmaker_observed_at": "2026-09-04T07:30:55.214087+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
