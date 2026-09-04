@@ -8,644 +8,24 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 27,
-  "generated_at": "Sat 5 Sep 2026, 12:00 AM NZT",
-  "generated_at_iso": "2026-09-05T00:00:24.914787+12:00",
+  "generated_at": "Sat 5 Sep 2026, 12:31 AM NZT",
+  "generated_at_iso": "2026-09-05T00:31:40.957417+12:00",
   "engine_version": "1.66.24",
   "fixtures": [
-    {
-      "match_id": 26368,
-      "home_team": "South Sydney Rabbitohs",
-      "away_team": "Sydney Roosters",
-      "kickoff": "Fri 4 Sep, 10:00 PM NZT",
-      "venue": "Allianz Stadium",
-      "home_win_probability": 0.535592199848102,
-      "away_win_probability": 0.464407800151898,
-      "independent_home_win_probability": 0.535592199848102,
-      "independent_away_win_probability": 0.464407800151898,
-      "home_fair_odds": 1.867092165053202,
-      "away_fair_odds": 2.1532799398996336,
-      "home_conservative_fair_odds": 1.6874548478645406,
-      "away_conservative_fair_odds": 2.4546409893047185,
-      "bookmaker_provider": "Betcha",
-      "bookmaker_prices": {
-        "Betcha": {
-          "home_h2h": 1.08,
-          "away_h2h": 7.75,
-          "home_line": -23.5,
-          "home_line_odds": 1.9,
-          "away_line": 23.5,
-          "away_line_odds": 1.9,
-          "total": 55.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-04T09:57:46.096763+00:00"
-        },
-        "TAB NZ": {
-          "home_h2h": 1.08,
-          "away_h2h": 7.75,
-          "home_line": 23.5,
-          "home_line_odds": 1.9,
-          "away_line": -23.5,
-          "away_line_odds": 1.9,
-          "total": 55.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-04T09:58:35.273904+00:00"
-        },
-        "Best Available": {
-          "home_h2h": 1.08,
-          "away_h2h": 7.75,
-          "home_line": -23.5,
-          "home_line_odds": 1.9,
-          "away_line": 23.5,
-          "away_line_odds": 1.9,
-          "total": 55.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-04T09:58:35.273904+00:00",
-          "price_sources": {
-            "home_h2h": "TAB NZ",
-            "away_h2h": "TAB NZ",
-            "home_line_odds": "Betcha",
-            "away_line_odds": "Betcha",
-            "over_odds": "TAB NZ",
-            "under_odds": "TAB NZ"
-          }
-        }
-      },
-      "bookmaker_views": {
-        "Betcha": {
-          "home_h2h": 1.08,
-          "away_h2h": 7.75,
-          "home_line": -23.5,
-          "home_line_odds": 1.9,
-          "away_line": 23.5,
-          "away_line_odds": 1.9,
-          "total": 55.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-04T09:57:46.096763+00:00",
-          "home_cover_probability": 0.03973220680044265,
-          "away_cover_probability": 0.9602677931995574,
-          "over_probability": 0.25897180449252377,
-          "under_probability": 0.7410281955074762,
-          "home_line_fair_odds": 25.16849882068114,
-          "away_line_fair_odds": 1.0413761734818339,
-          "over_fair_odds": 3.8614242270875048,
-          "under_fair_odds": 1.3494763169101451
-        },
-        "TAB NZ": {
-          "home_h2h": 1.08,
-          "away_h2h": 7.75,
-          "home_line": 23.5,
-          "home_line_odds": 1.9,
-          "away_line": -23.5,
-          "away_line_odds": 1.9,
-          "total": 55.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-04T09:58:35.273904+00:00",
-          "home_cover_probability": 0.9733493844578582,
-          "away_cover_probability": 0.026650615542141765,
-          "over_probability": 0.25897180449252377,
-          "under_probability": 0.7410281955074762,
-          "home_line_fair_odds": 1.0273803178670378,
-          "away_line_fair_odds": 37.52258548845643,
-          "over_fair_odds": 3.8614242270875048,
-          "under_fair_odds": 1.3494763169101451
-        },
-        "Best Available": {
-          "home_h2h": 1.08,
-          "away_h2h": 7.75,
-          "home_line": -23.5,
-          "home_line_odds": 1.9,
-          "away_line": 23.5,
-          "away_line_odds": 1.9,
-          "total": 55.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-04T09:58:35.273904+00:00",
-          "home_cover_probability": 0.03973220680044265,
-          "away_cover_probability": 0.9602677931995574,
-          "over_probability": 0.25897180449252377,
-          "under_probability": 0.7410281955074762,
-          "home_line_fair_odds": 25.16849882068114,
-          "away_line_fair_odds": 1.0413761734818339,
-          "over_fair_odds": 3.8614242270875048,
-          "under_fair_odds": 1.3494763169101451
-        }
-      },
-      "home_bookmaker_odds": 1.08,
-      "away_bookmaker_odds": 7.75,
-      "home_h2h_ev": -0.4215604241640498,
-      "away_h2h_ev": 2.5991604511772093,
-      "winner": "South Sydney Rabbitohs",
-      "home_points": 24.117140897196286,
-      "away_points": 22.97811838011629,
-      "likely_home_points": 24,
-      "likely_away_points": 22,
-      "projected_margin": 1.1390225170799972,
-      "projected_total": 47.09525927731258,
-      "close_game_probability": 0.551524437073,
-      "fav_1_12_probability": 0.62,
-      "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.6608340747059402,
-      "margin_probabilities": {
-        "South Sydney Rabbitohs 1-12": 0.3335371046246098,
-        "South Sydney Rabbitohs 13+": 0.18644928049628662,
-        "Sydney Roosters 1-12": 0.3064855082128126,
-        "Sydney Roosters 13+": 0.14237104700565165
-      },
-      "margin_remainder_probability": 0.031157059660639308,
-      "market_line": -23.5,
-      "home_line_odds": 1.9,
-      "away_line": 23.5,
-      "away_line_odds": 1.9,
-      "home_cover_probability": 0.03973220680044265,
-      "away_cover_probability": 0.9602677931995574,
-      "home_line_fair_odds": 25.16849882068114,
-      "away_line_fair_odds": 1.0413761734818339,
-      "home_line_ev": -0.924508807079159,
-      "away_line_ev": 0.8245088070791589,
-      "market_total": 55.5,
-      "over_odds": 1.9,
-      "under_odds": 1.9,
-      "over_probability": 0.25897180449252377,
-      "under_probability": 0.7410281955074762,
-      "over_ev": -0.5079535714642048,
-      "under_ev": 0.40795357146420486,
-      "confidence": "Developing",
-      "confidence_score": 58,
-      "data_quality": "Developing",
-      "prediction_strength_score": 53,
-      "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T09:57:46.096763+00:00",
-      "context_effects": {
-        "venue_classification": "AWAY_VENUE",
-        "home_advantage": -0.5,
-        "ladder": 0.0,
-        "availability_margin": 1.0821357027281207,
-        "availability_total": -1.207833811114952,
-        "weather_total": 0.3519847655135584,
-        "referee_margin": -0.09392979050027102,
-        "referee_total": 0.11394365834644528,
-        "late_season_margin": -2.0,
-        "controlled_context_margin": 3.626668980503259
-      },
-      "drivers": [
-        "Point-in-time scoring base: South Sydney Rabbitohs 24.4 PF / 25.1 PA from 69 prior games; Sydney Roosters 26.0 PF / 19.4 PA from 69 prior games.",
-        "South Sydney Rabbitohs hold a 4.6-point attacking-rating advantage.",
-        "South Sydney Rabbitohs hold a 17.1-point defensive-rating advantage.",
-        "The venue favours the listed away side; nominal home advantage was removed.",
-        "The fixture is at a recognised Sydney Roosters home venue; no nominal-home uplift was applied.",
-        "Opponent-adjusted h175_s4p0 team strength is active.",
-        "Availability applied from the Data & Context snapshot: 1 South Sydney Rabbitohs absence(s), 2 Sydney Roosters absence(s); replacement-adjusted score effects -0.06/-1.14; net pre-team margin swing +1.08 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1298 games; Allianz Stadium in fine / dry conditions +1.0% vs its own baseline across 75 games. Sample-shrunk forecast effect +0.4 points.",
-        "Referee Adam Gee environment: stoppages +6.3% vs NRL, historical scoring +0.8% vs NRL and home-win environment -0.8% vs NRL; conservative adjustments +0.1 total points and -0.1 home-margin points.",
-        "Late-season elite interaction input: Applied -2.00 home-margin points: South Sydney Rabbitohs elite effect -1.04 (n=48) active; Sydney Roosters elite effect +0.98 (n=46) active.",
-        "Stacked-advantage control: learned context +2.54, live availability +1.08, final downstream adjustment +3.63; same-direction evidence cap 5.00, opposing cap 5.00.",
-        "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
-        "Low-confidence reversal guardrail: INACTIVE: raw model and 87.8% no-vig market did not agree; NetGains remains free to identify value.",
-        "Market-relative H2H calibration retains 83.3% of the -34.2pp raw market disagreement, leaving -28.5pp of betting edge."
-      ],
-      "ats_players": [
-        {
-          "player": "Daniel Tupou",
-          "team": "Sydney Roosters",
-          "probability": 0.41184434033708606,
-          "fair_odds": 2.428101838625537,
-          "bookmaker_odds": 2.45,
-          "bookmaker_prices": {
-            "Betcha": 2.45,
-            "TAB NZ": 2.45
-          },
-          "ev": 0.009018633825860878
-        },
-        {
-          "player": "Alex Johnston",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.3833636164553018,
-          "fair_odds": 2.6084895829351473,
-          "bookmaker_odds": 1.38,
-          "bookmaker_prices": {
-            "Betcha": 1.38,
-            "TAB NZ": 1.38
-          },
-          "ev": -0.4709582092916835
-        },
-        {
-          "player": "Rex Bassingthwaighte",
-          "team": "Sydney Roosters",
-          "probability": 0.3544957898235626,
-          "fair_odds": 2.820907973258903,
-          "bookmaker_odds": 2.7,
-          "bookmaker_prices": {
-            "Betcha": 2.7,
-            "TAB NZ": 2.7
-          },
-          "ev": -0.04286136747638092
-        },
-        {
-          "player": "Campbell Graham",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.3431015269188774,
-          "fair_odds": 2.914589185831397,
-          "bookmaker_odds": 1.6,
-          "bookmaker_prices": {
-            "Betcha": 1.6,
-            "TAB NZ": 1.6
-          },
-          "ev": -0.4510375569297961
-        },
-        {
-          "player": "Latrell Mitchell",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.32414440849469905,
-          "fair_odds": 3.08504473251265,
-          "bookmaker_odds": 1.82,
-          "bookmaker_prices": {
-            "Betcha": 1.82,
-            "TAB NZ": 1.82
-          },
-          "ev": -0.4100571765396477
-        },
-        {
-          "player": "Tommy Talau",
-          "team": "Sydney Roosters",
-          "probability": 0.321029894527033,
-          "fair_odds": 3.1149747018833875,
-          "bookmaker_odds": 3.45,
-          "bookmaker_prices": {
-            "Betcha": 3.45,
-            "TAB NZ": 3.45
-          },
-          "ev": 0.107553136118264
-        },
-        {
-          "player": "Fetalaiga Pauga",
-          "team": "Sydney Roosters",
-          "probability": 0.28876728357636583,
-          "fair_odds": 3.4629961802287945,
-          "bookmaker_odds": 3.9,
-          "bookmaker_prices": {
-            "Betcha": 3.9,
-            "TAB NZ": 3.9
-          },
-          "ev": 0.12619240594782677
-        },
-        {
-          "player": "Cody Ramsey",
-          "team": "Sydney Roosters",
-          "probability": 0.2868407509986222,
-          "fair_odds": 3.4862549917281567,
-          "bookmaker_odds": 3.9,
-          "bookmaker_prices": {
-            "Betcha": 3.9,
-            "TAB NZ": 3.9
-          },
-          "ev": 0.11867892889462661
-        },
-        {
-          "player": "Jye Gray",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.25765331003751035,
-          "fair_odds": 3.881184370790406,
-          "bookmaker_odds": 2.02,
-          "bookmaker_prices": {
-            "Betcha": 2.02,
-            "TAB NZ": 2.02
-          },
-          "ev": -0.4795403137242291
-        },
-        {
-          "player": "Jack Wighton",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.25359531779631095,
-          "fair_odds": 3.943290470383231,
-          "bookmaker_odds": 2.7,
-          "bookmaker_prices": {
-            "Betcha": 2.7,
-            "TAB NZ": 2.7
-          },
-          "ev": -0.31529264194996043
-        },
-        {
-          "player": "David Fifita",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.22270664473073604,
-          "fair_odds": 4.490211781552599,
-          "bookmaker_odds": 2.45,
-          "bookmaker_prices": {
-            "Betcha": 2.45,
-            "TAB NZ": 2.45
-          },
-          "ev": -0.45436872040969667
-        },
-        {
-          "player": "Matthew Dufty",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.20365293144719193,
-          "fair_odds": 4.910314783557654,
-          "bookmaker_odds": 2.2,
-          "bookmaker_prices": {
-            "Betcha": 2.2,
-            "TAB NZ": 2.2
-          },
-          "ev": -0.5519635508161778
-        },
-        {
-          "player": "Cody Walker",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.18458810977700119,
-          "fair_odds": 5.417467036246748,
-          "bookmaker_odds": 2.4,
-          "bookmaker_prices": {
-            "Betcha": 2.4,
-            "TAB NZ": 2.4
-          },
-          "ev": -0.5569885365351972
-        },
-        {
-          "player": "Cameron Murray",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.1646759244776913,
-          "fair_odds": 6.072533086859763,
-          "bookmaker_odds": 3.9,
-          "bookmaker_prices": {
-            "Betcha": 3.9,
-            "TAB NZ": 3.9
-          },
-          "ev": -0.35776389453700397
-        },
-        {
-          "player": "Salesi Foketi",
-          "team": "Sydney Roosters",
-          "probability": 0.1455482304094598,
-          "fair_odds": 6.8705747722715405,
-          "bookmaker_odds": 5.0,
-          "bookmaker_prices": {
-            "Betcha": 5.0,
-            "TAB NZ": 5.0
-          },
-          "ev": -0.27225884795270106
-        },
-        {
-          "player": "Egan Butcher",
-          "team": "Sydney Roosters",
-          "probability": 0.13790657067895282,
-          "fair_odds": 7.251286106794759,
-          "bookmaker_odds": 5.8,
-          "bookmaker_prices": {
-            "Betcha": 5.8,
-            "TAB NZ": 5.8
-          },
-          "ev": -0.20014189006207372
-        },
-        {
-          "player": "Connor Watson",
-          "team": "Sydney Roosters",
-          "probability": 0.13177825435815912,
-          "fair_odds": 7.588505439464296,
-          "bookmaker_odds": 8.5,
-          "bookmaker_prices": {
-            "Betcha": 8.5,
-            "TAB NZ": 8.5
-          },
-          "ev": 0.12011516204435257
-        },
-        {
-          "player": "Toby Rodwell",
-          "team": "Sydney Roosters",
-          "probability": 0.1316400101945248,
-          "fair_odds": 7.596474647201085,
-          "bookmaker_odds": 6.25,
-          "bookmaker_prices": {
-            "Betcha": 6.25,
-            "TAB NZ": 6.25
-          },
-          "ev": -0.17724993628422003
-        },
-        {
-          "player": "Adam Elliott",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.12618519785147,
-          "fair_odds": 7.924859785670577,
-          "bookmaker_odds": 3.7,
-          "bookmaker_prices": {
-            "Betcha": 3.7,
-            "TAB NZ": 3.7
-          },
-          "ev": -0.5331147679495609
-        },
-        {
-          "player": "Brandon Smith",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.11631650110775009,
-          "fair_odds": 8.597232468965409,
-          "bookmaker_odds": 4.1,
-          "bookmaker_prices": {
-            "Betcha": 4.1,
-            "TAB NZ": 4.1
-          },
-          "ev": -0.5231023454582246
-        },
-        {
-          "player": "Reece Foley",
-          "team": "Sydney Roosters",
-          "probability": 0.11153830774132018,
-          "fair_odds": 8.965529603687386,
-          "bookmaker_odds": 5.2,
-          "bookmaker_prices": {
-            "Betcha": 5.2,
-            "TAB NZ": 5.2
-          },
-          "ev": -0.42000079974513504
-        },
-        {
-          "player": "Jayden Sullivan",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.10960650707944798,
-          "fair_odds": 9.123545915710576,
-          "bookmaker_odds": 4.2,
-          "bookmaker_prices": {
-            "Betcha": 4.2,
-            "TAB NZ": 4.2
-          },
-          "ev": -0.5396526702663185
-        },
-        {
-          "player": "Keaon Koloamatangi",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.10168198269137163,
-          "fair_odds": 9.834583999362321,
-          "bookmaker_odds": 5.6,
-          "bookmaker_prices": {
-            "Betcha": 5.6,
-            "TAB NZ": 5.6
-          },
-          "ev": -0.4305808969283189
-        },
-        {
-          "player": "Jamie Humphreys",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.08735436661061821,
-          "fair_odds": 11.447624644312247,
-          "bookmaker_odds": 6.2,
-          "bookmaker_prices": {
-            "Betcha": 6.2,
-            "TAB NZ": 6.2
-          },
-          "ev": -0.45840292701416707
-        },
-        {
-          "player": "Benaiah Ioelu",
-          "team": "Sydney Roosters",
-          "probability": 0.08398246646962376,
-          "fair_odds": 11.907247334319448,
-          "bookmaker_odds": 9.0,
-          "bookmaker_prices": {
-            "Betcha": 9.0,
-            "TAB NZ": 9.0
-          },
-          "ev": -0.24415780177338609
-        },
-        {
-          "player": "Spencer Leniu",
-          "team": "Sydney Roosters",
-          "probability": 0.08298769299726448,
-          "fair_odds": 12.049979507599554,
-          "bookmaker_odds": 12.5,
-          "bookmaker_prices": {
-            "Betcha": 12.5,
-            "TAB NZ": 12.5
-          },
-          "ev": 0.03734616246580602
-        },
-        {
-          "player": "Aston Warwick",
-          "team": "Sydney Roosters",
-          "probability": 0.08109384215657217,
-          "fair_odds": 12.331392537416678,
-          "bookmaker_odds": 9.0,
-          "bookmaker_prices": {
-            "Betcha": 9.0,
-            "TAB NZ": 9.0
-          },
-          "ev": -0.2701554205908505
-        },
-        {
-          "player": "Tevita Tatola",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.07741088735920307,
-          "fair_odds": 12.918079537827621,
-          "bookmaker_odds": 7.75,
-          "bookmaker_prices": {
-            "Betcha": 7.75,
-            "TAB NZ": 7.75
-          },
-          "ev": -0.4000656229661762
-        },
-        {
-          "player": "De La Salle Va'a",
-          "team": "Sydney Roosters",
-          "probability": 0.06840021006198288,
-          "fair_odds": 14.619838142219452,
-          "bookmaker_odds": 11.0,
-          "bookmaker_prices": {
-            "Betcha": 11.0,
-            "TAB NZ": 11.0
-          },
-          "ev": -0.24759768931818837
-        },
-        {
-          "player": "Tom Rodwell",
-          "team": "Sydney Roosters",
-          "probability": 0.06449671233985398,
-          "fair_odds": 15.504666264703191,
-          "bookmaker_odds": 5.25,
-          "bookmaker_prices": {
-            "Betcha": 5.25,
-            "TAB NZ": 5.25
-          },
-          "ev": -0.6613922602157667
-        },
-        {
-          "player": "Taylor Losalu",
-          "team": "Sydney Roosters",
-          "probability": 0.06390106485393786,
-          "fair_odds": 15.6491914850833,
-          "bookmaker_odds": 10.5,
-          "bookmaker_prices": {
-            "Betcha": 10.5,
-            "TAB NZ": 10.5
-          },
-          "ev": -0.3290388190336525
-        },
-        {
-          "player": "Sean Keppie",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.061605629145096534,
-          "fair_odds": 16.23228289162914,
-          "bookmaker_odds": 9.5,
-          "bookmaker_prices": {
-            "Betcha": 9.5,
-            "TAB NZ": 9.5
-          },
-          "ev": -0.4147465231215829
-        },
-        {
-          "player": "Lachlan Hubner",
-          "team": "South Sydney Rabbitohs",
-          "probability": 0.057355182744374615,
-          "fair_odds": 17.43521600230765,
-          "bookmaker_odds": 8.0,
-          "bookmaker_prices": {
-            "Betcha": 8.0,
-            "TAB NZ": 8.0
-          },
-          "ev": -0.541158538045003
-        }
-      ],
-      "safe_bet": {
-        "available": true,
-        "probability": 0.15704,
-        "fair_odds": 6.367804381049414,
-        "singles_product_odds": 3.381,
-        "target_met": false,
-        "legs": [
-          {
-            "player": "Daniel Tupou",
-            "team": "Sydney Roosters",
-            "probability": 0.41184434033708606,
-            "fair_odds": 2.428101838625537,
-            "market_odds": 2.45
-          },
-          {
-            "player": "Alex Johnston",
-            "team": "South Sydney Rabbitohs",
-            "probability": 0.3833636164553018,
-            "fair_odds": 2.6084895829351473,
-            "market_odds": 1.38
-          }
-        ],
-        "method": "Highest simulated joint hit probability"
-      },
-      "start_time": "2026-09-04T10:00:00Z"
-    },
     {
       "match_id": 26371,
       "home_team": "Warriors",
       "away_team": "Manly-Warringah Sea Eagles",
       "kickoff": "Sat 5 Sep, 5:00 PM NZT",
       "venue": "Go Media Stadium",
-      "home_win_probability": 0.7218616820469652,
-      "away_win_probability": 0.2781383179530348,
-      "independent_home_win_probability": 0.7218616820469652,
-      "independent_away_win_probability": 0.2781383179530348,
-      "home_fair_odds": 1.385306942964925,
-      "away_fair_odds": 3.595333456244082,
-      "home_conservative_fair_odds": 1.38724462635282,
-      "away_conservative_fair_odds": 3.5823470022509656,
+      "home_win_probability": 0.7223004070601245,
+      "away_win_probability": 0.27769959293987545,
+      "independent_home_win_probability": 0.7223004070601245,
+      "independent_away_win_probability": 0.27769959293987545,
+      "home_fair_odds": 1.3844655080150878,
+      "away_fair_odds": 3.6010135607815217,
+      "home_conservative_fair_odds": 1.3898247464015332,
+      "away_conservative_fair_odds": 3.5652553082660505,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -658,7 +38,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:58:32.787795+00:00"
+          "observed_at": "2026-09-04T12:30:29.082215+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.33,
@@ -670,7 +50,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:11.592112+00:00"
+          "observed_at": "2026-09-04T12:27:11.587750+00:00"
         },
         "Best Available": {
           "home_h2h": 1.33,
@@ -682,7 +62,7 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:11.592112+00:00",
+          "observed_at": "2026-09-04T12:30:29.082215+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -704,15 +84,15 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:58:32.787795+00:00",
-          "home_cover_probability": 0.9065731843498959,
-          "away_cover_probability": 0.09342681565010413,
-          "over_probability": 0.34997142082903854,
-          "under_probability": 0.6500285791709615,
-          "home_line_fair_odds": 1.1030549074944243,
-          "away_line_fair_odds": 10.703565063644396,
-          "over_fair_odds": 2.857376175549206,
-          "under_fair_odds": 1.5383938984273398
+          "observed_at": "2026-09-04T12:30:29.082215+00:00",
+          "home_cover_probability": 0.9067891821100058,
+          "away_cover_probability": 0.09321081788999419,
+          "over_probability": 0.35225278554531103,
+          "under_probability": 0.647747214454689,
+          "home_line_fair_odds": 1.1027921591136565,
+          "away_line_fair_odds": 10.72836847306911,
+          "over_fair_odds": 2.838870382392953,
+          "under_fair_odds": 1.5438121194266468
         },
         "TAB NZ": {
           "home_h2h": 1.33,
@@ -724,15 +104,15 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:11.592112+00:00",
-          "home_cover_probability": 0.9065731843498959,
-          "away_cover_probability": 0.09342681565010413,
-          "over_probability": 0.34997142082903854,
-          "under_probability": 0.6500285791709615,
-          "home_line_fair_odds": 1.1030549074944243,
-          "away_line_fair_odds": 10.703565063644396,
-          "over_fair_odds": 2.857376175549206,
-          "under_fair_odds": 1.5383938984273398
+          "observed_at": "2026-09-04T12:27:11.587750+00:00",
+          "home_cover_probability": 0.9067891821100058,
+          "away_cover_probability": 0.09321081788999419,
+          "over_probability": 0.35225278554531103,
+          "under_probability": 0.647747214454689,
+          "home_line_fair_odds": 1.1027921591136565,
+          "away_line_fair_odds": 10.72836847306911,
+          "over_fair_odds": 2.838870382392953,
+          "under_fair_odds": 1.5438121194266468
         },
         "Best Available": {
           "home_h2h": 1.33,
@@ -744,73 +124,73 @@
           "total": 49.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:11.592112+00:00",
-          "home_cover_probability": 0.9065731843498959,
-          "away_cover_probability": 0.09342681565010413,
-          "over_probability": 0.34997142082903854,
-          "under_probability": 0.6500285791709615,
-          "home_line_fair_odds": 1.1030549074944243,
-          "away_line_fair_odds": 10.703565063644396,
-          "over_fair_odds": 2.857376175549206,
-          "under_fair_odds": 1.5383938984273398
+          "observed_at": "2026-09-04T12:30:29.082215+00:00",
+          "home_cover_probability": 0.9067891821100058,
+          "away_cover_probability": 0.09321081788999419,
+          "over_probability": 0.35225278554531103,
+          "under_probability": 0.647747214454689,
+          "home_line_fair_odds": 1.1027921591136565,
+          "away_line_fair_odds": 10.72836847306911,
+          "over_fair_odds": 2.838870382392953,
+          "under_fair_odds": 1.5438121194266468
         }
       },
       "home_bookmaker_odds": 1.33,
       "away_bookmaker_odds": null,
-      "home_h2h_ev": -0.03992396287753619,
+      "home_h2h_ev": -0.03934045861003432,
       "away_h2h_ev": null,
       "winner": "Warriors",
-      "home_points": 26.467379538159832,
-      "away_points": 18.022451332276937,
+      "home_points": 26.516831571108682,
+      "away_points": 18.052977007527566,
       "likely_home_points": 26,
       "likely_away_points": 18,
-      "projected_margin": 8.444928205882896,
-      "projected_total": 44.48983087043677,
-      "close_game_probability": 0.36887679485292757,
-      "fav_1_12_probability": 0.5588767948529276,
-      "fav_13_plus_probability": 0.4411232051470724,
-      "high_scoring_probability": 0.5696440804652869,
+      "projected_margin": 8.463854563581116,
+      "projected_total": 44.56980857863625,
+      "close_game_probability": 0.3684036359104721,
+      "fav_1_12_probability": 0.5584036359104722,
+      "fav_13_plus_probability": 0.44159636408952785,
+      "high_scoring_probability": 0.5724433002522686,
       "margin_probabilities": {
-        "Warriors 1-12": 0.32128529818610263,
-        "Warriors 13+": 0.3887694201907189,
-        "Manly-Warringah Sea Eagles 1-12": 0.1943281730258652,
-        "Manly-Warringah Sea Eagles 13+": 0.072242701761625
+        "Warriors 1-12": 0.32122554566528394,
+        "Warriors 13+": 0.38927693582556877,
+        "Manly-Warringah Sea Eagles 1-12": 0.19407643805446234,
+        "Manly-Warringah Sea Eagles 13+": 0.07206508883623507
       },
-      "margin_remainder_probability": 0.023374406835688255,
+      "margin_remainder_probability": 0.023355991618449923,
       "market_line": 10.5,
       "home_line_odds": 1.9,
       "away_line": -10.5,
       "away_line_odds": null,
-      "home_cover_probability": 0.9065731843498959,
-      "away_cover_probability": 0.09342681565010413,
-      "home_line_fair_odds": 1.1030549074944243,
-      "away_line_fair_odds": 10.703565063644396,
-      "home_line_ev": 0.722489050264802,
+      "home_cover_probability": 0.9067891821100058,
+      "away_cover_probability": 0.09321081788999419,
+      "home_line_fair_odds": 1.1027921591136565,
+      "away_line_fair_odds": 10.72836847306911,
+      "home_line_ev": 0.722899446009011,
       "away_line_ev": null,
       "market_total": 49.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.34997142082903854,
-      "under_probability": 0.6500285791709615,
-      "over_ev": -0.33505430042482676,
-      "under_ev": 0.23505430042482667,
+      "over_probability": 0.35225278554531103,
+      "under_probability": 0.647747214454689,
+      "over_ev": -0.3307197074639091,
+      "under_ev": 0.2307197074639089,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 70,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T11:58:32.787795+00:00",
+      "bookmaker_observed_at": "2026-09-04T12:30:29.082215+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": 1.44,
         "availability_margin": 1.9999999999999998,
         "availability_total": -2.6452799999999996,
-        "weather_total": 0.6065562952068765,
+        "weather_total": 0.612170407422748,
         "referee_margin": -0.1209026387184289,
         "referee_total": -0.06893579523414789,
         "late_season_margin": 1.1160393712492094,
-        "controlled_context_margin": 4.555071794117101
+        "controlled_context_margin": 4.536145436418888
       },
       "drivers": [
         "Point-in-time scoring base: Warriors 27.4 PF / 18.8 PA from 70 prior games; Manly-Warringah Sea Eagles 24.9 PF / 21.9 PA from 69 prior games.",
@@ -821,419 +201,419 @@
         "Warriors are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 2 Warriors absence(s), 6 Manly-Warringah Sea Eagles absence(s); replacement-adjusted score effects -0.32/-2.32; net pre-team margin swing +2.00 pts (capped).",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1298 games; Go Media Stadium in fine / dry conditions +2.9% vs its own baseline across 17 games. Sample-shrunk forecast effect +0.6 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1300 games; Go Media Stadium in fine / dry conditions +2.9% vs its own baseline across 17 games. Sample-shrunk forecast effect +0.6 points.",
         "Referee Gerard Sutton environment: stoppages -0.2% vs NRL, historical scoring -0.5% vs NRL and home-win environment -4.1% vs NRL; conservative adjustments -0.1 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied +1.12 home-margin points: Warriors elite effect -2.00 (n=37) inactive; Manly-Warringah Sea Eagles elite effect -1.12 (n=46) active.",
-        "Stacked-advantage control: learned context +4.96, live availability +2.00, final downstream adjustment +4.56; same-direction evidence cap 4.56, opposing cap 5.00.",
-        "Extreme-stack guardrail: Same-direction context exceeded the 4.56-point evidence cap for |raw margin|=3.89.",
+        "Stacked-advantage control: learned context +4.98, live availability +2.00, final downstream adjustment +4.54; same-direction evidence cap 4.54, opposing cap 5.00.",
+        "Extreme-stack guardrail: Same-direction context exceeded the 4.54-point evidence cap for |raw margin|=3.93.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 70/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 83.3% of the +0.6pp raw market disagreement, leaving +0.5pp of betting edge."
+        "Market-relative H2H calibration retains 57.1% of the +0.6pp raw market disagreement, leaving +0.4pp of betting edge."
       ],
       "ats_players": [
         {
           "player": "Alofiana Khan-Pereira",
           "team": "Warriors",
-          "probability": 0.616845635322871,
-          "fair_odds": 1.6211511320438823,
+          "probability": 0.6166705340128721,
+          "fair_odds": 1.6216114518926026,
           "bookmaker_odds": 1.52,
           "bookmaker_prices": {
             "Betcha": 1.52,
             "TAB NZ": 1.52
           },
-          "ev": -0.062394634309236086
+          "ev": -0.06266078830043442
         },
         {
           "player": "Lehi Hopoate",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.3572703014634113,
-          "fair_odds": 2.799001192945257,
+          "probability": 0.3571971237607472,
+          "fair_odds": 2.799574614351615,
           "bookmaker_odds": 2.15,
           "bookmaker_prices": {
             "Betcha": 2.15,
             "TAB NZ": 2.15
           },
-          "ev": -0.23186885185366568
+          "ev": -0.23202618391439356
         },
         {
           "player": "Jason Saab",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.35392526923264933,
-          "fair_odds": 2.8254552215729465,
+          "probability": 0.35384536790643156,
+          "fair_odds": 2.826093233653501,
           "bookmaker_odds": 2.2,
           "bookmaker_prices": {
             "Betcha": 2.2,
             "TAB NZ": 2.2
           },
-          "ev": -0.22136440768817145
+          "ev": -0.2215401906058505
         },
         {
           "player": "Tom Trbojevic",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.3501849016848777,
-          "fair_odds": 2.8556342526151344,
+          "probability": 0.35018071574662796,
+          "fair_odds": 2.855668387871897,
           "bookmaker_odds": 2.7,
           "bookmaker_prices": {
             "Betcha": 2.7,
             "TAB NZ": 2.7
           },
-          "ev": -0.05450076545083016
+          "ev": -0.05451206748410442
         },
         {
           "player": "Adam Pompey",
           "team": "Warriors",
-          "probability": 0.35000018871231736,
-          "fair_odds": 2.8571413166349746,
+          "probability": 0.3499455589241768,
+          "fair_odds": 2.8575873432263545,
           "bookmaker_odds": 1.78,
           "bookmaker_prices": {
             "Betcha": 1.78,
             "TAB NZ": 1.78
           },
-          "ev": -0.3769996640920751
+          "ev": -0.3770969051149653
         },
         {
           "player": "Charnze Nicoll-Klokstad",
           "team": "Warriors",
-          "probability": 0.33722061441662554,
-          "fair_odds": 2.9654177628789062,
+          "probability": 0.3372247258305924,
+          "fair_odds": 2.965381608768386,
           "bookmaker_odds": 2.2,
           "bookmaker_prices": {
             "Betcha": 2.2,
             "TAB NZ": 2.2
           },
-          "ev": -0.2581146482834238
+          "ev": -0.2581056031726967
         },
         {
           "player": "Ali Leiataua",
           "team": "Warriors",
-          "probability": 0.3236415671454527,
-          "fair_odds": 3.0898379612362175,
+          "probability": 0.323645593846731,
+          "fair_odds": 3.089799518400274,
           "bookmaker_odds": 2.9,
           "bookmaker_prices": {
             "Betcha": 2.9,
             "TAB NZ": 2.9
           },
-          "ev": -0.06143945527818717
+          "ev": -0.06142777784448017
         },
         {
           "player": "Reuben Garrick",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.32041333492610974,
-          "fair_odds": 3.120968733185244,
+          "probability": 0.3204093293886742,
+          "fair_odds": 3.1210077493934163,
           "bookmaker_odds": 3.45,
           "bookmaker_prices": {
             "Betcha": 3.45,
             "TAB NZ": 3.45
           },
-          "ev": 0.10542600549507863
+          "ev": 0.10541218639092609
         },
         {
           "player": "Josh Feledy",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.23949124083622556,
-          "fair_odds": 4.17551805447383,
+          "probability": 0.2394878904214726,
+          "fair_odds": 4.175576469608167,
           "bookmaker_odds": 3.7,
           "bookmaker_prices": {
             "Betcha": 3.7,
             "TAB NZ": 3.7
           },
-          "ev": -0.11388240890596535
+          "ev": -0.11389480544055142
         },
         {
           "player": "Jacob Laban",
           "team": "Warriors",
-          "probability": 0.20177706843650814,
-          "fair_odds": 4.9559645590483115,
+          "probability": 0.20178003125597618,
+          "fair_odds": 4.955891788575499,
           "bookmaker_odds": 3.7,
           "bookmaker_prices": {
             "Betcha": 3.7,
             "TAB NZ": 3.7
           },
-          "ev": -0.25342484678491983
+          "ev": -0.25341388435288814
         },
         {
           "player": "Chanel Harris-Tavita",
           "team": "Warriors",
-          "probability": 0.2011287203628693,
-          "fair_odds": 4.9719403484287845,
+          "probability": 0.20113167606105647,
+          "fair_odds": 4.971867284079288,
           "bookmaker_odds": 2.9,
           "bookmaker_prices": {
             "Betcha": 2.9,
             "TAB NZ": 2.9
           },
-          "ev": -0.416726710947679
+          "ev": -0.41671813942293623
         },
         {
           "player": "Clayton Faulalo",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.19014123499168134,
-          "fair_odds": 5.25924847413424,
+          "probability": 0.19013840236122218,
+          "fair_odds": 5.25932682499464,
           "bookmaker_odds": 4.0,
           "bookmaker_prices": {
             "Betcha": 4.0,
             "TAB NZ": 4.0
           },
-          "ev": -0.23943506003327464
+          "ev": -0.2394463905551113
         },
         {
           "player": "Haumole Olakau'atu",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.18214456814058283,
-          "fair_odds": 5.490144505589538,
+          "probability": 0.18214182784742416,
+          "fair_odds": 5.49022710389003,
           "bookmaker_odds": 3.05,
           "bookmaker_prices": {
             "Betcha": 3.05,
             "TAB NZ": 3.05
           },
-          "ev": -0.4444590671712224
+          "ev": -0.4444674250653563
         },
         {
           "player": "Te Maire Martin",
           "team": "Warriors",
-          "probability": 0.15008714098153028,
-          "fair_odds": 6.6627959827888255,
+          "probability": 0.15008952140680523,
+          "fair_odds": 6.662690310601915,
           "bookmaker_odds": 3.4,
           "bookmaker_prices": {
             "Betcha": 3.4,
             "TAB NZ": 3.4
           },
-          "ev": -0.4897037206627971
+          "ev": -0.4896956272168622
         },
         {
           "player": "Eddie Ieremia-Toeava",
           "team": "Warriors",
-          "probability": 0.1414894053063465,
-          "fair_odds": 7.06766699481735,
+          "probability": 0.1414916831203243,
+          "fair_odds": 7.067553215474874,
           "bookmaker_odds": 4.4,
           "bookmaker_prices": {
             "Betcha": 4.4,
             "TAB NZ": 4.4
           },
-          "ev": -0.37744661665207535
+          "ev": -0.37743659427057297
         },
         {
           "player": "Sam Healey",
           "team": "Warriors",
-          "probability": 0.13408936619196404,
-          "fair_odds": 7.4577129298112075,
+          "probability": 0.13409154058040768,
+          "fair_odds": 7.4575919977618,
           "bookmaker_odds": 4.5,
           "bookmaker_prices": {
             "Betcha": 4.5,
             "TAB NZ": 4.5
           },
-          "ev": -0.39659785213616183
+          "ev": -0.39658806738816543
         },
         {
           "player": "Ben Trbojevic",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.13128143533860034,
-          "fair_odds": 7.617223238158584,
+          "probability": 0.13127929580130288,
+          "fair_odds": 7.617347380607106,
           "bookmaker_odds": 5.8,
           "bookmaker_prices": {
             "Betcha": 5.8,
             "TAB NZ": 5.8
           },
-          "ev": -0.23856767503611798
+          "ev": -0.23858008435244338
         },
         {
           "player": "Mitchell Barnett",
           "team": "Warriors",
-          "probability": 0.11303936949022379,
-          "fair_odds": 8.846475387378067,
+          "probability": 0.11304125386017125,
+          "fair_odds": 8.846327918805386,
           "bookmaker_odds": 7.5,
           "bookmaker_prices": {
             "Betcha": 7.5,
             "TAB NZ": 7.5
           },
-          "ev": -0.1522047288233216
+          "ev": -0.15219059604871565
         },
         {
           "player": "Jake Trbojevic",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.10727047409404292,
-          "fair_odds": 9.322229704357513,
+          "probability": 0.10726866564937088,
+          "fair_odds": 9.322386868022582,
           "bookmaker_odds": 14.0,
           "bookmaker_prices": {
             "Betcha": 14.0,
             "TAB NZ": 14.0
           },
-          "ev": 0.5017866373166009
+          "ev": 0.5017613190911923
         },
         {
           "player": "Erin Clark",
           "team": "Warriors",
-          "probability": 0.08911561933320616,
-          "fair_odds": 11.221377436215395,
+          "probability": 0.08911715894221078,
+          "fair_odds": 11.221183573058735,
           "bookmaker_odds": 5.75,
           "bookmaker_prices": {
             "Betcha": 5.75,
             "TAB NZ": 5.75
           },
-          "ev": -0.48758518883406454
+          "ev": -0.487576336082288
         },
         {
           "player": "Jamal Fogarty",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.08832902195005786,
-          "fair_odds": 11.321307288621517,
+          "probability": 0.08832754064310415,
+          "fair_odds": 11.3214971538786,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "TAB NZ": 7.0
           },
-          "ev": -0.381696846349595
+          "ev": -0.3817072154982709
         },
         {
           "player": "James Fisher-Harris",
           "team": "Warriors",
-          "probability": 0.08811852376091703,
-          "fair_odds": 11.348351712214308,
+          "probability": 0.08812004976880657,
+          "fair_odds": 11.34815518855946,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6,
             "TAB NZ": 6.6
           },
-          "ev": -0.41841774317794767
+          "ev": -0.41840767152587666
         },
         {
           "player": "Brandon Wakeham",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.08737812226552154,
-          "fair_odds": 11.444512357008948,
+          "probability": 0.08737665537708246,
+          "fair_odds": 11.444704488680674,
           "bookmaker_odds": 8.5,
           "bookmaker_prices": {
             "Betcha": 8.5,
             "TAB NZ": 8.5
           },
-          "ev": -0.257285960743067
+          "ev": -0.25729842929479907
         },
         {
           "player": "Demitric Vaimauga",
           "team": "Warriors",
-          "probability": 0.08319636745815966,
-          "fair_odds": 12.01975555606933,
+          "probability": 0.08319777056524802,
+          "fair_odds": 12.01955284625984,
           "bookmaker_odds": 8.75,
           "bookmaker_prices": {
             "Betcha": 8.75,
             "TAB NZ": 8.75
           },
-          "ev": -0.272031784741103
+          "ev": -0.2720195075540799
         },
         {
           "player": "Caleb Navale",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.07972911526311977,
-          "fair_odds": 12.542469544529979,
+          "probability": 0.07972776556678514,
+          "fair_odds": 12.542681873635795,
           "bookmaker_odds": 8.75,
           "bookmaker_prices": {
             "Betcha": 8.75,
             "TAB NZ": 8.75
           },
-          "ev": -0.3023702414477021
+          "ev": -0.30238205129063
         },
         {
           "player": "Morgan Gannon",
           "team": "Warriors",
-          "probability": 0.0754324952353811,
-          "fair_odds": 13.256886132158025,
+          "probability": 0.07543377817817093,
+          "fair_odds": 13.256660665173742,
           "bookmaker_odds": 5.0,
           "bookmaker_prices": {
             "Betcha": 5.0,
             "TAB NZ": 5.0
           },
-          "ev": -0.6228375238230945
+          "ev": -0.6228311091091454
         },
         {
           "player": "Makaia Tafua",
           "team": "Warriors",
-          "probability": 0.07425900407076133,
-          "fair_odds": 13.466380441179915,
+          "probability": 0.07426026865806508,
+          "fair_odds": 13.466151120521086,
           "bookmaker_odds": 8.5,
           "bookmaker_prices": {
             "Betcha": 8.5,
             "TAB NZ": 8.5
           },
-          "ev": -0.3687984653985287
+          "ev": -0.3687877164064468
         },
         {
           "player": "Corey Waddell",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.07223112956851084,
-          "fair_odds": 13.844446376150124,
+          "probability": 0.07222989683959126,
+          "fair_odds": 13.844682655726452,
           "bookmaker_odds": 11.0,
           "bookmaker_prices": {
             "Betcha": 11.0,
             "TAB NZ": 11.0
           },
-          "ev": -0.2054575747463807
+          "ev": -0.2054711347644962
         },
         {
           "player": "Jake Simpkin",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.06088368497223308,
-          "fair_odds": 16.424761419353395,
+          "probability": 0.06088263319538564,
+          "fair_odds": 16.42504516502731,
           "bookmaker_odds": 11.0,
           "bookmaker_prices": {
             "Betcha": 11.0,
             "TAB NZ": 11.0
           },
-          "ev": -0.33027946530543617
+          "ev": -0.33029103485075795
         },
         {
           "player": "Nathan Brown",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.06015722168529325,
-          "fair_odds": 16.623108115454606,
+          "probability": 0.06015618165434146,
+          "fair_odds": 16.62339550980843,
           "bookmaker_odds": 13.0,
           "bookmaker_prices": {
             "Betcha": 13.0,
             "TAB NZ": 13.0
           },
-          "ev": -0.21795611809118776
+          "ev": -0.217969638493561
         },
         {
           "player": "Simione Laiafi",
           "team": "Manly-Warringah Sea Eagles",
-          "probability": 0.05330031324733364,
-          "fair_odds": 18.76161581564486,
+          "probability": 0.05329938503950896,
+          "fair_odds": 18.761942548844328,
           "bookmaker_odds": 12.0,
           "bookmaker_prices": {
             "Betcha": 12.0,
             "TAB NZ": 12.0
           },
-          "ev": -0.3603962410319963
+          "ev": -0.3604073795258924
         },
         {
           "player": "Tanner Stowers-Smith",
           "team": "Warriors",
-          "probability": 0.051531512633422566,
-          "fair_odds": 19.405601522191976,
+          "probability": 0.051532411729656835,
+          "fair_odds": 19.405262948803564,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "TAB NZ": 7.0
           },
-          "ev": -0.6392794115660421
+          "ev": -0.6392731178924022
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.21908,
-        "fair_odds": 4.564542632828191,
+        "probability": 0.21692,
+        "fair_odds": 4.609994468006638,
         "singles_product_odds": 3.268,
         "target_met": false,
         "legs": [
           {
             "player": "Alofiana Khan-Pereira",
             "team": "Warriors",
-            "probability": 0.616845635322871,
-            "fair_odds": 1.6211511320438823,
+            "probability": 0.6166705340128721,
+            "fair_odds": 1.6216114518926026,
             "market_odds": 1.52
           },
           {
             "player": "Lehi Hopoate",
             "team": "Manly-Warringah Sea Eagles",
-            "probability": 0.3572703014634113,
-            "fair_odds": 2.799001192945257,
+            "probability": 0.3571971237607472,
+            "fair_odds": 2.799574614351615,
             "market_odds": 2.15
           }
         ],
@@ -1247,14 +627,14 @@
       "away_team": "Canberra Raiders",
       "kickoff": "Sat 5 Sep, 7:30 PM NZT",
       "venue": "Queensland Country Bank Stadium",
-      "home_win_probability": 0.5588917257987833,
-      "away_win_probability": 0.4411082742012167,
-      "independent_home_win_probability": 0.5588917257987833,
-      "independent_away_win_probability": 0.4411082742012167,
-      "home_fair_odds": 1.7892553312911774,
-      "away_fair_odds": 2.2670170987176683,
-      "home_conservative_fair_odds": 1.761101514100808,
-      "away_conservative_fair_odds": 2.31388518019365,
+      "home_win_probability": 0.5555947348218393,
+      "away_win_probability": 0.4444052651781607,
+      "independent_home_win_probability": 0.5555947348218393,
+      "independent_away_win_probability": 0.4444052651781607,
+      "home_fair_odds": 1.7998730681288164,
+      "away_fair_odds": 2.250198362521882,
+      "home_conservative_fair_odds": 1.724072849017806,
+      "away_conservative_fair_odds": 2.381076505432409,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -1267,7 +647,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:58:42.210024+00:00"
+          "observed_at": "2026-09-04T12:30:40.284537+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.55,
@@ -1279,7 +659,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:12.636759+00:00"
+          "observed_at": "2026-09-04T12:27:12.824042+00:00"
         },
         "Best Available": {
           "home_h2h": 1.55,
@@ -1291,7 +671,7 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:12.636759+00:00",
+          "observed_at": "2026-09-04T12:30:40.284537+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1313,15 +693,15 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:58:42.210024+00:00",
-          "home_cover_probability": 0.38850693051447127,
-          "away_cover_probability": 0.6114930694855287,
-          "over_probability": 0.2747219697524954,
-          "under_probability": 0.7252780302475046,
-          "home_line_fair_odds": 2.5739566567725656,
-          "away_line_fair_odds": 1.63534151064269,
-          "over_fair_odds": 3.6400437900941363,
-          "under_fair_odds": 1.3787815958781287
+          "observed_at": "2026-09-04T12:30:40.284537+00:00",
+          "home_cover_probability": 0.38531035425617965,
+          "away_cover_probability": 0.6146896457438203,
+          "over_probability": 0.2749599473440507,
+          "under_probability": 0.7250400526559493,
+          "home_line_fair_odds": 2.5953104788228303,
+          "away_line_fair_odds": 1.6268372290376314,
+          "over_fair_odds": 3.636893335409045,
+          "under_fair_odds": 1.3792341489781483
         },
         "TAB NZ": {
           "home_h2h": 1.55,
@@ -1333,15 +713,15 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:12.636759+00:00",
-          "home_cover_probability": 0.7188850334143768,
-          "away_cover_probability": 0.2811149665856232,
-          "over_probability": 0.2747219697524954,
-          "under_probability": 0.7252780302475046,
-          "home_line_fair_odds": 1.3910430089919317,
-          "away_line_fair_odds": 3.557263464645223,
-          "over_fair_odds": 3.6400437900941363,
-          "under_fair_odds": 1.3787815958781287
+          "observed_at": "2026-09-04T12:27:12.824042+00:00",
+          "home_cover_probability": 0.7160618674371317,
+          "away_cover_probability": 0.28393813256286826,
+          "over_probability": 0.2749599473440507,
+          "under_probability": 0.7250400526559493,
+          "home_line_fair_odds": 1.3965273749028357,
+          "away_line_fair_odds": 3.5218939808255048,
+          "over_fair_odds": 3.636893335409045,
+          "under_fair_odds": 1.3792341489781483
         },
         "Best Available": {
           "home_h2h": 1.55,
@@ -1353,73 +733,73 @@
           "total": 55.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:12.636759+00:00",
-          "home_cover_probability": 0.38850693051447127,
-          "away_cover_probability": 0.6114930694855287,
-          "over_probability": 0.2747219697524954,
-          "under_probability": 0.7252780302475046,
-          "home_line_fair_odds": 2.5739566567725656,
-          "away_line_fair_odds": 1.63534151064269,
-          "over_fair_odds": 3.6400437900941363,
-          "under_fair_odds": 1.3787815958781287
+          "observed_at": "2026-09-04T12:30:40.284537+00:00",
+          "home_cover_probability": 0.38531035425617965,
+          "away_cover_probability": 0.6146896457438203,
+          "over_probability": 0.2749599473440507,
+          "under_probability": 0.7250400526559493,
+          "home_line_fair_odds": 2.5953104788228303,
+          "away_line_fair_odds": 1.6268372290376314,
+          "over_fair_odds": 3.636893335409045,
+          "under_fair_odds": 1.3792341489781483
         }
       },
       "home_bookmaker_odds": 1.55,
       "away_bookmaker_odds": 2.45,
-      "home_h2h_ev": -0.13371782501188578,
-      "away_h2h_ev": 0.08071527179298088,
+      "home_h2h_ev": -0.13882816102614903,
+      "away_h2h_ev": 0.08879289968649373,
       "winner": "North Queensland Cowboys",
-      "home_points": 24.80366134078183,
-      "away_points": 22.914622143315082,
+      "home_points": 24.755064293333117,
+      "away_points": 22.972493543489612,
       "likely_home_points": 24,
       "likely_away_points": 22,
-      "projected_margin": 1.8890391974667473,
-      "projected_total": 47.718283484096915,
-      "close_game_probability": 0.5327740200633313,
+      "projected_margin": 1.7825707498435044,
+      "projected_total": 47.727557836822726,
+      "close_game_probability": 0.5354357312539123,
       "fav_1_12_probability": 0.62,
       "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.6826399219433921,
+      "high_scoring_probability": 0.6829645242887954,
       "margin_probabilities": {
-        "North Queensland Cowboys 1-12": 0.34073770543169335,
-        "North Queensland Cowboys 13+": 0.2026389403422969,
-        "Canberra Raiders 1-12": 0.2961396522200985,
-        "Canberra Raiders 13+": 0.1295434147146866
+        "North Queensland Cowboys 1-12": 0.33977265371058196,
+        "North Queensland Cowboys 13+": 0.2002908807459759,
+        "Canberra Raiders 1-12": 0.2976450489333957,
+        "Canberra Raiders 13+": 0.13131392530706343
       },
-      "margin_remainder_probability": 0.030940287291224555,
+      "margin_remainder_probability": 0.030977491302982996,
       "market_line": -5.5,
       "home_line_odds": 1.85,
       "away_line": 5.5,
       "away_line_odds": 1.96,
-      "home_cover_probability": 0.38850693051447127,
-      "away_cover_probability": 0.6114930694855287,
-      "home_line_fair_odds": 2.5739566567725656,
-      "away_line_fair_odds": 1.63534151064269,
-      "home_line_ev": -0.2812621785482281,
-      "away_line_ev": 0.19852641619163625,
+      "home_cover_probability": 0.38531035425617965,
+      "away_cover_probability": 0.6146896457438203,
+      "home_line_fair_odds": 2.5953104788228303,
+      "away_line_fair_odds": 1.6268372290376314,
+      "home_line_ev": -0.2871758446260676,
+      "away_line_ev": 0.20479170565788785,
       "market_total": 55.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.2747219697524954,
-      "under_probability": 0.7252780302475046,
-      "over_ev": -0.4780282574702588,
-      "under_ev": 0.3780282574702587,
+      "over_probability": 0.2749599473440507,
+      "under_probability": 0.7250400526559493,
+      "over_ev": -0.4775761000463037,
+      "under_ev": 0.3775761000463036,
       "confidence": "Developing",
       "confidence_score": 55,
       "data_quality": "Developing",
-      "prediction_strength_score": 55,
+      "prediction_strength_score": 54,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T11:58:42.210024+00:00",
+      "bookmaker_observed_at": "2026-09-04T12:30:40.284537+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": 0.72,
         "availability_margin": 0.031826332115677536,
         "availability_total": -1.697006403805175,
-        "weather_total": -0.03622557476679655,
+        "weather_total": -0.03061146255092506,
         "referee_margin": 0.0,
         "referee_total": 0.0,
         "late_season_margin": 2.0,
-        "controlled_context_margin": 2.6503398298132073
+        "controlled_context_margin": 2.6143579542696314
       },
       "drivers": [
         "Point-in-time scoring base: North Queensland Cowboys 23.2 PF / 25.9 PA from 69 prior games; Canberra Raiders 24.4 PF / 24.4 PA from 69 prior games.",
@@ -1429,443 +809,443 @@
         "North Queensland Cowboys are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 1 North Queensland Cowboys absence(s), 2 Canberra Raiders absence(s); replacement-adjusted score effects -0.83/-0.86; net pre-team margin swing +0.03 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1298 games; Queensland Country Bank Stadium in fine / dry conditions -2.1% vs its own baseline across 42 games. Sample-shrunk forecast effect -0.0 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1300 games; Queensland Country Bank Stadium in fine / dry conditions -2.1% vs its own baseline across 42 games. Sample-shrunk forecast effect -0.0 points.",
         "Late-season elite interaction input: Applied +2.00 home-margin points: North Queensland Cowboys elite effect +0.32 (n=39) inactive; Canberra Raiders elite effect -2.00 (n=37) active.",
-        "Stacked-advantage control: learned context +2.62, live availability +0.03, final downstream adjustment +2.65; same-direction evidence cap 5.00, opposing cap 5.00.",
+        "Stacked-advantage control: learned context +2.58, live availability +0.03, final downstream adjustment +2.61; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: INACTIVE: raw model and 61.3% no-vig market did not agree; NetGains remains free to identify value.",
-        "Market-relative H2H calibration retains 83.3% of the -5.4pp raw market disagreement, leaving -4.5pp of betting edge."
+        "Market-relative H2H calibration retains 57.1% of the -5.7pp raw market disagreement, leaving -3.2pp of betting edge."
       ],
       "ats_players": [
         {
           "player": "Jaxon Purdue",
           "team": "North Queensland Cowboys",
-          "probability": 0.3615119065311549,
-          "fair_odds": 2.7661606213620535,
+          "probability": 0.3614876035934552,
+          "fair_odds": 2.766346591305642,
           "bookmaker_odds": 2.65,
           "bookmaker_prices": {
             "Betcha": 2.65,
             "TAB NZ": 2.65
           },
-          "ev": -0.04199344769243962
+          "ev": -0.04205785047734367
         },
         {
           "player": "Robert Derby",
           "team": "North Queensland Cowboys",
-          "probability": 0.35723660838599963,
-          "fair_odds": 2.799265183145745,
+          "probability": 0.3571518510111073,
+          "fair_odds": 2.799929489848564,
           "bookmaker_odds": 1.83,
           "bookmaker_prices": {
             "Betcha": 1.83,
             "TAB NZ": 1.83
           },
-          "ev": -0.3462570066536207
+          "ev": -0.34641211264967364
         },
         {
           "player": "Braidon Burns",
           "team": "North Queensland Cowboys",
-          "probability": 0.35441711900232997,
-          "fair_odds": 2.821534136993608,
+          "probability": 0.3543307956826223,
+          "fair_odds": 2.8222215291038664,
           "bookmaker_odds": 1.65,
           "bookmaker_prices": {
             "Betcha": 1.65,
             "TAB NZ": 1.65
           },
-          "ev": -0.4152117536461556
+          "ev": -0.4153541871236732
         },
         {
           "player": "Tom Chester",
           "team": "North Queensland Cowboys",
-          "probability": 0.3503141648335908,
-          "fair_odds": 2.8545805462220706,
+          "probability": 0.350290613524838,
+          "fair_odds": 2.8547724700282133,
           "bookmaker_odds": 2.5,
           "bookmaker_prices": {
             "Betcha": 2.5,
             "TAB NZ": 2.5
           },
-          "ev": -0.12421458791602302
+          "ev": -0.12427346618790502
         },
         {
           "player": "Xavier Savage",
           "team": "Canberra Raiders",
-          "probability": 0.32986954554651415,
-          "fair_odds": 3.03150143291719,
+          "probability": 0.3298355055909883,
+          "fair_odds": 3.0318142924250475,
           "bookmaker_odds": 2.05,
           "bookmaker_prices": {
             "Betcha": 2.05,
             "TAB NZ": 2.05
           },
-          "ev": -0.32376743162964605
+          "ev": -0.32383721353847406
         },
         {
           "player": "Scott Drinkwater",
           "team": "North Queensland Cowboys",
-          "probability": 0.32049841561917236,
-          "fair_odds": 3.1201402292990914,
+          "probability": 0.3204758800272203,
+          "fair_odds": 3.1203596349125027,
           "bookmaker_odds": 2.05,
           "bookmaker_prices": {
             "Betcha": 2.05,
             "TAB NZ": 2.05
           },
-          "ev": -0.34297824798069676
+          "ev": -0.34302444594419845
         },
         {
           "player": "Jed Stuart",
           "team": "Canberra Raiders",
-          "probability": 0.30033057300621363,
-          "fair_odds": 3.3296643428283628,
+          "probability": 0.30030523337629944,
+          "fair_odds": 3.3299452985121425,
           "bookmaker_odds": 2.05,
           "bookmaker_prices": {
             "Betcha": 2.05,
             "TAB NZ": 2.05
           },
-          "ev": -0.38432232533726207
+          "ev": -0.38437427157858617
         },
         {
           "player": "Heilum Luki",
           "team": "North Queensland Cowboys",
-          "probability": 0.29730475744587986,
-          "fair_odds": 3.363551961263304,
+          "probability": 0.29728313920062877,
+          "fair_odds": 3.363796556672949,
           "bookmaker_odds": 2.55,
           "bookmaker_prices": {
             "Betcha": 2.55,
             "TAB NZ": 2.55
           },
-          "ev": -0.24187286851300638
+          "ev": -0.24192799503839668
         },
         {
           "player": "Kaeo Weekes",
           "team": "Canberra Raiders",
-          "probability": 0.2503717393626705,
-          "fair_odds": 3.9940610012357345,
+          "probability": 0.2503911617742387,
+          "fair_odds": 3.9937511887964896,
           "bookmaker_odds": 2.2,
           "bookmaker_prices": {
             "Betcha": 2.2,
             "TAB NZ": 2.2
           },
-          "ev": -0.44918217340212485
+          "ev": -0.44913944409667483
         },
         {
           "player": "Matthew Timoko",
           "team": "Canberra Raiders",
-          "probability": 0.23073879970899297,
-          "fair_odds": 4.333904836382944,
+          "probability": 0.23075716793587495,
+          "fair_odds": 4.33355985837844,
           "bookmaker_odds": 3.15,
           "bookmaker_prices": {
             "Betcha": 3.15,
             "TAB NZ": 3.15
           },
-          "ev": -0.2731727809166722
+          "ev": -0.27311492100199397
         },
         {
           "player": "Tom Dearden",
           "team": "North Queensland Cowboys",
-          "probability": 0.22880998261914867,
-          "fair_odds": 4.370438686954001,
+          "probability": 0.2287917232883539,
+          "fair_odds": 4.370787481414554,
           "bookmaker_odds": 2.8,
           "bookmaker_prices": {
             "Betcha": 2.8,
             "TAB NZ": 2.8
           },
-          "ev": -0.3593320486663838
+          "ev": -0.3593831747926092
         },
         {
           "player": "Matty Nicholson",
           "team": "Canberra Raiders",
-          "probability": 0.20637261611850716,
-          "fair_odds": 4.845604125238017,
+          "probability": 0.20638956506025555,
+          "fair_odds": 4.845206198811696,
           "bookmaker_odds": 4.2,
           "bookmaker_prices": {
             "Betcha": 4.2,
             "TAB NZ": 4.2
           },
-          "ev": -0.13323501230226986
+          "ev": -0.13316382674692662
         },
         {
           "player": "Jake Clifford",
           "team": "North Queensland Cowboys",
-          "probability": 0.20324474736347886,
-          "fair_odds": 4.920176353741727,
+          "probability": 0.20322799054341736,
+          "fair_odds": 4.920582038557141,
           "bookmaker_odds": 3.3,
           "bookmaker_prices": {
             "Betcha": 3.3,
             "TAB NZ": 3.3
           },
-          "ev": -0.3292923337005198
+          "ev": -0.3293476312067227
         },
         {
           "player": "Simi Sasagi",
           "team": "Canberra Raiders",
-          "probability": 0.20095010218983475,
-          "fair_odds": 4.976359748527592,
+          "probability": 0.200966718563434,
+          "fair_odds": 4.975948292076808,
           "bookmaker_odds": 2.5,
           "bookmaker_prices": {
             "Betcha": 2.5,
             "TAB NZ": 2.5
           },
-          "ev": -0.49762474452541317
+          "ev": -0.49758320359141495
         },
         {
           "player": "John Bateman",
           "team": "North Queensland Cowboys",
-          "probability": 0.19626875756178033,
-          "fair_odds": 5.095054416315984,
+          "probability": 0.1962524342208831,
+          "fair_odds": 5.095478198627055,
           "bookmaker_odds": 4.0,
           "bookmaker_prices": {
             "Betcha": 4.0,
             "TAB NZ": 4.0
           },
-          "ev": -0.21492496975287867
+          "ev": -0.21499026311646763
         },
         {
           "player": "Noah Martin",
           "team": "Canberra Raiders",
-          "probability": 0.16045538125149783,
-          "fair_odds": 6.23226215412869,
+          "probability": 0.16046952935361442,
+          "fair_odds": 6.231712674849171,
           "bookmaker_odds": 3.9,
           "bookmaker_prices": {
             "Betcha": 3.9,
             "TAB NZ": 3.9
           },
-          "ev": -0.3742240131191584
+          "ev": -0.37416883552090374
         },
         {
           "player": "Reed Mahoney",
           "team": "North Queensland Cowboys",
-          "probability": 0.14552699250516868,
-          "fair_odds": 6.871577449554474,
+          "probability": 0.14530560518083277,
+          "fair_odds": 6.882046970971976,
           "bookmaker_odds": 5.2,
           "bookmaker_prices": {
             "Betcha": 5.2,
             "TAB NZ": 5.2
           },
-          "ev": -0.24325963897312286
+          "ev": -0.24441085305966959
         },
         {
           "player": "Ethan Strange",
           "team": "Canberra Raiders",
-          "probability": 0.14110921555504705,
-          "fair_odds": 7.086709369523053,
+          "probability": 0.14112193910438295,
+          "fair_odds": 7.0860704320420025,
           "bookmaker_odds": 3.0,
           "bookmaker_prices": {
             "Betcha": 3.0,
             "TAB NZ": 3.0
           },
-          "ev": -0.5766723533348589
+          "ev": -0.5766341826868512
         },
         {
           "player": "Josh Papalii",
           "team": "Canberra Raiders",
-          "probability": 0.13692742242045391,
-          "fair_odds": 7.3031390084110885,
+          "probability": 0.1369398549552784,
+          "fair_odds": 7.302475968932334,
           "bookmaker_odds": 5.75,
           "bookmaker_prices": {
             "Betcha": 5.75,
             "TAB NZ": 5.75
           },
-          "ev": -0.21266732108238995
+          "ev": -0.2125958340071491
         },
         {
           "player": "Coen Hess",
           "team": "North Queensland Cowboys",
-          "probability": 0.12335446605946807,
-          "fair_odds": 8.106719050754993,
+          "probability": 0.12334305133350232,
+          "fair_odds": 8.107469283341631,
           "bookmaker_odds": 8.5,
           "bookmaker_prices": {
             "Betcha": 8.5,
             "TAB NZ": 8.5
           },
-          "ev": 0.04851296150547846
+          "ev": 0.048415936334769594
         },
         {
           "player": "Reuben Cotter",
           "team": "North Queensland Cowboys",
-          "probability": 0.11838473657578993,
-          "fair_odds": 8.447034887473013,
+          "probability": 0.11837368684648904,
+          "fair_odds": 8.447823385756612,
           "bookmaker_odds": 6.0,
           "bookmaker_prices": {
             "Betcha": 6.0,
             "TAB NZ": 6.0
           },
-          "ev": -0.28969158054526045
+          "ev": -0.28975787892106575
         },
         {
           "player": "Coby Black",
           "team": "Canberra Raiders",
-          "probability": 0.10318917663714247,
-          "fair_odds": 9.690938842514754,
+          "probability": 0.10319906274430127,
+          "fair_odds": 9.690010484666159,
           "bookmaker_odds": 4.25,
           "bookmaker_prices": {
             "Betcha": 4.25,
             "TAB NZ": 4.25
           },
-          "ev": -0.5614459992921446
+          "ev": -0.5614039833367196
         },
         {
           "player": "Owen Pattie",
           "team": "Canberra Raiders",
-          "probability": 0.1026355687301035,
-          "fair_odds": 9.743210978151819,
+          "probability": 0.1024989585042631,
+          "fair_odds": 9.75619669304648,
           "bookmaker_odds": 5.0,
           "bookmaker_prices": {
             "Betcha": 5.0,
             "TAB NZ": 5.0
           },
-          "ev": -0.48682215634948245
+          "ev": -0.48750520747868453
         },
         {
           "player": "Jason Taumalolo",
           "team": "North Queensland Cowboys",
-          "probability": 0.09962700758249081,
-          "fair_odds": 10.037438885956737,
+          "probability": 0.0996174700602328,
+          "fair_odds": 10.03839988503381,
           "bookmaker_odds": 5.5,
           "bookmaker_prices": {
             "Betcha": 5.5,
             "TAB NZ": 5.5
           },
-          "ev": -0.45205145829630056
+          "ev": -0.4521039146687196
         },
         {
           "player": "Joseph Tapine",
           "team": "Canberra Raiders",
-          "probability": 0.09183509314975662,
-          "fair_odds": 10.889083526809165,
+          "probability": 0.09184398581930416,
+          "fair_odds": 10.888029206043187,
           "bookmaker_odds": 8.25,
           "bookmaker_prices": {
             "Betcha": 8.25,
             "TAB NZ": 8.25
           },
-          "ev": -0.24236048151450795
+          "ev": -0.24228711699074068
         },
         {
           "player": "Joe Roddy",
           "team": "Canberra Raiders",
-          "probability": 0.08932536727341622,
-          "fair_odds": 11.195028137293829,
+          "probability": 0.08933402925882092,
+          "fair_odds": 11.193942647574683,
           "bookmaker_odds": 6.2,
           "bookmaker_prices": {
             "Betcha": 6.2,
             "TAB NZ": 6.2
           },
-          "ev": -0.4461827229048194
+          "ev": -0.4461290185953103
         },
         {
           "player": "Ata Mariota",
           "team": "Canberra Raiders",
-          "probability": 0.08390357322452928,
-          "fair_odds": 11.918443536653205,
+          "probability": 0.08391152750724341,
+          "fair_odds": 11.917313743498209,
           "bookmaker_odds": 8.0,
           "bookmaker_prices": {
             "Betcha": 8.0,
             "TAB NZ": 8.0
           },
-          "ev": -0.32877141420376577
+          "ev": -0.3287077799420527
         },
         {
           "player": "Sam McIntyre",
           "team": "North Queensland Cowboys",
-          "probability": 0.0799545098268134,
-          "fair_odds": 12.507111883570598,
+          "probability": 0.07994689790943499,
+          "fair_odds": 12.508302712793366,
           "bookmaker_odds": 8.5,
           "bookmaker_prices": {
             "Betcha": 8.5,
             "TAB NZ": 8.5
           },
-          "ev": -0.320386666472086
+          "ev": -0.32045136776980265
         },
         {
           "player": "Malachi Smith",
           "team": "Canberra Raiders",
-          "probability": 0.07771652313275315,
-          "fair_odds": 12.86727660592624,
+          "probability": 0.0777239406308938,
+          "fair_odds": 12.866048631642833,
           "bookmaker_odds": 8.75,
           "bookmaker_prices": {
             "Betcha": 8.75,
             "TAB NZ": 8.75
           },
-          "ev": -0.31998042258841
+          "ev": -0.3199155194796792
         },
         {
           "player": "Soni Luke",
           "team": "North Queensland Cowboys",
-          "probability": 0.07478872940946263,
-          "fair_odds": 13.370998650412627,
+          "probability": 0.07478156931689287,
+          "fair_odds": 13.372278880139842,
           "bookmaker_odds": 8.5,
           "bookmaker_prices": {
             "Betcha": 8.5,
             "TAB NZ": 8.5
           },
-          "ev": -0.36429580001956763
+          "ev": -0.3643566608064106
         },
         {
           "player": "Vena Patuki-Case",
           "team": "Canberra Raiders",
-          "probability": 0.05968674463687802,
-          "fair_odds": 16.75413873019539,
+          "probability": 0.05969255269450046,
+          "fair_odds": 16.75250856028697,
           "bookmaker_odds": 5.6,
           "bookmaker_prices": {
             "Betcha": 5.6,
             "TAB NZ": 5.6
           },
-          "ev": -0.6657542300334831
+          "ev": -0.6657217049107975
         },
         {
           "player": "Kaiden Lahrs",
           "team": "North Queensland Cowboys",
-          "probability": 0.05771987300460951,
-          "fair_odds": 17.325055443558234,
+          "probability": 0.057714245106849076,
+          "fair_odds": 17.326744864264505,
           "bookmaker_odds": 8.5,
           "bookmaker_prices": {
             "Betcha": 8.5,
             "TAB NZ": 8.5
           },
-          "ev": -0.5093810794608191
+          "ev": -0.5094289165917829
         },
         {
           "player": "Morgan Smithies",
           "team": "Canberra Raiders",
-          "probability": 0.05147386375198142,
-          "fair_odds": 19.427335099971124,
+          "probability": 0.05147891637510503,
+          "fair_odds": 19.425428319303073,
           "bookmaker_odds": 11.0,
           "bookmaker_prices": {
             "Betcha": 11.0,
             "TAB NZ": 11.0
           },
-          "ev": -0.4337874987282043
+          "ev": -0.43373191987384463
         },
         {
           "player": "Thomas Mikaele",
           "team": "North Queensland Cowboys",
-          "probability": 0.04351584705109096,
-          "fair_odds": 22.980134083703412,
+          "probability": 0.0435115401451937,
+          "fair_odds": 22.98240872796272,
           "bookmaker_odds": 10.0,
           "bookmaker_prices": {
             "Betcha": 10.0,
             "TAB NZ": 10.0
           },
-          "ev": -0.5648415294890904
+          "ev": -0.564884598548063
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.1242,
-        "fair_odds": 8.051529790660226,
-        "singles_product_odds": 4.575,
+        "probability": 0.12576,
+        "fair_odds": 7.9516539440203555,
+        "singles_product_odds": 4.8495,
         "target_met": false,
         "legs": [
           {
-            "player": "Robert Derby",
+            "player": "Jaxon Purdue",
             "team": "North Queensland Cowboys",
-            "probability": 0.35723660838599963,
-            "fair_odds": 2.799265183145745,
-            "market_odds": 1.83
+            "probability": 0.3614876035934552,
+            "fair_odds": 2.766346591305642,
+            "market_odds": 2.65
           },
           {
-            "player": "Tom Chester",
+            "player": "Robert Derby",
             "team": "North Queensland Cowboys",
-            "probability": 0.3503141648335908,
-            "fair_odds": 2.8545805462220706,
-            "market_odds": 2.5
+            "probability": 0.3571518510111073,
+            "fair_odds": 2.799929489848564,
+            "market_odds": 1.83
           }
         ],
         "method": "Highest simulated joint hit probability"
@@ -1878,14 +1258,14 @@
       "away_team": "Melbourne Storm",
       "kickoff": "Sat 5 Sep, 9:35 PM NZT",
       "venue": "Ocean Protect Stadium",
-      "home_win_probability": 0.69888007984786,
-      "away_win_probability": 0.30111992015213995,
-      "independent_home_win_probability": 0.69888007984786,
-      "independent_away_win_probability": 0.30111992015213995,
-      "home_fair_odds": 1.4308606423832986,
-      "away_fair_odds": 3.3209360559565537,
-      "home_conservative_fair_odds": 1.5792245079157954,
-      "away_conservative_fair_odds": 2.7264462852206774,
+      "home_win_probability": 0.6992627095689681,
+      "away_win_probability": 0.3007372904310319,
+      "independent_home_win_probability": 0.6992627095689681,
+      "independent_away_win_probability": 0.3007372904310319,
+      "home_fair_odds": 1.4300776894229197,
+      "away_fair_odds": 3.3251613013030386,
+      "home_conservative_fair_odds": 1.8868188433717377,
+      "away_conservative_fair_odds": 2.1276260168288044,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -1898,7 +1278,7 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T11:58:49.392813+00:00"
+          "observed_at": "2026-09-04T12:30:49.064550+00:00"
         },
         "TAB NZ": {
           "home_h2h": 3.1,
@@ -1910,7 +1290,7 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T11:59:13.453137+00:00"
+          "observed_at": "2026-09-04T12:27:13.011855+00:00"
         },
         "Best Available": {
           "home_h2h": 3.1,
@@ -1922,7 +1302,7 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T11:59:13.453137+00:00",
+          "observed_at": "2026-09-04T12:30:49.064550+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1943,15 +1323,15 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T11:58:49.392813+00:00",
-          "home_cover_probability": 0.8972936186607643,
-          "away_cover_probability": 0.10270638133923571,
-          "over_probability": 0.4349642700854649,
-          "under_probability": 0.5650357299145351,
-          "home_line_fair_odds": 1.1144624002704129,
-          "away_line_fair_odds": 9.736493360592988,
-          "over_fair_odds": 2.2990394126016667,
-          "under_fair_odds": 1.769799584446201
+          "observed_at": "2026-09-04T12:30:49.064550+00:00",
+          "home_cover_probability": 0.8974901340998122,
+          "away_cover_probability": 0.10250986590018785,
+          "over_probability": 0.4337592612773191,
+          "under_probability": 0.5662407387226809,
+          "home_line_fair_odds": 1.1142183763423827,
+          "away_line_fair_odds": 9.75515860077003,
+          "over_fair_odds": 2.305426279672358,
+          "under_fair_odds": 1.7660332992920786
         },
         "TAB NZ": {
           "home_h2h": 3.1,
@@ -1963,15 +1343,15 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T11:59:13.453137+00:00",
-          "home_cover_probability": 0.4114114023439043,
-          "away_cover_probability": 0.5885885976560957,
-          "over_probability": 0.4349642700854649,
-          "under_probability": 0.5650357299145351,
-          "home_line_fair_odds": 2.430656987878247,
-          "away_line_fair_odds": 1.6989795656630888,
-          "over_fair_odds": 2.2990394126016667,
-          "under_fair_odds": 1.769799584446201
+          "observed_at": "2026-09-04T12:27:13.011855+00:00",
+          "home_cover_probability": 0.4118390174222373,
+          "away_cover_probability": 0.5881609825777627,
+          "over_probability": 0.4337592612773191,
+          "under_probability": 0.5662407387226809,
+          "home_line_fair_odds": 2.4281332212259814,
+          "away_line_fair_odds": 1.7002147874842866,
+          "over_fair_odds": 2.305426279672358,
+          "under_fair_odds": 1.7660332992920786
         },
         "Best Available": {
           "home_h2h": 3.1,
@@ -1983,73 +1363,73 @@
           "total": 50.5,
           "over_odds": 1.83,
           "under_odds": 1.91,
-          "observed_at": "2026-09-04T11:59:13.453137+00:00",
-          "home_cover_probability": 0.8972936186607643,
-          "away_cover_probability": 0.10270638133923571,
-          "over_probability": 0.4349642700854649,
-          "under_probability": 0.5650357299145351,
-          "home_line_fair_odds": 1.1144624002704129,
-          "away_line_fair_odds": 9.736493360592988,
-          "over_fair_odds": 2.2990394126016667,
-          "under_fair_odds": 1.769799584446201
+          "observed_at": "2026-09-04T12:30:49.064550+00:00",
+          "home_cover_probability": 0.8974901340998122,
+          "away_cover_probability": 0.10250986590018785,
+          "over_probability": 0.4337592612773191,
+          "under_probability": 0.5662407387226809,
+          "home_line_fair_odds": 1.1142183763423827,
+          "away_line_fair_odds": 9.75515860077003,
+          "over_fair_odds": 2.305426279672358,
+          "under_fair_odds": 1.7660332992920786
         }
       },
       "home_bookmaker_odds": null,
       "away_bookmaker_odds": 1.36,
       "home_h2h_ev": null,
-      "away_h2h_ev": -0.5904769085930897,
+      "away_h2h_ev": -0.5909972850137966,
       "winner": "Cronulla-Sutherland Sharks",
-      "home_points": 27.508166475381998,
-      "away_points": 20.86309319658701,
+      "home_points": 27.49526894242375,
+      "away_points": 20.836184081570693,
       "likely_home_points": 28,
       "likely_away_points": 20,
-      "projected_margin": 6.645073278794989,
-      "projected_total": 48.37125967196901,
-      "close_game_probability": 0.4138731680301252,
-      "fav_1_12_probability": 0.6038731680301253,
-      "fav_13_plus_probability": 0.39612683196987475,
-      "high_scoring_probability": 0.7054940885189153,
+      "projected_margin": 6.659084860853056,
+      "projected_total": 48.33145302399444,
+      "close_game_probability": 0.41352287847867353,
+      "fav_1_12_probability": 0.6035228784786736,
+      "fav_13_plus_probability": 0.3964771215213264,
+      "high_scoring_probability": 0.7041008558398054,
       "margin_probabilities": {
-        "Cronulla-Sutherland Sharks 1-12": 0.3620434321277828,
-        "Cronulla-Sutherland Sharks 13+": 0.3230417070028786,
-        "Melbourne Storm 1-12": 0.22100049771644378,
-        "Melbourne Storm 13+": 0.06660353269596445
+        "Cronulla-Sutherland Sharks 1-12": 0.3620390265716893,
+        "Cronulla-Sutherland Sharks 13+": 0.32343635136124615,
+        "Melbourne Storm 1-12": 0.22076778525056895,
+        "Melbourne Storm 13+": 0.06646165267373705
       },
-      "margin_remainder_probability": 0.02731083045693039,
+      "margin_remainder_probability": 0.027295184142758555,
       "market_line": 9.5,
       "home_line_odds": null,
       "away_line": -9.5,
       "away_line_odds": 1.9,
-      "home_cover_probability": 0.8972936186607643,
-      "away_cover_probability": 0.10270638133923571,
-      "home_line_fair_odds": 1.1144624002704129,
-      "away_line_fair_odds": 9.736493360592988,
+      "home_cover_probability": 0.8974901340998122,
+      "away_cover_probability": 0.10250986590018785,
+      "home_line_fair_odds": 1.1142183763423827,
+      "away_line_fair_odds": 9.75515860077003,
       "home_line_ev": null,
-      "away_line_ev": -0.8048578754554522,
+      "away_line_ev": -0.8052312547896431,
       "market_total": 50.5,
       "over_odds": 1.83,
       "under_odds": 1.91,
-      "over_probability": 0.4349642700854649,
-      "under_probability": 0.5650357299145351,
-      "over_ev": -0.20401538574359923,
-      "under_ev": 0.07921824413676193,
+      "over_probability": 0.4337592612773191,
+      "under_probability": 0.5662407387226809,
+      "over_ev": -0.20622055186250599,
+      "under_ev": 0.08151981096032035,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 66,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T11:58:49.392813+00:00",
+      "bookmaker_observed_at": "2026-09-04T12:30:49.064550+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
         "ladder": 1.08,
         "availability_margin": 2.0,
         "availability_total": -2.2,
-        "weather_total": 0.672841466260608,
+        "weather_total": 0.6784555784764795,
         "referee_margin": -0.0644423477355543,
         "referee_total": 1.1592395421183443,
         "late_season_margin": -2.0,
-        "controlled_context_margin": 4.291868112940957
+        "controlled_context_margin": 4.290885548716087
       },
       "drivers": [
         "Point-in-time scoring base: Cronulla-Sutherland Sharks 26.6 PF / 21.6 PA from 69 prior games; Melbourne Storm 25.1 PF / 22.7 PA from 69 prior games.",
@@ -2059,443 +1439,443 @@
         "Ocean Protect Stadium is not a recognised home ground for either side; treated as neutral.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 0 Cronulla-Sutherland Sharks absence(s), 7 Melbourne Storm absence(s); replacement-adjusted score effects -0.10/-2.10; net pre-team margin swing +2.00 pts (capped).",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1298 games; Ocean Protect Stadium in fine / dry conditions +5.0% vs its own baseline across 7 games. Sample-shrunk forecast effect +0.7 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1300 games; Ocean Protect Stadium in fine / dry conditions +5.0% vs its own baseline across 7 games. Sample-shrunk forecast effect +0.7 points.",
         "Referee Todd Smith environment: stoppages +9.2% vs NRL, historical scoring +7.8% vs NRL and home-win environment -4.7% vs NRL; conservative adjustments +1.2 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied -2.00 home-margin points: Cronulla-Sutherland Sharks elite effect -0.83 (n=35) inactive; Melbourne Storm elite effect +2.00 (n=47) active.",
         "Stacked-advantage control: learned context +2.29, live availability +2.00, final downstream adjustment +4.29; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: INACTIVE: raw model and 30.5% no-vig market did not agree; NetGains remains free to identify value.",
-        "Market-relative H2H calibration retains 83.3% of the +39.4pp raw market disagreement, leaving +32.8pp of betting edge."
+        "Market-relative H2H calibration retains 57.1% of the +39.4pp raw market disagreement, leaving +22.5pp of betting edge."
       ],
       "ats_players": [
         {
           "player": "Ronaldo Mulitalo",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.41538756721570036,
-          "fair_odds": 2.4073902998659684,
+          "probability": 0.415294498808647,
+          "fair_odds": 2.4079298013065293,
           "bookmaker_odds": 1.95,
           "bookmaker_prices": {
             "Betcha": 1.95,
             "TAB NZ": 1.95
           },
-          "ev": -0.18999424392938435
+          "ev": -0.19017572732313837
         },
         {
           "player": "Sione Katoa",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.39171208585185474,
-          "fair_odds": 2.552895445708048,
+          "probability": 0.391630283130796,
+          "fair_odds": 2.553428687908748,
           "bookmaker_odds": 2.05,
           "bookmaker_prices": {
             "Betcha": 2.05,
             "TAB NZ": 2.05
           },
-          "ev": -0.1969902240036978
+          "ev": -0.19715791958186824
         },
         {
           "player": "Michael Gabrael",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.2973922943609917,
-          "fair_odds": 3.362561905474737,
+          "probability": 0.2973951399406526,
+          "fair_odds": 3.3625297313182636,
           "bookmaker_odds": 2.8,
           "bookmaker_prices": {
             "Betcha": 2.8,
             "TAB NZ": 2.8
           },
-          "ev": -0.16730157578922333
+          "ev": -0.16729360816617278
         },
         {
           "player": "Moses Leo",
           "team": "Melbourne Storm",
-          "probability": 0.28936957375827366,
-          "fair_odds": 3.4557883436471974,
+          "probability": 0.2893667733435856,
+          "fair_odds": 3.455821787847872,
           "bookmaker_odds": 1.68,
           "bookmaker_prices": {
             "Betcha": 1.68,
             "TAB NZ": 1.68
           },
-          "ev": -0.5138591160861004
+          "ev": -0.5138638207827761
         },
         {
           "player": "William Kennedy",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.283209875044454,
-          "fair_odds": 3.5309503238297575,
+          "probability": 0.2832126396209913,
+          "fair_odds": 3.5309158565036074,
           "bookmaker_odds": 3.05,
           "bookmaker_prices": {
             "Betcha": 3.05,
             "TAB NZ": 3.05
           },
-          "ev": -0.13620988111441534
+          "ev": -0.13620144915597654
         },
         {
           "player": "Sualauvi Faalogo",
           "team": "Melbourne Storm",
-          "probability": 0.27875957555946496,
-          "fair_odds": 3.587320715326172,
+          "probability": 0.278756837546652,
+          "fair_odds": 3.5873559508029746,
           "bookmaker_odds": 1.68,
           "bookmaker_prices": {
             "Betcha": 1.68,
             "TAB NZ": 1.68
           },
-          "ev": -0.5316839130600989
+          "ev": -0.5316885129216247
         },
         {
           "player": "Siulagi Tuimalatu-Brown",
           "team": "Melbourne Storm",
-          "probability": 0.26833057876029526,
-          "fair_odds": 3.726746331409805,
+          "probability": 0.2683279050728801,
+          "fair_odds": 3.7267834656570344,
           "bookmaker_odds": 1.75,
           "bookmaker_prices": {
             "Betcha": 1.75,
             "TAB NZ": 1.75
           },
-          "ev": -0.5304214871694832
+          "ev": -0.5304261661224599
         },
         {
           "player": "Nick Meaney",
           "team": "Melbourne Storm",
-          "probability": 0.261628388602544,
-          "fair_odds": 3.8222151859795397,
+          "probability": 0.26162575781742214,
+          "fair_odds": 3.822253620371198,
           "bookmaker_odds": 3.05,
           "bookmaker_prices": {
             "Betcha": 3.05,
             "TAB NZ": 3.05
           },
-          "ev": -0.2020334147622408
+          "ev": -0.20204143865686253
         },
         {
           "player": "Riley Jones",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.23371409238913882,
-          "fair_odds": 4.2787321456635965,
+          "probability": 0.23371653134670026,
+          "fair_odds": 4.278687494795043,
           "bookmaker_odds": 3.35,
           "bookmaker_prices": {
             "Betcha": 3.35,
             "TAB NZ": 3.35
           },
-          "ev": -0.21705779049638496
+          "ev": -0.2170496199885541
         },
         {
           "player": "Tyran Wishart",
           "team": "Melbourne Storm",
-          "probability": 0.22233823401520766,
-          "fair_odds": 4.497651986979447,
+          "probability": 0.22233587934447022,
+          "fair_odds": 4.497699619820139,
           "bookmaker_odds": 2.5,
           "bookmaker_prices": {
             "Betcha": 2.5,
             "TAB NZ": 2.5
           },
-          "ev": -0.4441544149619808
+          "ev": -0.4441603016388245
         },
         {
           "player": "Briton Nikora",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.20642005635456145,
-          "fair_odds": 4.844490490218307,
+          "probability": 0.2064222872090402,
+          "fair_odds": 4.84443813466381,
           "bookmaker_odds": 3.8,
           "bookmaker_prices": {
             "Betcha": 3.8,
             "TAB NZ": 3.8
           },
-          "ev": -0.21560378585266649
+          "ev": -0.21559530860564724
         },
         {
           "player": "Jahrome Hughes",
           "team": "Melbourne Storm",
-          "probability": 0.16886129119608806,
-          "fair_odds": 5.922020333474547,
+          "probability": 0.16885937989729147,
+          "fair_odds": 5.922087364102894,
           "bookmaker_odds": 2.95,
           "bookmaker_prices": {
             "Betcha": 2.95,
             "TAB NZ": 2.95
           },
-          "ev": -0.5018591909715402
+          "ev": -0.5018648293029901
         },
         {
           "player": "Harry Grant",
           "team": "Melbourne Storm",
-          "probability": 0.1618365048302517,
-          "fair_odds": 6.17907561120952,
+          "probability": 0.16159303000074932,
+          "fair_odds": 6.18838572428132,
           "bookmaker_odds": 3.05,
           "bookmaker_prices": {
             "Betcha": 3.05,
             "TAB NZ": 3.05
           },
-          "ev": -0.5063986602677324
+          "ev": -0.5071412584977146
         },
         {
           "player": "Billy Burns",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.15830538217037363,
-          "fair_odds": 6.316904619981688,
+          "probability": 0.1583072234475972,
+          "fair_odds": 6.316831147828322,
           "bookmaker_odds": 4.8,
           "bookmaker_prices": {
             "Betcha": 4.8,
             "TAB NZ": 4.8
           },
-          "ev": -0.24013416558220657
+          "ev": -0.24012532745153348
         },
         {
           "player": "Cameron Munster",
           "team": "Melbourne Storm",
-          "probability": 0.13282836966557698,
-          "fair_odds": 7.528512188455732,
+          "probability": 0.13282677380164018,
+          "fair_odds": 7.528602640709864,
           "bookmaker_odds": 3.3,
           "bookmaker_prices": {
             "Betcha": 3.3,
             "TAB NZ": 3.3
           },
-          "ev": -0.5616663801035959
+          "ev": -0.5616716464545874
         },
         {
           "player": "Oryn Keeley",
           "team": "Melbourne Storm",
-          "probability": 0.1288932007689208,
-          "fair_odds": 7.758361139566981,
+          "probability": 0.12889163828127867,
+          "fair_odds": 7.758455190225079,
           "bookmaker_odds": 4.25,
           "bookmaker_prices": {
             "Betcha": 4.25,
             "TAB NZ": 4.25
           },
-          "ev": -0.4522038967320866
+          "ev": -0.4522105373045656
         },
         {
           "player": "Riley Pollard",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.12559420262682702,
-          "fair_odds": 7.962150951913438,
+          "probability": 0.12559573546558786,
+          "fair_odds": 7.962053777486667,
           "bookmaker_odds": 4.1,
           "bookmaker_prices": {
             "Betcha": 4.1,
             "TAB NZ": 4.1
           },
-          "ev": -0.48506376923000927
+          "ev": -0.48505748459108977
         },
         {
           "player": "Siosifa Talakai",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.11308377619899072,
-          "fair_odds": 8.843001477420817,
+          "probability": 0.11308516898536582,
+          "fair_odds": 8.84289256471296,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6,
             "TAB NZ": 6.6
           },
-          "ev": -0.25364707708666123
+          "ev": -0.25363788469658566
         },
         {
           "player": "Niwhai Puru",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.10963755959347934,
-          "fair_odds": 9.120961864783013,
+          "probability": 0.10963892029914864,
+          "fair_odds": 9.120848666436249,
           "bookmaker_odds": 5.8,
           "bookmaker_prices": {
             "Betcha": 5.8,
             "TAB NZ": 5.8
           },
-          "ev": -0.3641021543578198
+          "ev": -0.3640942622649379
         },
         {
           "player": "Shawn Blore",
           "team": "Melbourne Storm",
-          "probability": 0.10174466952290531,
-          "fair_odds": 9.828524724579056,
+          "probability": 0.10174338447229493,
+          "fair_odds": 9.828648861905153,
           "bookmaker_odds": 5.2,
           "bookmaker_prices": {
             "Betcha": 5.2,
             "TAB NZ": 5.2
           },
-          "ev": -0.4709277184808923
+          "ev": -0.47093440074406634
         },
         {
           "player": "Cameron McInnes",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.09998434449974115,
-          "fair_odds": 10.00156579515895,
+          "probability": 0.09998560316048298,
+          "fair_odds": 10.001439891250534,
           "bookmaker_odds": 10.0,
           "bookmaker_prices": {
             "Betcha": 10.0,
             "TAB NZ": 10.0
           },
-          "ev": -0.00015655500258848765
+          "ev": -0.00014396839517016868
         },
         {
           "player": "Addin Fonua-Blake",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.09889401699782663,
-          "fair_odds": 10.11183517827956,
+          "probability": 0.0988952603508137,
+          "fair_odds": 10.1117080480164,
           "bookmaker_odds": 6.5,
           "bookmaker_prices": {
             "Betcha": 6.5,
             "TAB NZ": 6.5
           },
-          "ev": -0.35718888951412686
+          "ev": -0.35718080771971095
         },
         {
           "player": "Trent Loiero",
           "team": "Melbourne Storm",
-          "probability": 0.08751419502750349,
-          "fair_odds": 11.426717684893582,
+          "probability": 0.0875131075278939,
+          "fair_odds": 11.426859681348423,
           "bookmaker_odds": 9.0,
           "bookmaker_prices": {
             "Betcha": 9.0,
             "TAB NZ": 9.0
           },
-          "ev": -0.21237224475246863
+          "ev": -0.2123820322489549
         },
         {
           "player": "Stefano Utoikamanu",
           "team": "Melbourne Storm",
-          "probability": 0.08721039843328926,
-          "fair_odds": 11.46652254736504,
+          "probability": 0.08720931434802041,
+          "fair_odds": 11.46666508590317,
           "bookmaker_odds": 6.5,
           "bookmaker_prices": {
             "Betcha": 6.5,
             "TAB NZ": 6.5
           },
-          "ev": -0.4331324101836198
+          "ev": -0.43313945673786736
         },
         {
           "player": "Braden Uele",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.08595010727982734,
-          "fair_odds": 11.634656798557621,
+          "probability": 0.08595121123261484,
+          "fair_odds": 11.634507363644254,
           "bookmaker_odds": 11.0,
           "bookmaker_prices": {
             "Betcha": 11.0,
             "TAB NZ": 11.0
           },
-          "ev": -0.054548819921899305
+          "ev": -0.05453667644123672
         },
         {
           "player": "Cooper Clarke",
           "team": "Melbourne Storm",
-          "probability": 0.08334842046489747,
-          "fair_odds": 11.997827846313585,
+          "probability": 0.08334738000311984,
+          "fair_odds": 11.997977620443118,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "TAB NZ": 7.0
           },
-          "ev": -0.41656105674571764
+          "ev": -0.4165683399781611
         },
         {
           "player": "Jesse Colquhoun",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.08144447504608564,
-          "fair_odds": 12.27830370855907,
+          "probability": 0.0814454938637059,
+          "fair_odds": 12.27815011685532,
           "bookmaker_odds": 9.75,
           "bookmaker_prices": {
             "Betcha": 9.75,
             "TAB NZ": 9.75
           },
-          "ev": -0.20591636830066506
+          "ev": -0.2059064348288674
         },
         {
           "player": "Josh King",
           "team": "Melbourne Storm",
-          "probability": 0.07961678791492524,
-          "fair_odds": 12.560165088153934,
+          "probability": 0.07961578999019744,
+          "fair_odds": 12.56032252048398,
           "bookmaker_odds": 6.25,
           "bookmaker_prices": {
             "Betcha": 6.25,
             "TAB NZ": 6.25
           },
-          "ev": -0.5023950755317173
+          "ev": -0.502401312561266
         },
         {
           "player": "Hohepa Puru",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.07546194397428109,
-          "fair_odds": 13.251712682366355,
+          "probability": 0.07546289410251106,
+          "fair_odds": 13.251545834454348,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "TAB NZ": 7.0
           },
-          "ev": -0.47176639218003236
+          "ev": -0.4717597412824226
         },
         {
           "player": "Trent Toelau",
           "team": "Melbourne Storm",
-          "probability": 0.07358407955120459,
-          "fair_odds": 13.589896158232637,
+          "probability": 0.07358315119578022,
+          "fair_odds": 13.590067613975018,
           "bookmaker_odds": 4.6,
           "bookmaker_prices": {
             "Betcha": 4.6,
             "TAB NZ": 4.6
           },
-          "ev": -0.6615132340644589
+          "ev": -0.661517504499411
         },
         {
           "player": "Alec MacDonald",
           "team": "Melbourne Storm",
-          "probability": 0.0663105529247372,
-          "fair_odds": 15.080555897867491,
+          "probability": 0.06630970976576786,
+          "fair_odds": 15.080747654188139,
           "bookmaker_odds": 10.5,
           "bookmaker_prices": {
             "Betcha": 10.5,
             "TAB NZ": 10.5
           },
-          "ev": -0.3037391942902594
+          "ev": -0.3037480474594375
         },
         {
           "player": "Oregon Kaufusi",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.06079043441784451,
-          "fair_odds": 16.449956470560416,
+          "probability": 0.06079121196597494,
+          "fair_odds": 16.449746067897177,
           "bookmaker_odds": 15.0,
           "bookmaker_prices": {
             "Betcha": 15.0,
             "TAB NZ": 15.0
           },
-          "ev": -0.08814348373233227
+          "ev": -0.08813182051037594
         },
         {
           "player": "Toby Rudolf",
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.05785652986116848,
-          "fair_odds": 17.28413374254527,
+          "probability": 0.05785727219451337,
+          "fair_odds": 17.283911979777546,
           "bookmaker_odds": 15.0,
           "bookmaker_prices": {
             "Betcha": 15.0,
             "TAB NZ": 15.0
           },
-          "ev": -0.13215205208247283
+          "ev": -0.13214091708229947
         },
         {
           "player": "Jack Hetherington",
           "team": "Melbourne Storm",
-          "probability": 0.055395270114656316,
-          "fair_odds": 18.05208274876564,
+          "probability": 0.055394557512551984,
+          "fair_odds": 18.052314972881724,
           "bookmaker_odds": 7.75,
           "bookmaker_prices": {
             "Betcha": 7.75,
             "TAB NZ": 7.75
           },
-          "ev": -0.5706866566114135
+          "ev": -0.5706921792777222
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.15528,
-        "fair_odds": 6.439979392065945,
+        "probability": 0.15212,
+        "fair_odds": 6.5737575598211935,
         "singles_product_odds": 3.9974999999999996,
         "target_met": false,
         "legs": [
           {
             "player": "Ronaldo Mulitalo",
             "team": "Cronulla-Sutherland Sharks",
-            "probability": 0.41538756721570036,
-            "fair_odds": 2.4073902998659684,
+            "probability": 0.415294498808647,
+            "fair_odds": 2.4079298013065293,
             "market_odds": 1.95
           },
           {
             "player": "Sione Katoa",
             "team": "Cronulla-Sutherland Sharks",
-            "probability": 0.39171208585185474,
-            "fair_odds": 2.552895445708048,
+            "probability": 0.391630283130796,
+            "fair_odds": 2.553428687908748,
             "market_odds": 2.05
           }
         ],
@@ -2509,14 +1889,14 @@
       "away_team": "Parramatta Eels",
       "kickoff": "Sun 6 Sep, 4:00 PM NZT",
       "venue": "WIN Stadium",
-      "home_win_probability": 0.3718912075834321,
-      "away_win_probability": 0.6281087924165679,
-      "independent_home_win_probability": 0.3718912075834321,
-      "independent_away_win_probability": 0.6281087924165679,
-      "home_fair_odds": 2.6889584362535772,
-      "away_fair_odds": 1.5920808816457233,
-      "home_conservative_fair_odds": 2.636551746762851,
-      "away_conservative_fair_odds": 1.6110408680801145,
+      "home_win_probability": 0.3703975063438784,
+      "away_win_probability": 0.6296024936561215,
+      "independent_home_win_probability": 0.3703975063438784,
+      "independent_away_win_probability": 0.6296024936561215,
+      "home_fair_odds": 2.6998021932458593,
+      "away_fair_odds": 1.5883037473262986,
+      "home_conservative_fair_odds": 2.563593602411461,
+      "away_conservative_fair_odds": 1.6395523737483604,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -2529,7 +1909,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T11:58:57.824877+00:00"
+          "observed_at": "2026-09-04T12:31:00.195949+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.3,
@@ -2541,7 +1921,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T11:59:14.259640+00:00"
+          "observed_at": "2026-09-04T12:27:13.175674+00:00"
         },
         "Best Available": {
           "home_h2h": 2.3,
@@ -2553,7 +1933,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T11:59:14.259640+00:00",
+          "observed_at": "2026-09-04T12:31:00.195949+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -2575,15 +1955,15 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T11:58:57.824877+00:00",
-          "home_cover_probability": 0.4791293790066731,
-          "away_cover_probability": 0.5208706209933269,
-          "over_probability": 0.26813018928824306,
-          "under_probability": 0.7318698107117569,
-          "home_line_fair_odds": 2.087118936587006,
-          "away_line_fair_odds": 1.9198625526103754,
-          "over_fair_odds": 3.7295315482919693,
-          "under_fair_odds": 1.3663632320446193
+          "observed_at": "2026-09-04T12:31:00.195949+00:00",
+          "home_cover_probability": 0.4775550253689713,
+          "away_cover_probability": 0.5224449746310287,
+          "over_probability": 0.2688448753333619,
+          "under_probability": 0.7311551246666381,
+          "home_line_fair_odds": 2.0939995327813254,
+          "away_line_fair_odds": 1.914077172828085,
+          "over_fair_odds": 3.7196171165993825,
+          "under_fair_odds": 1.3676988182992476
         },
         "TAB NZ": {
           "home_h2h": 2.3,
@@ -2595,15 +1975,15 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T11:59:14.259640+00:00",
-          "home_cover_probability": 0.27380065586374147,
-          "away_cover_probability": 0.7261993441362585,
-          "over_probability": 0.26813018928824306,
-          "under_probability": 0.7318698107117569,
-          "home_line_fair_odds": 3.652292200854537,
-          "away_line_fair_odds": 1.3770323645629285,
-          "over_fair_odds": 3.7295315482919693,
-          "under_fair_odds": 1.3663632320446193
+          "observed_at": "2026-09-04T12:27:13.175674+00:00",
+          "home_cover_probability": 0.27248634318302223,
+          "away_cover_probability": 0.7275136568169778,
+          "over_probability": 0.2688448753333619,
+          "under_probability": 0.7311551246666381,
+          "home_line_fair_odds": 3.6699086945738237,
+          "away_line_fair_odds": 1.3745446434300714,
+          "over_fair_odds": 3.7196171165993825,
+          "under_fair_odds": 1.3676988182992476
         },
         "Best Available": {
           "home_h2h": 2.3,
@@ -2615,73 +1995,73 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-04T11:59:14.259640+00:00",
-          "home_cover_probability": 0.4791293790066731,
-          "away_cover_probability": 0.5208706209933269,
-          "over_probability": 0.26813018928824306,
-          "under_probability": 0.7318698107117569,
-          "home_line_fair_odds": 2.087118936587006,
-          "away_line_fair_odds": 1.9198625526103754,
-          "over_fair_odds": 3.7295315482919693,
-          "under_fair_odds": 1.3663632320446193
+          "observed_at": "2026-09-04T12:31:00.195949+00:00",
+          "home_cover_probability": 0.4775550253689713,
+          "away_cover_probability": 0.5224449746310287,
+          "over_probability": 0.2688448753333619,
+          "under_probability": 0.7311551246666381,
+          "home_line_fair_odds": 2.0939995327813254,
+          "away_line_fair_odds": 1.914077172828085,
+          "over_fair_odds": 3.7196171165993825,
+          "under_fair_odds": 1.3676988182992476
         }
       },
       "home_bookmaker_odds": 2.3,
       "away_bookmaker_odds": 1.64,
-      "home_h2h_ev": -0.14465022255810622,
-      "away_h2h_ev": 0.030098419563171275,
+      "home_h2h_ev": -0.14808573540907977,
+      "away_h2h_ev": 0.032548089596039276,
       "winner": "Parramatta Eels",
-      "home_points": 22.146234132066745,
-      "away_points": 26.313553507652124,
+      "home_points": 22.135128507337257,
+      "away_points": 26.352837760054715,
       "likely_home_points": 22,
       "likely_away_points": 26,
-      "projected_margin": 4.167319375585379,
-      "projected_total": 48.45978763971887,
-      "close_game_probability": 0.4758170156103655,
+      "projected_margin": 4.217709252717459,
+      "projected_total": 48.48796626739197,
+      "close_game_probability": 0.4745572686820635,
       "fav_1_12_probability": 0.62,
       "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.7085925673901604,
+      "high_scoring_probability": 0.7095788193587189,
       "margin_probabilities": {
-        "St. George Illawarra Dragons 1-12": 0.26159307866318526,
-        "St. George Illawarra Dragons 13+": 0.0955654824112031,
-        "Parramatta Eels 1-12": 0.35648316560620696,
-        "Parramatta Eels 13+": 0.25670295236550367
+        "St. George Illawarra Dragons 1-12": 0.26078882777217527,
+        "St. George Illawarra Dragons 13+": 0.094896303191081,
+        "Parramatta Eels 1-12": 0.35671995752842567,
+        "Parramatta Eels 13+": 0.25797808476809403
       },
-      "margin_remainder_probability": 0.029655320953901,
+      "margin_remainder_probability": 0.029616826740224034,
       "market_line": 3.5,
       "home_line_odds": 1.9,
       "away_line": -3.5,
       "away_line_odds": 1.9,
-      "home_cover_probability": 0.4791293790066731,
-      "away_cover_probability": 0.5208706209933269,
-      "home_line_fair_odds": 2.087118936587006,
-      "away_line_fair_odds": 1.9198625526103754,
-      "home_line_ev": -0.08965417988732116,
-      "away_line_ev": -0.010345820112678927,
+      "home_cover_probability": 0.4775550253689713,
+      "away_cover_probability": 0.5224449746310287,
+      "home_line_fair_odds": 2.0939995327813254,
+      "away_line_fair_odds": 1.914077172828085,
+      "home_line_ev": -0.09264545179895456,
+      "away_line_ev": -0.00735454820104553,
       "market_total": 56.5,
       "over_odds": 1.94,
       "under_odds": 1.87,
-      "over_probability": 0.26813018928824306,
-      "under_probability": 0.7318698107117569,
-      "over_ev": -0.4798274327808085,
-      "under_ev": 0.36859654603098546,
+      "over_probability": 0.2688448753333619,
+      "under_probability": 0.7311551246666381,
+      "over_ev": -0.478440941853278,
+      "under_ev": 0.3672600831266133,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 60,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T11:58:57.824877+00:00",
+      "bookmaker_observed_at": "2026-09-04T12:31:00.195949+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": -0.72,
         "availability_margin": -0.256157115764152,
         "availability_total": -1.3477634863556558,
-        "weather_total": -0.02513675637780671,
+        "weather_total": -0.01952264416193522,
         "referee_margin": 0.08810840707964612,
         "referee_total": 2.3386071476361874,
         "late_season_margin": 0.0,
-        "controlled_context_margin": -0.28152108625119854
+        "controlled_context_margin": -0.3005095255010506
       },
       "drivers": [
         "Point-in-time scoring base: St. George Illawarra Dragons 18.3 PF / 29.0 PA from 68 prior games; Parramatta Eels 22.0 PF / 25.7 PA from 70 prior games.",
@@ -2692,443 +2072,443 @@
         "St. George Illawarra Dragons are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 3 St. George Illawarra Dragons absence(s), 2 Parramatta Eels absence(s); replacement-adjusted score effects -0.80/-0.55; net pre-team margin swing -0.26 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1298 games; WIN Stadium in fine / dry conditions -2.0% vs its own baseline across 28 games. Sample-shrunk forecast effect -0.0 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1300 games; WIN Stadium in fine / dry conditions -2.0% vs its own baseline across 28 games. Sample-shrunk forecast effect -0.0 points.",
         "Referee Liam Kennedy environment: stoppages -9.5% vs NRL, historical scoring +15.7% vs NRL and home-win environment +9.8% vs NRL; conservative adjustments +2.3 total points and +0.1 home-margin points.",
         "Late-season elite interaction input: Inactive because neither side currently faces a top-eight opponent.",
-        "Stacked-advantage control: learned context -0.03, live availability -0.26, final downstream adjustment -0.28; same-direction evidence cap 4.56, opposing cap 5.00.",
-        "Extreme-stack guardrail: Reduced same-direction cap is 4.56, but the contextual adjustment remained inside it.",
+        "Stacked-advantage control: learned context -0.04, live availability -0.26, final downstream adjustment -0.30; same-direction evidence cap 4.54, opposing cap 5.00.",
+        "Extreme-stack guardrail: Reduced same-direction cap is 4.54, but the contextual adjustment remained inside it.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 60/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 83.3% of the -4.4pp raw market disagreement, leaving -3.7pp of betting edge."
+        "Market-relative H2H calibration retains 57.1% of the -4.6pp raw market disagreement, leaving -2.6pp of betting edge."
       ],
       "ats_players": [
         {
           "player": "Josh Addo-Carr",
           "team": "Parramatta Eels",
-          "probability": 0.4896311580973555,
-          "fair_odds": 2.042353684936786,
+          "probability": 0.4895359458979375,
+          "fair_odds": 2.042750912122985,
           "bookmaker_odds": 1.7,
           "bookmaker_prices": {
             "Betcha": 1.7,
             "TAB NZ": 1.7
           },
-          "ev": -0.16762703123449563
+          "ev": -0.16778889197350633
         },
         {
           "player": "Tyrell Sloan",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.4437240273060908,
-          "fair_odds": 2.253653033105141,
+          "probability": 0.44371202491842654,
+          "fair_odds": 2.2537139943048494,
           "bookmaker_odds": 1.77,
           "bookmaker_prices": {
             "Betcha": 1.77,
             "TAB NZ": 1.77
           },
-          "ev": -0.21460847166821928
+          "ev": -0.21462971589438506
         },
         {
           "player": "Brian Kelly",
           "team": "Parramatta Eels",
-          "probability": 0.3865467623059138,
-          "fair_odds": 2.5870091215732347,
+          "probability": 0.38649806686151145,
+          "fair_odds": 2.5873350625536666,
           "bookmaker_odds": 1.82,
           "bookmaker_prices": {
             "Betcha": 1.82,
             "TAB NZ": 1.82
           },
-          "ev": -0.29648489260323685
+          "ev": -0.29657351831204914
         },
         {
           "player": "Apa Twidle",
           "team": "Parramatta Eels",
-          "probability": 0.37510678324742286,
-          "fair_odds": 2.6659075352961388,
+          "probability": 0.37511848080064003,
+          "fair_odds": 2.6658244026410918,
           "bookmaker_odds": 2.55,
           "bookmaker_prices": {
             "Betcha": 2.55,
             "TAB NZ": 2.55
           },
-          "ev": -0.04347770271907181
+          "ev": -0.04344787395836802
         },
         {
           "player": "Mathew Feagai",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.37176007023009144,
-          "fair_odds": 2.689906959026222,
+          "probability": 0.37174844789022543,
+          "fair_odds": 2.689991056251276,
           "bookmaker_odds": 1.92,
           "bookmaker_prices": {
             "Betcha": 1.92,
             "TAB NZ": 1.92
           },
-          "ev": -0.2862206651582244
+          "ev": -0.2862429800507672
         },
         {
           "player": "Valentine Holmes",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.3674698487668119,
-          "fair_odds": 2.721311703139426,
+          "probability": 0.36745829391095625,
+          "fair_odds": 2.7213972757472265,
           "bookmaker_odds": 2.1,
           "bookmaker_prices": {
             "Betcha": 2.1,
             "TAB NZ": 2.1
           },
-          "ev": -0.22831331758969498
+          "ev": -0.2283375827869919
         },
         {
           "player": "Will Penisini",
           "team": "Parramatta Eels",
-          "probability": 0.3581660350288693,
-          "fair_odds": 2.792001201117233,
+          "probability": 0.35817729385639485,
+          "fair_odds": 2.7919134382676227,
           "bookmaker_odds": 2.4,
           "bookmaker_prices": {
             "Betcha": 2.4,
             "TAB NZ": 2.4
           },
-          "ev": -0.1404015159307137
+          "ev": -0.14037449474465236
         },
         {
           "player": "Jordan Samrani",
           "team": "Parramatta Eels",
-          "probability": 0.34376671978432227,
-          "fair_odds": 2.90894941961629,
+          "probability": 0.34377776841506413,
+          "fair_odds": 2.9088559292543845,
           "bookmaker_odds": 2.4,
           "bookmaker_prices": {
             "Betcha": 2.4,
             "TAB NZ": 2.4
           },
-          "ev": -0.17495987251762657
+          "ev": -0.17493335580384606
         },
         {
           "player": "Ronald Volkman",
           "team": "Parramatta Eels",
-          "probability": 0.2578740050331693,
-          "fair_odds": 3.8778627565480046,
+          "probability": 0.2578833779208799,
+          "fair_odds": 3.877721813876681,
           "bookmaker_odds": 2.8,
           "bookmaker_prices": {
             "Betcha": 2.8,
             "TAB NZ": 2.8
           },
-          "ev": -0.2779527859071259
+          "ev": -0.2779265418215363
         },
         {
           "player": "Moses Suli",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.23675090608350788,
-          "fair_odds": 4.223848670920294,
+          "probability": 0.2367420562438443,
+          "fair_odds": 4.224006565905637,
           "bookmaker_odds": 2.75,
           "bookmaker_prices": {
             "Betcha": 2.75,
             "TAB NZ": 2.75
           },
-          "ev": -0.3489350082703533
+          "ev": -0.3489593453294282
         },
         {
           "player": "Daniel Atkinson",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.23464743674032276,
-          "fair_odds": 4.261712865445318,
+          "probability": 0.234638641357117,
+          "fair_odds": 4.2618726149117645,
           "bookmaker_odds": 2.8,
           "bookmaker_prices": {
             "Betcha": 2.8,
             "TAB NZ": 2.8
           },
-          "ev": -0.34298717712709625
+          "ev": -0.3430118042000724
         },
         {
           "player": "Tallyn Da Silva",
           "team": "Parramatta Eels",
-          "probability": 0.2241695083436762,
-          "fair_odds": 4.460909993463034,
+          "probability": 0.2238746105790859,
+          "fair_odds": 4.466786105906995,
           "bookmaker_odds": 2.6,
           "bookmaker_prices": {
             "Betcha": 2.6,
             "TAB NZ": 2.6
           },
-          "ev": -0.41715927830644184
+          "ev": -0.41792601249437666
         },
         {
           "player": "Dylan Walker",
           "team": "Parramatta Eels",
-          "probability": 0.22325574309301965,
-          "fair_odds": 4.479168088336027,
+          "probability": 0.22326423625938907,
+          "fair_odds": 4.47899769687339,
           "bookmaker_odds": 6.8,
           "bookmaker_prices": {
             "Betcha": 6.8,
             "TAB NZ": 6.8
           },
-          "ev": 0.5181390530325336
+          "ev": 0.5181968065638456
         },
         {
           "player": "Mitchell Moses",
           "team": "Parramatta Eels",
-          "probability": 0.21895428664017702,
-          "fair_odds": 4.567163380744266,
+          "probability": 0.21896266229821743,
+          "fair_odds": 4.566988679732275,
           "bookmaker_odds": 3.1,
           "bookmaker_prices": {
             "Betcha": 3.1,
             "TAB NZ": 3.1
           },
-          "ev": -0.3212417114154512
+          "ev": -0.321215746875526
         },
         {
           "player": "Kitione Kautoga",
           "team": "Parramatta Eels",
-          "probability": 0.20609586513221176,
-          "fair_odds": 4.852110930796665,
+          "probability": 0.20610387871353325,
+          "fair_odds": 4.851922274543481,
           "bookmaker_odds": 4.5,
           "bookmaker_prices": {
             "Betcha": 4.5,
             "TAB NZ": 4.5
           },
-          "ev": -0.07256860690504707
+          "ev": -0.0725325457891004
         },
         {
           "player": "Jack Williams",
           "team": "Parramatta Eels",
-          "probability": 0.1770664215675945,
-          "fair_odds": 5.6475981789593765,
+          "probability": 0.1770736626564082,
+          "fair_odds": 5.6473672312318355,
           "bookmaker_odds": 3.7,
           "bookmaker_prices": {
             "Betcha": 3.7,
             "TAB NZ": 3.7
           },
-          "ev": -0.3448542401999003
+          "ev": -0.34482744817128963
         },
         {
           "player": "Dylan Egan",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.16367219387351667,
-          "fair_odds": 6.109773299506112,
+          "probability": 0.1636653872503882,
+          "fair_odds": 6.110027396752627,
           "bookmaker_odds": 3.8,
           "bookmaker_prices": {
             "Betcha": 3.8,
             "TAB NZ": 3.8
           },
-          "ev": -0.3780456632806367
+          "ev": -0.3780715284485249
         },
         {
           "player": "Hamish Stewart",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.1462615377113197,
-          "fair_odds": 6.837067459072711,
+          "probability": 0.14625530745383958,
+          "fair_odds": 6.837358707926653,
           "bookmaker_odds": 2.9,
           "bookmaker_prices": {
             "Betcha": 2.9,
             "TAB NZ": 2.9
           },
-          "ev": -0.5758415406371729
+          "ev": -0.5758596083838652
         },
         {
           "player": "Damien Cook",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.1342025495535954,
-          "fair_odds": 7.451423265253527,
+          "probability": 0.1341967474161579,
+          "fair_odds": 7.451745435371078,
           "bookmaker_odds": 5.0,
           "bookmaker_prices": {
             "Betcha": 5.0,
             "TAB NZ": 5.0
           },
-          "ev": -0.32898725223202296
+          "ev": -0.3290162629192106
         },
         {
           "player": "Kyle Flanagan",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.1223835035203217,
-          "fair_odds": 8.171035893199043,
+          "probability": 0.12237813237537809,
+          "fair_odds": 8.171394517875445,
           "bookmaker_odds": 4.4,
           "bookmaker_prices": {
             "Betcha": 4.4,
             "TAB NZ": 4.4
           },
-          "ev": -0.4615125845105845
+          "ev": -0.4615362175483364
         },
         {
           "player": "Lyhkan King-Togia",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.10883556701207832,
-          "fair_odds": 9.188172832223334,
+          "probability": 0.1088306840062295,
+          "fair_odds": 9.188585086378394,
           "bookmaker_odds": 4.0,
           "bookmaker_prices": {
             "Betcha": 4.0,
             "TAB NZ": 4.0
           },
-          "ev": -0.5646577319516868
+          "ev": -0.564677263975082
         },
         {
           "player": "Saxon Pryke",
           "team": "Parramatta Eels",
-          "probability": 0.10494982526601646,
-          "fair_odds": 9.528362695843454,
+          "probability": 0.10495456358779393,
+          "fair_odds": 9.527932524472892,
           "bookmaker_odds": 6.4,
           "bookmaker_prices": {
             "Betcha": 6.4,
             "TAB NZ": 6.4
           },
-          "ev": -0.32832111829749466
+          "ev": -0.3282907930381188
         },
         {
           "player": "Jack De Belin",
           "team": "Parramatta Eels",
-          "probability": 0.09350842700924633,
-          "fair_odds": 10.694223312099108,
+          "probability": 0.09351270108523821,
+          "fair_odds": 10.69373452370374,
           "bookmaker_odds": 8.25,
           "bookmaker_prices": {
             "Betcha": 8.25,
             "TAB NZ": 8.25
           },
-          "ev": -0.2285554771737177
+          "ev": -0.22852021604678474
         },
         {
           "player": "Loko Jnr Pasifiki Tonga",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.09228905112707225,
-          "fair_odds": 10.83552152490013,
+          "probability": 0.09228494840462667,
+          "fair_odds": 10.836003240912744,
           "bookmaker_odds": 7.75,
           "bookmaker_prices": {
             "Betcha": 7.75,
             "TAB NZ": 7.75
           },
-          "ev": -0.2847598537651901
+          "ev": -0.2847916498641433
         },
         {
           "player": "Luca Moretti",
           "team": "Parramatta Eels",
-          "probability": 0.08984319440098605,
-          "fair_odds": 11.130503614295183,
+          "probability": 0.08984719931489232,
+          "fair_odds": 11.130007475194036,
           "bookmaker_odds": 8.75,
           "bookmaker_prices": {
             "Betcha": 8.75,
             "TAB NZ": 8.75
           },
-          "ev": -0.21387204899137202
+          "ev": -0.21383700599469213
         },
         {
           "player": "Junior Paulo",
           "team": "Parramatta Eels",
-          "probability": 0.08746287946148998,
-          "fair_odds": 11.43342188316932,
+          "probability": 0.08746678846571922,
+          "fair_odds": 11.432910908715131,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6,
             "TAB NZ": 6.6
           },
-          "ev": -0.4227449955541662
+          "ev": -0.4227191961262532
         },
         {
           "player": "Toby Couchman",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.08154960460899731,
-          "fair_odds": 12.262475149875476,
+          "probability": 0.08154593641986914,
+          "fair_odds": 12.263026754038773,
           "bookmaker_odds": 6.25,
           "bookmaker_prices": {
             "Betcha": 6.25,
             "TAB NZ": 6.25
           },
-          "ev": -0.49031497119376677
+          "ev": -0.4903378973758179
         },
         {
           "player": "Connor Muhleisen",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.07784332197385478,
-          "fair_odds": 12.846317123206404,
+          "probability": 0.07783980636821707,
+          "fair_odds": 12.846897322297453,
           "bookmaker_odds": 5.4,
           "bookmaker_prices": {
             "Betcha": 5.4,
             "TAB NZ": 5.4
           },
-          "ev": -0.5796460613411841
+          "ev": -0.5796650456116278
         },
         {
           "player": "Teancum Brown",
           "team": "Parramatta Eels",
-          "probability": 0.07234529534288535,
-          "fair_odds": 13.822598902394875,
+          "probability": 0.07234858226032946,
+          "fair_odds": 13.821970918541759,
           "bookmaker_odds": 8.25,
           "bookmaker_prices": {
             "Betcha": 8.25,
             "TAB NZ": 8.25
           },
-          "ev": -0.4031513134211959
+          "ev": -0.4031241963522819
         },
         {
           "player": "Harrison Edwards",
           "team": "Parramatta Eels",
-          "probability": 0.07038103510119001,
-          "fair_odds": 14.208373016427716,
+          "probability": 0.07038423954615715,
+          "fair_odds": 14.207726139375447,
           "bookmaker_odds": 7.75,
           "bookmaker_prices": {
             "Betcha": 7.75,
             "TAB NZ": 7.75
           },
-          "ev": -0.4545469779657775
+          "ev": -0.45452214351728215
         },
         {
           "player": "Josh Kerr",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.06932803731832157,
-          "fair_odds": 14.424178711543105,
+          "probability": 0.06932487737400052,
+          "fair_odds": 14.424836189829861,
           "bookmaker_odds": 9.75,
           "bookmaker_prices": {
             "Betcha": 9.75,
             "TAB NZ": 9.75
           },
-          "ev": -0.3240516361463647
+          "ev": -0.324082445603495
         },
         {
           "player": "Blake Lawrie",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.060610434445991186,
-          "fair_odds": 16.498809308009186,
+          "probability": 0.06060764597046161,
+          "fair_odds": 16.49956839583195,
           "bookmaker_odds": 9.25,
           "bookmaker_prices": {
             "Betcha": 9.25,
             "TAB NZ": 9.25
           },
-          "ev": -0.4393534813745815
+          "ev": -0.43937927477323013
         },
         {
           "player": "Ryan Couchman",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.05860212816025573,
-          "fair_odds": 17.064226699504154,
+          "probability": 0.058599426316279235,
+          "fair_odds": 17.065013479870785,
           "bookmaker_odds": 8.75,
           "bookmaker_prices": {
             "Betcha": 8.75,
             "TAB NZ": 8.75
           },
-          "ev": -0.48723137859776233
+          "ev": -0.4872550197325567
         },
         {
           "player": "Jacob Halangahu",
           "team": "St. George Illawarra Dragons",
-          "probability": 0.05121532909531243,
-          "fair_odds": 19.525404164424803,
+          "probability": 0.05121294929160873,
+          "fair_odds": 19.52631148629924,
           "bookmaker_odds": 8.75,
           "bookmaker_prices": {
             "Betcha": 8.75,
             "TAB NZ": 8.75
           },
-          "ev": -0.5518658704160162
+          "ev": -0.5518866936984236
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.21652,
-        "fair_odds": 4.618510992056161,
+        "probability": 0.2198,
+        "fair_odds": 4.549590536851683,
         "singles_product_odds": 3.009,
         "target_met": false,
         "legs": [
           {
             "player": "Josh Addo-Carr",
             "team": "Parramatta Eels",
-            "probability": 0.4896311580973555,
-            "fair_odds": 2.042353684936786,
+            "probability": 0.4895359458979375,
+            "fair_odds": 2.042750912122985,
             "market_odds": 1.7
           },
           {
             "player": "Tyrell Sloan",
             "team": "St. George Illawarra Dragons",
-            "probability": 0.4437240273060908,
-            "fair_odds": 2.253653033105141,
+            "probability": 0.44371202491842654,
+            "fair_odds": 2.2537139943048494,
             "market_odds": 1.77
           }
         ],
@@ -3142,14 +2522,14 @@
       "away_team": "Wests Tigers",
       "kickoff": "Sun 6 Sep, 6:05 PM NZT",
       "venue": "CommBank Stadium",
-      "home_win_probability": 0.8251628016609502,
-      "away_win_probability": 0.17483719833904976,
-      "independent_home_win_probability": 0.8251628016609502,
-      "independent_away_win_probability": 0.17483719833904976,
-      "home_fair_odds": 1.2118820649538784,
-      "away_fair_odds": 5.719606636916984,
-      "home_conservative_fair_odds": 1.1991597002251324,
-      "away_conservative_fair_odds": 6.021096129737031,
+      "home_win_probability": 0.8249117144278679,
+      "away_win_probability": 0.17508828557213207,
+      "independent_home_win_probability": 0.8249117144278679,
+      "independent_away_win_probability": 0.17508828557213207,
+      "home_fair_odds": 1.2122509385062712,
+      "away_fair_odds": 5.711404373698231,
+      "home_conservative_fair_odds": 1.179847457260081,
+      "away_conservative_fair_odds": 6.560267658129186,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -3162,7 +2542,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:05.475755+00:00"
+          "observed_at": "2026-09-04T12:31:09.505946+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.08,
@@ -3174,7 +2554,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:15.056938+00:00"
+          "observed_at": "2026-09-04T12:31:19.805602+00:00"
         },
         "Best Available": {
           "home_h2h": 1.08,
@@ -3186,7 +2566,7 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:15.056938+00:00",
+          "observed_at": "2026-09-04T12:31:19.805602+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -3208,15 +2588,15 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:05.475755+00:00",
-          "home_cover_probability": 0.31892967043916765,
-          "away_cover_probability": 0.6810703295608324,
-          "over_probability": 0.3341966835483723,
-          "under_probability": 0.6658033164516277,
-          "home_line_fair_odds": 3.135487515548476,
-          "away_line_fair_odds": 1.4682771464216036,
-          "over_fair_odds": 2.992249921161345,
-          "under_fair_odds": 1.5019450568817534
+          "observed_at": "2026-09-04T12:31:09.505946+00:00",
+          "home_cover_probability": 0.31859088100764665,
+          "away_cover_probability": 0.6814091189923533,
+          "over_probability": 0.33480293979115894,
+          "under_probability": 0.6651970602088411,
+          "home_line_fair_odds": 3.1388217918767065,
+          "away_line_fair_odds": 1.467547134500884,
+          "over_fair_odds": 2.9868315989810994,
+          "under_fair_odds": 1.503313919766943
         },
         "TAB NZ": {
           "home_h2h": 1.08,
@@ -3228,15 +2608,15 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:15.056938+00:00",
-          "home_cover_probability": 0.9903874183237382,
-          "away_cover_probability": 0.009612581676261778,
-          "over_probability": 0.3341966835483723,
-          "under_probability": 0.6658033164516277,
-          "home_line_fair_odds": 1.009705880242836,
-          "away_line_fair_odds": 104.03032542958725,
-          "over_fair_odds": 2.992249921161345,
-          "under_fair_odds": 1.5019450568817534
+          "observed_at": "2026-09-04T12:31:19.805602+00:00",
+          "home_cover_probability": 0.9903616540788153,
+          "away_cover_probability": 0.009638345921184732,
+          "over_probability": 0.33480293979115894,
+          "under_probability": 0.6651970602088411,
+          "home_line_fair_odds": 1.0097321477275387,
+          "away_line_fair_odds": 103.75224215620199,
+          "over_fair_odds": 2.9868315989810994,
+          "under_fair_odds": 1.503313919766943
         },
         "Best Available": {
           "home_h2h": 1.08,
@@ -3248,69 +2628,69 @@
           "total": 48.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-04T11:59:15.056938+00:00",
-          "home_cover_probability": 0.31892967043916765,
-          "away_cover_probability": 0.6810703295608324,
-          "over_probability": 0.3341966835483723,
-          "under_probability": 0.6658033164516277,
-          "home_line_fair_odds": 3.135487515548476,
-          "away_line_fair_odds": 1.4682771464216036,
-          "over_fair_odds": 2.992249921161345,
-          "under_fair_odds": 1.5019450568817534
+          "observed_at": "2026-09-04T12:31:19.805602+00:00",
+          "home_cover_probability": 0.31859088100764665,
+          "away_cover_probability": 0.6814091189923533,
+          "over_probability": 0.33480293979115894,
+          "under_probability": 0.6651970602088411,
+          "home_line_fair_odds": 3.1388217918767065,
+          "away_line_fair_odds": 1.467547134500884,
+          "over_fair_odds": 2.9868315989810994,
+          "under_fair_odds": 1.503313919766943
         }
       },
       "home_bookmaker_odds": 1.08,
       "away_bookmaker_odds": 7.75,
-      "home_h2h_ev": -0.10882417420617363,
-      "away_h2h_ev": 0.3549882871276355,
+      "home_h2h_ev": -0.10909534841790258,
+      "away_h2h_ev": 0.35693421318402363,
       "winner": "Penrith Panthers",
-      "home_points": 27.951443158626752,
-      "away_points": 14.979954081416924,
+      "home_points": 27.955626683734444,
+      "away_points": 14.997416601551201,
       "likely_home_points": 28,
       "likely_away_points": 16,
-      "projected_margin": 12.971489077209828,
-      "projected_total": 42.93139724004368,
-      "close_game_probability": 0.25571277306975426,
-      "fav_1_12_probability": 0.4457127730697543,
-      "fav_13_plus_probability": 0.5542872269302457,
-      "high_scoring_probability": 0.5150989034015288,
+      "projected_margin": 12.958210082183243,
+      "projected_total": 42.953043285285645,
+      "close_game_probability": 0.25604474794541887,
+      "fav_1_12_probability": 0.44604474794541893,
+      "fav_13_plus_probability": 0.5539552520545811,
+      "high_scoring_probability": 0.5158565149849976,
       "margin_probabilities": {
-        "Penrith Panthers 1-12": 0.302160619290079,
-        "Penrith Panthers 13+": 0.5135588389261365,
-        "Wests Tigers 1-12": 0.13256121533605103,
-        "Wests Tigers 13+": 0.03314567098677717
+        "Penrith Panthers 1-12": 0.302283234923171,
+        "Penrith Panthers 13+": 0.5131768725808409,
+        "Wests Tigers 1-12": 0.13273074265716664,
+        "Wests Tigers 13+": 0.03321891491474948
       },
-      "margin_remainder_probability": 0.01857365546095635,
+      "margin_remainder_probability": 0.01859023492407197,
       "market_line": -19.5,
       "home_line_odds": 1.9,
       "away_line": 19.5,
       "away_line_odds": 1.9,
-      "home_cover_probability": 0.31892967043916765,
-      "away_cover_probability": 0.6810703295608324,
-      "home_line_fair_odds": 3.135487515548476,
-      "away_line_fair_odds": 1.4682771464216036,
-      "home_line_ev": -0.39403362616558146,
-      "away_line_ev": 0.2940336261655814,
+      "home_cover_probability": 0.31859088100764665,
+      "away_cover_probability": 0.6814091189923533,
+      "home_line_fair_odds": 3.1388217918767065,
+      "away_line_fair_odds": 1.467547134500884,
+      "home_line_ev": -0.39467732608547135,
+      "away_line_ev": 0.29467732608547137,
       "market_total": 48.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.3341966835483723,
-      "under_probability": 0.6658033164516277,
-      "over_ev": -0.36502630125809266,
-      "under_ev": 0.2650263012580927,
+      "over_probability": 0.33480293979115894,
+      "under_probability": 0.6651970602088411,
+      "over_ev": -0.363874414396798,
+      "under_ev": 0.26387441439679793,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 81,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-04T11:59:05.475755+00:00",
+      "bookmaker_observed_at": "2026-09-04T12:31:09.505946+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": 2.16,
         "availability_margin": -0.6187528202281731,
         "availability_total": -2.7779761502835316,
-        "weather_total": 0.3571359363512979,
+        "weather_total": 0.3627500485671694,
         "referee_margin": 0.025709342280139054,
         "referee_total": 0.39746901556971925,
         "late_season_margin": 2.0,
@@ -3325,13 +2705,13 @@
         "Penrith Panthers are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 2 Penrith Panthers absence(s), 3 Wests Tigers absence(s); replacement-adjusted score effects -1.70/-1.08; net pre-team margin swing -0.62 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1298 games; CommBank Stadium in fine / dry conditions +1.0% vs its own baseline across 94 games. Sample-shrunk forecast effect +0.4 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1300 games; CommBank Stadium in fine / dry conditions +1.0% vs its own baseline across 94 games. Sample-shrunk forecast effect +0.4 points.",
         "Referee Ashley Klein environment: stoppages +2.7% vs NRL, historical scoring +2.7% vs NRL and home-win environment +4.2% vs NRL; conservative adjustments +0.4 total points and +0.0 home-margin points.",
         "Late-season elite interaction input: Applied +2.00 home-margin points: Penrith Panthers elite effect -1.13 (n=33) inactive; Wests Tigers elite effect -2.00 (n=36) active.",
-        "Stacked-advantage control: learned context +7.74, live availability -0.62, final downstream adjustment +2.88; same-direction evidence cap 3.50, opposing cap 5.00.",
-        "Extreme-stack guardrail: Same-direction context exceeded the 3.50-point evidence cap for |raw margin|=10.09.",
+        "Stacked-advantage control: learned context +7.73, live availability -0.62, final downstream adjustment +2.88; same-direction evidence cap 3.50, opposing cap 5.00.",
+        "Extreme-stack guardrail: Same-direction context exceeded the 3.50-point evidence cap for |raw margin|=10.08.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 81/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 83.3% of the -5.3pp raw market disagreement, leaving -4.4pp of betting edge."
+        "Market-relative H2H calibration retains 57.1% of the -5.3pp raw market disagreement, leaving -3.0pp of betting edge."
       ],
       "ats_players": [
         {
@@ -3361,392 +2741,392 @@
         {
           "player": "Casey McLean",
           "team": "Penrith Panthers",
-          "probability": 0.5156303761014368,
-          "fair_odds": 1.9393737187494091,
+          "probability": 0.5156271837658118,
+          "fair_odds": 1.9393857257420726,
           "bookmaker_odds": 1.88,
           "bookmaker_prices": {
             "Betcha": 1.88,
             "TAB NZ": 1.88
           },
-          "ev": -0.030614892929298865
+          "ev": -0.030620894520273834
         },
         {
           "player": "Dylan Edwards",
           "team": "Penrith Panthers",
-          "probability": 0.4480646018074535,
-          "fair_odds": 2.231821027517209,
+          "probability": 0.4480614305031253,
+          "fair_odds": 2.231836823975468,
           "bookmaker_odds": 2.05,
           "bookmaker_prices": {
             "Betcha": 2.05,
             "TAB NZ": 2.05
           },
-          "ev": -0.0814675662947204
+          "ev": -0.0814740674685932
         },
         {
           "player": "Luke Garner",
           "team": "Penrith Panthers",
-          "probability": 0.3753105160931216,
-          "fair_odds": 2.664460379127456,
+          "probability": 0.3753074400545573,
+          "fair_odds": 2.66448221717809,
           "bookmaker_odds": 2.4,
           "bookmaker_prices": {
             "Betcha": 2.4,
             "TAB NZ": 2.4
           },
-          "ev": -0.09925476137650824
+          "ev": -0.09926214386906251
         },
         {
           "player": "Nathan Cleary",
           "team": "Penrith Panthers",
-          "probability": 0.3434137171457603,
-          "fair_odds": 2.9119395937686288,
+          "probability": 0.34341073339233835,
+          "fair_odds": 2.9119648944039396,
           "bookmaker_odds": 2.4,
           "bookmaker_prices": {
             "Betcha": 2.4,
             "TAB NZ": 2.4
           },
-          "ev": -0.17580707885017532
+          "ev": -0.17581423985838796
         },
         {
           "player": "Liam Martin",
           "team": "Penrith Panthers",
-          "probability": 0.32189081482038223,
-          "fair_odds": 3.1066434764782227,
+          "probability": 0.32188799765608106,
+          "fair_odds": 3.1066706658271954,
           "bookmaker_odds": 3.4,
           "bookmaker_prices": {
             "Betcha": 3.4,
             "TAB NZ": 3.4
           },
-          "ev": 0.09442877038929964
+          "ev": 0.09441919203067561
         },
         {
           "player": "Isaiah Papali'i",
           "team": "Penrith Panthers",
-          "probability": 0.3068445770074942,
-          "fair_odds": 3.2589788933293633,
+          "probability": 0.30684183194043446,
+          "fair_odds": 3.2590080487921367,
           "bookmaker_odds": 4.0,
           "bookmaker_prices": {
             "Betcha": 4.0,
             "TAB NZ": 4.0
           },
-          "ev": 0.22737830802997672
+          "ev": 0.22736732776173785
         },
         {
           "player": "Jeral Skelton",
           "team": "Wests Tigers",
-          "probability": 0.22197858932835887,
-          "fair_odds": 4.504938980942722,
+          "probability": 0.22198081832368396,
+          "fair_odds": 4.504893745106562,
           "bookmaker_odds": 2.65,
           "bookmaker_prices": {
             "Betcha": 2.65,
             "TAB NZ": 2.65
           },
-          "ev": -0.41175673827984904
+          "ev": -0.41175083144223756
         },
         {
           "player": "Jahream Bula",
           "team": "Wests Tigers",
-          "probability": 0.19945861040767174,
-          "fair_odds": 5.013571477090453,
+          "probability": 0.1994606712427017,
+          "fair_odds": 5.013519676684584,
           "bookmaker_odds": 3.45,
           "bookmaker_prices": {
             "Betcha": 3.45,
             "TAB NZ": 3.45
           },
-          "ev": -0.3118677940935325
+          "ev": -0.3118606842126791
         },
         {
           "player": "Junior Tupou",
           "team": "Wests Tigers",
-          "probability": 0.19479544729622594,
-          "fair_odds": 5.133590203878314,
+          "probability": 0.1947975011988597,
+          "fair_odds": 5.133536076415819,
           "bookmaker_odds": 2.75,
           "bookmaker_prices": {
             "Betcha": 2.75,
             "TAB NZ": 2.75
           },
-          "ev": -0.4643125199353787
+          "ev": -0.4643068717031359
         },
         {
           "player": "Jack Cole",
           "team": "Penrith Panthers",
-          "probability": 0.17632912736817624,
-          "fair_odds": 5.671212776502853,
+          "probability": 0.17632722698561037,
+          "fair_odds": 5.671273898509205,
           "bookmaker_odds": 3.5,
           "bookmaker_prices": {
             "Betcha": 3.5,
             "TAB NZ": 3.5
           },
-          "ev": -0.3828480542113831
+          "ev": -0.3828547055503637
         },
         {
           "player": "Lindsay Smith",
           "team": "Penrith Panthers",
-          "probability": 0.1730298076988909,
-          "fair_odds": 5.779351045342518,
+          "probability": 0.1730279609242099,
+          "fair_odds": 5.7794127299345694,
           "bookmaker_odds": 6.0,
           "bookmaker_prices": {
             "Betcha": 6.0,
             "TAB NZ": 6.0
           },
-          "ev": 0.03817884619334544
+          "ev": 0.03816776554525947
         },
         {
           "player": "Patrick Herbert",
           "team": "Wests Tigers",
-          "probability": 0.15454517474013382,
-          "fair_odds": 6.470599950347787,
+          "probability": 0.1545468903059398,
+          "fair_odds": 6.470528122697312,
           "bookmaker_odds": 5.0,
           "bookmaker_prices": {
             "Betcha": 5.0,
             "TAB NZ": 5.0
           },
-          "ev": -0.22727412629933086
+          "ev": -0.227265548470301
         },
         {
           "player": "Liam Henry",
           "team": "Penrith Panthers",
-          "probability": 0.1438379606514205,
-          "fair_odds": 6.9522676452804975,
+          "probability": 0.1438363463775682,
+          "fair_odds": 6.952345670509562,
           "bookmaker_odds": 5.6,
           "bookmaker_prices": {
             "Betcha": 5.6,
             "TAB NZ": 5.6
           },
-          "ev": -0.19450742035204527
+          "ev": -0.1945164602856181
         },
         {
           "player": "Solomone Saukuru",
           "team": "Wests Tigers",
-          "probability": 0.1432377125960708,
-          "fair_odds": 6.981401628633878,
+          "probability": 0.14323931839280826,
+          "fair_odds": 6.981323363028568,
           "bookmaker_odds": 3.7,
           "bookmaker_prices": {
             "Betcha": 3.7,
             "TAB NZ": 3.7
           },
-          "ev": -0.47002046339453807
+          "ev": -0.4700145219466094
         },
         {
           "player": "Scott Sorensen",
           "team": "Penrith Panthers",
-          "probability": 0.1221864852778701,
-          "fair_odds": 8.18421118936233,
+          "probability": 0.12218507323641663,
+          "fair_odds": 8.184305770845626,
           "bookmaker_odds": 7.5,
           "bookmaker_prices": {
             "Betcha": 7.5,
             "TAB NZ": 7.5
           },
-          "ev": -0.08360136041597421
+          "ev": -0.08361195072687533
         },
         {
           "player": "Billy Phillips",
           "team": "Penrith Panthers",
-          "probability": 0.1147318310456306,
-          "fair_odds": 8.715976995105088,
+          "probability": 0.11473049147830722,
+          "fair_odds": 8.716078760885253,
           "bookmaker_odds": 7.5,
           "bookmaker_prices": {
             "Betcha": 7.5,
             "TAB NZ": 7.5
           },
-          "ev": -0.1395112671577705
+          "ev": -0.13952131391269584
         },
         {
           "player": "Freddy Lussick",
           "team": "Penrith Panthers",
-          "probability": 0.11364504545784372,
-          "fair_odds": 8.799327731105945,
+          "probability": 0.11364371664581804,
+          "fair_odds": 8.799430619790442,
           "bookmaker_odds": 6.4,
           "bookmaker_prices": {
             "Betcha": 6.4,
             "TAB NZ": 6.4
           },
-          "ev": -0.2726717090698001
+          "ev": -0.2726802134667645
         },
         {
           "player": "Moses Leota",
           "team": "Penrith Panthers",
-          "probability": 0.10705768078584449,
-          "fair_odds": 9.340759043719386,
+          "probability": 0.10705641713500218,
+          "fair_odds": 9.340869298278143,
           "bookmaker_odds": 7.25,
           "bookmaker_prices": {
             "Betcha": 7.25,
             "TAB NZ": 7.25
           },
-          "ev": -0.22383181430262744
+          "ev": -0.22384097577123419
         },
         {
           "player": "Samuela Fainu",
           "team": "Wests Tigers",
-          "probability": 0.10385306403562038,
-          "fair_odds": 9.628988892008152,
+          "probability": 0.10385429904537333,
+          "fair_odds": 9.628874386443126,
           "bookmaker_odds": 5.5,
           "bookmaker_prices": {
             "Betcha": 5.5,
             "TAB NZ": 5.5
           },
-          "ev": -0.42880814780408794
+          "ev": -0.4288013552504467
         },
         {
           "player": "Jarome Luai",
           "team": "Wests Tigers",
-          "probability": 0.09383226506375619,
-          "fair_odds": 10.657314936610879,
+          "probability": 0.09383339647333011,
+          "fair_odds": 10.65718643451456,
           "bookmaker_odds": 5.25,
           "bookmaker_prices": {
             "Betcha": 5.25,
             "TAB NZ": 5.25
           },
-          "ev": -0.50738060841528
+          "ev": -0.5073746685150169
         },
         {
           "player": "Sione Fainu",
           "team": "Wests Tigers",
-          "probability": 0.08810655276533504,
-          "fair_odds": 11.34989360738494,
+          "probability": 0.08810758971953894,
+          "fair_odds": 11.34976002842849,
           "bookmaker_odds": 6.8,
           "bookmaker_prices": {
             "Betcha": 6.8,
             "TAB NZ": 6.8
           },
-          "ev": -0.4008754411957217
+          "ev": -0.40086838990713525
         },
         {
           "player": "Luron Patea",
           "team": "Penrith Panthers",
-          "probability": 0.08726294279923934,
-          "fair_odds": 11.459618114193564,
+          "probability": 0.08726188139728482,
+          "fair_odds": 11.4597575022158,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "TAB NZ": 7.0
           },
-          "ev": -0.3891594004053246
+          "ev": -0.38916683021900633
         },
         {
           "player": "Alex Seyfarth",
           "team": "Wests Tigers",
-          "probability": 0.08529322357916583,
-          "fair_odds": 11.7242608267917,
+          "probability": 0.08529423051944335,
+          "fair_odds": 11.724122416135096,
           "bookmaker_odds": 11.0,
           "bookmaker_prices": {
             "Betcha": 11.0,
             "TAB NZ": 11.0
           },
-          "ev": -0.06177454062917587
+          "ev": -0.061763464286123115
         },
         {
           "player": "Jock Madden",
           "team": "Wests Tigers",
-          "probability": 0.08402880876411906,
-          "fair_odds": 11.900680429817156,
+          "probability": 0.08402980214847533,
+          "fair_odds": 11.90053974223411,
           "bookmaker_odds": 6.5,
           "bookmaker_prices": {
             "Betcha": 6.5,
             "TAB NZ": 6.5
           },
-          "ev": -0.45381274303322616
+          "ev": -0.45380628603491036
         },
         {
           "player": "Mitch Kenny",
           "team": "Penrith Panthers",
-          "probability": 0.08113647380246519,
-          "fair_odds": 12.324913237351174,
+          "probability": 0.08106786469724216,
+          "fair_odds": 12.335344019910012,
           "bookmaker_odds": 5.4,
           "bookmaker_prices": {
             "Betcha": 5.4,
             "TAB NZ": 5.4
           },
-          "ev": -0.5618630414666879
+          "ev": -0.5622335306348923
         },
         {
           "player": "Apisai Koroisau",
           "team": "Wests Tigers",
-          "probability": 0.0810361105153015,
-          "fair_odds": 12.340177652173677,
+          "probability": 0.08103707165019883,
+          "fair_odds": 12.340031292302335,
           "bookmaker_odds": 7.25,
           "bookmaker_prices": {
             "Betcha": 7.25,
             "TAB NZ": 7.25
           },
-          "ev": -0.41248819876406406
+          "ev": -0.41248123053605845
         },
         {
           "player": "Latu Fainu",
           "team": "Wests Tigers",
-          "probability": 0.06875432988102707,
-          "fair_odds": 14.54453852914291,
+          "probability": 0.06875515624561984,
+          "fair_odds": 14.544363719102254,
           "bookmaker_odds": 8.5,
           "bookmaker_prices": {
             "Betcha": 8.5,
             "TAB NZ": 8.5
           },
-          "ev": -0.41558819601126984
+          "ev": -0.4155811719122313
         },
         {
           "player": "Ethan Roberts",
           "team": "Wests Tigers",
-          "probability": 0.06557356538453536,
-          "fair_odds": 15.250047700408196,
+          "probability": 0.06557435621121493,
+          "fair_odds": 15.249863784846031,
           "bookmaker_odds": 11.5,
           "bookmaker_prices": {
             "Betcha": 11.5,
             "TAB NZ": 11.5
           },
-          "ev": -0.24590399807784336
+          "ev": -0.24589490357102828
         },
         {
           "player": "Fonua Pole",
           "team": "Wests Tigers",
-          "probability": 0.06396994107212257,
-          "fair_odds": 15.632342053786719,
+          "probability": 0.063970713882871,
+          "fair_odds": 15.63215320421433,
           "bookmaker_odds": 11.0,
           "bookmaker_prices": {
             "Betcha": 11.0,
             "TAB NZ": 11.0
           },
-          "ev": -0.29633064820665167
+          "ev": -0.296322147288419
         },
         {
           "player": "Terrell May",
           "team": "Wests Tigers",
-          "probability": 0.06299781379557216,
-          "fair_odds": 15.873566712092565,
+          "probability": 0.06299857565263067,
+          "fair_odds": 15.873374749199467,
           "bookmaker_odds": 10.5,
           "bookmaker_prices": {
             "Betcha": 10.5,
             "TAB NZ": 10.5
           },
-          "ev": -0.33852295514649233
+          "ev": -0.3385149556473779
         },
         {
           "player": "Vaka Aho",
           "team": "Wests Tigers",
-          "probability": 0.057360618054273366,
-          "fair_odds": 17.433563896641104,
+          "probability": 0.05736131591192817,
+          "fair_odds": 17.43335179993756,
           "bookmaker_odds": 12.5,
           "bookmaker_prices": {
             "Betcha": 12.5,
             "TAB NZ": 12.5
           },
-          "ev": -0.2829922743215829
+          "ev": -0.2829835511008979
         },
         {
           "player": "Bunty Afoa",
           "team": "Wests Tigers",
-          "probability": 0.04972630149434382,
-          "fair_odds": 20.110081987773537,
+          "probability": 0.04972691137148414,
+          "fair_odds": 20.109835347092343,
           "bookmaker_odds": 14.0,
           "bookmaker_prices": {
             "Betcha": 14.0,
             "TAB NZ": 14.0
           },
-          "ev": -0.30383177907918646
+          "ev": -0.30382324079922207
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.4798,
-        "fair_odds": 2.084201750729471,
+        "probability": 0.4766,
+        "fair_odds": 2.09819555182543,
         "singles_product_odds": 2.4335,
         "target_met": false,
         "legs": [
