@@ -10,7 +10,7 @@
   "round": 27,
   "generated_at": "Mon 7 Sep 2026, 10:52 AM NZT",
   "generated_at_iso": "2026-09-07T10:52:23.467442+12:00",
-  "engine_version": "1.66.30",
+  "engine_version": "1.66.32",
   "fixtures": [
     {
       "status": "completed",
@@ -1705,13 +1705,15 @@
         ],
         "explanations": [
           "The locked pre-match pick was Canterbury-Bankstown Bulldogs; the winner prediction was wrong.",
-          "The model projected Canterbury-Bankstown Bulldogs 25.6–17.6 Brisbane Broncos. The signed margin missed by 22.02 points and the total by 10.76 points.",
+          "Canterbury-Bankstown Bulldogs scored 5.6 points fewer than forecast; Brisbane Broncos scored 16.4 points more. Together those differences moved the home-minus-away margin by -22.0 points. The winner verdict and the score accuracy are assessed separately.",
           "Brisbane Broncos finished with a higher completion rate, fewer errors. These are match-level advantages consistent with the result; the event timeline shows the recorded scoring sequence.",
+          "The model projected Canterbury-Bankstown Bulldogs 25.6–17.6 Brisbane Broncos. The signed margin missed by 22.02 points and the total by 10.76 points.",
           "Final possession was Canterbury-Bankstown Bulldogs 55% and Brisbane Broncos 45%. The winner had less possession, so possession alone did not determine the result.",
           "Canterbury-Bankstown Bulldogs: 72% completion rate; Brisbane Broncos: 76%.",
           "Canterbury-Bankstown Bulldogs: 6 line breaks; Brisbane Broncos: 7.",
           "Canterbury-Bankstown Bulldogs: 16 errors; Brisbane Broncos: 14.",
           "Canterbury-Bankstown Bulldogs: 2 penalties conceded; Brisbane Broncos: 4.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
           "Decisive score change: 44:29 — Brisbane Broncos took the lead, 10–14."
         ],
         "score_flow": [
@@ -1830,6 +1832,38 @@
           "total_error": 10.76
         },
         "verdict": "Wrong",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Canterbury-Bankstown Bulldogs",
+            "actual": "Brisbane Broncos",
+            "difference": "Different winner"
+          },
+          {
+            "label": "Canterbury-Bankstown Bulldogs points",
+            "predicted": "25.6",
+            "actual": "20",
+            "difference": "-5.6 points (actual − predicted)"
+          },
+          {
+            "label": "Brisbane Broncos points",
+            "predicted": "17.6",
+            "actual": "34",
+            "difference": "+16.4 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "43.2",
+            "actual": "54",
+            "difference": "+10.8 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "8.0",
+            "actual": "-14",
+            "difference": "-22.0 points (actual − predicted)"
+          }
+        ],
         "home_score": 20,
         "away_score": 34,
         "winner": "Brisbane Broncos",
@@ -3596,12 +3630,14 @@
         ],
         "explanations": [
           "The locked pre-match pick was Dolphins; the winner prediction was correct.",
+          "Gold Coast Titans scored 1.9 points more than forecast; Dolphins scored 4.3 points fewer. Together those differences moved the home-minus-away margin by +6.2 points. The winner verdict and the score accuracy are assessed separately.",
           "The model projected Gold Coast Titans 18.1–28.3 Dolphins. The signed margin missed by 6.22 points and the total by 2.46 points.",
           "Final possession was Gold Coast Titans 53% and Dolphins 47%. The winner had less possession, so possession alone did not determine the result.",
           "Gold Coast Titans: 83% completion rate; Dolphins: 74%.",
           "Gold Coast Titans: 2 line breaks; Dolphins: 5.",
           "Gold Coast Titans: 9 errors; Dolphins: 15.",
           "Gold Coast Titans: 4 penalties conceded; Dolphins: 7.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
           "Decisive score change: 44:54 — Dolphins took the lead, 14–16."
         ],
         "score_flow": [
@@ -3710,6 +3746,38 @@
           "total_error": 2.46
         },
         "verdict": "Correct",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Dolphins",
+            "actual": "Dolphins",
+            "difference": "Same winner"
+          },
+          {
+            "label": "Gold Coast Titans points",
+            "predicted": "18.1",
+            "actual": "20",
+            "difference": "+1.9 points (actual − predicted)"
+          },
+          {
+            "label": "Dolphins points",
+            "predicted": "28.3",
+            "actual": "24",
+            "difference": "-4.3 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "46.5",
+            "actual": "44",
+            "difference": "-2.5 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "-10.2",
+            "actual": "-4",
+            "difference": "+6.2 points (actual − predicted)"
+          }
+        ],
         "home_score": 20,
         "away_score": 24,
         "winner": "Dolphins",
@@ -5411,13 +5479,15 @@
         ],
         "explanations": [
           "The locked pre-match pick was Sydney Roosters; the winner prediction was wrong.",
-          "The model projected South Sydney Rabbitohs 23.5–23.5 Sydney Roosters. The signed margin missed by 30.05 points and the total by 23.01 points.",
+          "South Sydney Rabbitohs scored 26.5 points more than forecast; Sydney Roosters scored 3.5 points fewer. Together those differences moved the home-minus-away margin by +30.1 points. The winner verdict and the score accuracy are assessed separately.",
           "South Sydney Rabbitohs finished with a higher completion rate, fewer errors, fewer penalties conceded. These are match-level advantages consistent with the result; the event timeline shows the recorded scoring sequence.",
+          "The model projected South Sydney Rabbitohs 23.5–23.5 Sydney Roosters. The signed margin missed by 30.05 points and the total by 23.01 points.",
           "Final possession was South Sydney Rabbitohs 59% and Sydney Roosters 41%. This is the full-match split; it does not show when possession changed.",
           "South Sydney Rabbitohs: 85% completion rate; Sydney Roosters: 61%.",
           "South Sydney Rabbitohs: 11 line breaks; Sydney Roosters: 4.",
           "South Sydney Rabbitohs: 8 errors; Sydney Roosters: 13.",
           "South Sydney Rabbitohs: 2 penalties conceded; Sydney Roosters: 7.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
           "Decisive score change: 05:18 — South Sydney Rabbitohs took the lead, 4–0."
         ],
         "score_flow": [
@@ -5556,6 +5626,38 @@
           "total_error": 23.01
         },
         "verdict": "Wrong",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Sydney Roosters",
+            "actual": "South Sydney Rabbitohs",
+            "difference": "Different winner"
+          },
+          {
+            "label": "South Sydney Rabbitohs points",
+            "predicted": "23.5",
+            "actual": "50",
+            "difference": "+26.5 points (actual − predicted)"
+          },
+          {
+            "label": "Sydney Roosters points",
+            "predicted": "23.5",
+            "actual": "20",
+            "difference": "-3.5 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "47.0",
+            "actual": "70",
+            "difference": "+23.0 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "-0.1",
+            "actual": "30",
+            "difference": "+30.1 points (actual − predicted)"
+          }
+        ],
         "home_score": 50,
         "away_score": 20,
         "winner": "South Sydney Rabbitohs",
@@ -5593,6 +5695,7 @@
         "turning_points": [],
         "explanations": [
           "The locked pre-match pick was Warriors; the winner prediction was correct.",
+          "Warriors scored 4.5 points more than forecast; Manly-Warringah Sea Eagles scored 11.9 points more. Together those differences moved the home-minus-away margin by -7.4 points. The winner verdict and the score accuracy are assessed separately.",
           "The model projected Warriors 26.5–18.1 Manly-Warringah Sea Eagles. The signed margin missed by 7.43 points and the total by 16.45 points."
         ],
         "score_flow": [],
@@ -5615,6 +5718,38 @@
           "total_error": 16.45
         },
         "verdict": "Correct",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Warriors",
+            "actual": "Warriors",
+            "difference": "Same winner"
+          },
+          {
+            "label": "Warriors points",
+            "predicted": "26.5",
+            "actual": "31",
+            "difference": "+4.5 points (actual − predicted)"
+          },
+          {
+            "label": "Manly-Warringah Sea Eagles points",
+            "predicted": "18.1",
+            "actual": "30",
+            "difference": "+11.9 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "44.5",
+            "actual": "61",
+            "difference": "+16.5 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "8.4",
+            "actual": "1",
+            "difference": "-7.4 points (actual − predicted)"
+          }
+        ],
         "home_score": 31,
         "away_score": 30,
         "winner": "Warriors",
@@ -7494,13 +7629,15 @@
         ],
         "explanations": [
           "The locked pre-match pick was North Queensland Cowboys; the winner prediction was wrong.",
-          "The model projected North Queensland Cowboys 24.8–22.9 Canberra Raiders. The signed margin missed by 21.85 points and the total by 32.28 points.",
+          "North Queensland Cowboys scored 5.2 points more than forecast; Canberra Raiders scored 27.1 points more. Together those differences moved the home-minus-away margin by -21.8 points. The winner verdict and the score accuracy are assessed separately.",
           "Canberra Raiders finished with a higher completion rate, fewer errors, fewer penalties conceded. These are match-level advantages consistent with the result; the event timeline shows the recorded scoring sequence.",
+          "The model projected North Queensland Cowboys 24.8–22.9 Canberra Raiders. The signed margin missed by 21.85 points and the total by 32.28 points.",
           "Final possession was North Queensland Cowboys 47% and Canberra Raiders 53%. This is the full-match split; it does not show when possession changed.",
           "North Queensland Cowboys: 75% completion rate; Canberra Raiders: 78%.",
           "North Queensland Cowboys: 7 line breaks; Canberra Raiders: 8.",
           "North Queensland Cowboys: 12 errors; Canberra Raiders: 9.",
           "North Queensland Cowboys: 7 penalties conceded; Canberra Raiders: 6.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
           "Decisive score change: 10:10 — Canberra Raiders took the lead, 0–4."
         ],
         "score_flow": [
@@ -7669,6 +7806,38 @@
           "total_error": 32.28
         },
         "verdict": "Wrong",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "North Queensland Cowboys",
+            "actual": "Canberra Raiders",
+            "difference": "Different winner"
+          },
+          {
+            "label": "North Queensland Cowboys points",
+            "predicted": "24.8",
+            "actual": "30",
+            "difference": "+5.2 points (actual − predicted)"
+          },
+          {
+            "label": "Canberra Raiders points",
+            "predicted": "22.9",
+            "actual": "50",
+            "difference": "+27.1 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "47.7",
+            "actual": "80",
+            "difference": "+32.3 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "1.8",
+            "actual": "-20",
+            "difference": "-21.8 points (actual − predicted)"
+          }
+        ],
         "home_score": 30,
         "away_score": 50,
         "winner": "Canberra Raiders",
@@ -9487,11 +9656,13 @@
         ],
         "explanations": [
           "The locked pre-match pick was Cronulla-Sutherland Sharks; the winner prediction was wrong.",
+          "Cronulla-Sutherland Sharks scored 6.9 points fewer than forecast; Melbourne Storm scored 3.7 points more. Together those differences moved the home-minus-away margin by -10.7 points. The winner verdict and the score accuracy are assessed separately.",
           "The model projected Cronulla-Sutherland Sharks 26.9–20.3 Melbourne Storm. The signed margin missed by 10.66 points and the total by 3.22 points.",
           "Final possession was Cronulla-Sutherland Sharks 48% and Melbourne Storm 52%. This is the full-match split; it does not show when possession changed.",
           "Cronulla-Sutherland Sharks: 3 line breaks; Melbourne Storm: 5.",
           "Cronulla-Sutherland Sharks: 12 errors; Melbourne Storm: 14.",
           "Cronulla-Sutherland Sharks: 5 penalties conceded; Melbourne Storm: 8.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
           "Decisive score change: 79:56 — Melbourne Storm took the lead, 20–22."
         ],
         "score_flow": [
@@ -9600,6 +9771,38 @@
           "total_error": 3.22
         },
         "verdict": "Wrong",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Cronulla-Sutherland Sharks",
+            "actual": "Melbourne Storm",
+            "difference": "Different winner"
+          },
+          {
+            "label": "Cronulla-Sutherland Sharks points",
+            "predicted": "26.9",
+            "actual": "20",
+            "difference": "-6.9 points (actual − predicted)"
+          },
+          {
+            "label": "Melbourne Storm points",
+            "predicted": "20.3",
+            "actual": "24",
+            "difference": "+3.7 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "47.2",
+            "actual": "44",
+            "difference": "-3.2 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "6.7",
+            "actual": "-4",
+            "difference": "-10.7 points (actual − predicted)"
+          }
+        ],
         "home_score": 20,
         "away_score": 24,
         "winner": "Melbourne Storm",
@@ -11106,13 +11309,15 @@
         ],
         "explanations": [
           "The locked pre-match pick was Parramatta Eels; the winner prediction was wrong.",
-          "The model projected St. George Illawarra Dragons 21.0–25.2 Parramatta Eels. The signed margin missed by 6.19 points and the total by 0.13 points.",
+          "St. George Illawarra Dragons scored 3.0 points more than forecast; Parramatta Eels scored 3.2 points fewer. Together those differences moved the home-minus-away margin by +6.2 points. The winner verdict and the score accuracy are assessed separately.",
           "St. George Illawarra Dragons finished with a higher completion rate, fewer errors, fewer penalties conceded. These are match-level advantages consistent with the result; the event timeline shows the recorded scoring sequence.",
+          "The model projected St. George Illawarra Dragons 21.0–25.2 Parramatta Eels. The signed margin missed by 6.19 points and the total by 0.13 points.",
           "Final possession was St. George Illawarra Dragons 52% and Parramatta Eels 48%. This is the full-match split; it does not show when possession changed.",
           "St. George Illawarra Dragons: 87% completion rate; Parramatta Eels: 75%.",
           "St. George Illawarra Dragons: 5 line breaks; Parramatta Eels: 6.",
           "St. George Illawarra Dragons: 10 errors; Parramatta Eels: 12.",
           "St. George Illawarra Dragons: 4 penalties conceded; Parramatta Eels: 10.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
           "Decisive score change: 74:20 — St. George Illawarra Dragons took the lead, 24–22."
         ],
         "score_flow": [
@@ -11221,6 +11426,38 @@
           "total_error": 0.13
         },
         "verdict": "Wrong",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Parramatta Eels",
+            "actual": "St. George Illawarra Dragons",
+            "difference": "Different winner"
+          },
+          {
+            "label": "St. George Illawarra Dragons points",
+            "predicted": "21.0",
+            "actual": "24",
+            "difference": "+3.0 points (actual − predicted)"
+          },
+          {
+            "label": "Parramatta Eels points",
+            "predicted": "25.2",
+            "actual": "22",
+            "difference": "-3.2 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "46.1",
+            "actual": "46",
+            "difference": "-0.1 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "-4.2",
+            "actual": "2",
+            "difference": "+6.2 points (actual − predicted)"
+          }
+        ],
         "home_score": 24,
         "away_score": 22,
         "winner": "St. George Illawarra Dragons",
@@ -12896,13 +13133,15 @@
         ],
         "explanations": [
           "The locked pre-match pick was Penrith Panthers; the winner prediction was correct.",
-          "The model projected Penrith Panthers 27.8–14.8 Wests Tigers. The signed margin missed by 15.04 points and the total by 5.44 points.",
+          "Penrith Panthers scored 10.2 points more than forecast; Wests Tigers scored 4.8 points fewer. Together those differences moved the home-minus-away margin by +15.0 points. The winner verdict and the score accuracy are assessed separately.",
           "Penrith Panthers finished with a higher completion rate, fewer penalties conceded. These are match-level advantages consistent with the result; the event timeline shows the recorded scoring sequence.",
+          "The model projected Penrith Panthers 27.8–14.8 Wests Tigers. The signed margin missed by 15.04 points and the total by 5.44 points.",
           "Final possession was Penrith Panthers 52% and Wests Tigers 48%. This is the full-match split; it does not show when possession changed.",
           "Penrith Panthers: 85% completion rate; Wests Tigers: 82%.",
           "Penrith Panthers: 11 line breaks; Wests Tigers: 7.",
           "Penrith Panthers: 12 errors; Wests Tigers: 9.",
           "Penrith Panthers: 4 penalties conceded; Wests Tigers: 7.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
           "Decisive score change: 06:38 — Penrith Panthers took the lead, 4–0."
         ],
         "score_flow": [
@@ -13011,6 +13250,38 @@
           "total_error": 5.44
         },
         "verdict": "Correct",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Penrith Panthers",
+            "actual": "Penrith Panthers",
+            "difference": "Same winner"
+          },
+          {
+            "label": "Penrith Panthers points",
+            "predicted": "27.8",
+            "actual": "38",
+            "difference": "+10.2 points (actual − predicted)"
+          },
+          {
+            "label": "Wests Tigers points",
+            "predicted": "14.8",
+            "actual": "10",
+            "difference": "-4.8 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "42.6",
+            "actual": "48",
+            "difference": "+5.4 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "13.0",
+            "actual": "28",
+            "difference": "+15.0 points (actual − predicted)"
+          }
+        ],
         "home_score": 38,
         "away_score": 10,
         "winner": "Penrith Panthers",
@@ -13032,5 +13303,6 @@
       "result_state": "FullTime",
       "start_time": "2026-09-06T06:05:00Z"
     }
-  ]
+  ],
+  "analysis_generated_at": "2026-09-06T23:10:10.594356+00:00"
 }
