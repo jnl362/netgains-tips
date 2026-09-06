@@ -4,7 +4,7 @@ function matchStory(report){
 }
 function pairedStat(label,left,right,unit,maxValue){
   const maximum=maxValue||Math.max(Number(left)||0,Number(right)||0,1);
-  return `<article class="stat-visual"><h4>${esc(label)}</h4>${[left,right].map((v,i)=>`<div class="stat-bar-row"><div class="stat-bar-track"><i class="stat-bar-${i}" style="width:${v==null?0:Math.max(0,Math.min(100,Number(v)/maximum*100))}%"></i></div><b>${v==null?'—':esc(Number(v))+esc(unit)}</b></div>`).join('')}</article>`;
+  return `<article class="stat-visual"><h4>${esc(label)}</h4>${[left,right].map((v,i)=>`<div class="stat-bar-row"><div class="stat-bar-track"><i class="stat-bar-${i}" style="width:${v==null?0:Math.max(0,Math.min(100,Number(v)/maximum*100))}%"></i></div><b>${v==null?'—':esc(Number(Number(v).toFixed(1)))+esc(unit)}</b></div>`).join('')}</article>`;
 }
 function pointBars(report){
   const p=report.prediction;if(!p)return '';
