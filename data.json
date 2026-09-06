@@ -8,8 +8,8 @@
   ],
   "default_bookmaker": "Betcha",
   "round": 27,
-  "generated_at": "Sun 6 Sep 2026, 3:00 PM NZT",
-  "generated_at_iso": "2026-09-06T15:00:39.460131+12:00",
+  "generated_at": "Sun 6 Sep 2026, 3:10 PM NZT",
+  "generated_at_iso": "2026-09-06T15:10:41.093882+12:00",
   "engine_version": "1.66.29",
   "fixtures": [
     {
@@ -39,7 +39,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-06T03:00:03.554779+00:00"
+          "observed_at": "2026-09-06T03:10:05.032072+00:00"
         },
         "TAB NZ": {
           "home_h2h": 2.3,
@@ -51,7 +51,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-06T03:00:17.920675+00:00"
+          "observed_at": "2026-09-06T03:10:19.932194+00:00"
         },
         "Best Available": {
           "home_h2h": 2.3,
@@ -63,7 +63,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-06T03:00:17.920675+00:00",
+          "observed_at": "2026-09-06T03:10:19.932194+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -85,7 +85,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-06T03:00:03.554779+00:00",
+          "observed_at": "2026-09-06T03:10:05.032072+00:00",
           "home_cover_probability": 0.47757014230494066,
           "away_cover_probability": 0.5224298576950593,
           "over_probability": 0.2693428331340494,
@@ -105,7 +105,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-06T03:00:17.920675+00:00",
+          "observed_at": "2026-09-06T03:10:19.932194+00:00",
           "home_cover_probability": 0.2724989496512842,
           "away_cover_probability": 0.7275010503487158,
           "over_probability": 0.2693428331340494,
@@ -125,7 +125,7 @@
           "total": 56.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-06T03:00:17.920675+00:00",
+          "observed_at": "2026-09-06T03:10:19.932194+00:00",
           "home_cover_probability": 0.47757014230494066,
           "away_cover_probability": 0.5224298576950593,
           "over_probability": 0.2693428331340494,
@@ -180,7 +180,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 60,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-06T03:00:03.554779+00:00",
+      "bookmaker_observed_at": "2026-09-06T03:10:05.032072+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -216,72 +216,72 @@
           "team": "Parramatta Eels",
           "probability": 0.4894940221231305,
           "fair_odds": 2.0429258679454385,
-          "bookmaker_odds": 1.7,
+          "bookmaker_odds": 1.72,
           "bookmaker_prices": {
-            "Betcha": 1.7,
-            "TAB NZ": 1.7
+            "Betcha": 1.72,
+            "TAB NZ": 1.72
           },
-          "ev": -0.16786016239067825
+          "ev": -0.1580702819482156
         },
         {
           "player": "Tyrell Sloan",
           "team": "St. George Illawarra Dragons",
           "probability": 0.4437121401787741,
           "fair_odds": 2.253713408871559,
-          "bookmaker_odds": 1.77,
+          "bookmaker_odds": 1.8,
           "bookmaker_prices": {
-            "Betcha": 1.77,
-            "TAB NZ": 1.77
+            "Betcha": 1.8,
+            "TAB NZ": 1.8
           },
-          "ev": -0.21462951188356982
+          "ev": -0.20131814767820666
         },
         {
           "player": "Brian Kelly",
           "team": "Parramatta Eels",
           "probability": 0.3864743913798909,
           "fair_odds": 2.5874935631039904,
-          "bookmaker_odds": 1.82,
+          "bookmaker_odds": 1.85,
           "bookmaker_prices": {
-            "Betcha": 1.82,
-            "TAB NZ": 1.82
+            "Betcha": 1.85,
+            "TAB NZ": 1.85
           },
-          "ev": -0.29661660768859854
+          "ev": -0.2850223759472017
         },
         {
           "player": "Apa Twidle",
           "team": "Parramatta Eels",
           "probability": 0.3748076199615643,
           "fair_odds": 2.668035404676532,
-          "bookmaker_odds": 2.8,
+          "bookmaker_odds": 3.25,
           "bookmaker_prices": {
-            "Betcha": 2.8,
-            "TAB NZ": 2.8
+            "Betcha": 3.25,
+            "TAB NZ": 3.25
           },
-          "ev": 0.04946133589238011
+          "ev": 0.21812476487508392
         },
         {
           "player": "Mathew Feagai",
           "team": "St. George Illawarra Dragons",
           "probability": 0.3717485595000485,
           "fair_odds": 2.6899902486370486,
-          "bookmaker_odds": 1.92,
+          "bookmaker_odds": 1.96,
           "bookmaker_prices": {
-            "Betcha": 1.92,
-            "TAB NZ": 1.92
+            "Betcha": 1.96,
+            "TAB NZ": 1.96
           },
-          "ev": -0.2862427657599069
+          "ev": -0.271372823379905
         },
         {
           "player": "Valentine Holmes",
           "team": "St. George Illawarra Dragons",
           "probability": 0.3676448410168321,
           "fair_odds": 2.7200164083200518,
-          "bookmaker_odds": 2.1,
+          "bookmaker_odds": 2.15,
           "bookmaker_prices": {
-            "Betcha": 2.1,
-            "TAB NZ": 2.1
+            "Betcha": 2.15,
+            "TAB NZ": 2.15
           },
-          "ev": -0.2279458338646526
+          "ev": -0.209563591813811
         },
         {
           "player": "Will Penisini",
@@ -312,48 +312,48 @@
           "team": "Parramatta Eels",
           "probability": 0.25768907419062465,
           "fair_odds": 3.8806457089455537,
-          "bookmaker_odds": 2.8,
+          "bookmaker_odds": 2.85,
           "bookmaker_prices": {
-            "Betcha": 2.8,
-            "TAB NZ": 2.8
+            "Betcha": 2.85,
+            "TAB NZ": 2.85
           },
-          "ev": -0.27847059226625104
+          "ev": -0.26558613855671975
         },
         {
           "player": "Moses Suli",
           "team": "St. George Illawarra Dragons",
           "probability": 0.23684219496193218,
           "fair_odds": 4.222220623148383,
-          "bookmaker_odds": 2.75,
+          "bookmaker_odds": 2.8,
           "bookmaker_prices": {
-            "Betcha": 2.75,
-            "TAB NZ": 2.75
+            "Betcha": 2.8,
+            "TAB NZ": 2.8
           },
-          "ev": -0.3486839638546865
+          "ev": -0.33684185410658996
         },
         {
           "player": "Daniel Atkinson",
           "team": "St. George Illawarra Dragons",
           "probability": 0.23448518229748946,
           "fair_odds": 4.264661801662623,
-          "bookmaker_odds": 2.75,
+          "bookmaker_odds": 2.85,
           "bookmaker_prices": {
-            "Betcha": 2.75,
-            "TAB NZ": 2.75
+            "Betcha": 2.85,
+            "TAB NZ": 2.85
           },
-          "ev": -0.355165748681904
+          "ev": -0.33171723045215495
         },
         {
           "player": "Tallyn Da Silva",
           "team": "Parramatta Eels",
           "probability": 0.22403079994523317,
           "fair_odds": 4.463671960482492,
-          "bookmaker_odds": 2.6,
+          "bookmaker_odds": 2.65,
           "bookmaker_prices": {
-            "Betcha": 2.6,
-            "TAB NZ": 2.6
+            "Betcha": 2.65,
+            "TAB NZ": 2.65
           },
-          "ev": -0.4175199201423937
+          "ev": -0.4063183801451321
         },
         {
           "player": "Dylan Walker",
@@ -361,10 +361,7 @@
           "probability": 0.22326415469817948,
           "fair_odds": 4.478999333107699,
           "bookmaker_odds": 6.75,
-          "bookmaker_prices": {
-            "Betcha": 6.75,
-            "TAB NZ": 6.75
-          },
+          "bookmaker_prices": {},
           "ev": 0.5070330442127116
         },
         {
@@ -372,60 +369,60 @@
           "team": "Parramatta Eels",
           "probability": 0.21896258186544193,
           "fair_odds": 4.566990357350305,
-          "bookmaker_odds": 3.05,
+          "bookmaker_odds": 3.15,
           "bookmaker_prices": {
-            "Betcha": 3.05,
-            "TAB NZ": 3.05
+            "Betcha": 3.15,
+            "TAB NZ": 3.15
           },
-          "ev": -0.3321641253104022
+          "ev": -0.3102678671238579
         },
         {
           "player": "Kitione Kautoga",
           "team": "Parramatta Eels",
           "probability": 0.20607536058775808,
           "fair_odds": 4.852593716919135,
-          "bookmaker_odds": 4.4,
+          "bookmaker_odds": 4.5,
           "bookmaker_prices": {
-            "Betcha": 4.4,
-            "TAB NZ": 4.4
+            "Betcha": 4.5,
+            "TAB NZ": 4.5
           },
-          "ev": -0.09326841341386438
+          "ev": -0.07266087735508864
         },
         {
           "player": "Jack Williams",
           "team": "Parramatta Eels",
           "probability": 0.17704801518936158,
           "fair_odds": 5.648185318149151,
-          "bookmaker_odds": 3.6,
+          "bookmaker_odds": 3.75,
           "bookmaker_prices": {
-            "Betcha": 3.6,
-            "TAB NZ": 3.6
+            "Betcha": 3.75,
+            "TAB NZ": 3.75
           },
-          "ev": -0.3626271453182983
+          "ev": -0.336069943039894
         },
         {
           "player": "Dylan Egan",
           "team": "St. George Illawarra Dragons",
           "probability": 0.16364089907679774,
           "fair_odds": 6.110941736702959,
-          "bookmaker_odds": 3.75,
+          "bookmaker_odds": 3.9,
           "bookmaker_prices": {
-            "Betcha": 3.75,
-            "TAB NZ": 3.75
+            "Betcha": 3.9,
+            "TAB NZ": 3.9
           },
-          "ev": -0.3863466284620085
+          "ev": -0.3618004936004888
         },
         {
           "player": "Hamish Stewart",
           "team": "St. George Illawarra Dragons",
           "probability": 0.14623362896621725,
           "fair_odds": 6.838372316062943,
-          "bookmaker_odds": 2.9,
+          "bookmaker_odds": 3.0,
           "bookmaker_prices": {
-            "Betcha": 2.9,
-            "TAB NZ": 2.9
+            "Betcha": 3.0,
+            "TAB NZ": 3.0
           },
-          "ev": -0.57592247599797
+          "ev": -0.5612991131013483
         },
         {
           "player": "Damien Cook",
@@ -444,36 +441,36 @@
           "team": "St. George Illawarra Dragons",
           "probability": 0.12225733676449878,
           "fair_odds": 8.179468214053074,
-          "bookmaker_odds": 4.4,
+          "bookmaker_odds": 4.5,
           "bookmaker_prices": {
-            "Betcha": 4.4,
-            "TAB NZ": 4.4
+            "Betcha": 4.5,
+            "TAB NZ": 4.5
           },
-          "ev": -0.4620677182362053
+          "ev": -0.44984198455975555
         },
         {
           "player": "Lyhkan King-Togia",
           "team": "St. George Illawarra Dragons",
           "probability": 0.10875098726913583,
           "fair_odds": 9.195318820648591,
-          "bookmaker_odds": 4.0,
+          "bookmaker_odds": 4.1,
           "bookmaker_prices": {
-            "Betcha": 4.0,
-            "TAB NZ": 4.0
+            "Betcha": 4.1,
+            "TAB NZ": 4.1
           },
-          "ev": -0.5649960509234566
+          "ev": -0.5541209521965431
         },
         {
           "player": "Saxon Pryke",
           "team": "Parramatta Eels",
           "probability": 0.1048485884669064,
           "fair_odds": 9.53756282866538,
-          "bookmaker_odds": 6.4,
+          "bookmaker_odds": 6.5,
           "bookmaker_prices": {
-            "Betcha": 6.4,
-            "TAB NZ": 6.4
+            "Betcha": 6.5,
+            "TAB NZ": 6.5
           },
-          "ev": -0.328969033811799
+          "ev": -0.3184841749651084
         },
         {
           "player": "Jack De Belin",
@@ -504,48 +501,48 @@
           "team": "Parramatta Eels",
           "probability": 0.08971109466977453,
           "fair_odds": 11.146893298771886,
-          "bookmaker_odds": 8.5,
+          "bookmaker_odds": 8.75,
           "bookmaker_prices": {
-            "Betcha": 8.5,
-            "TAB NZ": 8.5
+            "Betcha": 8.75,
+            "TAB NZ": 8.75
           },
-          "ev": -0.23745569530691646
+          "ev": -0.21502792163947282
         },
         {
           "player": "Junior Paulo",
           "team": "Parramatta Eels",
           "probability": 0.08732084623649118,
           "fair_odds": 11.452019112271294,
-          "bookmaker_odds": 6.5,
+          "bookmaker_odds": 6.75,
           "bookmaker_prices": {
-            "Betcha": 6.5,
-            "TAB NZ": 6.5
+            "Betcha": 6.75,
+            "TAB NZ": 6.75
           },
-          "ev": -0.4324144994628073
+          "ev": -0.4105842879036845
         },
         {
           "player": "Toby Couchman",
           "team": "St. George Illawarra Dragons",
           "probability": 0.08142407039913721,
           "fair_odds": 12.281380617525555,
-          "bookmaker_odds": 6.25,
+          "bookmaker_odds": 6.4,
           "bookmaker_prices": {
-            "Betcha": 6.25,
-            "TAB NZ": 6.25
+            "Betcha": 6.4,
+            "TAB NZ": 6.4
           },
-          "ev": -0.49109956000539245
+          "ev": -0.4788859494455219
         },
         {
           "player": "Connor Muhleisen",
           "team": "St. George Illawarra Dragons",
           "probability": 0.07783984012798525,
           "fair_odds": 12.846891750494185,
-          "bookmaker_odds": 5.4,
+          "bookmaker_odds": 5.5,
           "bookmaker_prices": {
-            "Betcha": 5.4,
-            "TAB NZ": 5.4
+            "Betcha": 5.5,
+            "TAB NZ": 5.5
           },
-          "ev": -0.5796648633088797
+          "ev": -0.5718808792960811
         },
         {
           "player": "Teancum Brown",
@@ -564,67 +561,67 @@
           "team": "Parramatta Eels",
           "probability": 0.07038420877314101,
           "fair_odds": 14.207732351203262,
-          "bookmaker_odds": 7.75,
+          "bookmaker_odds": 8.0,
           "bookmaker_prices": {
-            "Betcha": 7.75,
-            "TAB NZ": 7.75
+            "Betcha": 8.0,
+            "TAB NZ": 8.0
           },
-          "ev": -0.4545223820081572
+          "ev": -0.4369263298148719
         },
         {
           "player": "Josh Kerr",
           "team": "St. George Illawarra Dragons",
           "probability": 0.06932490771840052,
           "fair_odds": 14.42482987589431,
-          "bookmaker_odds": 9.75,
+          "bookmaker_odds": 10.0,
           "bookmaker_prices": {
-            "Betcha": 9.75,
-            "TAB NZ": 9.75
+            "Betcha": 10.0,
+            "TAB NZ": 10.0
           },
-          "ev": -0.3240821497455949
+          "ev": -0.3067509228159948
         },
         {
           "player": "Blake Lawrie",
           "team": "St. George Illawarra Dragons",
           "probability": 0.060528818551421656,
           "fair_odds": 16.521055985100055,
-          "bookmaker_odds": 9.25,
+          "bookmaker_odds": 9.5,
           "bookmaker_prices": {
-            "Betcha": 9.25,
-            "TAB NZ": 9.25
+            "Betcha": 9.5,
+            "TAB NZ": 9.5
           },
-          "ev": -0.4401084283993497
+          "ev": -0.42497622376149424
         },
         {
           "player": "Ryan Couchman",
           "team": "St. George Illawarra Dragons",
           "probability": 0.05859945226160716,
           "fair_odds": 17.06500592421363,
-          "bookmaker_odds": 8.75,
+          "bookmaker_odds": 9.0,
           "bookmaker_prices": {
-            "Betcha": 8.75,
-            "TAB NZ": 8.75
+            "Betcha": 9.0,
+            "TAB NZ": 9.0
           },
-          "ev": -0.4872547927109373
+          "ev": -0.4726049296455356
         },
         {
           "player": "Jacob Halangahu",
           "team": "St. George Illawarra Dragons",
           "probability": 0.05121297214443291,
           "fair_odds": 19.52630277305053,
-          "bookmaker_odds": 8.75,
+          "bookmaker_odds": 9.0,
           "bookmaker_prices": {
-            "Betcha": 8.75,
-            "TAB NZ": 8.75
+            "Betcha": 9.0,
+            "TAB NZ": 9.0
           },
-          "ev": -0.551886493736212
+          "ev": -0.5390832507001038
         }
       ],
       "safe_bet": {
         "available": true,
         "probability": 0.21568,
         "fair_odds": 4.636498516320475,
-        "singles_product_odds": 3.009,
+        "singles_product_odds": 3.096,
         "target_met": false,
         "legs": [
           {
@@ -632,14 +629,14 @@
             "team": "Parramatta Eels",
             "probability": 0.4894940221231305,
             "fair_odds": 2.0429258679454385,
-            "market_odds": 1.7
+            "market_odds": 1.72
           },
           {
             "player": "Tyrell Sloan",
             "team": "St. George Illawarra Dragons",
             "probability": 0.4437121401787741,
             "fair_odds": 2.253713408871559,
-            "market_odds": 1.77
+            "market_odds": 1.8
           }
         ],
         "method": "Highest simulated joint hit probability"
@@ -673,7 +670,7 @@
           "total": 48.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-09-06T03:00:11.703546+00:00"
+          "observed_at": "2026-09-06T03:10:13.653262+00:00"
         },
         "TAB NZ": {
           "home_h2h": 1.08,
@@ -685,7 +682,7 @@
           "total": 48.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-09-06T03:00:18.081398+00:00"
+          "observed_at": "2026-09-06T03:10:20.093551+00:00"
         },
         "Best Available": {
           "home_h2h": 1.08,
@@ -697,7 +694,7 @@
           "total": 48.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-09-06T03:00:18.081398+00:00",
+          "observed_at": "2026-09-06T03:10:20.093551+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -719,7 +716,7 @@
           "total": 48.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-09-06T03:00:11.703546+00:00",
+          "observed_at": "2026-09-06T03:10:13.653262+00:00",
           "home_cover_probability": 0.31916696847577963,
           "away_cover_probability": 0.6808330315242204,
           "over_probability": 0.33374409917920245,
@@ -739,7 +736,7 @@
           "total": 48.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-09-06T03:00:18.081398+00:00",
+          "observed_at": "2026-09-06T03:10:20.093551+00:00",
           "home_cover_probability": 0.9904111727881154,
           "away_cover_probability": 0.009588827211884587,
           "over_probability": 0.33374409917920245,
@@ -759,7 +756,7 @@
           "total": 48.5,
           "over_odds": 1.85,
           "under_odds": 1.9,
-          "observed_at": "2026-09-06T03:00:18.081398+00:00",
+          "observed_at": "2026-09-06T03:10:20.093551+00:00",
           "home_cover_probability": 0.31916696847577963,
           "away_cover_probability": 0.6808330315242204,
           "over_probability": 0.33374409917920245,
@@ -814,7 +811,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 81,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-06T03:00:11.703546+00:00",
+      "bookmaker_observed_at": "2026-09-06T03:10:13.653262+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
