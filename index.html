@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#07120f">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <title>NetGains — NRL Betting Analyst</title>
-  <link rel="stylesheet" href="./app.css">
+  <link rel="stylesheet" href="./app.css?v=16630">
 </head>
 <body>
   <main class="shell">
@@ -18,8 +18,8 @@
     <section class="view active" id="homeView">
       <div class="hero"><article class="hero-card"><div class="kicker">NetGains model centre</div><h1>See the game differently.</h1><p>Match projections, Anytime Try Scorer probabilities and market edges—presented the same way as the NetGains app.</p></article><article class="stat-card calibration"><strong>97.8%</strong><small>ATS probability calibration across the validated historical sample.</small></article></div>
       <div class="stat-grid" id="homeStats"><article class="stat-card skeleton"><small>UPCOMING</small><b>—</b></article><article class="stat-card skeleton"><small>TOP ATS</small><b>—</b></article><article class="stat-card skeleton"><small>STRONG FAVOURITES</small><b>—</b></article><article class="stat-card skeleton"><small>ENGINE</small><b>—</b></article></div>
-      <div class="section-head"><div><h2>Featured matches</h2><p>Tap a match for the full app-style projection.</p></div><button class="text-btn" data-go="matches">View all</button></div><div class="featured" id="featured"></div>
-      <div class="section-head"><div><h2>Top ATS right now</h2><p>Highest model scoring probabilities.</p></div><button class="text-btn" data-go="ats">Full rankings</button></div><div class="ats-list" id="homeAts"></div>
+      <div class="section-head"><div><h2>Upcoming matches</h2><p>Tap a match for its forecast.</p></div><button class="text-btn" data-go="matches">View all</button></div><div class="featured" id="featured"></div>
+      <div class="section-head"><div><h2>Top ATS right now</h2><p>Highest model scoring probabilities.</p></div><button class="text-btn" data-go="ats">Full rankings</button></div><div class="ats-list" id="homeAts"></div><section id="completedSection" hidden><div class="section-head"><div><h2>Completed matches</h2><p>Final results and the story behind each prediction.</p></div></div><div class="featured" id="completedMatches"></div></section>
     </section>
     <section class="view" id="matchesView"><div class="section-head"><div><h2>Matches</h2><p id="matchRound">Upcoming NRL fixtures</p></div></div><div class="filters" id="matchFilters"><button class="filter active" data-filter="all">All matches</button><button class="filter" data-filter="strong">Strong favourites</button><button class="filter" data-filter="close">Close games</button></div><div class="match-list" id="matchList"></div></section>
     <section class="view" id="atsView"><div class="section-head"><div><h2>Anytime Try Scorers</h2><p>Model probability, fair price and team.</p></div></div><div class="filters"><button class="filter active" data-ats-count="10">Top 10</button><button class="filter" data-ats-count="25">Top 25</button><button class="filter" data-ats-count="999">All players</button></div><div class="ats-list" id="atsList"></div></section>
@@ -28,6 +28,6 @@
   </main>
   <nav class="nav" aria-label="Main navigation"><button class="active" data-view="home"><span>⌂</span>Home</button><button data-view="matches"><span>▣</span>Matches</button><button data-view="ats"><span>◎</span>ATS</button><button data-view="markets"><span>↗</span>Markets</button><button data-view="model"><span>◇</span>Model</button></nav>
   <div class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="Match projection"><div class="drawer-card"><div class="grab"></div><div id="drawerContent"></div></div></div>
-  <script src="./app.js"></script>
+  <script src="./analysis.js?v=16630"></script><script src="./app.js?v=16630"></script>
 </body>
 </html>

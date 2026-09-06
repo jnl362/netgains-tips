@@ -1,9 +1,10 @@
 const state={data:null,view:'home',matchFilter:'all',atsCount:10,bookmaker:localStorage.getItem('netgains-bookmaker')||null};
 const $=(s,p=document)=>p.querySelector(s), $$=(s,p=document)=>[...p.querySelectorAll(s)];
-const pct=v=>v==null?'—':`${(v*100).toFixed(1)}%`, odds=v=>v==null?'—':`$${Number(v).toFixed(2)}`, num=(v,d=1)=>v==null?'—':Number(v).toFixed(d);
+const finite=v=>v!=null&&Number.isFinite(Number(v));
+const pct=v=>!finite(v)?'—':`${(v*100).toFixed(1)}%`, odds=v=>!finite(v)?'—':`$${Number(v).toFixed(2)}`, num=(v,d=1)=>!finite(v)?'—':Number(v).toFixed(d);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const topPlayers=()=>state.data.fixtures.flatMap(f=>(f.ats_players||[]).map(p=>({...p,match:`${f.home_team} vs ${f.away_team}`}))).sort((a,b)=>b.probability-a.probability);
-const favourite=f=>f.home_win_probability>=f.away_win_probability?{team:f.home_team,p:f.home_win_probability}:{team:f.away_team,p:f.away_win_probability};
+const topPlayers=()=>upcomingFixtures().flatMap(f=>(f.ats_players||[]).map(p=>({...p,match:`${f.home_team} vs ${f.away_team}`}))).sort((a,b)=>b.probability-a.probability);
+const favourite=f=>!finite(f.home_win_probability)||!finite(f.away_win_probability)?{team:'Forecast unavailable',p:null}:f.home_win_probability>=f.away_win_probability?{team:f.home_team,p:f.home_win_probability}:{team:f.away_team,p:f.away_win_probability};
 const currentBook=()=>state.bookmaker||state.data?.default_bookmaker||'Betcha';
 const marketView=f=>{
   const name=currentBook(),prices=f.bookmaker_prices?.[name]||{},view=f.bookmaker_views?.[name]||{};
@@ -14,9 +15,18 @@ const signedPct=v=>v==null?'—':`${v>=0?'+':''}${(v*100).toFixed(1)}%`;
 const sameNumber=(a,b)=>a!=null&&b!=null&&Math.abs(Number(a)-Number(b))<.001;
 const atsBookOdds=p=>p.bookmaker_prices?.[currentBook()]??(currentBook()===state.data?.default_bookmaker?p.bookmaker_odds:null);
 
+const isCompleted=f=>f.status==='completed';
+const upcomingFixtures=()=> (state.data?.fixtures||[]).filter(f=>!isCompleted(f));
+const completedFixtures=()=> (state.data?.fixtures||[]).filter(isCompleted).sort((a,b)=>String(b.start_time||'').localeCompare(String(a.start_time||'')));
+const scoreValue=v=>v==null?'—':esc(Number.isFinite(Number(v))?v:'—');
+function completedCard(f){
+  const r=f.analysis;
+  return `<article class="match-card completed-card" data-match="${esc(f.match_id)}" tabindex="0" role="button" aria-label="View analysis: ${esc(f.home_team)} versus ${esc(f.away_team)}"><div class="match-top"><span>FULL TIME · ${esc(f.kickoff)}</span><span>${esc(f.venue)}</span></div><div class="teams"><div class="team"><b>${esc(f.home_team)}</b></div><div class="score"><b>${scoreValue(f.home_score)}–${scoreValue(f.away_score)}</b><small>FINAL</small></div><div class="team"><b>${esc(f.away_team)}</b></div></div><div class="chips"><span class="chip">${esc(f.winner||'Result available')}</span><span class="chip">${r?.prediction?esc(r.verdict)+' winner pick':'Prediction not graded'}</span></div><div class="analysis-link">View match analysis →</div></article>`;
+}
 function matchCard(f){
+  if(isCompleted(f))return completedCard(f);
   const fav=favourite(f),safe=f.safe_bet?.available?f.safe_bet:null;
-  return `<article class="match-card" data-match="${f.match_id}" tabindex="0"><div class="match-top"><span>${esc(f.kickoff)}</span><span>${esc(f.venue)}</span></div><div class="teams"><div class="team"><b>${esc(f.home_team)}</b><span>${pct(f.home_win_probability)}</span></div><div class="score"><b>${f.likely_home_points}–${f.likely_away_points}</b><small>PROJECTED</small></div><div class="team"><b>${esc(f.away_team)}</b><span>${pct(f.away_win_probability)}</span></div></div><div class="prob-track"><i style="width:${f.home_win_probability*100}%"></i><i style="width:${f.away_win_probability*100}%"></i></div><div class="chips"><span class="chip">Favourite <b>${esc(fav.team)}</b></span><span class="chip">Margin <b>${num(f.projected_margin)}</b></span><span class="chip">Total <b>${num(f.projected_total)}</b></span></div>${safe?`<div class="pick"><small>SAFEST ATS COMBINATION</small><b>${safe.legs.map(x=>esc(x.player)).join(' + ')}</b><span>${pct(safe.probability)} joint hit probability</span></div>`:''}</article>`;
+  return `<article class="match-card" data-match="${f.match_id}" tabindex="0"><div class="match-top"><span>${esc(f.kickoff)}</span><span>${esc(f.venue)}</span></div><div class="teams"><div class="team"><b>${esc(f.home_team)}</b><span>${pct(f.home_win_probability)}</span></div><div class="score"><b>${scoreValue(f.likely_home_points)}–${scoreValue(f.likely_away_points)}</b><small>PROJECTED</small></div><div class="team"><b>${esc(f.away_team)}</b><span>${pct(f.away_win_probability)}</span></div></div><div class="prob-track"><i style="width:${finite(f.home_win_probability)?Math.max(0,Math.min(100,f.home_win_probability*100)):0}%"></i><i style="width:${finite(f.away_win_probability)?Math.max(0,Math.min(100,f.away_win_probability*100)):0}%"></i></div><div class="chips"><span class="chip">Favourite <b>${esc(fav.team)}</b></span><span class="chip">Margin <b>${num(f.projected_margin)}</b></span><span class="chip">Total <b>${num(f.projected_total)}</b></span></div>${safe?`<div class="pick"><small>SAFEST ATS COMBINATION</small><b>${safe.legs.map(x=>esc(x.player)).join(' + ')}</b><span>${pct(safe.probability)} joint hit probability</span></div>`:''}</article>`;
 }
 
 function atsRows(players,count=10){
@@ -30,13 +40,16 @@ function marketCard(f){
 }
 
 function render(){
-  const d=state.data,fixtures=d.fixtures||[],players=topPlayers(),strong=fixtures.filter(f=>favourite(f).p>=.68).length;
+  const d=state.data,fixtures=upcomingFixtures(),players=topPlayers(),strong=fixtures.filter(f=>favourite(f).p>=.68).length;
   configureBookmakerSelector();
   $('#roundPill').textContent=`Round ${d.round}`;
   $('#matchRound').textContent=`Round ${d.round} · ${fixtures.length} upcoming fixtures`;
   $('#updated').textContent=`Live model · Updated ${d.generated_at}`;
   $('#homeStats').innerHTML=`<article class="stat-card"><small>UPCOMING</small><b>${fixtures.length} matches</b></article><article class="stat-card"><small>TOP ATS</small><b class="good">${players[0]?pct(players[0].probability):'—'}</b></article><article class="stat-card"><small>STRONG FAVOURITES</small><b>${strong}</b></article><article class="stat-card"><small>ENGINE</small><b>v${esc(d.engine_version)}</b></article>`;
-  $('#featured').innerHTML=fixtures.slice(0,4).map(matchCard).join('');
+  $('#featured').innerHTML=fixtures.map(matchCard).join('')||'<div class="empty">No upcoming matches in this round.</div>';
+  const finished=completedFixtures();
+  $('#completedSection').hidden=!finished.length;
+  $('#completedMatches').innerHTML=finished.map(completedCard).join('');
   $('#homeAts').innerHTML=atsRows(players,5);
   renderMatches();
   $('#atsList').innerHTML=atsRows(players,state.atsCount);
@@ -46,16 +59,18 @@ function render(){
 }
 
 function renderMatches(){
-  const fixtures=state.data.fixtures.filter(f=>state.matchFilter==='strong'?favourite(f).p>=.68:state.matchFilter==='close'?f.close_game_probability>=.45:true);
-  $('#matchList').innerHTML=fixtures.map(f=>`<article class="list-row" data-match="${f.match_id}" tabindex="0"><div><div class="list-meta">${esc(f.kickoff)} · ${esc(f.venue)}</div><div class="list-teams">${esc(f.home_team)}<span>vs</span>${esc(f.away_team)}</div></div><div class="list-score"><b>${f.likely_home_points}–${f.likely_away_points}</b><small>${pct(Math.max(f.home_win_probability,f.away_win_probability))} favourite</small></div></article>`).join('')||'<div class="empty">No matches fit this filter.</div>';
+  const fixtures=upcomingFixtures().filter(f=>state.matchFilter==='strong'?favourite(f).p>=.68:state.matchFilter==='close'?f.close_game_probability>=.45:true);
+  $('#matchList').innerHTML=fixtures.map(f=>`<article class="list-row" data-match="${f.match_id}" tabindex="0"><div><div class="list-meta">${esc(f.kickoff)} · ${esc(f.venue)}</div><div class="list-teams">${esc(f.home_team)}<span>vs</span>${esc(f.away_team)}</div></div><div class="list-score"><b>${scoreValue(f.likely_home_points)}–${scoreValue(f.likely_away_points)}</b><small>${pct(Math.max(f.home_win_probability,f.away_win_probability))} favourite</small></div></article>`).join('')||'<div class="empty">No matches fit this filter.</div>';
+  if(state.matchFilter==='all')$('#matchList').innerHTML+=completedFixtures().map(completedCard).join('');
   bindMatchOpen();
 }
 
 function showMatch(id){
   const f=state.data.fixtures.find(x=>String(x.match_id)===String(id)); if(!f)return;
+  if(isCompleted(f)){showAnalysis(f);return;}
   const fav=favourite(f),players=f.ats_players||[],ctx=f.context_effects||{},b=marketView(f);
   const hp=b.home_cover_probability??(sameNumber(b.home_line,f.market_line)?f.home_cover_probability:null),ap=b.away_cover_probability??(sameNumber(b.away_line,f.away_line)?f.away_cover_probability:null),op=b.over_probability??(sameNumber(b.total,f.market_total)?f.over_probability:null),up=b.under_probability??(sameNumber(b.total,f.market_total)?f.under_probability:null);
-  $('#drawerContent').innerHTML=`<div class="drawer-head"><div><div class="kicker">${esc(f.kickoff)} · ${esc(f.venue)}</div><h2>${esc(f.home_team)} vs ${esc(f.away_team)}</h2><div class="subtitle">${esc(b.name)} markets · model v${esc(state.data.engine_version)}</div></div><button class="close" aria-label="Close match">×</button></div><div class="projection"><div><small>${esc(f.home_team)}</small><strong>${pct(f.home_win_probability)}</strong></div><div class="score">${f.likely_home_points}–${f.likely_away_points}</div><div><small>${esc(f.away_team)}</small><strong>${pct(f.away_win_probability)}</strong></div></div><div class="tabs"><button class="active" data-detail="overview">Overview</button><button data-detail="ats">ATS</button><button data-detail="markets">Markets</button><button data-detail="model">Model detail</button></div>
+  $('#drawerContent').innerHTML=`<div class="drawer-head"><div><div class="kicker">${esc(f.kickoff)} · ${esc(f.venue)}</div><h2>${esc(f.home_team)} vs ${esc(f.away_team)}</h2><div class="subtitle">${esc(b.name)} markets · model v${esc(state.data.engine_version)}</div></div><button class="close" aria-label="Close match">×</button></div><div class="projection"><div><small>${esc(f.home_team)}</small><strong>${pct(f.home_win_probability)}</strong></div><div class="score">${scoreValue(f.likely_home_points)}–${scoreValue(f.likely_away_points)}</div><div><small>${esc(f.away_team)}</small><strong>${pct(f.away_win_probability)}</strong></div></div><div class="tabs"><button class="active" data-detail="overview">Overview</button><button data-detail="ats">ATS</button><button data-detail="markets">Markets</button><button data-detail="model">Model detail</button></div>
   <section class="detail-section active" data-section="overview"><div class="detail-grid"><div class="detail-box"><small>MODEL FAVOURITE</small><b>${esc(fav.team)} · ${pct(fav.p)}</b></div><div class="detail-box"><small>PROJECTED MARGIN</small><b>${num(f.projected_margin)} points</b></div><div class="detail-box"><small>PROJECTED TOTAL</small><b>${num(f.projected_total)} points</b></div><div class="detail-box"><small>PREDICTION STRENGTH</small><b>${num(f.prediction_strength_score,0)}/100</b></div><div class="detail-box"><small>FAVOURITE 1–12</small><b>${pct(f.fav_1_12_probability)}</b></div><div class="detail-box"><small>FAVOURITE 13+</small><b>${pct(f.fav_13_plus_probability)}</b></div></div>${f.safe_bet?.available?`<div class="pick"><small>SAFEST ATS COMBINATION</small><b>${f.safe_bet.legs.map(x=>esc(x.player)).join(' + ')}</b><span>${pct(f.safe_bet.probability)} joint hit · Fair ${odds(f.safe_bet.fair_odds)}</span></div>`:''}</section>
   <section class="detail-section" data-section="ats"><div class="ats-list">${atsRows(players,999)}</div></section>
   <section class="detail-section" data-section="markets"><div class="detail-grid"><div class="detail-box"><small>${esc(f.home_team)} H2H · ${esc(b.name)}</small><b>${pct(f.home_win_probability)} model · ${odds(b.home_h2h)} book · ${signedPct(priceEV(f.home_win_probability,b.home_h2h))} EV</b></div><div class="detail-box"><small>${esc(f.away_team)} H2H · ${esc(b.name)}</small><b>${pct(f.away_win_probability)} model · ${odds(b.away_h2h)} book · ${signedPct(priceEV(f.away_win_probability,b.away_h2h))} EV</b></div><div class="detail-box"><small>${esc(f.home_team)} LINE · ${esc(b.name)}</small><b>${b.home_line==null?'Unavailable':`${Number(b.home_line)>=0?'+':''}${num(b.home_line)} @ ${odds(b.home_line_odds)} · ${pct(hp)}`}</b></div><div class="detail-box"><small>${esc(f.away_team)} LINE · ${esc(b.name)}</small><b>${b.away_line==null?'Unavailable':`${Number(b.away_line)>=0?'+':''}${num(b.away_line)} @ ${odds(b.away_line_odds)} · ${pct(ap)}`}</b></div><div class="detail-box"><small>OVER · ${esc(b.name)}</small><b>${b.total==null?'Unavailable':`${num(b.total)} @ ${odds(b.over_odds)} · ${pct(op)}`}</b></div><div class="detail-box"><small>UNDER · ${esc(b.name)}</small><b>${b.total==null?'Unavailable':`${num(b.total)} @ ${odds(b.under_odds)} · ${pct(up)}`}</b></div></div></section>
@@ -64,7 +79,7 @@ function showMatch(id){
   $$('[data-detail]').forEach(button=>button.onclick=()=>{$$('[data-detail]').forEach(x=>x.classList.toggle('active',x===button));$$('[data-section]').forEach(x=>x.classList.toggle('active',x.dataset.section===button.dataset.detail));});
 }
 
-function closeDrawer(){$('#drawer').classList.remove('open');document.body.style.overflow='';}
+function closeDrawer(){const url=new URL(location.href);url.searchParams.delete('match');history.replaceState(null,'',url);$('#drawer').classList.remove('open');$('#drawer').removeAttribute('aria-labelledby');$('#drawer').onkeydown=null;document.body.style.overflow='';}
 function bindMatchOpen(){$$('[data-match]').forEach(el=>{el.onclick=()=>showMatch(el.dataset.match);el.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();showMatch(el.dataset.match);}};});}
 function go(view){state.view=view;$$('.view').forEach(v=>v.classList.toggle('active',v.id===`${view}View`));$$('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.view===view));scrollTo({top:0,behavior:'smooth'});}
 function configureBookmakerSelector(){
@@ -77,7 +92,7 @@ function configureBookmakerSelector(){
 
 async function loadData(){
   const btn=$('#refreshBtn'); btn.classList.add('spinning');
-  try{const response=await fetch(`./data.json?v=${Date.now()}`,{cache:'no-store'});if(!response.ok)throw Error(`HTTP ${response.status}`);state.data=await response.json();configureBookmakerSelector();localStorage.setItem('netgains-bookmaker',state.bookmaker);render();}
+  try{const response=await fetch(`./data.json?v=${Date.now()}`,{cache:'no-store'});if(!response.ok)throw Error(`HTTP ${response.status}`);state.data=await response.json();configureBookmakerSelector();localStorage.setItem('netgains-bookmaker',state.bookmaker);render();const selected=new URL(location.href).searchParams.get('match');if(selected)showMatch(selected);}
   catch(error){$('#updated').textContent='Could not load the latest model data';$('#featured').innerHTML='<div class="error">Refresh the page to try again.</div>';}
   finally{btn.classList.remove('spinning');}
 }
