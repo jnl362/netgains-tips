@@ -14,3 +14,5 @@
 
 /* Six permanent destinations, including the round-wide Super Boost index. */
 .nav{grid-template-columns:repeat(6,1fr)}
+
+@media(min-width:900px){.nav{grid-template-columns:1fr;grid-template-rows:repeat(6,76px);padding:96px 8px 8px}}
