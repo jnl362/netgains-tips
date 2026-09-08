@@ -16,3 +16,6 @@
 .nav{grid-template-columns:repeat(6,1fr)}
 
 @media(min-width:900px){.nav{grid-template-columns:1fr;grid-template-rows:repeat(6,76px);padding:96px 8px 8px}}
+
+/* Clearly separated model and margin-removed bookmaker probability bars. */
+.prob-label{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-top:9px;color:var(--muted);font-size:9px}.prob-label b{font-size:9px;letter-spacing:.06em}.prob-label.model b{color:var(--green)}.prob-label.bookmaker b{color:#f4b860}.prob-track.model i:first-child{background:var(--green)}.prob-track.model i:last-child{background:#70877e}.prob-track.bookmaker i:first-child{background:#f4b860}.prob-track.bookmaker i:last-child{background:#806b48}@media(max-width:600px){.prob-label{align-items:flex-start;flex-direction:column;gap:2px}.prob-label span{line-height:1.35}}
