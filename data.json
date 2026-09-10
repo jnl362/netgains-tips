@@ -9,9 +9,9 @@
   "default_bookmaker": "Betcha",
   "round": 28,
   "round_label": "Finals Round 1",
-  "generated_at": "Thu 10 Sep 2026, 2:49 PM NZT",
-  "generated_at_iso": "2026-09-10T14:49:11.331777+12:00",
-  "engine_version": "1.66.49",
+  "generated_at": "Thu 10 Sep 2026, 3:08 PM NZT",
+  "generated_at_iso": "2026-09-10T15:08:56.428672+12:00",
+  "engine_version": "1.67.0",
   "fixtures": [
     {
       "status": "upcoming",
@@ -40,8 +40,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:47:45.106682+00:00",
-          "snapshot_id": "fe32590caea5f5e18581980c",
+          "observed_at": "2026-09-10T03:07:18.876433+00:00",
+          "snapshot_id": "b948db98193ba201b557aabf",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/south-sydney-rabbitohs-vs-newcastle-knights/a1307f17-b007-439d-bd4c-bc1c107f2746",
           "validation_issues": []
         },
@@ -55,8 +55,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:14.423266+00:00",
-          "snapshot_id": "58b385436434ed4ee4653fa7",
+          "observed_at": "2026-09-10T03:07:50.034202+00:00",
+          "snapshot_id": "b4fdda2d614b41f2c689b53a",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/south-sydney-rabbitohs-vs-newcastle-knights/a1307f17-b007-439d-bd4c-bc1c107f2746",
           "validation_issues": []
         },
@@ -70,7 +70,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:14.423266+00:00",
+          "observed_at": "2026-09-10T03:07:50.034202+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -93,8 +93,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:47:45.106682+00:00",
-          "snapshot_id": "fe32590caea5f5e18581980c",
+          "observed_at": "2026-09-10T03:07:18.876433+00:00",
+          "snapshot_id": "b948db98193ba201b557aabf",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/south-sydney-rabbitohs-vs-newcastle-knights/a1307f17-b007-439d-bd4c-bc1c107f2746",
           "validation_issues": [],
           "home_cover_probability": 0.43881151291897125,
@@ -116,8 +116,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:14.423266+00:00",
-          "snapshot_id": "58b385436434ed4ee4653fa7",
+          "observed_at": "2026-09-10T03:07:50.034202+00:00",
+          "snapshot_id": "b4fdda2d614b41f2c689b53a",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/south-sydney-rabbitohs-vs-newcastle-knights/a1307f17-b007-439d-bd4c-bc1c107f2746",
           "validation_issues": [],
           "home_cover_probability": 0.43881151291897125,
@@ -139,7 +139,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:14.423266+00:00",
+          "observed_at": "2026-09-10T03:07:50.034202+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -197,7 +197,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 63,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-10T02:47:45.106682+00:00",
+      "bookmaker_observed_at": "2026-09-10T03:07:18.876433+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -743,7 +743,7 @@
           "expected_value": null,
           "verdict": "Not yet rateable",
           "reason": "Selection is stored, but no matching independent probability is available.",
-          "observed_at": "2026-09-10T02:47:45.090049+00:00",
+          "observed_at": "2026-09-10T03:07:18.862710+00:00",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/south-sydney-rabbitohs-vs-newcastle-knights/a1307f17-b007-439d-bd4c-bc1c107f2746"
         }
       ],
@@ -846,7 +846,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "2a30b03a428539d8"
+      "summary_id": "98775f7c2b9b297d"
     },
     {
       "status": "upcoming",
@@ -875,8 +875,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:47:52.319041+00:00",
-          "snapshot_id": "c7c91f8eed916d65789869e2",
+          "observed_at": "2026-09-10T03:07:27.751409+00:00",
+          "snapshot_id": "a7de0fb94949cf468817e625",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-dolphins/bfb23761-0cfe-44b0-bb5b-572279bd5a2b",
           "validation_issues": []
         },
@@ -890,8 +890,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:14.683460+00:00",
-          "snapshot_id": "122a8fc1cc11bd0bbe9ef02e",
+          "observed_at": "2026-09-10T03:07:50.909085+00:00",
+          "snapshot_id": "793e8e5449b6de832cede775",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-dolphins/bfb23761-0cfe-44b0-bb5b-572279bd5a2b",
           "validation_issues": []
         },
@@ -905,7 +905,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:14.683460+00:00",
+          "observed_at": "2026-09-10T03:07:50.909085+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -928,8 +928,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:47:52.319041+00:00",
-          "snapshot_id": "c7c91f8eed916d65789869e2",
+          "observed_at": "2026-09-10T03:07:27.751409+00:00",
+          "snapshot_id": "a7de0fb94949cf468817e625",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-dolphins/bfb23761-0cfe-44b0-bb5b-572279bd5a2b",
           "validation_issues": [],
           "home_cover_probability": 0.4982734855839488,
@@ -951,8 +951,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:14.683460+00:00",
-          "snapshot_id": "122a8fc1cc11bd0bbe9ef02e",
+          "observed_at": "2026-09-10T03:07:50.909085+00:00",
+          "snapshot_id": "793e8e5449b6de832cede775",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-dolphins/bfb23761-0cfe-44b0-bb5b-572279bd5a2b",
           "validation_issues": [],
           "home_cover_probability": 0.4982734855839488,
@@ -974,7 +974,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:14.683460+00:00",
+          "observed_at": "2026-09-10T03:07:50.909085+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -1032,7 +1032,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 61,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-10T02:47:52.319041+00:00",
+      "bookmaker_observed_at": "2026-09-10T03:07:27.751409+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1667,7 +1667,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "992183e2e450cd33"
+      "summary_id": "d84f86955cb5a4bc"
     },
     {
       "status": "upcoming",
@@ -1696,8 +1696,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:00.693749+00:00",
-          "snapshot_id": "2fca24d586508d121e119272",
+          "observed_at": "2026-09-10T03:07:36.127446+00:00",
+          "snapshot_id": "1e41d97de127ad69516a11d5",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
           "validation_issues": []
         },
@@ -1711,8 +1711,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:15.566343+00:00",
-          "snapshot_id": "d4609bfe24ab81dbb6a893ab",
+          "observed_at": "2026-09-10T03:07:51.527306+00:00",
+          "snapshot_id": "4b600e430e566bb2f5a8c03f",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
           "validation_issues": []
         },
@@ -1726,7 +1726,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:15.566343+00:00",
+          "observed_at": "2026-09-10T03:07:51.527306+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1749,8 +1749,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:00.693749+00:00",
-          "snapshot_id": "2fca24d586508d121e119272",
+          "observed_at": "2026-09-10T03:07:36.127446+00:00",
+          "snapshot_id": "1e41d97de127ad69516a11d5",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
           "validation_issues": [],
           "home_cover_probability": 0.5067511892286223,
@@ -1772,8 +1772,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:15.566343+00:00",
-          "snapshot_id": "d4609bfe24ab81dbb6a893ab",
+          "observed_at": "2026-09-10T03:07:51.527306+00:00",
+          "snapshot_id": "4b600e430e566bb2f5a8c03f",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
           "validation_issues": [],
           "home_cover_probability": 0.5067511892286223,
@@ -1795,7 +1795,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:15.566343+00:00",
+          "observed_at": "2026-09-10T03:07:51.527306+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -1853,7 +1853,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-10T02:48:00.693749+00:00",
+      "bookmaker_observed_at": "2026-09-10T03:07:36.127446+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -2489,7 +2489,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "6f9ae84154aa9aaa"
+      "summary_id": "cc568b1a0dee6cfd"
     },
     {
       "status": "upcoming",
@@ -2518,8 +2518,8 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:08.105687+00:00",
-          "snapshot_id": "a0520561f513cfe05ab8cbb6",
+          "observed_at": "2026-09-10T03:07:43.248844+00:00",
+          "snapshot_id": "870e2ae8d978f7f20d1b3c20",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": []
         },
@@ -2533,8 +2533,8 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:16.411105+00:00",
-          "snapshot_id": "6df8d08ada1633ddf0b3c510",
+          "observed_at": "2026-09-10T03:07:51.811371+00:00",
+          "snapshot_id": "28c076adfeb5ce1f0747dded",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": []
         },
@@ -2548,7 +2548,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:16.411105+00:00",
+          "observed_at": "2026-09-10T03:07:51.811371+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -2571,8 +2571,8 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:08.105687+00:00",
-          "snapshot_id": "a0520561f513cfe05ab8cbb6",
+          "observed_at": "2026-09-10T03:07:43.248844+00:00",
+          "snapshot_id": "870e2ae8d978f7f20d1b3c20",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": [],
           "home_cover_probability": 0.4102566496092471,
@@ -2594,8 +2594,8 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:16.411105+00:00",
-          "snapshot_id": "6df8d08ada1633ddf0b3c510",
+          "observed_at": "2026-09-10T03:07:51.811371+00:00",
+          "snapshot_id": "28c076adfeb5ce1f0747dded",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": [],
           "home_cover_probability": 0.4102566496092471,
@@ -2617,7 +2617,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-10T02:48:16.411105+00:00",
+          "observed_at": "2026-09-10T03:07:51.811371+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -2675,7 +2675,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 63,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-10T02:48:08.105687+00:00",
+      "bookmaker_observed_at": "2026-09-10T03:07:43.248844+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -3310,7 +3310,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "e035294f0f542d21"
+      "summary_id": "f34094d530b11e72"
     }
   ]
 }
