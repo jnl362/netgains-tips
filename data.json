@@ -9,816 +9,10 @@
   "default_bookmaker": "Betcha",
   "round": 28,
   "round_label": "Finals Round 1",
-  "generated_at": "Sat 12 Sep 2026, 8:00 PM NZT",
-  "generated_at_iso": "2026-09-12T20:00:03.421074+12:00",
+  "generated_at": "Sat 12 Sep 2026, 8:30 PM NZT",
+  "generated_at_iso": "2026-09-12T20:30:50.741471+12:00",
   "engine_version": "1.67.1",
   "fixtures": [
-    {
-      "status": "upcoming",
-      "match_id": 29062,
-      "home_team": "Warriors",
-      "away_team": "Dolphins",
-      "kickoff": "Sat 12 Sep, 6:05 PM NZT",
-      "venue": "Go Media Stadium",
-      "home_win_probability": 0.6343375791792554,
-      "away_win_probability": 0.3656624208207446,
-      "independent_home_win_probability": 0.6343375791792554,
-      "independent_away_win_probability": 0.3656624208207446,
-      "home_fair_odds": 1.5764476720642357,
-      "away_fair_odds": 2.7347628387829905,
-      "home_conservative_fair_odds": 1.6293863583092545,
-      "away_conservative_fair_odds": 2.588849181107674,
-      "bookmaker_provider": "Betcha",
-      "bookmaker_prices": {
-        "Betcha": {
-          "home_h2h": 1.65,
-          "away_h2h": 2.25,
-          "home_line": -3.5,
-          "home_line_odds": 1.9,
-          "away_line": 3.5,
-          "away_line_odds": 1.9,
-          "total": 47.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T06:04:11.582586+00:00",
-          "snapshot_id": "0c4f5d87371db5969b8ec336",
-          "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-dolphins/bfb23761-0cfe-44b0-bb5b-572279bd5a2b",
-          "validation_issues": []
-        },
-        "TAB NZ": {
-          "home_h2h": 1.65,
-          "away_h2h": 2.25,
-          "home_line": -3.5,
-          "home_line_odds": 1.9,
-          "away_line": 3.5,
-          "away_line_odds": 1.9,
-          "total": 47.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T06:04:33.259052+00:00",
-          "snapshot_id": "a51f1d63198ed13aaaaa23b2",
-          "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-dolphins/bfb23761-0cfe-44b0-bb5b-572279bd5a2b",
-          "validation_issues": []
-        },
-        "Best Available": {
-          "home_h2h": 1.65,
-          "away_h2h": 2.25,
-          "home_line": -3.5,
-          "home_line_odds": 1.9,
-          "away_line": 3.5,
-          "away_line_odds": 1.9,
-          "total": 47.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T06:04:33.259052+00:00",
-          "price_sources": {
-            "home_h2h": "TAB NZ",
-            "away_h2h": "TAB NZ",
-            "home_line_odds": "TAB NZ",
-            "away_line_odds": "TAB NZ",
-            "over_odds": "TAB NZ",
-            "under_odds": "TAB NZ"
-          },
-          "validation_issues": null
-        }
-      },
-      "bookmaker_views": {
-        "Betcha": {
-          "home_h2h": 1.65,
-          "away_h2h": 2.25,
-          "home_line": -3.5,
-          "home_line_odds": 1.9,
-          "away_line": 3.5,
-          "away_line_odds": 1.9,
-          "total": 47.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T06:04:11.582586+00:00",
-          "snapshot_id": "0c4f5d87371db5969b8ec336",
-          "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-dolphins/bfb23761-0cfe-44b0-bb5b-572279bd5a2b",
-          "validation_issues": [],
-          "home_cover_probability": 0.5274470536361054,
-          "away_cover_probability": 0.47255294636389455,
-          "over_probability": 0.5267379908565151,
-          "under_probability": 0.47326200914348493,
-          "home_line_fair_odds": 1.8959248954112402,
-          "away_line_fair_odds": 2.1161649878486615,
-          "over_fair_odds": 1.8984770746722213,
-          "under_fair_odds": 2.1129944527130156
-        },
-        "TAB NZ": {
-          "home_h2h": 1.65,
-          "away_h2h": 2.25,
-          "home_line": -3.5,
-          "home_line_odds": 1.9,
-          "away_line": 3.5,
-          "away_line_odds": 1.9,
-          "total": 47.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T06:04:33.259052+00:00",
-          "snapshot_id": "a51f1d63198ed13aaaaa23b2",
-          "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-dolphins/bfb23761-0cfe-44b0-bb5b-572279bd5a2b",
-          "validation_issues": [],
-          "home_cover_probability": 0.5274470536361054,
-          "away_cover_probability": 0.47255294636389455,
-          "over_probability": 0.5267379908565151,
-          "under_probability": 0.47326200914348493,
-          "home_line_fair_odds": 1.8959248954112402,
-          "away_line_fair_odds": 2.1161649878486615,
-          "over_fair_odds": 1.8984770746722213,
-          "under_fair_odds": 2.1129944527130156
-        },
-        "Best Available": {
-          "home_h2h": 1.65,
-          "away_h2h": 2.25,
-          "home_line": -3.5,
-          "home_line_odds": 1.9,
-          "away_line": 3.5,
-          "away_line_odds": 1.9,
-          "total": 47.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T06:04:33.259052+00:00",
-          "snapshot_id": null,
-          "source_url": null,
-          "validation_issues": null,
-          "home_cover_probability": 0.5274470536361054,
-          "away_cover_probability": 0.47255294636389455,
-          "over_probability": 0.5267379908565151,
-          "under_probability": 0.47326200914348493,
-          "home_line_fair_odds": 1.8959248954112402,
-          "away_line_fair_odds": 2.1161649878486615,
-          "over_fair_odds": 1.8984770746722213,
-          "under_fair_odds": 2.1129944527130156
-        }
-      },
-      "home_bookmaker_odds": 1.65,
-      "away_bookmaker_odds": 2.25,
-      "home_h2h_ev": 0.046657005645771354,
-      "away_h2h_ev": -0.17725955315332453,
-      "winner": "Warriors",
-      "home_points": 26.374914771363343,
-      "away_points": 21.997027207971918,
-      "likely_home_points": 26,
-      "likely_away_points": 22,
-      "projected_margin": 4.377887563391425,
-      "projected_total": 48.37194197933526,
-      "close_game_probability": 0.47055281091521434,
-      "fav_1_12_probability": 0.62,
-      "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.7055179692767342,
-      "margin_probabilities": {
-        "Warriors 1-12": 0.35743928342065867,
-        "Warriors 13+": 0.26205316381579613,
-        "Dolphins 1-12": 0.2582237517163652,
-        "Dolphins 13+": 0.0927920654308157
-      },
-      "margin_remainder_probability": 0.029491735616364312,
-      "market_line": -3.5,
-      "home_line_odds": 1.9,
-      "away_line": 3.5,
-      "away_line_odds": 1.9,
-      "home_cover_probability": 0.5274470536361054,
-      "away_cover_probability": 0.47255294636389455,
-      "home_line_fair_odds": 1.8959248954112402,
-      "away_line_fair_odds": 2.1161649878486615,
-      "home_line_ev": 0.002149401908600357,
-      "away_line_ev": -0.10214940190860033,
-      "market_total": 47.5,
-      "over_odds": 1.9,
-      "under_odds": 1.9,
-      "over_probability": 0.5267379908565151,
-      "under_probability": 0.47326200914348493,
-      "over_ev": 0.0008021826273785226,
-      "under_ev": -0.10080218262737872,
-      "confidence": "Developing",
-      "confidence_score": 58,
-      "data_quality": "Developing",
-      "prediction_strength_score": 61,
-      "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-12T06:04:11.582586+00:00",
-      "context_effects": {
-        "venue_classification": "HOME",
-        "home_advantage": 1.5,
-        "ladder": 0.0,
-        "availability_margin": -0.5667200000000001,
-        "availability_total": -0.4452800000000001,
-        "weather_total": 0.861252721038545,
-        "referee_margin": -0.09392979050027102,
-        "referee_total": 0.11394365834644528,
-        "late_season_margin": -2.0,
-        "controlled_context_margin": 2.6994638197530385
-      },
-      "drivers": [
-        "Point-in-time scoring base: Warriors 27.4 PF / 18.8 PA from 70 prior games; Dolphins 27.4 PF / 21.8 PA from 70 prior games.",
-        "Warriors hold a 8.8-point defensive-rating advantage.",
-        "Recognised home-field advantage is an input to the raw-conditioned stack controller, not a separate full addition.",
-        "Warriors are playing at a recognised home venue; standard home-field uplift applied.",
-        "Opponent-adjusted h175_s4p0 team strength is active.",
-        "Availability applied from the Data & Context snapshot: 2 Warriors absence(s), 0 Dolphins absence(s); replacement-adjusted score effects -0.51/+0.06; net pre-team margin swing -0.57 pts.",
-        "Weather Fine / Dry: scoring +1.1% vs NRL across 1306 games; Go Media Stadium in fine / dry conditions +4.8% vs its own baseline across 18 games. Sample-shrunk forecast effect +0.9 points.",
-        "Referee Adam Gee environment: stoppages +6.3% vs NRL, historical scoring +0.8% vs NRL and home-win environment -0.8% vs NRL; conservative adjustments +0.1 total points and -0.1 home-margin points.",
-        "Late-season elite interaction input: Applied -2.00 home-margin points: Warriors elite effect -2.00 (n=37) active; Dolphins elite effect +0.00 (n=9) active.",
-        "Stacked-advantage control: learned context +3.27, live availability -0.57, final downstream adjustment +2.70; same-direction evidence cap 5.00, opposing cap 5.00.",
-        "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
-        "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 61/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 64.1% of the +5.7pp raw market disagreement, leaving +3.7pp of betting edge."
-      ],
-      "ats_players": [
-        {
-          "player": "Alofiana Khan-Pereira",
-          "nrl_player_id": 100001619,
-          "team": "Warriors",
-          "probability": 0.4485731113057861,
-          "fair_odds": 2.2292910002764605,
-          "bookmaker_odds": 1.8,
-          "bookmaker_prices": {
-            "Betcha": 1.8,
-            "TAB NZ": 1.8,
-            "Best Available": 1.8
-          },
-          "ev": -0.19256839964958505
-        },
-        {
-          "player": "Hamiso Tabuai-Fidow",
-          "nrl_player_id": 100001936,
-          "team": "Dolphins",
-          "probability": 0.4393817396640289,
-          "fair_odds": 2.275925259808578,
-          "bookmaker_odds": 2.4,
-          "bookmaker_prices": {
-            "Betcha": 2.4,
-            "TAB NZ": 2.4,
-            "Best Available": 2.4
-          },
-          "ev": 0.05451617519366936
-        },
-        {
-          "player": "Selwyn Cobbo",
-          "nrl_player_id": 100004649,
-          "team": "Dolphins",
-          "probability": 0.43571216499496496,
-          "fair_odds": 2.295093137947057,
-          "bookmaker_odds": 2.02,
-          "bookmaker_prices": {
-            "Betcha": 2.02,
-            "TAB NZ": 2.02,
-            "Best Available": 2.02
-          },
-          "ev": -0.11986142671017075
-        },
-        {
-          "player": "Jamayne Isaako",
-          "nrl_player_id": 502014,
-          "team": "Dolphins",
-          "probability": 0.39038245900840074,
-          "fair_odds": 2.561590504194454,
-          "bookmaker_odds": 2.05,
-          "bookmaker_prices": {
-            "Betcha": 2.05,
-            "TAB NZ": 2.05,
-            "Best Available": 2.05
-          },
-          "ev": -0.1997159590327785
-        },
-        {
-          "player": "Charnze Nicoll-Klokstad",
-          "nrl_player_id": 501559,
-          "team": "Warriors",
-          "probability": 0.3621957769132498,
-          "fair_odds": 2.7609377683039966,
-          "bookmaker_odds": 1.98,
-          "bookmaker_prices": {
-            "Betcha": 1.98,
-            "TAB NZ": 1.98,
-            "Best Available": 1.98
-          },
-          "ev": -0.2828523617117654
-        },
-        {
-          "player": "Herbie Farnworth",
-          "nrl_player_id": 508300,
-          "team": "Dolphins",
-          "probability": 0.3583320750803293,
-          "fair_odds": 2.790707473719243,
-          "bookmaker_odds": 2.65,
-          "bookmaker_prices": {
-            "Betcha": 2.65,
-            "TAB NZ": 2.65,
-            "Best Available": 2.65
-          },
-          "ev": -0.05042000103712729
-        },
-        {
-          "player": "Jack Bostock",
-          "nrl_player_id": 100007515,
-          "team": "Dolphins",
-          "probability": 0.35343422198032154,
-          "fair_odds": 2.8293807950936847,
-          "bookmaker_odds": 3.0,
-          "bookmaker_prices": {
-            "Betcha": 3.0,
-            "TAB NZ": 2.95,
-            "Best Available": 3.0
-          },
-          "ev": 0.06030266594096467
-        },
-        {
-          "player": "Ali Leiataua",
-          "nrl_player_id": 100006296,
-          "team": "Warriors",
-          "probability": 0.33300810953087223,
-          "fair_odds": 3.002929872815283,
-          "bookmaker_odds": 3.35,
-          "bookmaker_prices": {
-            "Betcha": 3.35,
-            "TAB NZ": 3.35,
-            "Best Available": 3.35
-          },
-          "ev": 0.11557716692842201
-        },
-        {
-          "player": "Taine Tuaupiki",
-          "nrl_player_id": 508254,
-          "team": "Warriors",
-          "probability": 0.24100851875885138,
-          "fair_odds": 4.149230928225327,
-          "bookmaker_odds": 3.15,
-          "bookmaker_prices": {
-            "Betcha": 3.15,
-            "TAB NZ": 3.15,
-            "Best Available": 3.15
-          },
-          "ev": -0.24082316590961816
-        },
-        {
-          "player": "Chanel Harris-Tavita",
-          "nrl_player_id": 506851,
-          "team": "Warriors",
-          "probability": 0.19730860864076147,
-          "fair_odds": 5.068202583196427,
-          "bookmaker_odds": 3.0,
-          "bookmaker_prices": {
-            "Betcha": 3.0,
-            "TAB NZ": 2.95,
-            "Best Available": 3.0
-          },
-          "ev": -0.4080741740777156
-        },
-        {
-          "player": "Jacob Laban",
-          "nrl_player_id": 100012134,
-          "team": "Warriors",
-          "probability": 0.18672837324416222,
-          "fair_odds": 5.355372526554496,
-          "bookmaker_odds": 3.75,
-          "bookmaker_prices": {
-            "Betcha": 3.75,
-            "TAB NZ": 3.7,
-            "Best Available": 3.75
-          },
-          "ev": -0.2997686003343917
-        },
-        {
-          "player": "Kurt Capewell",
-          "nrl_player_id": 500992,
-          "team": "Warriors",
-          "probability": 0.1832632946993946,
-          "fair_odds": 5.4566300449868725,
-          "bookmaker_odds": 4.8,
-          "bookmaker_prices": {
-            "Betcha": 4.8,
-            "TAB NZ": 4.8,
-            "Best Available": 4.8
-          },
-          "ev": -0.12033618544290603
-        },
-        {
-          "player": "Te Maire Martin",
-          "nrl_player_id": 501293,
-          "team": "Warriors",
-          "probability": 0.17740700243850727,
-          "fair_odds": 5.6367560820865545,
-          "bookmaker_odds": 4.0,
-          "bookmaker_prices": {
-            "Betcha": 4.0,
-            "TAB NZ": 3.9,
-            "Best Available": 4.0
-          },
-          "ev": -0.29037199024597093
-        },
-        {
-          "player": "Kodi Nikorima",
-          "nrl_player_id": 500265,
-          "team": "Dolphins",
-          "probability": 0.17581411599422794,
-          "fair_odds": 5.687825430540688,
-          "bookmaker_odds": 5.4,
-          "bookmaker_prices": {
-            "Betcha": 5.4,
-            "TAB NZ": 5.4,
-            "Best Available": 5.4
-          },
-          "ev": -0.05060377363116908
-        },
-        {
-          "player": "Max Plath",
-          "nrl_player_id": 100002172,
-          "team": "Dolphins",
-          "probability": 0.1731367815651856,
-          "fair_odds": 5.775780229711052,
-          "bookmaker_odds": 5.4,
-          "bookmaker_prices": {
-            "Betcha": 5.4,
-            "TAB NZ": 5.4,
-            "Best Available": 5.4
-          },
-          "ev": -0.06506137954799762
-        },
-        {
-          "player": "Kulikefu Finefeuiaki",
-          "nrl_player_id": 100007811,
-          "team": "Dolphins",
-          "probability": 0.1283734421009947,
-          "fair_odds": 7.78977320880182,
-          "bookmaker_odds": 4.4,
-          "bookmaker_prices": {
-            "Betcha": 4.4,
-            "TAB NZ": 4.4,
-            "Best Available": 4.4
-          },
-          "ev": -0.43515685475562327
-        },
-        {
-          "player": "Connelly Lemuelu",
-          "nrl_player_id": 507949,
-          "team": "Dolphins",
-          "probability": 0.12065960406880909,
-          "fair_odds": 8.28777789979922,
-          "bookmaker_odds": 6.25,
-          "bookmaker_prices": {
-            "Betcha": 6.25,
-            "TAB NZ": 6.25,
-            "Best Available": 6.25
-          },
-          "ev": -0.24587747456994324
-        },
-        {
-          "player": "Jeremy Marshall-King",
-          "nrl_player_id": 502511,
-          "team": "Dolphins",
-          "probability": 0.11879497954450231,
-          "fair_odds": 8.41786415414454,
-          "bookmaker_odds": 6.4,
-          "bookmaker_prices": {
-            "Betcha": 6.4,
-            "TAB NZ": 6.4,
-            "Best Available": 6.4
-          },
-          "ev": -0.23971213091518517
-        },
-        {
-          "player": "Mitchell Barnett",
-          "nrl_player_id": 501267,
-          "team": "Warriors",
-          "probability": 0.11873313634548674,
-          "fair_odds": 8.42224867277341,
-          "bookmaker_odds": 8.5,
-          "bookmaker_prices": {
-            "Betcha": 8.5,
-            "TAB NZ": 8.5,
-            "Best Available": 8.5
-          },
-          "ev": 0.009231658936637244
-        },
-        {
-          "player": "Erin Clark",
-          "nrl_player_id": 503685,
-          "team": "Warriors",
-          "probability": 0.11034643225206428,
-          "fair_odds": 9.062368212464728,
-          "bookmaker_odds": 7.75,
-          "bookmaker_prices": {
-            "Betcha": 7.75,
-            "TAB NZ": 7.75,
-            "Best Available": 7.75
-          },
-          "ev": -0.1448151500465018
-        },
-        {
-          "player": "Jackson Ford",
-          "nrl_player_id": 505423,
-          "team": "Warriors",
-          "probability": 0.11020925352122411,
-          "fair_odds": 9.073648246854516,
-          "bookmaker_odds": 5.5,
-          "bookmaker_prices": {
-            "Betcha": 5.5,
-            "TAB NZ": 5.5,
-            "Best Available": 5.5
-          },
-          "ev": -0.39384910563326736
-        },
-        {
-          "player": "Wayde Egan",
-          "nrl_player_id": 504123,
-          "team": "Warriors",
-          "probability": 0.10628775224892996,
-          "fair_odds": 9.40842174983588,
-          "bookmaker_odds": 5.75,
-          "bookmaker_prices": {
-            "Betcha": 5.75,
-            "TAB NZ": 5.75,
-            "Best Available": 5.75
-          },
-          "ev": -0.3888454245686528
-        },
-        {
-          "player": "Sam Healey",
-          "nrl_player_id": 509563,
-          "team": "Warriors",
-          "probability": 0.09748465989860812,
-          "fair_odds": 10.258024196217953,
-          "bookmaker_odds": 8.0,
-          "bookmaker_prices": {
-            "Betcha": 8.0,
-            "TAB NZ": 8.0,
-            "Best Available": 8.0
-          },
-          "ev": -0.22012272081113504
-        },
-        {
-          "player": "Morgan Knowles",
-          "nrl_player_id": 505736,
-          "team": "Dolphins",
-          "probability": 0.09649761502732628,
-          "fair_odds": 10.362950418171673,
-          "bookmaker_odds": 9.5,
-          "bookmaker_prices": {
-            "Betcha": 9.5,
-            "TAB NZ": 9.5,
-            "Best Available": 9.5
-          },
-          "ev": -0.08327265724040034
-        },
-        {
-          "player": "Isaiya Katoa",
-          "nrl_player_id": 100006258,
-          "team": "Dolphins",
-          "probability": 0.08940338142143818,
-          "fair_odds": 11.185259260900935,
-          "bookmaker_odds": 7.25,
-          "bookmaker_prices": {
-            "Betcha": 7.25,
-            "TAB NZ": 7.25,
-            "Best Available": 7.25
-          },
-          "ev": -0.3518254846945732
-        },
-        {
-          "player": "James Fisher-Harris",
-          "nrl_player_id": 502580,
-          "team": "Warriors",
-          "probability": 0.08715172341945744,
-          "fair_odds": 11.474242398937353,
-          "bookmaker_odds": 8.25,
-          "bookmaker_prices": {
-            "Betcha": 8.25,
-            "TAB NZ": 8.25,
-            "Best Available": 8.25
-          },
-          "ev": -0.28099828178947606
-        },
-        {
-          "player": "Demitric Vaimauga",
-          "nrl_player_id": 100013336,
-          "team": "Warriors",
-          "probability": 0.0846580124296879,
-          "fair_odds": 11.81223101393436,
-          "bookmaker_odds": 11.5,
-          "bookmaker_prices": {
-            "Betcha": 11.5,
-            "TAB NZ": 11.0,
-            "Best Available": 11.5
-          },
-          "ev": -0.02643285705858911
-        },
-        {
-          "player": "Ray Stone",
-          "nrl_player_id": 503964,
-          "team": "Dolphins",
-          "probability": 0.08257800801525057,
-          "fair_odds": 12.109761715435413,
-          "bookmaker_odds": 11.0,
-          "bookmaker_prices": {
-            "Betcha": 11.0,
-            "TAB NZ": 11.0,
-            "Best Available": 11.0
-          },
-          "ev": -0.09164191183224368
-        },
-        {
-          "player": "Thomas Flegler",
-          "nrl_player_id": 504315,
-          "team": "Dolphins",
-          "probability": 0.08152611336189959,
-          "fair_odds": 12.266008506512957,
-          "bookmaker_odds": 12.0,
-          "bookmaker_prices": {
-            "Betcha": 12.0,
-            "TAB NZ": 12.0,
-            "Best Available": 12.0
-          },
-          "ev": -0.021686639657204854
-        },
-        {
-          "player": "Tom Gilbert",
-          "nrl_player_id": 506156,
-          "team": "Dolphins",
-          "probability": 0.08043129722831813,
-          "fair_odds": 12.432971174906298,
-          "bookmaker_odds": 12.0,
-          "bookmaker_prices": {
-            "Betcha": 12.0,
-            "TAB NZ": 12.0,
-            "Best Available": 12.0
-          },
-          "ev": -0.034824433260182475
-        },
-        {
-          "player": "Kurt Donoghoe",
-          "nrl_player_id": 100005899,
-          "team": "Dolphins",
-          "probability": 0.07949892732075238,
-          "fair_odds": 12.57878607550671,
-          "bookmaker_odds": 9.0,
-          "bookmaker_prices": {
-            "Betcha": 9.0,
-            "TAB NZ": 9.0,
-            "Best Available": 9.0
-          },
-          "ev": -0.2845096541132286
-        },
-        {
-          "player": "Francis Molo",
-          "nrl_player_id": 500264,
-          "team": "Dolphins",
-          "probability": 0.07078899990524744,
-          "fair_odds": 14.126488597642586,
-          "bookmaker_odds": 14.0,
-          "bookmaker_prices": {
-            "Betcha": 14.0,
-            "TAB NZ": 14.0,
-            "Best Available": 14.0
-          },
-          "ev": -0.008954001326535899
-        },
-        {
-          "player": "Tanner Stowers-Smith",
-          "nrl_player_id": 100013671,
-          "team": "Warriors",
-          "probability": 0.05422755474858065,
-          "fair_odds": 18.440809375166854,
-          "bookmaker_odds": 8.75,
-          "bookmaker_prices": {
-            "Betcha": 8.75,
-            "TAB NZ": 8.75,
-            "Best Available": 8.75
-          },
-          "ev": -0.5255088959499192
-        }
-      ],
-      "safe_bet": {
-        "available": true,
-        "probability": 0.20064,
-        "fair_odds": 4.984051036682615,
-        "singles_product_odds": 4.32,
-        "target_met": false,
-        "legs": [
-          {
-            "player": "Alofiana Khan-Pereira",
-            "team": "Warriors",
-            "probability": 0.4485731113057861,
-            "fair_odds": 2.2292910002764605,
-            "market_odds": 1.8
-          },
-          {
-            "player": "Hamiso Tabuai-Fidow",
-            "team": "Dolphins",
-            "probability": 0.4393817396640289,
-            "fair_odds": 2.275925259808578,
-            "market_odds": 2.4
-          }
-        ],
-        "method": "Shared match simulation",
-        "probability_method": "shared_simulation",
-        "simulation_draws": 25000,
-        "fallback_reason": null
-      },
-      "start_time": "2026-09-12T06:05:00Z",
-      "super_boost_reviews": [],
-      "clive_churchill_candidates": [],
-      "safe_bets": {
-        "Betcha": {
-          "available": true,
-          "probability": 0.20064,
-          "fair_odds": 4.984051036682615,
-          "singles_product_odds": 4.32,
-          "target_met": false,
-          "legs": [
-            {
-              "player": "Alofiana Khan-Pereira",
-              "team": "Warriors",
-              "probability": 0.4485731113057861,
-              "fair_odds": 2.2292910002764605,
-              "market_odds": 1.8
-            },
-            {
-              "player": "Hamiso Tabuai-Fidow",
-              "team": "Dolphins",
-              "probability": 0.4393817396640289,
-              "fair_odds": 2.275925259808578,
-              "market_odds": 2.4
-            }
-          ],
-          "method": "Shared match simulation",
-          "probability_method": "shared_simulation",
-          "simulation_draws": 25000,
-          "fallback_reason": null
-        },
-        "TAB NZ": {
-          "available": true,
-          "probability": 0.20064,
-          "fair_odds": 4.984051036682615,
-          "singles_product_odds": 4.32,
-          "target_met": false,
-          "legs": [
-            {
-              "player": "Alofiana Khan-Pereira",
-              "team": "Warriors",
-              "probability": 0.4485731113057861,
-              "fair_odds": 2.2292910002764605,
-              "market_odds": 1.8
-            },
-            {
-              "player": "Hamiso Tabuai-Fidow",
-              "team": "Dolphins",
-              "probability": 0.4393817396640289,
-              "fair_odds": 2.275925259808578,
-              "market_odds": 2.4
-            }
-          ],
-          "method": "Shared match simulation",
-          "probability_method": "shared_simulation",
-          "simulation_draws": 25000,
-          "fallback_reason": null
-        },
-        "Best Available": {
-          "available": true,
-          "probability": 0.20064,
-          "fair_odds": 4.984051036682615,
-          "singles_product_odds": 4.32,
-          "target_met": false,
-          "legs": [
-            {
-              "player": "Alofiana Khan-Pereira",
-              "team": "Warriors",
-              "probability": 0.4485731113057861,
-              "fair_odds": 2.2292910002764605,
-              "market_odds": 1.8
-            },
-            {
-              "player": "Hamiso Tabuai-Fidow",
-              "team": "Dolphins",
-              "probability": 0.4393817396640289,
-              "fair_odds": 2.275925259808578,
-              "market_odds": 2.4
-            }
-          ],
-          "method": "Shared match simulation",
-          "probability_method": "shared_simulation",
-          "simulation_draws": 25000,
-          "fallback_reason": null
-        }
-      },
-      "provenance": {
-        "match_engine": "Best-of-Both + evidence-aware stack and reversal control",
-        "match_fallback_reason": null,
-        "ats_engine": {
-          "engine_type": "ERA_FINALIST",
-          "engine_id": "ERA-R1",
-          "source": "IMMUTABLE_READ_ONLY_PRODUCTION_ATS_RECONSTRUCTION",
-          "players_loaded": 33
-        },
-        "pair_method": "Shared match simulation",
-        "pair_fallback_reason": null,
-        "simulation_draws": 25000,
-        "calibration_report_status": "No linked evaluation report",
-        "prediction_state": "Current projection; historical locks remain separate"
-      },
-      "summary_id": "6751bbcf22a6fb3e"
-    },
     {
       "status": "upcoming",
       "match_id": 29025,
@@ -826,14 +20,14 @@
       "away_team": "North Queensland Cowboys",
       "kickoff": "Sat 12 Sep, 9:50 PM NZT",
       "venue": "Allianz Stadium",
-      "home_win_probability": 0.7273880569594907,
-      "away_win_probability": 0.2726119430405093,
-      "independent_home_win_probability": 0.7273880569594907,
-      "independent_away_win_probability": 0.2726119430405093,
-      "home_fair_odds": 1.3747819893827202,
-      "away_fair_odds": 3.668217866197458,
-      "home_conservative_fair_odds": 1.462530417227747,
-      "away_conservative_fair_odds": 3.1620199726402136,
+      "home_win_probability": 0.7270068930346316,
+      "away_win_probability": 0.2729931069653684,
+      "independent_home_win_probability": 0.7270068930346316,
+      "independent_away_win_probability": 0.2729931069653684,
+      "home_fair_odds": 1.3755027766323586,
+      "away_fair_odds": 3.6630961532917348,
+      "home_conservative_fair_odds": 1.4689364360621462,
+      "away_conservative_fair_odds": 3.132485179435863,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -846,8 +40,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:15.867193+00:00",
-          "snapshot_id": "017a9b4cea97db5fbc8773b6",
+          "observed_at": "2026-09-12T08:30:10.103022+00:00",
+          "snapshot_id": "9980974dfe2e44dbe8aa0bff",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
           "validation_issues": []
         },
@@ -861,8 +55,8 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:30.037641+00:00",
-          "snapshot_id": "bf7c7c9c755cfb471b0a32a7",
+          "observed_at": "2026-09-12T08:30:23.150191+00:00",
+          "snapshot_id": "cb91f958ab36ef48d8be31f1",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
           "validation_issues": []
         },
@@ -876,7 +70,7 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:30.037641+00:00",
+          "observed_at": "2026-09-12T08:30:23.150191+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -899,18 +93,18 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:15.867193+00:00",
-          "snapshot_id": "017a9b4cea97db5fbc8773b6",
+          "observed_at": "2026-09-12T08:30:10.103022+00:00",
+          "snapshot_id": "9980974dfe2e44dbe8aa0bff",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
           "validation_issues": [],
-          "home_cover_probability": 0.5066608887954358,
-          "away_cover_probability": 0.4933391112045642,
-          "over_probability": 0.5683041357558853,
-          "under_probability": 0.43169586424411466,
-          "home_line_fair_odds": 1.9737067180722325,
-          "away_line_fair_odds": 2.0270032869649124,
-          "over_fair_odds": 1.759621190632245,
-          "under_fair_odds": 2.3164456341294057
+          "home_cover_probability": 0.506203412793372,
+          "away_cover_probability": 0.493796587206628,
+          "over_probability": 0.5683981613806985,
+          "under_probability": 0.43160183861930146,
+          "home_line_fair_odds": 1.975490434728048,
+          "away_line_fair_odds": 2.025125377348046,
+          "over_fair_odds": 1.7593301103770207,
+          "under_fair_odds": 2.316950278059542
         },
         "TAB NZ": {
           "home_h2h": 1.44,
@@ -922,18 +116,18 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:30.037641+00:00",
-          "snapshot_id": "bf7c7c9c755cfb471b0a32a7",
+          "observed_at": "2026-09-12T08:30:23.150191+00:00",
+          "snapshot_id": "cb91f958ab36ef48d8be31f1",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
           "validation_issues": [],
-          "home_cover_probability": 0.5066608887954358,
-          "away_cover_probability": 0.4933391112045642,
-          "over_probability": 0.5683041357558853,
-          "under_probability": 0.43169586424411466,
-          "home_line_fair_odds": 1.9737067180722325,
-          "away_line_fair_odds": 2.0270032869649124,
-          "over_fair_odds": 1.759621190632245,
-          "under_fair_odds": 2.3164456341294057
+          "home_cover_probability": 0.506203412793372,
+          "away_cover_probability": 0.493796587206628,
+          "over_probability": 0.5683981613806985,
+          "under_probability": 0.43160183861930146,
+          "home_line_fair_odds": 1.975490434728048,
+          "away_line_fair_odds": 2.025125377348046,
+          "over_fair_odds": 1.7593301103770207,
+          "under_fair_odds": 2.316950278059542
         },
         "Best Available": {
           "home_h2h": 1.44,
@@ -945,65 +139,65 @@
           "total": 47.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:30.037641+00:00",
+          "observed_at": "2026-09-12T08:30:23.150191+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
-          "home_cover_probability": 0.5066608887954358,
-          "away_cover_probability": 0.4933391112045642,
-          "over_probability": 0.5683041357558853,
-          "under_probability": 0.43169586424411466,
-          "home_line_fair_odds": 1.9737067180722325,
-          "away_line_fair_odds": 2.0270032869649124,
-          "over_fair_odds": 1.759621190632245,
-          "under_fair_odds": 2.3164456341294057
+          "home_cover_probability": 0.506203412793372,
+          "away_cover_probability": 0.493796587206628,
+          "over_probability": 0.5683981613806985,
+          "under_probability": 0.43160183861930146,
+          "home_line_fair_odds": 1.975490434728048,
+          "away_line_fair_odds": 2.025125377348046,
+          "over_fair_odds": 1.7593301103770207,
+          "under_fair_odds": 2.316950278059542
         }
       },
       "home_bookmaker_odds": 1.44,
       "away_bookmaker_odds": 2.8,
-      "home_h2h_ev": 0.047438802021666504,
-      "away_h2h_ev": -0.23668655948657402,
+      "home_h2h_ev": 0.046889925969869406,
+      "away_h2h_ev": -0.23561930049696855,
       "winner": "Cronulla-Sutherland Sharks",
-      "home_points": 28.724822996338247,
-      "away_points": 21.011934359305446,
+      "home_points": 28.71906653534567,
+      "away_points": 21.020800508832572,
       "likely_home_points": 28,
       "likely_away_points": 22,
-      "projected_margin": 7.712888637032801,
-      "projected_total": 49.73675735564369,
-      "close_game_probability": 0.3871777840741799,
-      "fav_1_12_probability": 0.57717778407418,
-      "fav_13_plus_probability": 0.42282221592582003,
-      "high_scoring_probability": 0.7532865074475292,
+      "projected_margin": 7.6982660265130995,
+      "projected_total": 49.73986704417824,
+      "close_game_probability": 0.3875433493371725,
+      "fav_1_12_probability": 0.5775433493371726,
+      "fav_13_plus_probability": 0.42245665066282745,
+      "high_scoring_probability": 0.7533953465462384,
       "margin_probabilities": {
-        "Cronulla-Sutherland Sharks 1-12": 0.3605475277622532,
-        "Cronulla-Sutherland Sharks 13+": 0.3536593007987736,
-        "North Queensland Cowboys 1-12": 0.2032933904192456,
-        "North Queensland Cowboys 13+": 0.05644630140996293
+        "Cronulla-Sutherland Sharks 1-12": 0.3605838267546638,
+        "Cronulla-Sutherland Sharks 13+": 0.35323299626516436,
+        "North Queensland Cowboys 1-12": 0.20353500202267122,
+        "North Queensland Cowboys 13+": 0.05657664010759271
       },
-      "margin_remainder_probability": 0.026053479609764674,
+      "margin_remainder_probability": 0.026071534849907874,
       "market_line": -7.5,
       "home_line_odds": 1.85,
       "away_line": 7.5,
       "away_line_odds": 1.96,
-      "home_cover_probability": 0.5066608887954358,
-      "away_cover_probability": 0.4933391112045642,
-      "home_line_fair_odds": 1.9737067180722325,
-      "away_line_fair_odds": 2.0270032869649124,
-      "home_line_ev": -0.06267735572844368,
-      "away_line_ev": -0.03305534203905425,
+      "home_cover_probability": 0.506203412793372,
+      "away_cover_probability": 0.493796587206628,
+      "home_line_fair_odds": 1.975490434728048,
+      "away_line_fair_odds": 2.025125377348046,
+      "home_line_ev": -0.0635236863322618,
+      "away_line_ev": -0.032158689075009184,
       "market_total": 47.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.5683041357558853,
-      "under_probability": 0.43169586424411466,
-      "over_ev": 0.07977785793618208,
-      "under_ev": -0.17977785793618217,
+      "over_probability": 0.5683981613806985,
+      "under_probability": 0.43160183861930146,
+      "over_ev": 0.0799565066233272,
+      "under_ev": -0.1799565066233273,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
-      "prediction_strength_score": 69,
+      "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-12T07:59:15.867193+00:00",
+      "bookmaker_observed_at": "2026-09-12T08:30:10.103022+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -1014,7 +208,7 @@
         "referee_margin": -0.11419032348944351,
         "referee_total": 0.3992569816304931,
         "late_season_margin": -1.144178893134418,
-        "controlled_context_margin": 3.3104726562362865
+        "controlled_context_margin": 3.310927962472121
       },
       "drivers": [
         "Point-in-time scoring base: Cronulla-Sutherland Sharks 26.3 PF / 21.7 PA from 70 prior games; North Queensland Cowboys 23.5 PF / 26.9 PA from 70 prior games.",
@@ -1028,494 +222,494 @@
         "Weather Fine / Dry: scoring +1.1% vs NRL across 1306 games; Allianz Stadium in fine / dry conditions +1.1% vs its own baseline across 77 games. Sample-shrunk forecast effect +0.4 points.",
         "Referee Grant Atkins environment: stoppages +7.3% vs NRL, historical scoring +2.7% vs NRL and home-win environment -3.6% vs NRL; conservative adjustments +0.4 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied -1.14 home-margin points: Cronulla-Sutherland Sharks elite effect -0.83 (n=35) active; North Queensland Cowboys elite effect +0.32 (n=39) active.",
-        "Stacked-advantage control: learned context +2.25, live availability +1.06, final downstream adjustment +3.31; same-direction evidence cap 4.30, opposing cap 5.00.",
-        "Extreme-stack guardrail: Reduced same-direction cap is 4.30, but the contextual adjustment remained inside it.",
-        "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 69/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 34.9% of the +6.7pp raw market disagreement, leaving +2.3pp of betting edge."
+        "Stacked-advantage control: learned context +2.25, live availability +1.06, final downstream adjustment +3.31; same-direction evidence cap 4.31, opposing cap 5.00.",
+        "Extreme-stack guardrail: Reduced same-direction cap is 4.31, but the contextual adjustment remained inside it.",
+        "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 68/100, above the low-confidence ceiling of 59/100.",
+        "Market-relative H2H calibration retains 30.6% of the +6.7pp raw market disagreement, leaving +2.0pp of betting edge."
       ],
       "ats_players": [
         {
           "player": "Ronaldo Mulitalo",
           "nrl_player_id": 506086,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.4689028759833863,
-          "fair_odds": 2.1326378045832906,
+          "probability": 0.46889938099738365,
+          "fair_odds": 2.1326537004014083,
           "bookmaker_odds": 1.83,
           "bookmaker_prices": {
             "Betcha": 1.83,
             "TAB NZ": 1.83,
             "Best Available": 1.83
           },
-          "ev": -0.14190773695040304
+          "ev": -0.14191413277478793
         },
         {
           "player": "Sione Katoa",
           "nrl_player_id": 503922,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.4348998703304213,
-          "fair_odds": 2.299379853206753,
+          "probability": 0.4348963102034152,
+          "fair_odds": 2.2993986762781855,
           "bookmaker_odds": 1.8,
           "bookmaker_prices": {
             "Betcha": 1.8,
             "TAB NZ": 1.8,
             "Best Available": 1.8
           },
-          "ev": -0.21718023340524162
+          "ev": -0.2171866416338527
         },
         {
           "player": "KL Iro",
           "nrl_player_id": 508649,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.347347744655191,
-          "fair_odds": 2.8789592429704443,
+          "probability": 0.34724606678700604,
+          "fair_odds": 2.879802237222691,
           "bookmaker_odds": 2.5,
           "bookmaker_prices": {
             "Betcha": 2.5,
             "TAB NZ": 2.5,
             "Best Available": 2.5
           },
-          "ev": -0.1316306383620225
+          "ev": -0.13188483303248488
         },
         {
           "player": "William Kennedy",
           "nrl_player_id": 504279,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.3346765986480126,
-          "fair_odds": 2.9879591343992473,
+          "probability": 0.33467338533410085,
+          "fair_odds": 2.987987822819286,
           "bookmaker_odds": 2.8,
           "bookmaker_prices": {
             "Betcha": 2.8,
             "TAB NZ": 2.8,
             "Best Available": 2.8
           },
-          "ev": -0.0629055237855648
+          "ev": -0.06291452106451767
         },
         {
           "player": "Braidon Burns",
           "nrl_player_id": 506040,
           "team": "North Queensland Cowboys",
-          "probability": 0.29026272180095997,
-          "fair_odds": 3.4451547680508683,
+          "probability": 0.29026564969153945,
+          "fair_odds": 3.445120017000577,
           "bookmaker_odds": 2.35,
           "bookmaker_prices": {
             "Betcha": 2.35,
             "TAB NZ": 2.35,
             "Best Available": 2.35
           },
-          "ev": -0.317882603767744
+          "ev": -0.3178757232248822
         },
         {
           "player": "Jaxon Purdue",
           "nrl_player_id": 100008940,
           "team": "North Queensland Cowboys",
-          "probability": 0.29023911676497155,
-          "fair_odds": 3.44543496116609,
+          "probability": 0.290162753756304,
+          "fair_odds": 3.4463417066956143,
           "bookmaker_odds": 3.5,
           "bookmaker_prices": {
             "Betcha": 3.5,
             "TAB NZ": 3.5,
             "Best Available": 3.5
           },
-          "ev": 0.015836908677400396
+          "ev": 0.015569638147064024
         },
         {
           "player": "Riley Jones",
           "nrl_player_id": 100009035,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.27931428100225836,
-          "fair_odds": 3.58019645974319,
+          "probability": 0.2792432047869495,
+          "fair_odds": 3.5811077328200587,
           "bookmaker_odds": 3.05,
           "bookmaker_prices": {
             "Betcha": 3.05,
             "TAB NZ": 3.05,
             "Best Available": 3.05
           },
-          "ev": -0.14809144294311205
+          "ev": -0.14830822539980415
         },
         {
           "player": "Tom Chester",
           "nrl_player_id": 100004781,
           "team": "North Queensland Cowboys",
-          "probability": 0.27811648524900157,
-          "fair_odds": 3.5956156971590016,
+          "probability": 0.278044615636591,
+          "fair_odds": 3.5965451001828312,
           "bookmaker_odds": 3.35,
           "bookmaker_prices": {
             "Betcha": 3.35,
             "TAB NZ": 3.35,
             "Best Available": 3.35
           },
-          "ev": -0.06830977441584474
-        },
-        {
-          "player": "Jeremiah Nanai",
-          "nrl_player_id": 100006109,
-          "team": "North Queensland Cowboys",
-          "probability": 0.2696020702734081,
-          "fair_odds": 3.7091703301309327,
-          "bookmaker_odds": 3.8,
-          "bookmaker_prices": {
-            "Betcha": 3.8,
-            "TAB NZ": 3.8,
-            "Best Available": 3.8
-          },
-          "ev": 0.024487867038950784
+          "ev": -0.06855053761742014
         },
         {
           "player": "Briton Nikora",
           "nrl_player_id": 507062,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.26671702321615465,
-          "fair_odds": 3.749291994720461,
+          "probability": 0.26671424359526935,
+          "fair_odds": 3.7493310687878716,
           "bookmaker_odds": 3.5,
           "bookmaker_prices": {
             "Betcha": 3.5,
             "TAB NZ": 3.5,
             "Best Available": 3.5
           },
-          "ev": -0.06649041874345873
+          "ev": -0.0665001474165573
         },
         {
           "player": "Scott Drinkwater",
           "nrl_player_id": 504087,
           "team": "North Queensland Cowboys",
-          "probability": 0.26599412686290563,
-          "fair_odds": 3.7594815035724594,
+          "probability": 0.265996901701297,
+          "fair_odds": 3.7594422852449494,
           "bookmaker_odds": 2.8,
           "bookmaker_prices": {
             "Betcha": 2.8,
             "TAB NZ": 2.8,
             "Best Available": 2.8
           },
-          "ev": -0.2552164447838643
+          "ev": -0.2552086752363685
         },
         {
           "player": "Zac Laybutt",
           "nrl_player_id": 510612,
           "team": "North Queensland Cowboys",
-          "probability": 0.2613876296575583,
-          "fair_odds": 3.825735752338745,
+          "probability": 0.2613903735541988,
+          "fair_odds": 3.8256955923920124,
           "bookmaker_odds": 2.4,
           "bookmaker_prices": {
             "Betcha": 2.4,
             "TAB NZ": 2.4,
             "Best Available": 2.4
           },
-          "ev": -0.37266968882186013
+          "ev": -0.37266310346992293
         },
         {
           "player": "Teig Wilton",
           "nrl_player_id": 507615,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.2464279310281913,
-          "fair_odds": 4.057981560075673,
+          "probability": 0.2464252917946226,
+          "fair_odds": 4.058025021366015,
           "bookmaker_odds": 3.7,
           "bookmaker_prices": {
             "Betcha": 3.7,
             "TAB NZ": 3.7,
             "Best Available": 3.7
           },
-          "ev": -0.0882166551956921
+          "ev": -0.08822642035989625
+        },
+        {
+          "player": "Jeremiah Nanai",
+          "nrl_player_id": 100006109,
+          "team": "North Queensland Cowboys",
+          "probability": 0.2429061030560651,
+          "fair_odds": 4.116817105123086,
+          "bookmaker_odds": 4.5,
+          "bookmaker_prices": {
+            "Betcha": 4.5,
+            "TAB NZ": 4.5,
+            "Best Available": 4.5
+          },
+          "ev": 0.09307746375229309
         },
         {
           "player": "Nicho Hynes",
           "nrl_player_id": 502490,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.23313260950353687,
-          "fair_odds": 4.289404224186102,
+          "probability": 0.23313006861089206,
+          "fair_odds": 4.289450974550432,
           "bookmaker_odds": 3.7,
           "bookmaker_prices": {
             "Betcha": 3.7,
             "TAB NZ": 3.7,
             "Best Available": 3.7
           },
-          "ev": -0.13740934483691358
+          "ev": -0.1374187461396994
         },
         {
           "player": "Heilum Luki",
           "nrl_player_id": 100001946,
           "team": "North Queensland Cowboys",
-          "probability": 0.21141039333594935,
-          "fair_odds": 4.730136414868278,
+          "probability": 0.2114127627656727,
+          "fair_odds": 4.7300834013904245,
           "bookmaker_odds": 4.4,
           "bookmaker_prices": {
             "Betcha": 4.4,
             "TAB NZ": 4.4,
             "Best Available": 4.4
           },
-          "ev": -0.06979426932182276
+          "ev": -0.06978384383104008
         },
         {
           "player": "Braydon Trindall",
           "nrl_player_id": 504321,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.18034192382052078,
-          "fair_odds": 5.545022359832516,
+          "probability": 0.1803398229846928,
+          "fair_odds": 5.545086955557673,
           "bookmaker_odds": 3.1,
           "bookmaker_prices": {
             "Betcha": 3.1,
             "TAB NZ": 3.1,
             "Best Available": 3.1
           },
-          "ev": -0.44094003615638555
+          "ev": -0.4409465487474523
         },
         {
           "player": "Siosifa Talakai",
           "nrl_player_id": 504175,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.1575392545827123,
-          "fair_odds": 6.347624296235154,
+          "probability": 0.15753736832506215,
+          "fair_odds": 6.347700298868792,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6,
             "TAB NZ": 6.6,
             "Best Available": 6.6
           },
-          "ev": 0.039759080245901135
+          "ev": 0.0397466309454102
         },
         {
           "player": "Tom Dearden",
           "nrl_player_id": 506424,
           "team": "North Queensland Cowboys",
-          "probability": 0.15365210156255232,
-          "fair_odds": 6.508209063400909,
-          "bookmaker_odds": 4.0,
+          "probability": 0.15365394978495586,
+          "fair_odds": 6.508130779583182,
+          "bookmaker_odds": 3.9,
           "bookmaker_prices": {
-            "Betcha": 4.0,
-            "TAB NZ": 4.0,
-            "Best Available": 4.0
+            "Betcha": 3.9,
+            "TAB NZ": 3.9,
+            "Best Available": 3.9
           },
-          "ev": -0.3853915937497907
+          "ev": -0.4007495958386722
         },
         {
           "player": "Addin Fonua-Blake",
           "nrl_player_id": 500449,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.14827780648952604,
-          "fair_odds": 6.744097607558265,
+          "probability": 0.14827598571282669,
+          "fair_odds": 6.744180422693319,
           "bookmaker_odds": 6.2,
           "bookmaker_prices": {
             "Betcha": 6.2,
             "TAB NZ": 6.2,
             "Best Available": 6.2
           },
-          "ev": -0.08067759976493849
+          "ev": -0.08068888858047452
         },
         {
           "player": "Billy Burns",
           "nrl_player_id": 505413,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.1477026542224965,
-          "fair_odds": 6.7703590383258705,
+          "probability": 0.14770083951554244,
+          "fair_odds": 6.770442221452443,
           "bookmaker_odds": 5.4,
           "bookmaker_prices": {
             "Betcha": 5.4,
             "TAB NZ": 5.4,
             "Best Available": 5.4
           },
-          "ev": -0.20240566719851882
+          "ev": -0.2024154666160708
+        },
+        {
+          "player": "John Bateman",
+          "nrl_player_id": 502214,
+          "team": "North Queensland Cowboys",
+          "probability": 0.13881080030722343,
+          "fair_odds": 7.20405038935549,
+          "bookmaker_odds": 7.0,
+          "bookmaker_prices": {
+            "Betcha": 7.0,
+            "TAB NZ": 7.0,
+            "Best Available": 7.0
+          },
+          "ev": -0.028324397849436078
         },
         {
           "player": "Thomas Hazelton",
           "nrl_player_id": 510238,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.13725600155306755,
-          "fair_odds": 7.28565591802824,
+          "probability": 0.13725429177595536,
+          "fair_odds": 7.28574667546522,
           "bookmaker_odds": 9.25,
           "bookmaker_prices": {
             "Betcha": 9.25,
             "TAB NZ": 9.25,
             "Best Available": 9.25
           },
-          "ev": 0.26961801436587485
+          "ev": 0.26960219892758697
         },
         {
           "player": "Cameron McInnes",
           "nrl_player_id": 500180,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.1348074807665324,
-          "fair_odds": 7.417985962751276,
+          "probability": 0.13480579263846065,
+          "fair_odds": 7.418078855720447,
           "bookmaker_odds": 8.25,
           "bookmaker_prices": {
             "Betcha": 8.25,
             "TAB NZ": 8.25,
             "Best Available": 8.25
           },
-          "ev": 0.11216171632389238
+          "ev": 0.1121477892673004
         },
         {
           "player": "Jake Clifford",
           "nrl_player_id": 505894,
           "team": "North Queensland Cowboys",
-          "probability": 0.13085547265472,
-          "fair_odds": 7.642018936713761,
+          "probability": 0.13085711850367954,
+          "fair_odds": 7.6419228195971725,
           "bookmaker_odds": 4.75,
           "bookmaker_prices": {
             "Betcha": 4.75,
             "TAB NZ": 4.75,
             "Best Available": 4.75
           },
-          "ev": -0.37843650489007996
+          "ev": -0.3784286871075222
         },
         {
           "player": "Reed Mahoney",
           "nrl_player_id": 505460,
           "team": "North Queensland Cowboys",
-          "probability": 0.11910313148446826,
-          "fair_odds": 8.396084868099424,
+          "probability": 0.11910465480101332,
+          "fair_odds": 8.395977484429032,
           "bookmaker_odds": 7.75,
           "bookmaker_prices": {
             "Betcha": 7.75,
             "TAB NZ": 7.75,
             "Best Available": 7.75
           },
-          "ev": -0.07695073099537098
+          "ev": -0.07693892529214685
         },
         {
           "player": "Blayke Brailey",
           "nrl_player_id": 504274,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.1163205158564364,
-          "fair_odds": 8.59693573947185,
+          "probability": 0.11631902345800688,
+          "fair_odds": 8.597046040031593,
           "bookmaker_odds": 6.8,
           "bookmaker_prices": {
             "Betcha": 6.8,
             "TAB NZ": 6.8,
             "Best Available": 6.8
           },
-          "ev": -0.20902049217623253
+          "ev": -0.2090306404855533
         },
         {
           "player": "Coen Hess",
           "nrl_player_id": 500405,
           "team": "North Queensland Cowboys",
-          "probability": 0.10832321793084186,
-          "fair_odds": 9.23163121537289,
+          "probability": 0.10832462449390677,
+          "fair_odds": 9.231511345384352,
           "bookmaker_odds": 11.5,
           "bookmaker_prices": {
             "Betcha": 11.5,
             "TAB NZ": 11.5,
             "Best Available": 11.5
           },
-          "ev": 0.2457170062046814
+          "ev": 0.24573318167992797
         },
         {
           "player": "Jesse Colquhoun",
           "nrl_player_id": 100004272,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.0982591144215113,
-          "fair_odds": 10.177172935939627,
+          "probability": 0.09825782065501024,
+          "fair_odds": 10.177306939373983,
           "bookmaker_odds": 8.5,
           "bookmaker_prices": {
             "Betcha": 8.5,
             "TAB NZ": 8.5,
             "Best Available": 8.5
           },
-          "ev": -0.16479752741715392
+          "ev": -0.164808524432413
         },
         {
           "player": "Reuben Cotter",
           "nrl_player_id": 504374,
           "team": "North Queensland Cowboys",
-          "probability": 0.09814059208106095,
-          "fair_odds": 10.189463694839262,
+          "probability": 0.09814188732428006,
+          "fair_odds": 10.189329217766149,
           "bookmaker_odds": 12.5,
           "bookmaker_prices": {
             "Betcha": 12.5,
             "TAB NZ": 12.5,
             "Best Available": 12.5
           },
-          "ev": 0.2267574010132618
-        },
-        {
-          "player": "John Bateman",
-          "nrl_player_id": 502214,
-          "team": "North Queensland Cowboys",
-          "probability": 0.09180177153803906,
-          "fair_odds": 10.893035975734293,
-          "bookmaker_odds": 8.75,
-          "bookmaker_prices": {
-            "Betcha": 8.75,
-            "TAB NZ": 8.75,
-            "Best Available": 8.75
-          },
-          "ev": -0.19673449904215823
+          "ev": 0.22677359155350074
         },
         {
           "player": "Jason Taumalolo",
           "nrl_player_id": 500301,
           "team": "North Queensland Cowboys",
-          "probability": 0.09047405374971727,
-          "fair_odds": 11.052892609038478,
+          "probability": 0.09047522326617544,
+          "fair_odds": 11.052749735228943,
           "bookmaker_odds": 9.75,
           "bookmaker_prices": {
             "Betcha": 9.75,
             "TAB NZ": 9.75,
             "Best Available": 9.75
           },
-          "ev": -0.11787797594025662
+          "ev": -0.11786657315478954
         },
         {
           "player": "Griffin Neame",
           "nrl_player_id": 100004869,
           "team": "North Queensland Cowboys",
-          "probability": 0.08068147533491198,
-          "fair_odds": 12.394418865656096,
+          "probability": 0.0806825294962846,
+          "fair_odds": 12.394256925795188,
           "bookmaker_odds": 12.5,
           "bookmaker_prices": {
             "Betcha": 12.5,
             "TAB NZ": 12.5,
             "Best Available": 12.5
           },
-          "ev": 0.008518441686399703
+          "ev": 0.008531618703557564
         },
         {
           "player": "Oregon Kaufusi",
           "nrl_player_id": 504460,
           "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.07916112260401069,
-          "fair_odds": 12.632463602143702,
+          "probability": 0.07916008660900607,
+          "fair_odds": 12.632628927495762,
           "bookmaker_odds": 8.75,
           "bookmaker_prices": {
             "Betcha": 8.75,
             "TAB NZ": 8.75,
             "Best Available": 8.75
           },
-          "ev": -0.3073401772149065
+          "ev": -0.30734924217119686
         },
         {
           "player": "Soni Luke",
           "nrl_player_id": 502756,
           "team": "North Queensland Cowboys",
-          "probability": 0.0787949226544442,
-          "fair_odds": 12.691173064354775,
-          "bookmaker_odds": 9.75,
+          "probability": 0.07879595427936334,
+          "fair_odds": 12.691006906961212,
+          "bookmaker_odds": 9.5,
           "bookmaker_prices": {
-            "Betcha": 9.75,
-            "TAB NZ": 9.75,
-            "Best Available": 9.75
+            "Betcha": 9.5,
+            "TAB NZ": 9.5,
+            "Best Available": 9.5
           },
-          "ev": -0.23174950411916906
+          "ev": -0.2514384343460483
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.20296,
-        "fair_odds": 4.927079227433977,
+        "probability": 0.20016,
+        "fair_odds": 4.996003197442047,
         "singles_product_odds": 3.294,
         "target_met": false,
         "legs": [
           {
             "player": "Ronaldo Mulitalo",
             "team": "Cronulla-Sutherland Sharks",
-            "probability": 0.4689028759833863,
-            "fair_odds": 2.1326378045832906,
+            "probability": 0.46889938099738365,
+            "fair_odds": 2.1326537004014083,
             "market_odds": 1.83
           },
           {
             "player": "Sione Katoa",
             "team": "Cronulla-Sutherland Sharks",
-            "probability": 0.4348998703304213,
-            "fair_odds": 2.299379853206753,
+            "probability": 0.4348963102034152,
+            "fair_odds": 2.2993986762781855,
             "market_odds": 1.8
           }
         ],
@@ -1530,23 +724,23 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.20296,
-          "fair_odds": 4.927079227433977,
+          "probability": 0.20016,
+          "fair_odds": 4.996003197442047,
           "singles_product_odds": 3.294,
           "target_met": false,
           "legs": [
             {
               "player": "Ronaldo Mulitalo",
               "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.4689028759833863,
-              "fair_odds": 2.1326378045832906,
+              "probability": 0.46889938099738365,
+              "fair_odds": 2.1326537004014083,
               "market_odds": 1.83
             },
             {
               "player": "Sione Katoa",
               "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.4348998703304213,
-              "fair_odds": 2.299379853206753,
+              "probability": 0.4348963102034152,
+              "fair_odds": 2.2993986762781855,
               "market_odds": 1.8
             }
           ],
@@ -1557,23 +751,23 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.20296,
-          "fair_odds": 4.927079227433977,
+          "probability": 0.20016,
+          "fair_odds": 4.996003197442047,
           "singles_product_odds": 3.294,
           "target_met": false,
           "legs": [
             {
               "player": "Ronaldo Mulitalo",
               "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.4689028759833863,
-              "fair_odds": 2.1326378045832906,
+              "probability": 0.46889938099738365,
+              "fair_odds": 2.1326537004014083,
               "market_odds": 1.83
             },
             {
               "player": "Sione Katoa",
               "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.4348998703304213,
-              "fair_odds": 2.299379853206753,
+              "probability": 0.4348963102034152,
+              "fair_odds": 2.2993986762781855,
               "market_odds": 1.8
             }
           ],
@@ -1584,23 +778,23 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.20296,
-          "fair_odds": 4.927079227433977,
+          "probability": 0.20016,
+          "fair_odds": 4.996003197442047,
           "singles_product_odds": 3.294,
           "target_met": false,
           "legs": [
             {
               "player": "Ronaldo Mulitalo",
               "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.4689028759833863,
-              "fair_odds": 2.1326378045832906,
+              "probability": 0.46889938099738365,
+              "fair_odds": 2.1326537004014083,
               "market_odds": 1.83
             },
             {
               "player": "Sione Katoa",
               "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.4348998703304213,
-              "fair_odds": 2.299379853206753,
+              "probability": 0.4348963102034152,
+              "fair_odds": 2.2993986762781855,
               "market_odds": 1.8
             }
           ],
@@ -1625,7 +819,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "035d6d700c30aa9d"
+      "summary_id": "f3c25b2b23dcb293"
     },
     {
       "status": "upcoming",
@@ -1634,14 +828,14 @@
       "away_team": "Sydney Roosters",
       "kickoff": "Sun 13 Sep, 6:05 PM NZT",
       "venue": "CommBank Stadium",
-      "home_win_probability": 0.6700332120591728,
-      "away_win_probability": 0.32996678794082723,
-      "independent_home_win_probability": 0.6700332120591728,
-      "independent_away_win_probability": 0.32996678794082723,
-      "home_fair_odds": 1.4924633316709184,
-      "away_fair_odds": 3.0306080385863847,
-      "home_conservative_fair_odds": 1.4614243358186316,
-      "away_conservative_fair_odds": 3.167202556028735,
+      "home_win_probability": 0.6679622591895338,
+      "away_win_probability": 0.3320377408104662,
+      "independent_home_win_probability": 0.6679622591895338,
+      "independent_away_win_probability": 0.3320377408104662,
+      "home_fair_odds": 1.4970905709752844,
+      "away_fair_odds": 3.011705830665858,
+      "home_conservative_fair_odds": 1.463183380014049,
+      "away_conservative_fair_odds": 3.158972111584981,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -1654,8 +848,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:24.346202+00:00",
-          "snapshot_id": "2d57ebb30312974e74e63b06",
+          "observed_at": "2026-09-12T08:30:16.972899+00:00",
+          "snapshot_id": "e0a3d4eb7383e8f3d30c9693",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": []
         },
@@ -1669,8 +863,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:31.212512+00:00",
-          "snapshot_id": "4fe7fe4f838c8d258a0817c1",
+          "observed_at": "2026-09-12T08:30:23.442870+00:00",
+          "snapshot_id": "0eec5540f3aa04f5dcad2143",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": []
         },
@@ -1684,7 +878,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:31.212512+00:00",
+          "observed_at": "2026-09-12T08:30:23.442870+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -1707,18 +901,18 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:24.346202+00:00",
-          "snapshot_id": "2d57ebb30312974e74e63b06",
+          "observed_at": "2026-09-12T08:30:16.972899+00:00",
+          "snapshot_id": "e0a3d4eb7383e8f3d30c9693",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": [],
-          "home_cover_probability": 0.3801475989986056,
-          "away_cover_probability": 0.6198524010013944,
-          "over_probability": 0.49087326170522194,
-          "under_probability": 0.5091267382947781,
-          "home_line_fair_odds": 2.630557190507648,
-          "away_line_fair_odds": 1.6132872896587367,
-          "over_fair_odds": 2.0371857218829685,
-          "under_fair_odds": 1.9641474799561842
+          "home_cover_probability": 0.3779745264837795,
+          "away_cover_probability": 0.6220254735162205,
+          "over_probability": 0.490719405837606,
+          "under_probability": 0.509280594162394,
+          "home_line_fair_odds": 2.645680938614561,
+          "away_line_fair_odds": 1.6076512017219229,
+          "over_fair_odds": 2.037824443264285,
+          "under_fair_odds": 1.963554102517267
         },
         "TAB NZ": {
           "home_h2h": 1.35,
@@ -1730,18 +924,18 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:31.212512+00:00",
-          "snapshot_id": "4fe7fe4f838c8d258a0817c1",
+          "observed_at": "2026-09-12T08:30:23.442870+00:00",
+          "snapshot_id": "0eec5540f3aa04f5dcad2143",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": [],
-          "home_cover_probability": 0.3801475989986056,
-          "away_cover_probability": 0.6198524010013944,
-          "over_probability": 0.49087326170522194,
-          "under_probability": 0.5091267382947781,
-          "home_line_fair_odds": 2.630557190507648,
-          "away_line_fair_odds": 1.6132872896587367,
-          "over_fair_odds": 2.0371857218829685,
-          "under_fair_odds": 1.9641474799561842
+          "home_cover_probability": 0.3779745264837795,
+          "away_cover_probability": 0.6220254735162205,
+          "over_probability": 0.490719405837606,
+          "under_probability": 0.509280594162394,
+          "home_line_fair_odds": 2.645680938614561,
+          "away_line_fair_odds": 1.6076512017219229,
+          "over_fair_odds": 2.037824443264285,
+          "under_fair_odds": 1.963554102517267
         },
         "Best Available": {
           "home_h2h": 1.35,
@@ -1753,65 +947,65 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T07:59:31.212512+00:00",
+          "observed_at": "2026-09-12T08:30:23.442870+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
-          "home_cover_probability": 0.3801475989986056,
-          "away_cover_probability": 0.6198524010013944,
-          "over_probability": 0.49087326170522194,
-          "under_probability": 0.5091267382947781,
-          "home_line_fair_odds": 2.630557190507648,
-          "away_line_fair_odds": 1.6132872896587367,
-          "over_fair_odds": 2.0371857218829685,
-          "under_fair_odds": 1.9641474799561842
+          "home_cover_probability": 0.3779745264837795,
+          "away_cover_probability": 0.6220254735162205,
+          "over_probability": 0.490719405837606,
+          "under_probability": 0.509280594162394,
+          "home_line_fair_odds": 2.645680938614561,
+          "away_line_fair_odds": 1.6076512017219229,
+          "over_fair_odds": 2.037824443264285,
+          "under_fair_odds": 1.963554102517267
         }
       },
       "home_bookmaker_odds": 1.35,
       "away_bookmaker_odds": 3.3,
-      "home_h2h_ev": -0.09545516372011675,
-      "away_h2h_ev": 0.08889040020472971,
+      "home_h2h_ev": -0.09825095009412932,
+      "away_h2h_ev": 0.0957245446745385,
       "winner": "Penrith Panthers",
-      "home_points": 23.906315398399876,
-      "away_points": 18.296253231090773,
+      "home_points": 23.86739653380406,
+      "away_points": 18.330157187963433,
       "likely_home_points": 24,
       "likely_away_points": 18,
-      "projected_margin": 5.610062167309103,
-      "projected_total": 42.20256862949065,
-      "close_game_probability": 0.43974844581727235,
+      "projected_margin": 5.537239345840629,
+      "projected_total": 42.19755372176749,
+      "close_game_probability": 0.44156901635398427,
       "fav_1_12_probability": 0.62,
       "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.48958990203217273,
+      "high_scoring_probability": 0.4894143802618622,
       "margin_probabilities": {
-        "Penrith Panthers 1-12": 0.36124734195074004,
-        "Penrith Panthers 13+": 0.294464988723124,
-        "Sydney Roosters 1-12": 0.23814480075305947,
-        "Sydney Roosters 13+": 0.07774606309270585
+        "Penrith Panthers 1-12": 0.36110820202973254,
+        "Penrith Panthers 13+": 0.29249898659536955,
+        "Sydney Roosters 1-12": 0.2393446793042856,
+        "Sydney Roosters 13+": 0.07858037277607267
       },
-      "margin_remainder_probability": 0.028396805480370713,
+      "margin_remainder_probability": 0.028467759294539596,
       "market_line": -9.5,
       "home_line_odds": 1.9,
       "away_line": 9.5,
       "away_line_odds": 1.9,
-      "home_cover_probability": 0.3801475989986056,
-      "away_cover_probability": 0.6198524010013944,
-      "home_line_fair_odds": 2.630557190507648,
-      "away_line_fair_odds": 1.6132872896587367,
-      "home_line_ev": -0.27771956190264935,
-      "away_line_ev": 0.17771956190264926,
+      "home_cover_probability": 0.3779745264837795,
+      "away_cover_probability": 0.6220254735162205,
+      "home_line_fair_odds": 2.645680938614561,
+      "away_line_fair_odds": 1.6076512017219229,
+      "home_line_ev": -0.281848399680819,
+      "away_line_ev": 0.1818483996808189,
       "market_total": 42.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.49087326170522194,
-      "under_probability": 0.5091267382947781,
-      "over_ev": -0.06734080276007837,
-      "under_ev": -0.03265919723992172,
+      "over_probability": 0.490719405837606,
+      "under_probability": 0.509280594162394,
+      "over_ev": -0.06763312890854867,
+      "under_ev": -0.03236687109145142,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 63,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-12T07:59:24.346202+00:00",
+      "bookmaker_observed_at": "2026-09-12T08:30:16.972899+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -1822,7 +1016,7 @@
         "referee_margin": -0.1209026387184289,
         "referee_total": -0.06893579523414789,
         "late_season_margin": -2.0,
-        "controlled_context_margin": 3.0887560403470182
+        "controlled_context_margin": 3.063451313377759
       },
       "drivers": [
         "Point-in-time scoring base: Penrith Panthers 26.4 PF / 17.2 PA from 70 prior games; Sydney Roosters 25.7 PF / 20.7 PA from 70 prior games.",
@@ -1835,494 +1029,494 @@
         "Weather Fine / Dry: scoring +1.1% vs NRL across 1306 games; CommBank Stadium in fine / dry conditions +1.1% vs its own baseline across 95 games. Sample-shrunk forecast effect +0.4 points.",
         "Referee Gerard Sutton environment: stoppages -0.2% vs NRL, historical scoring -0.5% vs NRL and home-win environment -4.1% vs NRL; conservative adjustments -0.1 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied -2.00 home-margin points: Penrith Panthers elite effect -1.13 (n=33) active; Sydney Roosters elite effect +0.98 (n=46) active.",
-        "Stacked-advantage control: learned context +3.86, live availability -0.77, final downstream adjustment +3.09; same-direction evidence cap 5.00, opposing cap 5.00.",
+        "Stacked-advantage control: learned context +3.83, live availability -0.77, final downstream adjustment +3.06; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 63/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 64.1% of the -4.0pp raw market disagreement, leaving -2.5pp of betting edge."
+        "Market-relative H2H calibration retains 62.9% of the -4.2pp raw market disagreement, leaving -2.6pp of betting edge."
       ],
       "ats_players": [
         {
           "player": "Brian To'o",
           "nrl_player_id": 505410,
           "team": "Penrith Panthers",
-          "probability": 0.3622990924186197,
-          "fair_odds": 2.7601504417917413,
+          "probability": 0.3622824646785566,
+          "fair_odds": 2.7602771248872693,
           "bookmaker_odds": 2.05,
           "bookmaker_prices": {
             "Betcha": 2.05,
             "TAB NZ": 2.05,
             "Best Available": 2.05
           },
-          "ev": -0.2572868605418297
+          "ev": -0.25732094740895894
         },
         {
           "player": "Thomas Jenkins",
           "nrl_player_id": 100007927,
           "team": "Penrith Panthers",
-          "probability": 0.36193225927302164,
-          "fair_odds": 2.762947967137838,
+          "probability": 0.36191562909151115,
+          "fair_odds": 2.763074925805837,
           "bookmaker_odds": 1.83,
           "bookmaker_prices": {
             "Betcha": 1.83,
             "TAB NZ": 1.83,
             "Best Available": 1.83
           },
-          "ev": -0.33766396553037037
+          "ev": -0.3376943987625346
         },
         {
           "player": "Mark Nawaqanitawase",
           "nrl_player_id": 100018452,
           "team": "Sydney Roosters",
-          "probability": 0.3553145032632817,
-          "fair_odds": 2.814408054880377,
+          "probability": 0.35533084472864007,
+          "fair_odds": 2.814278621839549,
           "bookmaker_odds": 2.55,
           "bookmaker_prices": {
             "Betcha": 2.55,
             "TAB NZ": 2.55,
             "Best Available": 2.55
           },
-          "ev": -0.09394801667863173
+          "ev": -0.0939063459419679
         },
         {
           "player": "Daniel Tupou",
           "nrl_player_id": 500002,
           "team": "Sydney Roosters",
-          "probability": 0.3216944719342085,
-          "fair_odds": 3.10853958411979,
+          "probability": 0.3217099167129778,
+          "fair_odds": 3.108390348104119,
           "bookmaker_odds": 2.6,
           "bookmaker_prices": {
             "Betcha": 2.6,
             "TAB NZ": 2.6,
             "Best Available": 2.6
           },
-          "ev": -0.16359437297105783
+          "ev": -0.1635542165462578
         },
         {
           "player": "Casey McLean",
           "nrl_player_id": 100011678,
           "team": "Penrith Panthers",
-          "probability": 0.30787258686943225,
-          "fair_odds": 3.2480969162223485,
+          "probability": 0.3078575048872928,
+          "fair_odds": 3.248256040943689,
           "bookmaker_odds": 2.25,
           "bookmaker_prices": {
             "Betcha": 2.25,
             "TAB NZ": 2.25,
             "Best Available": 2.25
           },
-          "ev": -0.3072866795437774
+          "ev": -0.30732061400359123
         },
         {
           "player": "James Tedesco",
           "nrl_player_id": 500663,
           "team": "Sydney Roosters",
-          "probability": 0.2938143851806944,
-          "fair_odds": 3.4035093257432063,
+          "probability": 0.29382907124806396,
+          "fair_odds": 3.4033392126667894,
           "bookmaker_odds": 3.3,
           "bookmaker_prices": {
             "Betcha": 3.3,
             "TAB NZ": 3.3,
             "Best Available": 3.3
           },
-          "ev": -0.03041252890370849
+          "ev": -0.030364064881388986
         },
         {
           "player": "Dylan Edwards",
           "nrl_player_id": 503340,
           "team": "Penrith Panthers",
-          "probability": 0.2789438217346802,
-          "fair_odds": 3.584951241369162,
+          "probability": 0.2789295857893826,
+          "fair_odds": 3.5851342093021703,
           "bookmaker_odds": 2.75,
           "bookmaker_prices": {
             "Betcha": 2.75,
             "TAB NZ": 2.75,
             "Best Available": 2.75
           },
-          "ev": -0.23290449022962945
+          "ev": -0.2329436390791979
         },
         {
           "player": "Robert Toia",
           "nrl_player_id": 100008243,
           "team": "Sydney Roosters",
-          "probability": 0.24430607360312862,
-          "fair_odds": 4.093226112849263,
+          "probability": 0.24431914118747486,
+          "fair_odds": 4.093007183717399,
           "bookmaker_odds": 3.5,
           "bookmaker_prices": {
             "Betcha": 3.5,
             "TAB NZ": 3.5,
             "Best Available": 3.5
           },
-          "ev": -0.14492874238904985
+          "ev": -0.14488300584383795
         },
         {
           "player": "Billy Smith",
           "nrl_player_id": 509128,
           "team": "Sydney Roosters",
-          "probability": 0.24205595551184728,
-          "fair_odds": 4.131276166642616,
+          "probability": 0.24206894129369477,
+          "fair_odds": 4.131054544443729,
           "bookmaker_odds": 3.5,
           "bookmaker_prices": {
             "Betcha": 3.5,
             "TAB NZ": 3.5,
             "Best Available": 3.5
           },
-          "ev": -0.15280415570853456
+          "ev": -0.15275870547206827
         },
         {
           "player": "Luke Garner",
           "nrl_player_id": 501271,
           "team": "Penrith Panthers",
-          "probability": 0.23642757142929435,
-          "fair_odds": 4.229625140395516,
+          "probability": 0.23641479388150347,
+          "fair_odds": 4.229853739615056,
           "bookmaker_odds": 3.35,
           "bookmaker_prices": {
             "Betcha": 3.35,
             "TAB NZ": 3.35,
             "Best Available": 3.35
           },
-          "ev": -0.20796763571186394
+          "ev": -0.20801044049696338
         },
         {
           "player": "Nathan Cleary",
           "nrl_player_id": 504120,
           "team": "Penrith Panthers",
-          "probability": 0.20981952161861175,
-          "fair_odds": 4.766000762396631,
+          "probability": 0.20980778695822358,
+          "fair_odds": 4.766267327337653,
           "bookmaker_odds": 3.45,
           "bookmaker_prices": {
             "Betcha": 3.45,
             "TAB NZ": 3.45,
             "Best Available": 3.45
           },
-          "ev": -0.27612265041578943
+          "ev": -0.2761631349941286
         },
         {
           "player": "Liam Martin",
           "nrl_player_id": 504125,
           "team": "Penrith Panthers",
-          "probability": 0.1733934562609846,
-          "fair_odds": 5.767230330162182,
+          "probability": 0.17338331180506344,
+          "fair_odds": 5.767567764101252,
           "bookmaker_odds": 3.6,
           "bookmaker_prices": {
             "Betcha": 3.6,
             "TAB NZ": 3.6,
             "Best Available": 3.6
           },
-          "ev": -0.37578355746045544
+          "ev": -0.3758200775017716
         },
         {
           "player": "Isaiah Papali'i",
           "nrl_player_id": 505976,
           "team": "Penrith Panthers",
-          "probability": 0.16269708534281915,
-          "fair_odds": 6.146391608017435,
+          "probability": 0.16268744351739356,
+          "fair_odds": 6.146755879737492,
           "bookmaker_odds": 5.0,
           "bookmaker_prices": {
             "Betcha": 5.0,
             "TAB NZ": 5.0,
             "Best Available": 5.0
           },
-          "ev": -0.18651457328590426
+          "ev": -0.18656278241303226
         },
         {
           "player": "Hugo Savala",
           "nrl_player_id": 509599,
           "team": "Sydney Roosters",
-          "probability": 0.14131398793802624,
-          "fair_odds": 7.076440305672738,
+          "probability": 0.1413227105848702,
+          "fair_odds": 7.076003537304488,
           "bookmaker_odds": 4.5,
           "bookmaker_prices": {
             "Betcha": 4.5,
             "TAB NZ": 4.5,
             "Best Available": 4.5
           },
-          "ev": -0.3640870542788819
+          "ev": -0.3640478023680841
         },
         {
           "player": "Daly Cherry-Evans",
           "nrl_player_id": 500024,
           "team": "Sydney Roosters",
-          "probability": 0.13540005208573427,
-          "fair_odds": 7.385521531164609,
+          "probability": 0.1354084741787181,
+          "fair_odds": 7.385062168857732,
           "bookmaker_odds": 6.2,
           "bookmaker_prices": {
             "Betcha": 6.2,
             "TAB NZ": 6.2,
             "Best Available": 6.2
           },
-          "ev": -0.1605196770684475
+          "ev": -0.1604674600919478
         },
         {
           "player": "Isaah Yeo",
           "nrl_player_id": 500534,
           "team": "Penrith Panthers",
-          "probability": 0.12917334539271685,
-          "fair_odds": 7.741535197991262,
+          "probability": 0.12916522799002686,
+          "fair_odds": 7.742021715606094,
           "bookmaker_odds": 7.25,
           "bookmaker_prices": {
             "Betcha": 7.25,
             "TAB NZ": 7.25,
             "Best Available": 7.25
           },
-          "ev": -0.06349324590280281
+          "ev": -0.06355209707230525
         },
         {
           "player": "Siua Wong",
           "nrl_player_id": 100004373,
           "team": "Sydney Roosters",
-          "probability": 0.12510080651270455,
-          "fair_odds": 7.9935535819143215,
+          "probability": 0.12510872451309035,
+          "fair_odds": 7.993047678264582,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "TAB NZ": 7.0,
             "Best Available": 7.0
           },
-          "ev": -0.12429435441106818
+          "ev": -0.12423892840836759
         },
         {
           "player": "Victor Radley",
           "nrl_player_id": 503920,
           "team": "Sydney Roosters",
-          "probability": 0.11004877853510027,
-          "fair_odds": 9.086879593861626,
+          "probability": 0.11005587994581531,
+          "fair_odds": 9.086293258409619,
           "bookmaker_odds": 11.0,
           "bookmaker_prices": {
             "Betcha": 11.0,
             "TAB NZ": 11.0,
             "Best Available": 11.0
           },
-          "ev": 0.21053656388610298
+          "ev": 0.2106146794039685
         },
         {
           "player": "Salesi Foketi",
           "nrl_player_id": 100008234,
           "team": "Sydney Roosters",
-          "probability": 0.10941192944070388,
-          "fair_odds": 9.139771185023777,
+          "probability": 0.10941901894585708,
+          "fair_odds": 9.13917899862383,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6,
             "TAB NZ": 6.6,
             "Best Available": 6.6
           },
-          "ev": -0.2778812656913544
+          "ev": -0.27783447495734326
         },
         {
           "player": "Jack Cole",
           "nrl_player_id": 100003896,
           "team": "Penrith Panthers",
-          "probability": 0.10531734209385185,
-          "fair_odds": 9.495112391925597,
+          "probability": 0.10531049428150478,
+          "fair_odds": 9.495729811379544,
           "bookmaker_odds": 5.2,
           "bookmaker_prices": {
             "Betcha": 5.2,
             "TAB NZ": 5.2,
             "Best Available": 5.2
           },
-          "ev": -0.4523498211119703
+          "ev": -0.4523854297361751
         },
         {
           "player": "Reece Robson",
           "nrl_player_id": 503944,
           "team": "Sydney Roosters",
-          "probability": 0.09344281355405232,
-          "fair_odds": 10.701732556688766,
+          "probability": 0.09344897570194856,
+          "fair_odds": 10.701026870422384,
           "bookmaker_odds": 10.0,
           "bookmaker_prices": {
             "Betcha": 10.0,
             "TAB NZ": 10.0,
             "Best Available": 10.0
           },
-          "ev": -0.06557186445947683
+          "ev": -0.06551024298051444
         },
         {
           "player": "Liam Henry",
           "nrl_player_id": 100007929,
           "team": "Penrith Panthers",
-          "probability": 0.08845382031707737,
-          "fair_odds": 11.305334200550462,
+          "probability": 0.08844811355356123,
+          "fair_odds": 11.306063632373949,
           "bookmaker_odds": 7.75,
           "bookmaker_prices": {
             "Betcha": 7.75,
             "TAB NZ": 7.75,
             "Best Available": 7.75
           },
-          "ev": -0.3144828925426504
+          "ev": -0.31452711995990046
         },
         {
           "player": "Connor Watson",
           "nrl_player_id": 503327,
           "team": "Sydney Roosters",
-          "probability": 0.08700775685905617,
-          "fair_odds": 11.493228145392825,
+          "probability": 0.08701354993994047,
+          "fair_odds": 11.492462963414686,
           "bookmaker_odds": 12.0,
           "bookmaker_prices": {
             "Betcha": 12.0,
             "TAB NZ": 12.0,
             "Best Available": 12.0
           },
-          "ev": 0.044093082308674036
+          "ev": 0.044162599279285564
         },
         {
           "player": "Nat Butcher",
           "nrl_player_id": 503639,
           "team": "Sydney Roosters",
-          "probability": 0.08630372893898955,
-          "fair_odds": 11.586984853307175,
+          "probability": 0.08588889200470484,
+          "fair_odds": 11.64294912484401,
           "bookmaker_odds": 16.0,
           "bookmaker_prices": {
             "Betcha": 16.0,
             "TAB NZ": 16.0,
             "Best Available": 16.0
           },
-          "ev": 0.3808596630238328
+          "ev": 0.3742222720752775
         },
         {
           "player": "Scott Sorensen",
           "nrl_player_id": 500852,
           "team": "Penrith Panthers",
-          "probability": 0.0849119899675123,
-          "fair_odds": 11.776899827487313,
+          "probability": 0.08490649042730986,
+          "fair_odds": 11.77766263765336,
           "bookmaker_odds": 9.0,
           "bookmaker_prices": {
             "Betcha": 9.0,
             "TAB NZ": 9.0,
             "Best Available": 9.0
           },
-          "ev": -0.23579209029238934
+          "ev": -0.23584158615421136
         },
         {
           "player": "Lindsay Smith",
           "nrl_player_id": 505555,
           "team": "Penrith Panthers",
-          "probability": 0.08434785951399208,
-          "fair_odds": 11.855665404693697,
+          "probability": 0.08434239314353219,
+          "fair_odds": 11.856433790042217,
           "bookmaker_odds": 7.25,
           "bookmaker_prices": {
             "Betcha": 7.25,
             "TAB NZ": 7.25,
             "Best Available": 7.25
           },
-          "ev": -0.38847801852355746
+          "ev": -0.3885176497093916
         },
         {
           "player": "Freddy Lussick",
           "nrl_player_id": 504830,
           "team": "Penrith Panthers",
-          "probability": 0.0795297279109047,
-          "fair_odds": 12.573914513077133,
+          "probability": 0.07952454667227005,
+          "fair_odds": 12.574733737510217,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6,
             "TAB NZ": 6.6,
             "Best Available": 6.6
           },
-          "ev": -0.4751037957880291
+          "ev": -0.47513799196301776
         },
         {
           "player": "Billy Phillips",
           "nrl_player_id": 100008487,
           "team": "Penrith Panthers",
-          "probability": 0.0794755946203135,
-          "fair_odds": 12.582478995940797,
+          "probability": 0.0794704166038951,
+          "fair_odds": 12.58329882658482,
           "bookmaker_odds": 8.0,
           "bookmaker_prices": {
             "Betcha": 8.0,
             "TAB NZ": 8.0,
             "Best Available": 8.0
           },
-          "ev": -0.36419524303749196
+          "ev": -0.3642366671688392
         },
         {
           "player": "Moses Leota",
           "nrl_player_id": 501461,
           "team": "Penrith Panthers",
-          "probability": 0.07631361513508225,
-          "fair_odds": 13.103821621212758,
+          "probability": 0.07630862605123866,
+          "fair_odds": 13.104678353513192,
           "bookmaker_odds": 9.75,
           "bookmaker_prices": {
             "Betcha": 9.75,
             "TAB NZ": 9.75,
             "Best Available": 9.75
           },
-          "ev": -0.255942252432948
+          "ev": -0.25599089600042313
         },
         {
           "player": "Spencer Leniu",
           "nrl_player_id": 505560,
           "team": "Sydney Roosters",
-          "probability": 0.06863229140596237,
-          "fair_odds": 14.57040089314468,
+          "probability": 0.06863681590178652,
+          "fair_odds": 14.569440421462957,
           "bookmaker_odds": 17.0,
           "bookmaker_prices": {
             "Betcha": 17.0,
             "TAB NZ": 17.0,
             "Best Available": 17.0
           },
-          "ev": 0.16674895390136024
+          "ev": 0.16682587033037088
         },
         {
           "player": "Lindsay Collins",
           "nrl_player_id": 501781,
           "team": "Sydney Roosters",
-          "probability": 0.06743427291891499,
-          "fair_odds": 14.82925457211395,
+          "probability": 0.0674387241555545,
+          "fair_odds": 14.828275779556488,
           "bookmaker_odds": 17.0,
           "bookmaker_prices": {
             "Betcha": 17.0,
             "TAB NZ": 17.0,
             "Best Available": 17.0
           },
-          "ev": 0.14638263962155484
+          "ev": 0.1464583106444266
         },
         {
           "player": "Mitch Kenny",
           "nrl_player_id": 505414,
           "team": "Penrith Panthers",
-          "probability": 0.06596604029388345,
-          "fair_odds": 15.15931524076522,
+          "probability": 0.06596167938515571,
+          "fair_odds": 15.16031746494684,
           "bookmaker_odds": 6.8,
           "bookmaker_prices": {
             "Betcha": 6.8,
             "TAB NZ": 6.8,
             "Best Available": 6.8
           },
-          "ev": -0.5514309260015926
+          "ev": -0.5514605801809411
         },
         {
           "player": "Naufahu Whyte",
           "nrl_player_id": 100006390,
           "team": "Sydney Roosters",
-          "probability": 0.060016331451183985,
-          "fair_odds": 16.66213138691056,
+          "probability": 0.06002032455438653,
+          "fair_odds": 16.661022868909427,
           "bookmaker_odds": 14.0,
           "bookmaker_prices": {
             "Betcha": 14.0,
             "TAB NZ": 14.0,
             "Best Available": 14.0
           },
-          "ev": -0.15977135968342426
+          "ev": -0.15971545623858863
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.12836,
-        "fair_odds": 7.790588968526021,
-        "singles_product_odds": 4.6665,
+        "probability": 0.1286,
+        "fair_odds": 7.776049766718508,
+        "singles_product_odds": 5.227499999999999,
         "target_met": false,
         "legs": [
           {
-            "player": "Thomas Jenkins",
+            "player": "Brian To'o",
             "team": "Penrith Panthers",
-            "probability": 0.36193225927302164,
-            "fair_odds": 2.762947967137838,
-            "market_odds": 1.83
+            "probability": 0.3622824646785566,
+            "fair_odds": 2.7602771248872693,
+            "market_odds": 2.05
           },
           {
             "player": "Mark Nawaqanitawase",
             "team": "Sydney Roosters",
-            "probability": 0.3553145032632817,
-            "fair_odds": 2.814408054880377,
+            "probability": 0.35533084472864007,
+            "fair_odds": 2.814278621839549,
             "market_odds": 2.55
           }
         ],
@@ -2337,23 +1531,23 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.12836,
-          "fair_odds": 7.790588968526021,
-          "singles_product_odds": 4.6665,
+          "probability": 0.1286,
+          "fair_odds": 7.776049766718508,
+          "singles_product_odds": 5.227499999999999,
           "target_met": false,
           "legs": [
             {
-              "player": "Thomas Jenkins",
+              "player": "Brian To'o",
               "team": "Penrith Panthers",
-              "probability": 0.36193225927302164,
-              "fair_odds": 2.762947967137838,
-              "market_odds": 1.83
+              "probability": 0.3622824646785566,
+              "fair_odds": 2.7602771248872693,
+              "market_odds": 2.05
             },
             {
               "player": "Mark Nawaqanitawase",
               "team": "Sydney Roosters",
-              "probability": 0.3553145032632817,
-              "fair_odds": 2.814408054880377,
+              "probability": 0.35533084472864007,
+              "fair_odds": 2.814278621839549,
               "market_odds": 2.55
             }
           ],
@@ -2364,23 +1558,23 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.12836,
-          "fair_odds": 7.790588968526021,
-          "singles_product_odds": 4.6665,
+          "probability": 0.1286,
+          "fair_odds": 7.776049766718508,
+          "singles_product_odds": 5.227499999999999,
           "target_met": false,
           "legs": [
             {
-              "player": "Thomas Jenkins",
+              "player": "Brian To'o",
               "team": "Penrith Panthers",
-              "probability": 0.36193225927302164,
-              "fair_odds": 2.762947967137838,
-              "market_odds": 1.83
+              "probability": 0.3622824646785566,
+              "fair_odds": 2.7602771248872693,
+              "market_odds": 2.05
             },
             {
               "player": "Mark Nawaqanitawase",
               "team": "Sydney Roosters",
-              "probability": 0.3553145032632817,
-              "fair_odds": 2.814408054880377,
+              "probability": 0.35533084472864007,
+              "fair_odds": 2.814278621839549,
               "market_odds": 2.55
             }
           ],
@@ -2391,23 +1585,23 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.12836,
-          "fair_odds": 7.790588968526021,
-          "singles_product_odds": 4.6665,
+          "probability": 0.1286,
+          "fair_odds": 7.776049766718508,
+          "singles_product_odds": 5.227499999999999,
           "target_met": false,
           "legs": [
             {
-              "player": "Thomas Jenkins",
+              "player": "Brian To'o",
               "team": "Penrith Panthers",
-              "probability": 0.36193225927302164,
-              "fair_odds": 2.762947967137838,
-              "market_odds": 1.83
+              "probability": 0.3622824646785566,
+              "fair_odds": 2.7602771248872693,
+              "market_odds": 2.05
             },
             {
               "player": "Mark Nawaqanitawase",
               "team": "Sydney Roosters",
-              "probability": 0.3553145032632817,
-              "fair_odds": 2.814408054880377,
+              "probability": 0.35533084472864007,
+              "fair_odds": 2.814278621839549,
               "market_odds": 2.55
             }
           ],
@@ -2432,7 +1626,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "96aeaccd4fc531dd"
+      "summary_id": "495e505283a55b69"
     },
     {
       "status": "completed",
@@ -4160,6 +3354,1899 @@
       "winner": "Newcastle Knights",
       "result_state": "FullTime",
       "start_time": "2026-09-11T09:50:00Z"
+    },
+    {
+      "status": "completed",
+      "analysis": {
+        "schema_version": 1,
+        "match_id": 29062,
+        "home_team": "Warriors",
+        "away_team": "Dolphins",
+        "round": 28,
+        "kickoff": "2026-09-12T06:05:00Z",
+        "source_url": "https://www.nrl.com/draw/nrl-premiership/2026/finals-week-1/warriors-v-dolphins",
+        "available": true,
+        "events": [
+          {
+            "seconds": 0,
+            "clock": "00:00",
+            "type": "GameTime",
+            "category": "match",
+            "title": "KICK OFF",
+            "team": "",
+            "side": "neutral",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 169,
+            "clock": "02:49",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Jacob Laban",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 170,
+            "clock": "02:50",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 222,
+            "clock": "03:42",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 232,
+            "clock": "03:52",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Offside inside 10m",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jeremy Marshall-King",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 307,
+            "clock": "05:07",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Chanel Harris-Tavita",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 311,
+            "clock": "05:11",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Jacob Laban",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 341,
+            "clock": "05:41",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Kulikefu Finefeuiaki",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 404,
+            "clock": "06:44",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jeremy Marshall-King",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 405,
+            "clock": "06:45",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Warriors",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 427,
+            "clock": "07:07",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Early Tackle",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jack Bostock",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 518,
+            "clock": "08:38",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Penalty Shot-Made",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Taine Tuaupiki",
+            "detail": "",
+            "home_score": 2.0,
+            "away_score": null
+          },
+          {
+            "seconds": 560,
+            "clock": "09:20",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA no return",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Kurt Donoghoe",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 645,
+            "clock": "10:45",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 650,
+            "clock": "10:50",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalties - Other",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Alofiana Khan-Pereira",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 735,
+            "clock": "12:15",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Penalty Shot-Made",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jamayne Isaako",
+            "detail": "",
+            "home_score": 2.0,
+            "away_score": 2.0
+          },
+          {
+            "seconds": 823,
+            "clock": "13:43",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 842,
+            "clock": "14:02",
+            "type": "OffsideWithinTenMetres",
+            "category": "discipline",
+            "title": "Inside 10 Metres",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Herbie Farnworth",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 843,
+            "clock": "14:03",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Warriors",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 869,
+            "clock": "14:29",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Morgan Knowles",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 869,
+            "clock": "14:29",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Warriors",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 897,
+            "clock": "14:57",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Taine Tuaupiki",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 901,
+            "clock": "15:01",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Taine Tuaupiki",
+            "detail": "",
+            "home_score": 6.0,
+            "away_score": 2.0
+          },
+          {
+            "seconds": 990,
+            "clock": "16:30",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Taine Tuaupiki",
+            "detail": "",
+            "home_score": 8.0,
+            "away_score": 2.0
+          },
+          {
+            "seconds": 1088,
+            "clock": "18:08",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1123,
+            "clock": "18:43",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Morgan Knowles",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1125,
+            "clock": "18:45",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Warriors",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1163,
+            "clock": "19:23",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Early Tackle",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Morgan Knowles",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1172,
+            "clock": "19:32",
+            "type": "CaptainsChallenge",
+            "category": "other",
+            "title": "Video Referee - Captain's Challenge",
+            "team": "Warriors",
+            "side": "home",
+            "player": "",
+            "detail": "Successful",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1237,
+            "clock": "20:37",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Penalty Shot-Made",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Taine Tuaupiki",
+            "detail": "",
+            "home_score": 10.0,
+            "away_score": 2.0
+          },
+          {
+            "seconds": 1325,
+            "clock": "22:05",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Chanel Harris-Tavita",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1371,
+            "clock": "22:51",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Chanel Harris-Tavita",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1372,
+            "clock": "22:52",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1426,
+            "clock": "23:46",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jack Bostock",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1434,
+            "clock": "23:54",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #1",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Tanner Stowers-Smith",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1459,
+            "clock": "24:19",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Tanner Stowers-Smith",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1511,
+            "clock": "25:11",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #2",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Ray Stone",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1517,
+            "clock": "25:17",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #2",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1545,
+            "clock": "25:45",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Jackson Ford",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1551,
+            "clock": "25:51",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Selwyn Cobbo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1552,
+            "clock": "25:52",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Selwyn Cobbo",
+            "detail": "",
+            "home_score": 10.0,
+            "away_score": 6.0
+          },
+          {
+            "seconds": 1641,
+            "clock": "27:21",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #3",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Francis Molo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1648,
+            "clock": "27:28",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Shoulder Charge",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Adam Pompey",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1658,
+            "clock": "27:38",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jamayne Isaako",
+            "detail": "",
+            "home_score": 10.0,
+            "away_score": 8.0
+          },
+          {
+            "seconds": 1680,
+            "clock": "28:00",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "On Report",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Adam Pompey",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1680,
+            "clock": "28:00",
+            "type": "SinBin",
+            "category": "discipline",
+            "title": "Sin Bin",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Adam Pompey",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1713,
+            "clock": "28:33",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - Free",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Connelly Lemuelu",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1740,
+            "clock": "29:00",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1743,
+            "clock": "29:03",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jack Bostock",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1776,
+            "clock": "29:36",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #2",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Demitric Vaimauga",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1788,
+            "clock": "29:48",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1792,
+            "clock": "29:52",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Warriors",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1888,
+            "clock": "31:28",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1892,
+            "clock": "31:32",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Escorts",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Alofiana Khan-Pereira",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1935,
+            "clock": "32:15",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Jackson Ford",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1936,
+            "clock": "32:16",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1954,
+            "clock": "32:34",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Ball Strip",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Jackson Ford",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2004,
+            "clock": "33:24",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Kulikefu Finefeuiaki",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2017,
+            "clock": "33:37",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2029,
+            "clock": "33:49",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "On Report",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2029,
+            "clock": "33:49",
+            "type": "SinBin",
+            "category": "discipline",
+            "title": "Sin Bin",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Selwyn Cobbo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2029,
+            "clock": "33:49",
+            "type": "SinBin",
+            "category": "discipline",
+            "title": "Sin Bin",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Kurt Capewell",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2092,
+            "clock": "34:52",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Kurt Donoghoe",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2193,
+            "clock": "36:33",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jeremy Marshall-King",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2265,
+            "clock": "37:45",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA Cleared",
+            "team": "Warriors",
+            "side": "home",
+            "player": "James Fisher-Harris",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2280,
+            "clock": "38:00",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Sin Bin Return",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Adam Pompey",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2352,
+            "clock": "39:12",
+            "type": "LineDropout",
+            "category": "attack",
+            "title": "Line Dropout",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jamayne Isaako",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2392,
+            "clock": "39:52",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Early Tackle",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Kurt Donoghoe",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2400,
+            "clock": "40:00",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Penalty Shot-Made",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Taine Tuaupiki",
+            "detail": "",
+            "home_score": 12.0,
+            "away_score": 8.0
+          },
+          {
+            "seconds": 2447,
+            "clock": "40:47",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2457,
+            "clock": "40:57",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Taine Tuaupiki",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2539,
+            "clock": "42:19",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Sin Bin Return",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Kurt Capewell",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2542,
+            "clock": "42:22",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Sin Bin Return",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Selwyn Cobbo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2606,
+            "clock": "43:26",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Chanel Harris-Tavita",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2609,
+            "clock": "43:29",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Hamiso Tabuai-Fidow",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2658,
+            "clock": "44:18",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Kurt Capewell",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2711,
+            "clock": "45:11",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Herbie Farnworth",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2744,
+            "clock": "45:44",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2748,
+            "clock": "45:48",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jack Bostock",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2882,
+            "clock": "48:02",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Hip Drop",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Connelly Lemuelu",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2888,
+            "clock": "48:08",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "On Report",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Connelly Lemuelu",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2936,
+            "clock": "48:56",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Kodi Nikorima",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2948,
+            "clock": "49:08",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "On Report",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Kodi Nikorima",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3000,
+            "clock": "50:00",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Penalty Shot-Made",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Taine Tuaupiki",
+            "detail": "",
+            "home_score": 14.0,
+            "away_score": 8.0
+          },
+          {
+            "seconds": 3008,
+            "clock": "50:08",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #3",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Mitchell Barnett",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3083,
+            "clock": "51:23",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Te Maire Martin",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3084,
+            "clock": "51:24",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Escorts",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Connelly Lemuelu",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3094,
+            "clock": "51:34",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - Free",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Ray Stone",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3095,
+            "clock": "51:35",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #4",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Tom Gilbert",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3168,
+            "clock": "52:48",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Penalty Shot-Made",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Taine Tuaupiki",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 8.0
+          },
+          {
+            "seconds": 3227,
+            "clock": "53:47",
+            "type": "CaptainsChallenge",
+            "category": "other",
+            "title": "Video Referee - Captain's Challenge",
+            "team": "Warriors",
+            "side": "home",
+            "player": "",
+            "detail": "Successful",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3263,
+            "clock": "54:23",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Chanel Harris-Tavita",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3311,
+            "clock": "55:11",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Kurt Donoghoe",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3316,
+            "clock": "55:16",
+            "type": "CaptainsChallenge",
+            "category": "other",
+            "title": "Video Referee - Captain's Challenge",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "",
+            "detail": "Unsuccessful",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3316,
+            "clock": "55:16",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #4",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Erin Clark",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3515,
+            "clock": "58:35",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3529,
+            "clock": "58:49",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #5",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Tanner Stowers-Smith",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3635,
+            "clock": "60:35",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Ali Leiataua",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3640,
+            "clock": "60:40",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Herbie Farnworth",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3641,
+            "clock": "60:41",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Herbie Farnworth",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 3754,
+            "clock": "62:34",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jamayne Isaako",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 14.0
+          },
+          {
+            "seconds": 3800,
+            "clock": "63:20",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #6",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Sam Healey",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3850,
+            "clock": "64:10",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #5",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Max Plath",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3851,
+            "clock": "64:11",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #6",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Morgan Knowles",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3884,
+            "clock": "64:44",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jack Bostock",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3988,
+            "clock": "66:28",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Hamiso Tabuai-Fidow",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4002,
+            "clock": "66:42",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Hamiso Tabuai-Fidow",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 18.0
+          },
+          {
+            "seconds": 4088,
+            "clock": "68:08",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jamayne Isaako",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 20.0
+          },
+          {
+            "seconds": 4154,
+            "clock": "69:14",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #7",
+            "team": "Warriors",
+            "side": "home",
+            "player": "James Fisher-Harris",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4241,
+            "clock": "70:41",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Kodi Nikorima",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4245,
+            "clock": "70:45",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Hamiso Tabuai-Fidow",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4253,
+            "clock": "70:53",
+            "type": "CaptainsChallenge",
+            "category": "other",
+            "title": "Video Referee - Captain's Challenge",
+            "team": "Warriors",
+            "side": "home",
+            "player": "",
+            "detail": "Successful",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4295,
+            "clock": "71:35",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Chanel Harris-Tavita",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4387,
+            "clock": "73:07",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #8",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Demitric Vaimauga",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4420,
+            "clock": "73:40",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Chanel Harris-Tavita",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4424,
+            "clock": "73:44",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Jacob Laban",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4486,
+            "clock": "74:46",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4491,
+            "clock": "74:51",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Chanel Harris-Tavita",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4492,
+            "clock": "74:52",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jack Bostock",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 24.0
+          },
+          {
+            "seconds": 4516,
+            "clock": "75:16",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #7",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Ray Stone",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4594,
+            "clock": "76:34",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jamayne Isaako",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 26.0
+          },
+          {
+            "seconds": 4607,
+            "clock": "76:47",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Jacob Laban",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4664,
+            "clock": "77:44",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Isaiya Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4671,
+            "clock": "77:51",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jack Bostock",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4711,
+            "clock": "78:31",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Warriors",
+            "side": "home",
+            "player": "Chanel Harris-Tavita",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4768,
+            "clock": "79:28",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Dolphins",
+            "side": "away",
+            "player": "Jamayne Isaako",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4800,
+            "clock": "80:00",
+            "type": "GameTime",
+            "category": "match",
+            "title": "FULL TIME",
+            "team": "",
+            "side": "neutral",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          }
+        ],
+        "stats": [
+          {
+            "label": "Possession %",
+            "home": 52.0,
+            "away": 48.0,
+            "unit": "%"
+          },
+          {
+            "label": "Completion Rate",
+            "home": 83.0,
+            "away": 81.0,
+            "unit": "%"
+          },
+          {
+            "label": "All Run Metres",
+            "home": 1598.0,
+            "away": 1501.0,
+            "unit": ""
+          },
+          {
+            "label": "Line Breaks",
+            "home": 2.0,
+            "away": 5.0,
+            "unit": ""
+          },
+          {
+            "label": "Errors",
+            "home": 9.0,
+            "away": 11.0,
+            "unit": ""
+          },
+          {
+            "label": "Penalties Conceded",
+            "home": 4.0,
+            "away": 9.0,
+            "unit": ""
+          },
+          {
+            "label": "Six-agains awarded (timeline)",
+            "home": 5,
+            "away": 3,
+            "unit": ""
+          }
+        ],
+        "turning_points": [
+          "08:38 — Warriors took the lead, 2–0.",
+          "15:01 — Warriors took the lead, 6–2.",
+          "28:00 — Warriors: Adam Pompey was sent to the sin bin.",
+          "33:49 — Dolphins: Selwyn Cobbo was sent to the sin bin.",
+          "33:49 — Warriors: Kurt Capewell was sent to the sin bin.",
+          "66:42 — Dolphins took the lead, 16–18.",
+          "74:52 — Dolphins scored through Jack Bostock, 1 seconds after Warriors made an error. The timing shows the sequence; it does not establish that the earlier event caused the try."
+        ],
+        "explanations": [
+          "The locked pre-match pick was Warriors; the winner prediction was wrong.",
+          "Warriors scored 10.4 points fewer than forecast; Dolphins scored 4.1 points more. Together those differences moved the home-minus-away margin by -14.4 points. The winner verdict and the score accuracy are assessed separately.",
+          "The model projected Warriors 26.4–21.9 Dolphins. The signed margin missed by 14.45 points and the total by 6.26 points.",
+          "Final possession was Warriors 52% and Dolphins 48%. The winner had less possession, so possession alone did not determine the result.",
+          "Warriors: 83% completion rate; Dolphins: 81%.",
+          "Warriors: 2 line breaks; Dolphins: 5.",
+          "Warriors: 9 errors; Dolphins: 11.",
+          "Warriors: 4 penalties conceded; Dolphins: 9.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
+          "Decisive score change: 66:42 — Dolphins took the lead, 16–18."
+        ],
+        "score_flow": [
+          {
+            "seconds": 0,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "seconds": 518,
+            "home": 2,
+            "away": 0
+          },
+          {
+            "seconds": 735,
+            "home": 2,
+            "away": 2
+          },
+          {
+            "seconds": 901,
+            "home": 6,
+            "away": 2
+          },
+          {
+            "seconds": 990,
+            "home": 8,
+            "away": 2
+          },
+          {
+            "seconds": 1237,
+            "home": 10,
+            "away": 2
+          },
+          {
+            "seconds": 1552,
+            "home": 10,
+            "away": 6
+          },
+          {
+            "seconds": 1658,
+            "home": 10,
+            "away": 8
+          },
+          {
+            "seconds": 2400,
+            "home": 12,
+            "away": 8
+          },
+          {
+            "seconds": 3000,
+            "home": 14,
+            "away": 8
+          },
+          {
+            "seconds": 3168,
+            "home": 16,
+            "away": 8
+          },
+          {
+            "seconds": 3641,
+            "home": 16,
+            "away": 12
+          },
+          {
+            "seconds": 3754,
+            "home": 16,
+            "away": 14
+          },
+          {
+            "seconds": 4002,
+            "home": 16,
+            "away": 18
+          },
+          {
+            "seconds": 4088,
+            "home": 16,
+            "away": 20
+          },
+          {
+            "seconds": 4492,
+            "home": 16,
+            "away": 24
+          },
+          {
+            "seconds": 4594,
+            "home": 16,
+            "away": 26
+          },
+          {
+            "seconds": 4800,
+            "home": 16,
+            "away": 26
+          }
+        ],
+        "limitations": [
+          "Possession is a final total. No continuous possession, field-position or live win-probability series is inferred from event counts."
+        ],
+        "prediction": {
+          "winner": "Warriors",
+          "home_points": 26.352744086395774,
+          "away_points": 21.905591289216023,
+          "probability": 0.6363788785020774,
+          "audit": {
+            "locked_at": "2026-09-08 06:07:55",
+            "cutoff": "2026-09-08T06:07:46+00:00",
+            "model": "ERA_FINALIST:ERA-R1:7ee4122080dee8295d3962707d68d12a6094419a0c402f8f2a60748e83f83379+ATS_RECAL:CONTEXT_RIDGE:CONTEXT_RIDGE_20260805_201139_8ec98f6e3a0e:0e40b4a54abbcd4c",
+            "hash": "51df2cbc03bedcfdd10d51459bf3071cc14f62118f04a527440fbb9713cce3f9"
+          },
+          "signed_margin": 4.45,
+          "margin_error": 14.45,
+          "total_error": 6.26
+        },
+        "verdict": "Wrong",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Warriors",
+            "actual": "Dolphins",
+            "difference": "Different winner"
+          },
+          {
+            "label": "Warriors points",
+            "predicted": "26.4",
+            "actual": "16",
+            "difference": "-10.4 points (actual − predicted)"
+          },
+          {
+            "label": "Dolphins points",
+            "predicted": "21.9",
+            "actual": "26",
+            "difference": "+4.1 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "48.3",
+            "actual": "42",
+            "difference": "-6.3 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "4.4",
+            "actual": "-10",
+            "difference": "-14.4 points (actual − predicted)"
+          }
+        ],
+        "home_score": 16,
+        "away_score": 26,
+        "winner": "Dolphins",
+        "actual_margin": -10,
+        "summary": "Dolphins won 26–16.",
+        "source": {
+          "collected_at": "2026-09-12 08:22:44",
+          "url": "https://www.nrl.com/draw/nrl-premiership/2026/finals-week-1/warriors-v-dolphins"
+        }
+      },
+      "match_id": 29062,
+      "home_team": "Warriors",
+      "away_team": "Dolphins",
+      "kickoff": "Sat 12 Sep, 6:05 PM NZT",
+      "venue": "Go Media Stadium",
+      "home_score": 16,
+      "away_score": 26,
+      "winner": "Dolphins",
+      "result_state": "FullTime",
+      "start_time": "2026-09-12T06:05:00Z"
     }
   ]
 }
