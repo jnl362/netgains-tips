@@ -9,817 +9,10 @@
   "default_bookmaker": "Betcha",
   "round": 28,
   "round_label": "Finals Round 1",
-  "generated_at": "Sat 12 Sep 2026, 11:43 PM NZT",
-  "generated_at_iso": "2026-09-12T23:43:38.277166+12:00",
+  "generated_at": "Sun 13 Sep 2026, 12:14 AM NZT",
+  "generated_at_iso": "2026-09-13T00:14:02.687324+12:00",
   "engine_version": "1.67.1",
   "fixtures": [
-    {
-      "status": "upcoming",
-      "match_id": 29025,
-      "home_team": "Cronulla-Sutherland Sharks",
-      "away_team": "North Queensland Cowboys",
-      "kickoff": "Sat 12 Sep, 9:50 PM NZT",
-      "venue": "Allianz Stadium",
-      "home_win_probability": 0.7269001555180507,
-      "away_win_probability": 0.27309984448194935,
-      "independent_home_win_probability": 0.7269001555180507,
-      "independent_away_win_probability": 0.27309984448194935,
-      "home_fair_odds": 1.3757047545096688,
-      "away_fair_odds": 3.6616644798788798,
-      "home_conservative_fair_odds": 1.4690069113255368,
-      "away_conservative_fair_odds": 3.1321647418238183,
-      "bookmaker_provider": "Betcha",
-      "bookmaker_prices": {
-        "Betcha": {
-          "home_h2h": 1.44,
-          "away_h2h": 2.8,
-          "home_line": -7.5,
-          "home_line_odds": 1.85,
-          "away_line": 7.5,
-          "away_line_odds": 1.96,
-          "total": 48.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T09:48:28.300185+00:00",
-          "snapshot_id": "085eede238d14a9436c6780d",
-          "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
-          "validation_issues": []
-        },
-        "TAB NZ": {
-          "home_h2h": 1.44,
-          "away_h2h": 2.8,
-          "home_line": -7.5,
-          "home_line_odds": 1.85,
-          "away_line": 7.5,
-          "away_line_odds": 1.96,
-          "total": 48.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T09:48:41.591781+00:00",
-          "snapshot_id": "920b9c9333d66681eeee8ddf",
-          "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
-          "validation_issues": []
-        },
-        "Best Available": {
-          "home_h2h": 1.44,
-          "away_h2h": 2.8,
-          "home_line": -7.5,
-          "home_line_odds": 1.85,
-          "away_line": 7.5,
-          "away_line_odds": 1.96,
-          "total": 48.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T09:48:41.591781+00:00",
-          "price_sources": {
-            "home_h2h": "TAB NZ",
-            "away_h2h": "TAB NZ",
-            "home_line_odds": "TAB NZ",
-            "away_line_odds": "TAB NZ",
-            "over_odds": "TAB NZ",
-            "under_odds": "TAB NZ"
-          },
-          "validation_issues": null
-        }
-      },
-      "bookmaker_views": {
-        "Betcha": {
-          "home_h2h": 1.44,
-          "away_h2h": 2.8,
-          "home_line": -7.5,
-          "home_line_odds": 1.85,
-          "away_line": 7.5,
-          "away_line_odds": 1.96,
-          "total": 48.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T09:48:28.300185+00:00",
-          "snapshot_id": "085eede238d14a9436c6780d",
-          "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
-          "validation_issues": [],
-          "home_cover_probability": 0.506075360862893,
-          "away_cover_probability": 0.49392463913710705,
-          "over_probability": 0.5379784064214695,
-          "under_probability": 0.46202159357853045,
-          "home_line_fair_odds": 1.9759902918311056,
-          "away_line_fair_odds": 2.024600355525923,
-          "over_fair_odds": 1.8588106661228478,
-          "under_fair_odds": 2.1644010018116795
-        },
-        "TAB NZ": {
-          "home_h2h": 1.44,
-          "away_h2h": 2.8,
-          "home_line": -7.5,
-          "home_line_odds": 1.85,
-          "away_line": 7.5,
-          "away_line_odds": 1.96,
-          "total": 48.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T09:48:41.591781+00:00",
-          "snapshot_id": "920b9c9333d66681eeee8ddf",
-          "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/cronulla-sharks-vs-north-queensland-cowboys/7940f58c-d5b1-4080-8146-7a47722a8a11",
-          "validation_issues": [],
-          "home_cover_probability": 0.506075360862893,
-          "away_cover_probability": 0.49392463913710705,
-          "over_probability": 0.5379784064214695,
-          "under_probability": 0.46202159357853045,
-          "home_line_fair_odds": 1.9759902918311056,
-          "away_line_fair_odds": 2.024600355525923,
-          "over_fair_odds": 1.8588106661228478,
-          "under_fair_odds": 2.1644010018116795
-        },
-        "Best Available": {
-          "home_h2h": 1.44,
-          "away_h2h": 2.8,
-          "home_line": -7.5,
-          "home_line_odds": 1.85,
-          "away_line": 7.5,
-          "away_line_odds": 1.96,
-          "total": 48.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-12T09:48:41.591781+00:00",
-          "snapshot_id": null,
-          "source_url": null,
-          "validation_issues": null,
-          "home_cover_probability": 0.506075360862893,
-          "away_cover_probability": 0.49392463913710705,
-          "over_probability": 0.5379784064214695,
-          "under_probability": 0.46202159357853045,
-          "home_line_fair_odds": 1.9759902918311056,
-          "away_line_fair_odds": 2.024600355525923,
-          "over_fair_odds": 1.8588106661228478,
-          "under_fair_odds": 2.1644010018116795
-        }
-      },
-      "home_bookmaker_odds": 1.44,
-      "away_bookmaker_odds": 2.8,
-      "home_h2h_ev": 0.04673622394599297,
-      "away_h2h_ev": -0.23532043545054182,
-      "winner": "Cronulla-Sutherland Sharks",
-      "home_points": 28.7168095016682,
-      "away_points": 21.022636436859553,
-      "likely_home_points": 28,
-      "likely_away_points": 22,
-      "projected_margin": 7.694173064808648,
-      "projected_total": 49.73944593852775,
-      "close_game_probability": 0.38764567337978373,
-      "fav_1_12_probability": 0.5776456733797838,
-      "fav_13_plus_probability": 0.4223543266202162,
-      "high_scoring_probability": 0.7533806078484713,
-      "margin_probabilities": {
-        "Cronulla-Sutherland Sharks 1-12": 0.3605939088552688,
-        "Cronulla-Sutherland Sharks 13+": 0.35311370386901264,
-        "North Queensland Cowboys 1-12": 0.20360263736513037,
-        "North Queensland Cowboys 13+": 0.05661316518388118
-      },
-      "margin_remainder_probability": 0.02607658472670704,
-      "market_line": -7.5,
-      "home_line_odds": 1.85,
-      "away_line": 7.5,
-      "away_line_odds": 1.96,
-      "home_cover_probability": 0.506075360862893,
-      "away_cover_probability": 0.49392463913710705,
-      "home_line_fair_odds": 1.9759902918311056,
-      "away_line_fair_odds": 2.024600355525923,
-      "home_line_ev": -0.06376058240364801,
-      "away_line_ev": -0.03190770729127024,
-      "market_total": 48.5,
-      "over_odds": 1.9,
-      "under_odds": 1.9,
-      "over_probability": 0.5379784064214695,
-      "under_probability": 0.46202159357853045,
-      "over_ev": 0.022158972200791993,
-      "under_ev": -0.12215897220079219,
-      "confidence": "Developing",
-      "confidence_score": 58,
-      "data_quality": "Developing",
-      "prediction_strength_score": 68,
-      "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-12T09:48:28.300185+00:00",
-      "context_effects": {
-        "venue_classification": "NEUTRAL",
-        "home_advantage": 0.0,
-        "ladder": 0.0,
-        "availability_margin": 1.064,
-        "availability_total": -0.836,
-        "weather_total": 0.38681125089675533,
-        "referee_margin": -0.11419032348944351,
-        "referee_total": 0.3992569816304931,
-        "late_season_margin": -1.144178893134418,
-        "controlled_context_margin": 3.30683500076767
-      },
-      "drivers": [
-        "Point-in-time scoring base: Cronulla-Sutherland Sharks 26.3 PF / 21.7 PA from 70 prior games; North Queensland Cowboys 23.5 PF / 26.9 PA from 70 prior games.",
-        "Cronulla-Sutherland Sharks hold a 8.5-point attacking-rating advantage.",
-        "Cronulla-Sutherland Sharks hold a 15.6-point defensive-rating advantage.",
-        "No nominal home advantage was applied because the venue is neutral for these teams.",
-        "Allianz Stadium is not a recognised home ground for either side; treated as neutral.",
-        "Opponent-adjusted h175_s4p0 team strength is active.",
-        "Availability applied from the Data & Context snapshot: 0 Cronulla-Sutherland Sharks absence(s), 1 North Queensland Cowboys absence(s); replacement-adjusted score effects +0.11/-0.95; net pre-team margin swing +1.06 pts.",
-        "Weather Fine / Dry: scoring +1.1% vs NRL across 1307 games; Allianz Stadium in fine / dry conditions +1.1% vs its own baseline across 77 games. Sample-shrunk forecast effect +0.4 points.",
-        "Referee Grant Atkins environment: stoppages +7.3% vs NRL, historical scoring +2.7% vs NRL and home-win environment -3.6% vs NRL; conservative adjustments +0.4 total points and -0.1 home-margin points.",
-        "Late-season elite interaction input: Applied -1.14 home-margin points: Cronulla-Sutherland Sharks elite effect -0.83 (n=35) active; North Queensland Cowboys elite effect +0.32 (n=39) active.",
-        "Stacked-advantage control: learned context +2.24, live availability +1.06, final downstream adjustment +3.31; same-direction evidence cap 4.31, opposing cap 5.00.",
-        "Extreme-stack guardrail: Reduced same-direction cap is 4.31, but the contextual adjustment remained inside it.",
-        "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 68/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 30.6% of the +6.7pp raw market disagreement, leaving +2.0pp of betting edge."
-      ],
-      "ats_players": [
-        {
-          "player": "Ronaldo Mulitalo",
-          "nrl_player_id": 506086,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.43455599868667766,
-          "fair_odds": 2.3011993920742473,
-          "bookmaker_odds": 1.8,
-          "bookmaker_prices": {
-            "Betcha": 1.8,
-            "TAB NZ": 1.8,
-            "Best Available": 1.8
-          },
-          "ev": -0.2177992023639802
-        },
-        {
-          "player": "Sione Katoa",
-          "nrl_player_id": 503922,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.4107523857342121,
-          "fair_odds": 2.434556766389851,
-          "bookmaker_odds": 1.78,
-          "bookmaker_prices": {
-            "Betcha": 1.78,
-            "TAB NZ": 1.78,
-            "Best Available": 1.78
-          },
-          "ev": -0.26886075339310245
-        },
-        {
-          "player": "KL Iro",
-          "nrl_player_id": 508649,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.3302543585558465,
-          "fair_odds": 3.0279691216577795,
-          "bookmaker_odds": 2.5,
-          "bookmaker_prices": {
-            "Betcha": 2.5,
-            "TAB NZ": 2.5,
-            "Best Available": 2.5
-          },
-          "ev": -0.1743641036103838
-        },
-        {
-          "player": "William Kennedy",
-          "nrl_player_id": 504279,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.32208072230635043,
-          "fair_odds": 3.104811715644501,
-          "bookmaker_odds": 2.75,
-          "bookmaker_prices": {
-            "Betcha": 2.75,
-            "TAB NZ": 2.75,
-            "Best Available": 2.75
-          },
-          "ev": -0.11427801365753631
-        },
-        {
-          "player": "Braidon Burns",
-          "nrl_player_id": 506040,
-          "team": "North Queensland Cowboys",
-          "probability": 0.30707428099105627,
-          "fair_odds": 3.256541045289057,
-          "bookmaker_odds": 2.3,
-          "bookmaker_prices": {
-            "Betcha": 2.3,
-            "TAB NZ": 2.3,
-            "Best Available": 2.3
-          },
-          "ev": -0.2937291537205706
-        },
-        {
-          "player": "Jaxon Purdue",
-          "nrl_player_id": 100008940,
-          "team": "North Queensland Cowboys",
-          "probability": 0.306537150884581,
-          "fair_odds": 3.26224732341342,
-          "bookmaker_odds": 3.3,
-          "bookmaker_prices": {
-            "Betcha": 3.3,
-            "TAB NZ": 3.3,
-            "Best Available": 3.3
-          },
-          "ev": 0.011572597919117245
-        },
-        {
-          "player": "Tom Chester",
-          "nrl_player_id": 100004781,
-          "team": "North Queensland Cowboys",
-          "probability": 0.2942082343249467,
-          "fair_odds": 3.398953133635007,
-          "bookmaker_odds": 3.35,
-          "bookmaker_prices": {
-            "Betcha": 3.35,
-            "TAB NZ": 3.35,
-            "Best Available": 3.35
-          },
-          "ev": -0.014402415011428582
-        },
-        {
-          "player": "Scott Drinkwater",
-          "nrl_player_id": 504087,
-          "team": "North Queensland Cowboys",
-          "probability": 0.2804458298218215,
-          "fair_odds": 3.5657510066572935,
-          "bookmaker_odds": 2.8,
-          "bookmaker_prices": {
-            "Betcha": 2.8,
-            "TAB NZ": 2.8,
-            "Best Available": 2.8
-          },
-          "ev": -0.21475167649889992
-        },
-        {
-          "player": "Zac Laybutt",
-          "nrl_player_id": 510612,
-          "team": "North Queensland Cowboys",
-          "probability": 0.27538660646474705,
-          "fair_odds": 3.6312586615500946,
-          "bookmaker_odds": 2.4,
-          "bookmaker_prices": {
-            "Betcha": 2.4,
-            "TAB NZ": 2.4,
-            "Best Available": 2.4
-          },
-          "ev": -0.3390721444846071
-        },
-        {
-          "player": "Riley Jones",
-          "nrl_player_id": 100009035,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.26535652441650304,
-          "fair_odds": 3.7685148394180885,
-          "bookmaker_odds": 3.0,
-          "bookmaker_prices": {
-            "Betcha": 3.0,
-            "TAB NZ": 3.0,
-            "Best Available": 3.0
-          },
-          "ev": -0.2039304267504909
-        },
-        {
-          "player": "Jeremiah Nanai",
-          "nrl_player_id": 100006109,
-          "team": "North Queensland Cowboys",
-          "probability": 0.256976871235906,
-          "fair_odds": 3.8914007910151382,
-          "bookmaker_odds": 4.4,
-          "bookmaker_prices": {
-            "Betcha": 4.4,
-            "TAB NZ": 4.4,
-            "Best Available": 4.4
-          },
-          "ev": 0.13069823343798648
-        },
-        {
-          "player": "Briton Nikora",
-          "nrl_player_id": 507062,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.2525535009005135,
-          "fair_odds": 3.9595570698262565,
-          "bookmaker_odds": 3.45,
-          "bookmaker_prices": {
-            "Betcha": 3.45,
-            "TAB NZ": 3.45,
-            "Best Available": 3.45
-          },
-          "ev": -0.12869042189322843
-        },
-        {
-          "player": "Teig Wilton",
-          "nrl_player_id": 507615,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.2335941741830458,
-          "fair_odds": 4.2809286811082625,
-          "bookmaker_odds": 3.6,
-          "bookmaker_prices": {
-            "Betcha": 3.6,
-            "TAB NZ": 3.6,
-            "Best Available": 3.6
-          },
-          "ev": -0.15906097294103516
-        },
-        {
-          "player": "Heilum Luki",
-          "nrl_player_id": 100001946,
-          "team": "North Queensland Cowboys",
-          "probability": 0.22277764187286625,
-          "fair_odds": 4.488780793230029,
-          "bookmaker_odds": 4.25,
-          "bookmaker_prices": {
-            "Betcha": 4.25,
-            "TAB NZ": 4.25,
-            "Best Available": 4.25
-          },
-          "ev": -0.05319502204031845
-        },
-        {
-          "player": "Nicho Hynes",
-          "nrl_player_id": 502490,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.22145247281735356,
-          "fair_odds": 4.515641605974596,
-          "bookmaker_odds": 3.6,
-          "bookmaker_prices": {
-            "Betcha": 3.6,
-            "TAB NZ": 3.6,
-            "Best Available": 3.6
-          },
-          "ev": -0.20277109785752723
-        },
-        {
-          "player": "Braydon Trindall",
-          "nrl_player_id": 504321,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.16696640182780326,
-          "fair_odds": 5.9892289050543575,
-          "bookmaker_odds": 3.05,
-          "bookmaker_prices": {
-            "Betcha": 3.05,
-            "TAB NZ": 3.05,
-            "Best Available": 3.05
-          },
-          "ev": -0.4907524744252001
-        },
-        {
-          "player": "Tom Dearden",
-          "nrl_player_id": 506424,
-          "team": "North Queensland Cowboys",
-          "probability": 0.16240125161539568,
-          "fair_odds": 6.157588011502738,
-          "bookmaker_odds": 3.9,
-          "bookmaker_prices": {
-            "Betcha": 3.9,
-            "TAB NZ": 3.9,
-            "Best Available": 3.9
-          },
-          "ev": -0.3666351186999569
-        },
-        {
-          "player": "Siosifa Talakai",
-          "nrl_player_id": 504175,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.14993898082685414,
-          "fair_odds": 6.669379733578258,
-          "bookmaker_odds": 6.4,
-          "bookmaker_prices": {
-            "Betcha": 6.4,
-            "TAB NZ": 6.4,
-            "Best Available": 6.4
-          },
-          "ev": -0.04039052270813348
-        },
-        {
-          "player": "John Bateman",
-          "nrl_player_id": 502214,
-          "team": "North Queensland Cowboys",
-          "probability": 0.1463666931365104,
-          "fair_odds": 6.8321554485578195,
-          "bookmaker_odds": 6.8,
-          "bookmaker_prices": {
-            "Betcha": 6.8,
-            "TAB NZ": 6.8,
-            "Best Available": 6.8
-          },
-          "ev": -0.0047064866717292375
-        },
-        {
-          "player": "Billy Burns",
-          "nrl_player_id": 505413,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.14083119996768242,
-          "fair_odds": 7.100699278494235,
-          "bookmaker_odds": 5.25,
-          "bookmaker_prices": {
-            "Betcha": 5.25,
-            "TAB NZ": 5.25,
-            "Best Available": 5.25
-          },
-          "ev": -0.26063620016966726
-        },
-        {
-          "player": "Addin Fonua-Blake",
-          "nrl_player_id": 500449,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.1404611803124969,
-          "fair_odds": 7.119404790527946,
-          "bookmaker_odds": 6.0,
-          "bookmaker_prices": {
-            "Betcha": 6.0,
-            "TAB NZ": 6.0,
-            "Best Available": 6.0
-          },
-          "ev": -0.1572329181250185
-        },
-        {
-          "player": "Jake Clifford",
-          "nrl_player_id": 505894,
-          "team": "North Queensland Cowboys",
-          "probability": 0.13864981028872478,
-          "fair_odds": 7.2124152057445805,
-          "bookmaker_odds": 4.6,
-          "bookmaker_prices": {
-            "Betcha": 4.6,
-            "TAB NZ": 4.6,
-            "Best Available": 4.6
-          },
-          "ev": -0.362210872671866
-        },
-        {
-          "player": "Thomas Hazelton",
-          "nrl_player_id": 510238,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.13087683350835416,
-          "fair_odds": 7.640771656781929,
-          "bookmaker_odds": 9.0,
-          "bookmaker_prices": {
-            "Betcha": 9.0,
-            "TAB NZ": 9.0,
-            "Best Available": 9.0
-          },
-          "ev": 0.1778915015751874
-        },
-        {
-          "player": "Cameron McInnes",
-          "nrl_player_id": 500180,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.1275407780050617,
-          "fair_odds": 7.84062960600972,
-          "bookmaker_odds": 8.0,
-          "bookmaker_prices": {
-            "Betcha": 8.0,
-            "TAB NZ": 8.0,
-            "Best Available": 8.0
-          },
-          "ev": 0.020326224040493557
-        },
-        {
-          "player": "Reed Mahoney",
-          "nrl_player_id": 505460,
-          "team": "North Queensland Cowboys",
-          "probability": 0.12579570422174266,
-          "fair_odds": 7.949397049658226,
-          "bookmaker_odds": 7.5,
-          "bookmaker_prices": {
-            "Betcha": 7.5,
-            "TAB NZ": 7.5,
-            "Best Available": 7.5
-          },
-          "ev": -0.05653221833693001
-        },
-        {
-          "player": "Coen Hess",
-          "nrl_player_id": 500405,
-          "team": "North Queensland Cowboys",
-          "probability": 0.11414443424314716,
-          "fair_odds": 8.760830141483982,
-          "bookmaker_odds": 11.0,
-          "bookmaker_prices": {
-            "Betcha": 11.0,
-            "TAB NZ": 11.0,
-            "Best Available": 11.0
-          },
-          "ev": 0.25558877667461877
-        },
-        {
-          "player": "Blayke Brailey",
-          "nrl_player_id": 504274,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.10999861619465956,
-          "fair_odds": 9.091023456425537,
-          "bookmaker_odds": 6.75,
-          "bookmaker_prices": {
-            "Betcha": 6.75,
-            "TAB NZ": 6.75,
-            "Best Available": 6.75
-          },
-          "ev": -0.257509340686048
-        },
-        {
-          "player": "Reuben Cotter",
-          "nrl_player_id": 504374,
-          "team": "North Queensland Cowboys",
-          "probability": 0.1057979482388971,
-          "fair_odds": 9.451979141806698,
-          "bookmaker_odds": 12.0,
-          "bookmaker_prices": {
-            "Betcha": 12.0,
-            "TAB NZ": 12.0,
-            "Best Available": 12.0
-          },
-          "ev": 0.2695753788667652
-        },
-        {
-          "player": "Jesse Colquhoun",
-          "nrl_player_id": 100004272,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.09317141468673687,
-          "fair_odds": 10.73290561662312,
-          "bookmaker_odds": 8.25,
-          "bookmaker_prices": {
-            "Betcha": 8.25,
-            "TAB NZ": 8.25,
-            "Best Available": 8.25
-          },
-          "ev": -0.23133582883442083
-        },
-        {
-          "player": "Jason Taumalolo",
-          "nrl_player_id": 500301,
-          "team": "North Queensland Cowboys",
-          "probability": 0.09061520622281813,
-          "fair_odds": 11.035675375952371,
-          "bookmaker_odds": 9.5,
-          "bookmaker_prices": {
-            "Betcha": 9.5,
-            "TAB NZ": 9.5,
-            "Best Available": 9.5
-          },
-          "ev": -0.1391555408832278
-        },
-        {
-          "player": "Griffin Neame",
-          "nrl_player_id": 100004869,
-          "team": "North Queensland Cowboys",
-          "probability": 0.08446828648190453,
-          "fair_odds": 11.838762707874132,
-          "bookmaker_odds": 12.0,
-          "bookmaker_prices": {
-            "Betcha": 12.0,
-            "TAB NZ": 12.0,
-            "Best Available": 12.0
-          },
-          "ev": 0.01361943778285446
-        },
-        {
-          "player": "Soni Luke",
-          "nrl_player_id": 502756,
-          "team": "North Queensland Cowboys",
-          "probability": 0.07891115534307679,
-          "fair_odds": 12.672479520194154,
-          "bookmaker_odds": 9.25,
-          "bookmaker_prices": {
-            "Betcha": 9.25,
-            "TAB NZ": 9.25,
-            "Best Available": 9.25
-          },
-          "ev": -0.2700718130765397
-        },
-        {
-          "player": "Oregon Kaufusi",
-          "nrl_player_id": 504460,
-          "team": "Cronulla-Sutherland Sharks",
-          "probability": 0.07625870613811334,
-          "fair_odds": 13.113256841636998,
-          "bookmaker_odds": 8.5,
-          "bookmaker_prices": {
-            "Betcha": 8.5,
-            "TAB NZ": 8.5,
-            "Best Available": 8.5
-          },
-          "ev": -0.3518009978260367
-        }
-      ],
-      "safe_bet": {
-        "available": true,
-        "probability": 0.17536,
-        "fair_odds": 5.702554744525548,
-        "singles_product_odds": 3.204,
-        "target_met": false,
-        "legs": [
-          {
-            "player": "Ronaldo Mulitalo",
-            "team": "Cronulla-Sutherland Sharks",
-            "probability": 0.43455599868667766,
-            "fair_odds": 2.3011993920742473,
-            "market_odds": 1.8
-          },
-          {
-            "player": "Sione Katoa",
-            "team": "Cronulla-Sutherland Sharks",
-            "probability": 0.4107523857342121,
-            "fair_odds": 2.434556766389851,
-            "market_odds": 1.78
-          }
-        ],
-        "method": "Shared match simulation",
-        "probability_method": "shared_simulation",
-        "simulation_draws": 25000,
-        "fallback_reason": null
-      },
-      "start_time": "2026-09-12T09:50:00Z",
-      "super_boost_reviews": [],
-      "clive_churchill_candidates": [],
-      "safe_bets": {
-        "Betcha": {
-          "available": true,
-          "probability": 0.17536,
-          "fair_odds": 5.702554744525548,
-          "singles_product_odds": 3.204,
-          "target_met": false,
-          "legs": [
-            {
-              "player": "Ronaldo Mulitalo",
-              "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.43455599868667766,
-              "fair_odds": 2.3011993920742473,
-              "market_odds": 1.8
-            },
-            {
-              "player": "Sione Katoa",
-              "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.4107523857342121,
-              "fair_odds": 2.434556766389851,
-              "market_odds": 1.78
-            }
-          ],
-          "method": "Shared match simulation",
-          "probability_method": "shared_simulation",
-          "simulation_draws": 25000,
-          "fallback_reason": null
-        },
-        "TAB NZ": {
-          "available": true,
-          "probability": 0.17536,
-          "fair_odds": 5.702554744525548,
-          "singles_product_odds": 3.204,
-          "target_met": false,
-          "legs": [
-            {
-              "player": "Ronaldo Mulitalo",
-              "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.43455599868667766,
-              "fair_odds": 2.3011993920742473,
-              "market_odds": 1.8
-            },
-            {
-              "player": "Sione Katoa",
-              "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.4107523857342121,
-              "fair_odds": 2.434556766389851,
-              "market_odds": 1.78
-            }
-          ],
-          "method": "Shared match simulation",
-          "probability_method": "shared_simulation",
-          "simulation_draws": 25000,
-          "fallback_reason": null
-        },
-        "Best Available": {
-          "available": true,
-          "probability": 0.17536,
-          "fair_odds": 5.702554744525548,
-          "singles_product_odds": 3.204,
-          "target_met": false,
-          "legs": [
-            {
-              "player": "Ronaldo Mulitalo",
-              "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.43455599868667766,
-              "fair_odds": 2.3011993920742473,
-              "market_odds": 1.8
-            },
-            {
-              "player": "Sione Katoa",
-              "team": "Cronulla-Sutherland Sharks",
-              "probability": 0.4107523857342121,
-              "fair_odds": 2.434556766389851,
-              "market_odds": 1.78
-            }
-          ],
-          "method": "Shared match simulation",
-          "probability_method": "shared_simulation",
-          "simulation_draws": 25000,
-          "fallback_reason": null
-        }
-      },
-      "provenance": {
-        "match_engine": "Best-of-Both + evidence-aware stack and reversal control",
-        "match_fallback_reason": null,
-        "ats_engine": {
-          "engine_type": "ERA_FINALIST",
-          "engine_id": "ERA-R1",
-          "source": "IMMUTABLE_READ_ONLY_PRODUCTION_ATS_RECONSTRUCTION",
-          "players_loaded": 33
-        },
-        "pair_method": "Shared match simulation",
-        "pair_fallback_reason": null,
-        "simulation_draws": 25000,
-        "calibration_report_status": "No linked evaluation report",
-        "prediction_state": "Current projection; historical locks remain separate"
-      },
-      "summary_id": "8870e19f9296e21d"
-    },
     {
       "status": "upcoming",
       "match_id": 29059,
@@ -827,57 +20,57 @@
       "away_team": "Sydney Roosters",
       "kickoff": "Sun 13 Sep, 6:05 PM NZT",
       "venue": "CommBank Stadium",
-      "home_win_probability": 0.6679622591895338,
-      "away_win_probability": 0.3320377408104662,
-      "independent_home_win_probability": 0.6679622591895338,
-      "independent_away_win_probability": 0.3320377408104662,
-      "home_fair_odds": 1.4970905709752844,
-      "away_fair_odds": 3.011705830665858,
-      "home_conservative_fair_odds": 1.463183380014049,
-      "away_conservative_fair_odds": 3.158972111584981,
+      "home_win_probability": 0.6679771743566904,
+      "away_win_probability": 0.33202282564330965,
+      "independent_home_win_probability": 0.6679771743566904,
+      "independent_away_win_probability": 0.33202282564330965,
+      "home_fair_odds": 1.4970571426532222,
+      "away_fair_odds": 3.0118411228579047,
+      "home_conservative_fair_odds": 1.4645391031155708,
+      "away_conservative_fair_odds": 3.15267131075339,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
           "home_h2h": 1.35,
           "away_h2h": 3.3,
-          "home_line": -9.5,
+          "home_line": -8.5,
           "home_line_odds": 1.9,
-          "away_line": 9.5,
+          "away_line": 8.5,
           "away_line_odds": 1.9,
-          "total": 42.5,
+          "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T11:39:01.110063+00:00",
-          "snapshot_id": "a5cda180717f96a4856c5be9",
+          "observed_at": "2026-09-12T12:10:59.293194+00:00",
+          "snapshot_id": "42eeced7f952449ed7fe86c2",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": []
         },
         "TAB NZ": {
           "home_h2h": 1.35,
           "away_h2h": 3.3,
-          "home_line": -9.5,
+          "home_line": -8.5,
           "home_line_odds": 1.9,
-          "away_line": 9.5,
+          "away_line": 8.5,
           "away_line_odds": 1.9,
-          "total": 42.5,
+          "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T11:39:07.633649+00:00",
-          "snapshot_id": "38c8b3441021daf88437e302",
+          "observed_at": "2026-09-12T12:11:06.954028+00:00",
+          "snapshot_id": "a94bc1ec8f0c4f84eaf5714b",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": []
         },
         "Best Available": {
           "home_h2h": 1.35,
           "away_h2h": 3.3,
-          "home_line": -9.5,
+          "home_line": -8.5,
           "home_line_odds": 1.9,
-          "away_line": 9.5,
+          "away_line": 8.5,
           "away_line_odds": 1.9,
-          "total": 42.5,
+          "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T11:39:07.633649+00:00",
+          "observed_at": "2026-09-12T12:11:06.954028+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -893,129 +86,129 @@
         "Betcha": {
           "home_h2h": 1.35,
           "away_h2h": 3.3,
-          "home_line": -9.5,
+          "home_line": -8.5,
           "home_line_odds": 1.9,
-          "away_line": 9.5,
+          "away_line": 8.5,
           "away_line_odds": 1.9,
-          "total": 42.5,
+          "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T11:39:01.110063+00:00",
-          "snapshot_id": "a5cda180717f96a4856c5be9",
+          "observed_at": "2026-09-12T12:10:59.293194+00:00",
+          "snapshot_id": "42eeced7f952449ed7fe86c2",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": [],
-          "home_cover_probability": 0.3779745264837795,
-          "away_cover_probability": 0.6220254735162205,
-          "over_probability": 0.4907064865048413,
-          "under_probability": 0.5092935134951587,
-          "home_line_fair_odds": 2.645680938614561,
-          "away_line_fair_odds": 1.6076512017219229,
-          "over_fair_odds": 2.0378780951576725,
-          "under_fair_odds": 1.9635042927156894
+          "home_cover_probability": 0.40813996341627,
+          "away_cover_probability": 0.59186003658373,
+          "over_probability": 0.4603501969861651,
+          "under_probability": 0.5396498030138349,
+          "home_line_fair_odds": 2.4501398775793986,
+          "away_line_fair_odds": 1.6895886496613135,
+          "over_fair_odds": 2.172259307255283,
+          "under_fair_odds": 1.8530535810727669
         },
         "TAB NZ": {
           "home_h2h": 1.35,
           "away_h2h": 3.3,
-          "home_line": -9.5,
+          "home_line": -8.5,
           "home_line_odds": 1.9,
-          "away_line": 9.5,
+          "away_line": 8.5,
           "away_line_odds": 1.9,
-          "total": 42.5,
+          "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T11:39:07.633649+00:00",
-          "snapshot_id": "38c8b3441021daf88437e302",
+          "observed_at": "2026-09-12T12:11:06.954028+00:00",
+          "snapshot_id": "a94bc1ec8f0c4f84eaf5714b",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": [],
-          "home_cover_probability": 0.3779745264837795,
-          "away_cover_probability": 0.6220254735162205,
-          "over_probability": 0.4907064865048413,
-          "under_probability": 0.5092935134951587,
-          "home_line_fair_odds": 2.645680938614561,
-          "away_line_fair_odds": 1.6076512017219229,
-          "over_fair_odds": 2.0378780951576725,
-          "under_fair_odds": 1.9635042927156894
+          "home_cover_probability": 0.40813996341627,
+          "away_cover_probability": 0.59186003658373,
+          "over_probability": 0.4603501969861651,
+          "under_probability": 0.5396498030138349,
+          "home_line_fair_odds": 2.4501398775793986,
+          "away_line_fair_odds": 1.6895886496613135,
+          "over_fair_odds": 2.172259307255283,
+          "under_fair_odds": 1.8530535810727669
         },
         "Best Available": {
           "home_h2h": 1.35,
           "away_h2h": 3.3,
-          "home_line": -9.5,
+          "home_line": -8.5,
           "home_line_odds": 1.9,
-          "away_line": 9.5,
+          "away_line": 8.5,
           "away_line_odds": 1.9,
-          "total": 42.5,
+          "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-12T11:39:07.633649+00:00",
+          "observed_at": "2026-09-12T12:11:06.954028+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
-          "home_cover_probability": 0.3779745264837795,
-          "away_cover_probability": 0.6220254735162205,
-          "over_probability": 0.4907064865048413,
-          "under_probability": 0.5092935134951587,
-          "home_line_fair_odds": 2.645680938614561,
-          "away_line_fair_odds": 1.6076512017219229,
-          "over_fair_odds": 2.0378780951576725,
-          "under_fair_odds": 1.9635042927156894
+          "home_cover_probability": 0.40813996341627,
+          "away_cover_probability": 0.59186003658373,
+          "over_probability": 0.4603501969861651,
+          "under_probability": 0.5396498030138349,
+          "home_line_fair_odds": 2.4501398775793986,
+          "away_line_fair_odds": 1.6895886496613135,
+          "over_fair_odds": 2.172259307255283,
+          "under_fair_odds": 1.8530535810727669
         }
       },
       "home_bookmaker_odds": 1.35,
       "away_bookmaker_odds": 3.3,
-      "home_h2h_ev": -0.09825095009412932,
-      "away_h2h_ev": 0.0957245446745385,
+      "home_h2h_ev": -0.09823081461846794,
+      "away_h2h_ev": 0.09567532462292183,
       "winner": "Penrith Panthers",
-      "home_points": 23.867185980978814,
-      "away_points": 18.329946635138185,
+      "home_points": 23.871796788581815,
+      "away_points": 18.3340336151116,
       "likely_home_points": 24,
       "likely_away_points": 18,
-      "projected_margin": 5.537239345840629,
-      "projected_total": 42.197132616117,
-      "close_game_probability": 0.44156901635398427,
+      "projected_margin": 5.537763173470214,
+      "projected_total": 42.20583040369341,
+      "close_game_probability": 0.44155592066324456,
       "fav_1_12_probability": 0.62,
       "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.4893996415640951,
+      "high_scoring_probability": 0.4897040641292694,
       "margin_probabilities": {
-        "Penrith Panthers 1-12": 0.36110820202973254,
-        "Penrith Panthers 13+": 0.29249898659536955,
-        "Sydney Roosters 1-12": 0.2393446793042856,
-        "Sydney Roosters 13+": 0.07858037277607267
+        "Penrith Panthers 1-12": 0.36110924174694375,
+        "Penrith Panthers 13+": 0.29251310659352625,
+        "Sydney Roosters 1-12": 0.23933605276597208,
+        "Sydney Roosters 13+": 0.07857434730075151
       },
-      "margin_remainder_probability": 0.028467759294539596,
-      "market_line": -9.5,
+      "margin_remainder_probability": 0.028467251592806386,
+      "market_line": -8.5,
       "home_line_odds": 1.9,
-      "away_line": 9.5,
+      "away_line": 8.5,
       "away_line_odds": 1.9,
-      "home_cover_probability": 0.3779745264837795,
-      "away_cover_probability": 0.6220254735162205,
-      "home_line_fair_odds": 2.645680938614561,
-      "away_line_fair_odds": 1.6076512017219229,
-      "home_line_ev": -0.281848399680819,
-      "away_line_ev": 0.1818483996808189,
-      "market_total": 42.5,
+      "home_cover_probability": 0.40813996341627,
+      "away_cover_probability": 0.59186003658373,
+      "home_line_fair_odds": 2.4501398775793986,
+      "away_line_fair_odds": 1.6895886496613135,
+      "home_line_ev": -0.22453406950908705,
+      "away_line_ev": 0.12453406950908685,
+      "market_total": 43.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.4907064865048413,
-      "under_probability": 0.5092935134951587,
-      "over_ev": -0.0676576756408016,
-      "under_ev": -0.03234232435919848,
+      "over_probability": 0.4603501969861651,
+      "under_probability": 0.5396498030138349,
+      "over_ev": -0.1253346257262864,
+      "under_ev": 0.02533462572628631,
       "confidence": "Developing",
       "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 63,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-12T11:39:01.110063+00:00",
+      "bookmaker_observed_at": "2026-09-12T12:10:59.293194+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
         "ladder": 0.54,
         "availability_margin": -0.7671461816640321,
         "availability_total": -2.6608410059945005,
-        "weather_total": 0.379728102005059,
+        "weather_total": 0.37930780791469504,
         "referee_margin": -0.1209026387184289,
         "referee_total": -0.06893579523414789,
         "late_season_margin": -2.0,
-        "controlled_context_margin": 3.063451313377759
+        "controlled_context_margin": 3.0636333348221134
       },
       "drivers": [
         "Point-in-time scoring base: Penrith Panthers 26.4 PF / 17.2 PA from 70 prior games; Sydney Roosters 25.7 PF / 20.7 PA from 70 prior games.",
@@ -1025,498 +218,498 @@
         "Penrith Panthers are playing at a recognised home venue; standard home-field uplift applied.",
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 2 Penrith Panthers absence(s), 2 Sydney Roosters absence(s); replacement-adjusted score effects -1.71/-0.95; net pre-team margin swing -0.77 pts.",
-        "Weather Fine / Dry: scoring +1.1% vs NRL across 1307 games; CommBank Stadium in fine / dry conditions +1.1% vs its own baseline across 95 games. Sample-shrunk forecast effect +0.4 points.",
+        "Weather Fine / Dry: scoring +1.0% vs NRL across 1308 games; CommBank Stadium in fine / dry conditions +1.1% vs its own baseline across 95 games. Sample-shrunk forecast effect +0.4 points.",
         "Referee Gerard Sutton environment: stoppages -0.2% vs NRL, historical scoring -0.5% vs NRL and home-win environment -4.1% vs NRL; conservative adjustments -0.1 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied -2.00 home-margin points: Penrith Panthers elite effect -1.13 (n=33) active; Sydney Roosters elite effect +0.98 (n=46) active.",
         "Stacked-advantage control: learned context +3.83, live availability -0.77, final downstream adjustment +3.06; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 63/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 62.9% of the -4.2pp raw market disagreement, leaving -2.6pp of betting edge."
+        "Market-relative H2H calibration retains 64.4% of the -4.2pp raw market disagreement, leaving -2.7pp of betting edge."
       ],
       "ats_players": [
         {
           "player": "Brian To'o",
           "nrl_player_id": 505410,
           "team": "Penrith Panthers",
-          "probability": 0.3622824646785566,
-          "fair_odds": 2.7602771248872693,
+          "probability": 0.3622825842850643,
+          "fair_odds": 2.7602762135900623,
           "bookmaker_odds": 2.05,
           "bookmaker_prices": {
             "Betcha": 2.05,
             "TAB NZ": 2.05,
             "Best Available": 2.05
           },
-          "ev": -0.25732094740895894
+          "ev": -0.2573207022156182
         },
         {
           "player": "Thomas Jenkins",
           "nrl_player_id": 100007927,
           "team": "Penrith Panthers",
-          "probability": 0.36191562909151115,
-          "fair_odds": 2.763074925805837,
+          "probability": 0.3619157487155847,
+          "fair_odds": 2.763074012526215,
           "bookmaker_odds": 1.83,
           "bookmaker_prices": {
             "Betcha": 1.83,
             "TAB NZ": 1.83,
             "Best Available": 1.83
           },
-          "ev": -0.3376943987625346
+          "ev": -0.33769417985048
         },
         {
           "player": "Mark Nawaqanitawase",
           "nrl_player_id": 100018452,
           "team": "Sydney Roosters",
-          "probability": 0.35533084472864007,
-          "fair_odds": 2.814278621839549,
+          "probability": 0.3553307271831612,
+          "fair_odds": 2.814279552819346,
+          "bookmaker_odds": 2.5,
+          "bookmaker_prices": {
+            "Betcha": 2.5,
+            "TAB NZ": 2.5,
+            "Best Available": 2.5
+          },
+          "ev": -0.11167318204209697
+        },
+        {
+          "player": "Daniel Tupou",
+          "nrl_player_id": 500002,
+          "team": "Sydney Roosters",
+          "probability": 0.32170980561451906,
+          "fair_odds": 3.108391421547858,
           "bookmaker_odds": 2.55,
           "bookmaker_prices": {
             "Betcha": 2.55,
             "TAB NZ": 2.55,
             "Best Available": 2.55
           },
-          "ev": -0.0939063459419679
-        },
-        {
-          "player": "Daniel Tupou",
-          "nrl_player_id": 500002,
-          "team": "Sydney Roosters",
-          "probability": 0.3217099167129778,
-          "fair_odds": 3.108390348104119,
-          "bookmaker_odds": 2.6,
-          "bookmaker_prices": {
-            "Betcha": 2.6,
-            "TAB NZ": 2.6,
-            "Best Available": 2.6
-          },
-          "ev": -0.1635542165462578
+          "ev": -0.1796399956829764
         },
         {
           "player": "Casey McLean",
           "nrl_player_id": 100011678,
           "team": "Penrith Panthers",
-          "probability": 0.3078575048872928,
-          "fair_odds": 3.248256040943689,
+          "probability": 0.3078576133732334,
+          "fair_odds": 3.2482548962907822,
           "bookmaker_odds": 2.25,
           "bookmaker_prices": {
             "Betcha": 2.25,
             "TAB NZ": 2.25,
             "Best Available": 2.25
           },
-          "ev": -0.30732061400359123
+          "ev": -0.3073203699102248
         },
         {
           "player": "James Tedesco",
           "nrl_player_id": 500663,
           "team": "Sydney Roosters",
-          "probability": 0.29379022602965965,
-          "fair_odds": 3.4037892053598977,
-          "bookmaker_odds": 3.3,
+          "probability": 0.29379012039676544,
+          "fair_odds": 3.403790429199912,
+          "bookmaker_odds": 3.25,
           "bookmaker_prices": {
-            "Betcha": 3.3,
-            "TAB NZ": 3.3,
-            "Best Available": 3.3
+            "Betcha": 3.25,
+            "TAB NZ": 3.25,
+            "Best Available": 3.25
           },
-          "ev": -0.030492254102123195
+          "ev": -0.045182108710512314
         },
         {
           "player": "Dylan Edwards",
           "nrl_player_id": 503340,
           "team": "Penrith Panthers",
-          "probability": 0.2789295857893826,
-          "fair_odds": 3.5851342093021703,
+          "probability": 0.2789296881895024,
+          "fair_odds": 3.585132893134734,
           "bookmaker_odds": 2.75,
           "bookmaker_prices": {
             "Betcha": 2.75,
             "TAB NZ": 2.75,
             "Best Available": 2.75
           },
-          "ev": -0.2329436390791979
+          "ev": -0.2329433574788683
         },
         {
           "player": "Robert Toia",
           "nrl_player_id": 100008243,
           "team": "Sydney Roosters",
-          "probability": 0.24431914118747486,
-          "fair_odds": 4.093007183717399,
-          "bookmaker_odds": 3.5,
-          "bookmaker_prices": {
-            "Betcha": 3.5,
-            "TAB NZ": 3.5,
-            "Best Available": 3.5
-          },
-          "ev": -0.14488300584383795
-        },
-        {
-          "player": "Billy Smith",
-          "nrl_player_id": 509128,
-          "team": "Sydney Roosters",
-          "probability": 0.24206894129369477,
-          "fair_odds": 4.131054544443729,
-          "bookmaker_odds": 3.5,
-          "bookmaker_prices": {
-            "Betcha": 3.5,
-            "TAB NZ": 3.5,
-            "Best Available": 3.5
-          },
-          "ev": -0.15275870547206827
-        },
-        {
-          "player": "Luke Garner",
-          "nrl_player_id": 501271,
-          "team": "Penrith Panthers",
-          "probability": 0.23641479388150347,
-          "fair_odds": 4.229853739615056,
-          "bookmaker_odds": 3.35,
-          "bookmaker_prices": {
-            "Betcha": 3.35,
-            "TAB NZ": 3.35,
-            "Best Available": 3.35
-          },
-          "ev": -0.20801044049696338
-        },
-        {
-          "player": "Nathan Cleary",
-          "nrl_player_id": 504120,
-          "team": "Penrith Panthers",
-          "probability": 0.20970290692906385,
-          "fair_odds": 4.7686511104887535,
+          "probability": 0.24431904718830558,
+          "fair_odds": 4.093008758458621,
           "bookmaker_odds": 3.45,
           "bookmaker_prices": {
             "Betcha": 3.45,
             "TAB NZ": 3.45,
             "Best Available": 3.45
           },
-          "ev": -0.27652497109472973
+          "ev": -0.15709928720034572
+        },
+        {
+          "player": "Billy Smith",
+          "nrl_player_id": 509128,
+          "team": "Sydney Roosters",
+          "probability": 0.24206884788294136,
+          "fair_odds": 4.131056138555985,
+          "bookmaker_odds": 3.45,
+          "bookmaker_prices": {
+            "Betcha": 3.45,
+            "TAB NZ": 3.45,
+            "Best Available": 3.45
+          },
+          "ev": -0.1648624748038523
+        },
+        {
+          "player": "Luke Garner",
+          "nrl_player_id": 501271,
+          "team": "Penrith Panthers",
+          "probability": 0.23641488579099643,
+          "fair_odds": 4.229852095202052,
+          "bookmaker_odds": 3.35,
+          "bookmaker_prices": {
+            "Betcha": 3.35,
+            "TAB NZ": 3.35,
+            "Best Available": 3.35
+          },
+          "ev": -0.208010132600162
+        },
+        {
+          "player": "Nathan Cleary",
+          "nrl_player_id": 504120,
+          "team": "Penrith Panthers",
+          "probability": 0.20970299130586495,
+          "fair_odds": 4.768649191758249,
+          "bookmaker_odds": 3.45,
+          "bookmaker_prices": {
+            "Betcha": 3.45,
+            "TAB NZ": 3.45,
+            "Best Available": 3.45
+          },
+          "ev": -0.27652467999476593
         },
         {
           "player": "Liam Martin",
           "nrl_player_id": 504125,
           "team": "Penrith Panthers",
-          "probability": 0.17338331180506344,
-          "fair_odds": 5.767567764101252,
+          "probability": 0.17338338477428147,
+          "fair_odds": 5.767565336793063,
           "bookmaker_odds": 3.6,
           "bookmaker_prices": {
             "Betcha": 3.6,
             "TAB NZ": 3.6,
             "Best Available": 3.6
           },
-          "ev": -0.3758200775017716
+          "ev": -0.37581981481258664
         },
         {
           "player": "Isaiah Papali'i",
           "nrl_player_id": 505976,
           "team": "Penrith Panthers",
-          "probability": 0.16268744351739356,
-          "fair_odds": 6.146755879737492,
+          "probability": 0.16268751287113106,
+          "fair_odds": 6.1467532593735426,
           "bookmaker_odds": 5.0,
           "bookmaker_prices": {
             "Betcha": 5.0,
             "TAB NZ": 5.0,
             "Best Available": 5.0
           },
-          "ev": -0.18656278241303226
+          "ev": -0.18656243564434472
         },
         {
           "player": "Hugo Savala",
           "nrl_player_id": 509599,
           "team": "Sydney Roosters",
-          "probability": 0.14137522478145556,
-          "fair_odds": 7.073375137304621,
+          "probability": 0.14137516201755773,
+          "fair_odds": 7.073378277549259,
           "bookmaker_odds": 4.5,
           "bookmaker_prices": {
             "Betcha": 4.5,
             "TAB NZ": 4.5,
             "Best Available": 4.5
           },
-          "ev": -0.36381148848345
+          "ev": -0.36381177092099026
         },
         {
           "player": "Daly Cherry-Evans",
           "nrl_player_id": 500024,
           "team": "Sydney Roosters",
-          "probability": 0.13533842528983417,
-          "fair_odds": 7.388884552620209,
+          "probability": 0.13533836473271255,
+          "fair_odds": 7.388887858774982,
           "bookmaker_odds": 6.2,
           "bookmaker_prices": {
             "Betcha": 6.2,
             "TAB NZ": 6.2,
             "Best Available": 6.2
           },
-          "ev": -0.16090176320302818
+          "ev": -0.16090213865718217
         },
         {
           "player": "Isaah Yeo",
           "nrl_player_id": 500534,
           "team": "Penrith Panthers",
-          "probability": 0.12921164554157039,
-          "fair_odds": 7.739240498088671,
+          "probability": 0.12921170394764697,
+          "fair_odds": 7.73923699980903,
           "bookmaker_odds": 7.25,
           "bookmaker_prices": {
             "Betcha": 7.25,
             "TAB NZ": 7.25,
             "Best Available": 7.25
           },
-          "ev": -0.06321556982361476
+          "ev": -0.0632151463795595
         },
         {
           "player": "Siua Wong",
           "nrl_player_id": 100004373,
           "team": "Sydney Roosters",
-          "probability": 0.12510872451309035,
-          "fair_odds": 7.993047678264582,
+          "probability": 0.12510866755631217,
+          "fair_odds": 7.993051317167086,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "TAB NZ": 7.0,
             "Best Available": 7.0
           },
-          "ev": -0.12423892840836759
+          "ev": -0.12423932710581487
         },
         {
           "player": "Victor Radley",
           "nrl_player_id": 503920,
           "team": "Sydney Roosters",
-          "probability": 0.11009574891497283,
-          "fair_odds": 9.083002839394844,
+          "probability": 0.11009569781647169,
+          "fair_odds": 9.083007055071207,
           "bookmaker_odds": 11.0,
           "bookmaker_prices": {
             "Betcha": 11.0,
             "TAB NZ": 11.0,
             "Best Available": 11.0
           },
-          "ev": 0.211053238064701
+          "ev": 0.2110526759811886
         },
         {
           "player": "Salesi Foketi",
           "nrl_player_id": 100008234,
           "team": "Sydney Roosters",
-          "probability": 0.10941901894585708,
-          "fair_odds": 9.13917899862383,
-          "bookmaker_odds": 6.6,
+          "probability": 0.1094189679487282,
+          "fair_odds": 9.139183258140237,
+          "bookmaker_odds": 6.5,
           "bookmaker_prices": {
-            "Betcha": 6.6,
-            "TAB NZ": 6.6,
-            "Best Available": 6.6
+            "Betcha": 6.5,
+            "TAB NZ": 6.5,
+            "Best Available": 6.5
           },
-          "ev": -0.27783447495734326
+          "ev": -0.28877670833326674
         },
         {
           "player": "Jack Cole",
           "nrl_player_id": 100003896,
           "team": "Penrith Panthers",
-          "probability": 0.10534768471268996,
-          "fair_odds": 9.49237757552295,
+          "probability": 0.10534773398400447,
+          "fair_odds": 9.492373135921799,
           "bookmaker_odds": 5.2,
           "bookmaker_prices": {
             "Betcha": 5.2,
             "TAB NZ": 5.2,
             "Best Available": 5.2
           },
-          "ev": -0.4521920394940122
+          "ev": -0.45219178328317666
         },
         {
           "player": "Reece Robson",
           "nrl_player_id": 503944,
           "team": "Sydney Roosters",
-          "probability": 0.09344897570194856,
-          "fair_odds": 10.701026870422384,
-          "bookmaker_odds": 10.0,
-          "bookmaker_prices": {
-            "Betcha": 10.0,
-            "TAB NZ": 10.0,
-            "Best Available": 10.0
-          },
-          "ev": -0.06551024298051444
-        },
-        {
-          "player": "Liam Henry",
-          "nrl_player_id": 100007929,
-          "team": "Penrith Panthers",
-          "probability": 0.08844811355356123,
-          "fair_odds": 11.306063632373949,
-          "bookmaker_odds": 7.75,
-          "bookmaker_prices": {
-            "Betcha": 7.75,
-            "TAB NZ": 7.75,
-            "Best Available": 7.75
-          },
-          "ev": -0.31452711995990046
-        },
-        {
-          "player": "Connor Watson",
-          "nrl_player_id": 503327,
-          "team": "Sydney Roosters",
-          "probability": 0.08701354993994047,
-          "fair_odds": 11.492462963414686,
-          "bookmaker_odds": 12.0,
-          "bookmaker_prices": {
-            "Betcha": 12.0,
-            "TAB NZ": 12.0,
-            "Best Available": 12.0
-          },
-          "ev": 0.044162599279285564
-        },
-        {
-          "player": "Nat Butcher",
-          "nrl_player_id": 503639,
-          "team": "Sydney Roosters",
-          "probability": 0.08588889200470484,
-          "fair_odds": 11.64294912484401,
-          "bookmaker_odds": 16.0,
-          "bookmaker_prices": {
-            "Betcha": 16.0,
-            "TAB NZ": 16.0,
-            "Best Available": 16.0
-          },
-          "ev": 0.3742222720752775
-        },
-        {
-          "player": "Scott Sorensen",
-          "nrl_player_id": 500852,
-          "team": "Penrith Panthers",
-          "probability": 0.08490649042730986,
-          "fair_odds": 11.77766263765336,
-          "bookmaker_odds": 9.0,
-          "bookmaker_prices": {
-            "Betcha": 9.0,
-            "TAB NZ": 9.0,
-            "Best Available": 9.0
-          },
-          "ev": -0.23584158615421136
-        },
-        {
-          "player": "Lindsay Smith",
-          "nrl_player_id": 505555,
-          "team": "Penrith Panthers",
-          "probability": 0.08434239314353219,
-          "fair_odds": 11.856433790042217,
-          "bookmaker_odds": 7.25,
-          "bookmaker_prices": {
-            "Betcha": 7.25,
-            "TAB NZ": 7.25,
-            "Best Available": 7.25
-          },
-          "ev": -0.3885176497093916
-        },
-        {
-          "player": "Freddy Lussick",
-          "nrl_player_id": 504830,
-          "team": "Penrith Panthers",
-          "probability": 0.07952454667227005,
-          "fair_odds": 12.574733737510217,
-          "bookmaker_odds": 6.6,
-          "bookmaker_prices": {
-            "Betcha": 6.6,
-            "TAB NZ": 6.6,
-            "Best Available": 6.6
-          },
-          "ev": -0.47513799196301776
-        },
-        {
-          "player": "Billy Phillips",
-          "nrl_player_id": 100008487,
-          "team": "Penrith Panthers",
-          "probability": 0.0794704166038951,
-          "fair_odds": 12.58329882658482,
-          "bookmaker_odds": 8.0,
-          "bookmaker_prices": {
-            "Betcha": 8.0,
-            "TAB NZ": 8.0,
-            "Best Available": 8.0
-          },
-          "ev": -0.3642366671688392
-        },
-        {
-          "player": "Moses Leota",
-          "nrl_player_id": 501461,
-          "team": "Penrith Panthers",
-          "probability": 0.07630862605123866,
-          "fair_odds": 13.104678353513192,
+          "probability": 0.0934489313755505,
+          "fair_odds": 10.701031946328225,
           "bookmaker_odds": 9.75,
           "bookmaker_prices": {
             "Betcha": 9.75,
             "TAB NZ": 9.75,
             "Best Available": 9.75
           },
-          "ev": -0.25599089600042313
+          "ev": -0.08887291908838257
+        },
+        {
+          "player": "Liam Henry",
+          "nrl_player_id": 100007929,
+          "team": "Penrith Panthers",
+          "probability": 0.08844815460214867,
+          "fair_odds": 11.306058385255525,
+          "bookmaker_odds": 7.75,
+          "bookmaker_prices": {
+            "Betcha": 7.75,
+            "TAB NZ": 7.75,
+            "Best Available": 7.75
+          },
+          "ev": -0.3145268018333478
+        },
+        {
+          "player": "Connor Watson",
+          "nrl_player_id": 503327,
+          "team": "Sydney Roosters",
+          "probability": 0.0870135082683708,
+          "fair_odds": 11.492468467260935,
+          "bookmaker_odds": 11.5,
+          "bookmaker_prices": {
+            "Betcha": 11.5,
+            "TAB NZ": 11.5,
+            "Best Available": 11.5
+          },
+          "ev": 0.0006553450862643029
+        },
+        {
+          "player": "Nat Butcher",
+          "nrl_player_id": 503639,
+          "team": "Sydney Roosters",
+          "probability": 0.08588885070454176,
+          "fair_odds": 11.642954723425127,
+          "bookmaker_odds": 16.0,
+          "bookmaker_prices": {
+            "Betcha": 16.0,
+            "TAB NZ": 16.0,
+            "Best Available": 16.0
+          },
+          "ev": 0.3742216112726682
+        },
+        {
+          "player": "Scott Sorensen",
+          "nrl_player_id": 500852,
+          "team": "Penrith Panthers",
+          "probability": 0.08490652998533606,
+          "fair_odds": 11.77765715043009,
+          "bookmaker_odds": 9.0,
+          "bookmaker_prices": {
+            "Betcha": 9.0,
+            "TAB NZ": 9.0,
+            "Best Available": 9.0
+          },
+          "ev": -0.23584123013197544
+        },
+        {
+          "player": "Lindsay Smith",
+          "nrl_player_id": 505555,
+          "team": "Penrith Panthers",
+          "probability": 0.08434243246296788,
+          "fair_odds": 11.856428262714248,
+          "bookmaker_odds": 7.25,
+          "bookmaker_prices": {
+            "Betcha": 7.25,
+            "TAB NZ": 7.25,
+            "Best Available": 7.25
+          },
+          "ev": -0.38851736464348285
+        },
+        {
+          "player": "Freddy Lussick",
+          "nrl_player_id": 504830,
+          "team": "Penrith Panthers",
+          "probability": 0.07952458394074864,
+          "fair_odds": 12.574727844474731,
+          "bookmaker_odds": 6.6,
+          "bookmaker_prices": {
+            "Betcha": 6.6,
+            "TAB NZ": 6.6,
+            "Best Available": 6.6
+          },
+          "ev": -0.47513774599105896
+        },
+        {
+          "player": "Billy Phillips",
+          "nrl_player_id": 100008487,
+          "team": "Penrith Panthers",
+          "probability": 0.07947045384919622,
+          "fair_odds": 12.583292929188602,
+          "bookmaker_odds": 8.0,
+          "bookmaker_prices": {
+            "Betcha": 8.0,
+            "TAB NZ": 8.0,
+            "Best Available": 8.0
+          },
+          "ev": -0.3642363692064302
+        },
+        {
+          "player": "Moses Leota",
+          "nrl_player_id": 501461,
+          "team": "Penrith Panthers",
+          "probability": 0.07630866193754603,
+          "fair_odds": 13.104672190667408,
+          "bookmaker_odds": 9.75,
+          "bookmaker_prices": {
+            "Betcha": 9.75,
+            "TAB NZ": 9.75,
+            "Best Available": 9.75
+          },
+          "ev": -0.25599054610892624
         },
         {
           "player": "Spencer Leniu",
           "nrl_player_id": 505560,
           "team": "Sydney Roosters",
-          "probability": 0.06863681590178652,
-          "fair_odds": 14.569440421462957,
+          "probability": 0.0686367833552892,
+          "fair_odds": 14.569447330065467,
           "bookmaker_odds": 17.0,
           "bookmaker_prices": {
             "Betcha": 17.0,
             "TAB NZ": 17.0,
             "Best Available": 17.0
           },
-          "ev": 0.16682587033037088
+          "ev": 0.16682531703991632
         },
         {
           "player": "Lindsay Collins",
           "nrl_player_id": 501781,
           "team": "Sydney Roosters",
-          "probability": 0.0674387241555545,
-          "fair_odds": 14.828275779556488,
+          "probability": 0.06743869213603694,
+          "fair_odds": 14.828282819939714,
           "bookmaker_odds": 17.0,
           "bookmaker_prices": {
             "Betcha": 17.0,
             "TAB NZ": 17.0,
             "Best Available": 17.0
           },
-          "ev": 0.1464583106444266
+          "ev": 0.14645776631262808
         },
         {
           "player": "Mitch Kenny",
           "nrl_player_id": 505414,
           "team": "Penrith Panthers",
-          "probability": 0.06596167938515571,
-          "fair_odds": 15.16031746494684,
+          "probability": 0.0659617107529984,
+          "fair_odds": 15.160310255515064,
           "bookmaker_odds": 6.8,
           "bookmaker_prices": {
             "Betcha": 6.8,
             "TAB NZ": 6.8,
             "Best Available": 6.8
           },
-          "ev": -0.5514605801809411
+          "ev": -0.5514603668796109
         },
         {
           "player": "Naufahu Whyte",
           "nrl_player_id": 100006390,
           "team": "Sydney Roosters",
-          "probability": 0.06002032455438653,
-          "fair_odds": 16.661022868909427,
+          "probability": 0.060020295830390216,
+          "fair_odds": 16.661030842398276,
           "bookmaker_odds": 14.0,
           "bookmaker_prices": {
             "Betcha": 14.0,
             "TAB NZ": 14.0,
             "Best Available": 14.0
           },
-          "ev": -0.15971545623858863
+          "ev": -0.15971585837453695
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.13064,
-        "fair_odds": 7.654623392529087,
-        "singles_product_odds": 5.227499999999999,
+        "probability": 0.13096,
+        "fair_odds": 7.635919364691509,
+        "singles_product_odds": 5.125,
         "target_met": false,
         "legs": [
           {
             "player": "Brian To'o",
             "team": "Penrith Panthers",
-            "probability": 0.3622824646785566,
-            "fair_odds": 2.7602771248872693,
+            "probability": 0.3622825842850643,
+            "fair_odds": 2.7602762135900623,
             "market_odds": 2.05
           },
           {
             "player": "Mark Nawaqanitawase",
             "team": "Sydney Roosters",
-            "probability": 0.35533084472864007,
-            "fair_odds": 2.814278621839549,
-            "market_odds": 2.55
+            "probability": 0.3553307271831612,
+            "fair_odds": 2.814279552819346,
+            "market_odds": 2.5
           }
         ],
         "method": "Shared match simulation",
@@ -1530,24 +723,24 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.13064,
-          "fair_odds": 7.654623392529087,
-          "singles_product_odds": 5.227499999999999,
+          "probability": 0.13096,
+          "fair_odds": 7.635919364691509,
+          "singles_product_odds": 5.125,
           "target_met": false,
           "legs": [
             {
               "player": "Brian To'o",
               "team": "Penrith Panthers",
-              "probability": 0.3622824646785566,
-              "fair_odds": 2.7602771248872693,
+              "probability": 0.3622825842850643,
+              "fair_odds": 2.7602762135900623,
               "market_odds": 2.05
             },
             {
               "player": "Mark Nawaqanitawase",
               "team": "Sydney Roosters",
-              "probability": 0.35533084472864007,
-              "fair_odds": 2.814278621839549,
-              "market_odds": 2.55
+              "probability": 0.3553307271831612,
+              "fair_odds": 2.814279552819346,
+              "market_odds": 2.5
             }
           ],
           "method": "Shared match simulation",
@@ -1557,24 +750,24 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.13064,
-          "fair_odds": 7.654623392529087,
-          "singles_product_odds": 5.227499999999999,
+          "probability": 0.13096,
+          "fair_odds": 7.635919364691509,
+          "singles_product_odds": 5.125,
           "target_met": false,
           "legs": [
             {
               "player": "Brian To'o",
               "team": "Penrith Panthers",
-              "probability": 0.3622824646785566,
-              "fair_odds": 2.7602771248872693,
+              "probability": 0.3622825842850643,
+              "fair_odds": 2.7602762135900623,
               "market_odds": 2.05
             },
             {
               "player": "Mark Nawaqanitawase",
               "team": "Sydney Roosters",
-              "probability": 0.35533084472864007,
-              "fair_odds": 2.814278621839549,
-              "market_odds": 2.55
+              "probability": 0.3553307271831612,
+              "fair_odds": 2.814279552819346,
+              "market_odds": 2.5
             }
           ],
           "method": "Shared match simulation",
@@ -1584,24 +777,24 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.13064,
-          "fair_odds": 7.654623392529087,
-          "singles_product_odds": 5.227499999999999,
+          "probability": 0.13096,
+          "fair_odds": 7.635919364691509,
+          "singles_product_odds": 5.125,
           "target_met": false,
           "legs": [
             {
               "player": "Brian To'o",
               "team": "Penrith Panthers",
-              "probability": 0.3622824646785566,
-              "fair_odds": 2.7602771248872693,
+              "probability": 0.3622825842850643,
+              "fair_odds": 2.7602762135900623,
               "market_odds": 2.05
             },
             {
               "player": "Mark Nawaqanitawase",
               "team": "Sydney Roosters",
-              "probability": 0.35533084472864007,
-              "fair_odds": 2.814278621839549,
-              "market_odds": 2.55
+              "probability": 0.3553307271831612,
+              "fair_odds": 2.814279552819346,
+              "market_odds": 2.5
             }
           ],
           "method": "Shared match simulation",
@@ -1625,7 +818,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "b9f7cb45c7ab6c04"
+      "summary_id": "750d96d6f65bd15c"
     },
     {
       "status": "completed",
@@ -5246,6 +4439,1755 @@
       "winner": "Dolphins",
       "result_state": "FullTime",
       "start_time": "2026-09-12T06:05:00Z"
+    },
+    {
+      "status": "completed",
+      "analysis": {
+        "schema_version": 1,
+        "match_id": 29025,
+        "home_team": "Cronulla-Sutherland Sharks",
+        "away_team": "North Queensland Cowboys",
+        "round": 28,
+        "kickoff": "2026-09-12T09:50:00Z",
+        "source_url": "https://www.nrl.com/draw/nrl-premiership/2026/finals-week-1/sharks-v-cowboys",
+        "available": true,
+        "events": [
+          {
+            "seconds": 0,
+            "clock": "00:00",
+            "type": "GameTime",
+            "category": "match",
+            "title": "KICK OFF",
+            "team": "",
+            "side": "neutral",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 145,
+            "clock": "02:25",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 149,
+            "clock": "02:29",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Scott Drinkwater",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 221,
+            "clock": "03:41",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Offside inside 10m",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jaxon Purdue",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 300,
+            "clock": "05:00",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Penalty Shot-Made",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": 2.0,
+            "away_score": null
+          },
+          {
+            "seconds": 522,
+            "clock": "08:42",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jake Clifford",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 540,
+            "clock": "09:00",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Slow Peel",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Tom Dearden",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 568,
+            "clock": "09:28",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Siosifa Talakai",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 590,
+            "clock": "09:50",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jaxon Purdue",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 592,
+            "clock": "09:52",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 632,
+            "clock": "10:32",
+            "type": "OffsideWithinTenMetres",
+            "category": "discipline",
+            "title": "Inside 10 Metres",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Tom Chester",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 633,
+            "clock": "10:33",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 688,
+            "clock": "11:28",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Holding Back",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Heilum Luki",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 776,
+            "clock": "12:56",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "KL Iro",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 894,
+            "clock": "14:54",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 898,
+            "clock": "14:58",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Riley Jones",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 977,
+            "clock": "16:17",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 980,
+            "clock": "16:20",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Braidon Burns",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 982,
+            "clock": "16:22",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Offside General",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Tom Dearden",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1021,
+            "clock": "17:01",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalties - Other",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Addin Fonua-Blake",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1029,
+            "clock": "17:09",
+            "type": "VideoReferee",
+            "category": "other",
+            "title": "Video Referee",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "",
+            "detail": "No Try",
+            "home_score": 2.0,
+            "away_score": null
+          },
+          {
+            "seconds": 1086,
+            "clock": "18:06",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jaxon Purdue",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1163,
+            "clock": "19:23",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Siosifa Talakai",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1164,
+            "clock": "19:24",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Siosifa Talakai",
+            "detail": "",
+            "home_score": 6.0,
+            "away_score": null
+          },
+          {
+            "seconds": 1230,
+            "clock": "20:30",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": 8.0,
+            "away_score": null
+          },
+          {
+            "seconds": 1256,
+            "clock": "20:56",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA Cleared",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Sione Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1313,
+            "clock": "21:53",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "On Report",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Griffin Neame",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1317,
+            "clock": "21:57",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #1",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Coen Hess",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1350,
+            "clock": "22:30",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jake Clifford",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1428,
+            "clock": "23:48",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1454,
+            "clock": "24:14",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #2",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jeremiah Nanai",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1477,
+            "clock": "24:37",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Tom Chester",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1481,
+            "clock": "24:41",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "KL Iro",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1496,
+            "clock": "24:56",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "On Report",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "KL Iro",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1500,
+            "clock": "25:00",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #1",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Thomas Hazelton",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1551,
+            "clock": "25:51",
+            "type": "OffsideWithinTenMetres",
+            "category": "discipline",
+            "title": "Inside 10 Metres",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "KL Iro",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1553,
+            "clock": "25:53",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1560,
+            "clock": "26:00",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Braidon Burns",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1562,
+            "clock": "26:02",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Braidon Burns",
+            "detail": "",
+            "home_score": 8.0,
+            "away_score": 4.0
+          },
+          {
+            "seconds": 1583,
+            "clock": "26:23",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #2",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Billy Burns",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1652,
+            "clock": "27:32",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Scott Drinkwater",
+            "detail": "",
+            "home_score": 8.0,
+            "away_score": 6.0
+          },
+          {
+            "seconds": 1773,
+            "clock": "29:33",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Riley Jones",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1778,
+            "clock": "29:38",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA no return",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Griffin Neame",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1780,
+            "clock": "29:40",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1825,
+            "clock": "30:25",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Tom Chester",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1827,
+            "clock": "30:27",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #3",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Siosifa Talakai",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1864,
+            "clock": "31:04",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1868,
+            "clock": "31:08",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Scott Drinkwater",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1913,
+            "clock": "31:53",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Sione Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1913,
+            "clock": "31:53",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Sione Katoa",
+            "detail": "",
+            "home_score": 12.0,
+            "away_score": 6.0
+          },
+          {
+            "seconds": 2012,
+            "clock": "33:32",
+            "type": "GoalMissed",
+            "category": "scoring",
+            "title": "Conversion-Missed",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2022,
+            "clock": "33:42",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Tom Dearden",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2100,
+            "clock": "35:00",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Offside General",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "KL Iro",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2110,
+            "clock": "35:10",
+            "type": "VideoReferee",
+            "category": "other",
+            "title": "Video Referee",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "",
+            "detail": "No Try",
+            "home_score": 12.0,
+            "away_score": 6.0
+          },
+          {
+            "seconds": 2131,
+            "clock": "35:31",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Briton Nikora",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2243,
+            "clock": "37:23",
+            "type": "LineDropout",
+            "category": "attack",
+            "title": "Line Dropout",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2283,
+            "clock": "38:03",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jeremiah Nanai",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2389,
+            "clock": "39:49",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Tom Dearden",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2488,
+            "clock": "41:28",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jake Clifford",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2568,
+            "clock": "42:48",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Riley Jones",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2618,
+            "clock": "43:38",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jake Clifford",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2651,
+            "clock": "44:11",
+            "type": "LineDropout",
+            "category": "attack",
+            "title": "Line Dropout",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2658,
+            "clock": "44:18",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2714,
+            "clock": "45:14",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Scott Drinkwater",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2756,
+            "clock": "45:56",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Scott Drinkwater",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2758,
+            "clock": "45:58",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2809,
+            "clock": "46:49",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2813,
+            "clock": "46:53",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Ronaldo Mulitalo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2857,
+            "clock": "47:37",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Ronaldo Mulitalo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2914,
+            "clock": "48:34",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Scott Drinkwater",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2935,
+            "clock": "48:55",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Sione Katoa",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 6.0
+          },
+          {
+            "seconds": 3041,
+            "clock": "50:41",
+            "type": "GoalMissed",
+            "category": "scoring",
+            "title": "Conversion-Missed",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3068,
+            "clock": "51:08",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3070,
+            "clock": "51:10",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Braidon Burns",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3116,
+            "clock": "51:56",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #4",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jason Taumalolo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3151,
+            "clock": "52:31",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Ronaldo Mulitalo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3155,
+            "clock": "52:35",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3229,
+            "clock": "53:49",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Sione Katoa",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3248,
+            "clock": "54:08",
+            "type": "CaptainsChallenge",
+            "category": "other",
+            "title": "Video Referee - Captain's Challenge",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "",
+            "detail": "Unsuccessful",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3248,
+            "clock": "54:08",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #4",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Oregon Kaufusi",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3325,
+            "clock": "55:25",
+            "type": "LineDropout",
+            "category": "attack",
+            "title": "Line Dropout",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3377,
+            "clock": "56:17",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Zac Laybutt",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3381,
+            "clock": "56:21",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Zac Laybutt",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 10.0
+          },
+          {
+            "seconds": 3459,
+            "clock": "57:39",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Scott Drinkwater",
+            "detail": "",
+            "home_score": 16.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 3467,
+            "clock": "57:47",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #5",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Addin Fonua-Blake",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3534,
+            "clock": "58:54",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #6",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Cameron McInnes",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3559,
+            "clock": "59:19",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3564,
+            "clock": "59:24",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Zac Laybutt",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3652,
+            "clock": "60:52",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "William Kennedy",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3652,
+            "clock": "60:52",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "William Kennedy",
+            "detail": "",
+            "home_score": 20.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 3758,
+            "clock": "62:38",
+            "type": "GoalMissed",
+            "category": "scoring",
+            "title": "Conversion-Missed",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3820,
+            "clock": "63:40",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Braidon Burns",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3833,
+            "clock": "63:53",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Crowding",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Heilum Luki",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3909,
+            "clock": "65:09",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3911,
+            "clock": "65:11",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": 24.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 4006,
+            "clock": "66:46",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #5",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Sam McIntyre",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4006,
+            "clock": "66:46",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #6",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Soni Luke",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4012,
+            "clock": "66:52",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": 26.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 4056,
+            "clock": "67:36",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4068,
+            "clock": "67:48",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Nicho Hynes",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4113,
+            "clock": "68:33",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Braidon Burns",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4120,
+            "clock": "68:40",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Reuben Cotter",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4135,
+            "clock": "68:55",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #7",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Jesse Colquhoun",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4249,
+            "clock": "70:49",
+            "type": "LineDropout",
+            "category": "attack",
+            "title": "Line Dropout",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Braydon Trindall",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4288,
+            "clock": "71:28",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jaxon Purdue",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4290,
+            "clock": "71:30",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jaxon Purdue",
+            "detail": "",
+            "home_score": 26.0,
+            "away_score": 16.0
+          },
+          {
+            "seconds": 4340,
+            "clock": "72:20",
+            "type": "GoalMissed",
+            "category": "scoring",
+            "title": "Conversion-Missed",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Scott Drinkwater",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4378,
+            "clock": "72:58",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Jake Clifford",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4484,
+            "clock": "74:44",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Reuben Cotter",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4567,
+            "clock": "76:07",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Tom Dearden",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4598,
+            "clock": "76:38",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #8",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Billy Burns",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4641,
+            "clock": "77:21",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Teig Wilton",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4682,
+            "clock": "78:02",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Blayke Brailey",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4689,
+            "clock": "78:09",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Scott Drinkwater",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4719,
+            "clock": "78:39",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Offside General",
+            "team": "Cronulla-Sutherland Sharks",
+            "side": "home",
+            "player": "Briton Nikora",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4749,
+            "clock": "79:09",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "North Queensland Cowboys",
+            "side": "away",
+            "player": "Heilum Luki",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4800,
+            "clock": "80:00",
+            "type": "GameTime",
+            "category": "match",
+            "title": "FULL TIME",
+            "team": "",
+            "side": "neutral",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          }
+        ],
+        "stats": [
+          {
+            "label": "Possession %",
+            "home": 54.0,
+            "away": 46.0,
+            "unit": "%"
+          },
+          {
+            "label": "Completion Rate",
+            "home": 83.0,
+            "away": 62.0,
+            "unit": "%"
+          },
+          {
+            "label": "All Run Metres",
+            "home": 1639.0,
+            "away": 1509.0,
+            "unit": ""
+          },
+          {
+            "label": "Line Breaks",
+            "home": 4.0,
+            "away": 6.0,
+            "unit": ""
+          },
+          {
+            "label": "Errors",
+            "home": 9.0,
+            "away": 18.0,
+            "unit": ""
+          },
+          {
+            "label": "Penalties Conceded",
+            "home": 9.0,
+            "away": 6.0,
+            "unit": ""
+          },
+          {
+            "label": "Six-agains awarded (timeline)",
+            "home": 3,
+            "away": 2,
+            "unit": ""
+          }
+        ],
+        "turning_points": [
+          "05:00 — Cronulla-Sutherland Sharks took the lead, 2–0.",
+          "19:24 — Cronulla-Sutherland Sharks scored through Siosifa Talakai, 78 seconds after North Queensland Cowboys made an error. The timing shows the sequence; it does not establish that the earlier event caused the try.",
+          "26:02 — North Queensland Cowboys scored through Braidon Burns, 9 seconds after North Queensland Cowboys received a six-again. The timing shows the sequence; it does not establish that the earlier event caused the try.",
+          "31:53 — Cronulla-Sutherland Sharks scored through Sione Katoa, 45 seconds after North Queensland Cowboys made an error. The timing shows the sequence; it does not establish that the earlier event caused the try.",
+          "48:55 — Cronulla-Sutherland Sharks scored through Sione Katoa, 21 seconds after North Queensland Cowboys made an error. The timing shows the sequence; it does not establish that the earlier event caused the try.",
+          "60:52 — Cronulla-Sutherland Sharks scored through William Kennedy, 88 seconds after North Queensland Cowboys made an error. The timing shows the sequence; it does not establish that the earlier event caused the try.",
+          "65:11 — Cronulla-Sutherland Sharks scored through Nicho Hynes, 91 seconds after North Queensland Cowboys made an error. The timing shows the sequence; it does not establish that the earlier event caused the try."
+        ],
+        "explanations": [
+          "The locked pre-match pick was Cronulla-Sutherland Sharks; the winner prediction was correct.",
+          "Cronulla-Sutherland Sharks scored 2.6 points fewer than forecast; North Queensland Cowboys scored 4.8 points fewer. Together those differences moved the home-minus-away margin by +2.3 points. The winner verdict and the score accuracy are assessed separately.",
+          "Cronulla-Sutherland Sharks finished with a higher completion rate, fewer errors. These are match-level advantages consistent with the result; the event timeline shows the recorded scoring sequence.",
+          "The model projected Cronulla-Sutherland Sharks 28.6–20.8 North Queensland Cowboys. The signed margin missed by 2.28 points and the total by 7.38 points.",
+          "Final possession was Cronulla-Sutherland Sharks 54% and North Queensland Cowboys 46%. This is the full-match split; it does not show when possession changed.",
+          "Cronulla-Sutherland Sharks: 83% completion rate; North Queensland Cowboys: 62%.",
+          "Cronulla-Sutherland Sharks: 4 line breaks; North Queensland Cowboys: 6.",
+          "Cronulla-Sutherland Sharks: 9 errors; North Queensland Cowboys: 18.",
+          "Cronulla-Sutherland Sharks: 9 penalties conceded; North Queensland Cowboys: 6.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
+          "Decisive score change: 05:00 — Cronulla-Sutherland Sharks took the lead, 2–0."
+        ],
+        "score_flow": [
+          {
+            "seconds": 0,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "seconds": 300,
+            "home": 2,
+            "away": 0
+          },
+          {
+            "seconds": 1164,
+            "home": 6,
+            "away": 0
+          },
+          {
+            "seconds": 1230,
+            "home": 8,
+            "away": 0
+          },
+          {
+            "seconds": 1562,
+            "home": 8,
+            "away": 4
+          },
+          {
+            "seconds": 1652,
+            "home": 8,
+            "away": 6
+          },
+          {
+            "seconds": 1913,
+            "home": 12,
+            "away": 6
+          },
+          {
+            "seconds": 2935,
+            "home": 16,
+            "away": 6
+          },
+          {
+            "seconds": 3381,
+            "home": 16,
+            "away": 10
+          },
+          {
+            "seconds": 3459,
+            "home": 16,
+            "away": 12
+          },
+          {
+            "seconds": 3652,
+            "home": 20,
+            "away": 12
+          },
+          {
+            "seconds": 3911,
+            "home": 24,
+            "away": 12
+          },
+          {
+            "seconds": 4012,
+            "home": 26,
+            "away": 12
+          },
+          {
+            "seconds": 4290,
+            "home": 26,
+            "away": 16
+          },
+          {
+            "seconds": 4800,
+            "home": 26,
+            "away": 16
+          }
+        ],
+        "limitations": [
+          "Possession is a final total. No continuous possession, field-position or live win-probability series is inferred from event counts."
+        ],
+        "prediction": {
+          "winner": "Cronulla-Sutherland Sharks",
+          "home_points": 28.550666547541947,
+          "away_points": 20.83205711312872,
+          "probability": 0.7275371076269508,
+          "audit": {
+            "locked_at": "2026-09-08 06:07:59",
+            "cutoff": "2026-09-08T06:07:46+00:00",
+            "model": "ERA_FINALIST:ERA-R1:7ee4122080dee8295d3962707d68d12a6094419a0c402f8f2a60748e83f83379+ATS_RECAL:CONTEXT_RIDGE:CONTEXT_RIDGE_20260805_201139_8ec98f6e3a0e:0e40b4a54abbcd4c",
+            "hash": "72adecfd34734b906a33fa3070166c2b3497918d75c097f9b798659acddc2ed2"
+          },
+          "signed_margin": 7.72,
+          "margin_error": 2.28,
+          "total_error": 7.38
+        },
+        "verdict": "Correct",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Cronulla-Sutherland Sharks",
+            "actual": "Cronulla-Sutherland Sharks",
+            "difference": "Same winner"
+          },
+          {
+            "label": "Cronulla-Sutherland Sharks points",
+            "predicted": "28.6",
+            "actual": "26",
+            "difference": "-2.6 points (actual − predicted)"
+          },
+          {
+            "label": "North Queensland Cowboys points",
+            "predicted": "20.8",
+            "actual": "16",
+            "difference": "-4.8 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "49.4",
+            "actual": "42",
+            "difference": "-7.4 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "7.7",
+            "actual": "10",
+            "difference": "+2.3 points (actual − predicted)"
+          }
+        ],
+        "home_score": 26,
+        "away_score": 16,
+        "winner": "Cronulla-Sutherland Sharks",
+        "actual_margin": 10,
+        "summary": "Cronulla-Sutherland Sharks won 26–16.",
+        "source": {
+          "collected_at": "2026-09-12 11:55:51",
+          "url": "https://www.nrl.com/draw/nrl-premiership/2026/finals-week-1/sharks-v-cowboys"
+        }
+      },
+      "match_id": 29025,
+      "home_team": "Cronulla-Sutherland Sharks",
+      "away_team": "North Queensland Cowboys",
+      "kickoff": "Sat 12 Sep, 9:50 PM NZT",
+      "venue": "Allianz Stadium",
+      "home_score": 26,
+      "away_score": 16,
+      "winner": "Cronulla-Sutherland Sharks",
+      "result_state": "FullTime",
+      "start_time": "2026-09-12T09:50:00Z"
     }
   ]
 }
