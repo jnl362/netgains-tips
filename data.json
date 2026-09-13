@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 28,
   "round_label": "Finals Round 1",
-  "generated_at": "Sun 13 Sep 2026, 4:59 PM NZT",
-  "generated_at_iso": "2026-09-13T16:59:26.019479+12:00",
+  "generated_at": "Sun 13 Sep 2026, 5:05 PM NZT",
+  "generated_at_iso": "2026-09-13T17:05:16.788220+12:00",
   "engine_version": "1.67.1",
   "fixtures": [
     {
@@ -40,8 +40,8 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-13T04:59:04.511953+00:00",
-          "snapshot_id": "ee45ea1bf615748bf6eb48e6",
+          "observed_at": "2026-09-13T05:03:27.161372+00:00",
+          "snapshot_id": "a5dee9bdd22a8802b4591dab",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": []
         },
@@ -55,8 +55,8 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-13T04:59:12.498765+00:00",
-          "snapshot_id": "3c5845fe5f97618feb0963a0",
+          "observed_at": "2026-09-13T05:03:33.727735+00:00",
+          "snapshot_id": "99e6361a2f2f8ef8d6698392",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": []
         },
@@ -70,7 +70,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-13T04:59:12.498765+00:00",
+          "observed_at": "2026-09-13T05:03:33.727735+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -93,8 +93,8 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-13T04:59:04.511953+00:00",
-          "snapshot_id": "ee45ea1bf615748bf6eb48e6",
+          "observed_at": "2026-09-13T05:03:27.161372+00:00",
+          "snapshot_id": "a5dee9bdd22a8802b4591dab",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": [],
           "home_cover_probability": 0.40813996341627,
@@ -116,8 +116,8 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-13T04:59:12.498765+00:00",
-          "snapshot_id": "3c5845fe5f97618feb0963a0",
+          "observed_at": "2026-09-13T05:03:33.727735+00:00",
+          "snapshot_id": "99e6361a2f2f8ef8d6698392",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
           "validation_issues": [],
           "home_cover_probability": 0.40813996341627,
@@ -139,7 +139,7 @@
           "total": 43.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-13T04:59:12.498765+00:00",
+          "observed_at": "2026-09-13T05:03:33.727735+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -197,7 +197,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 63,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-13T04:59:04.511953+00:00",
+      "bookmaker_observed_at": "2026-09-13T05:03:27.161372+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -804,7 +804,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "5a338a3d242aef96"
+      "summary_id": "9f3dc39c7f59e4c2"
     },
     {
       "status": "completed",
