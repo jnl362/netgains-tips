@@ -9,802 +9,10 @@
   "default_bookmaker": "Betcha",
   "round": 28,
   "round_label": "Finals Round 1",
-  "generated_at": "Sun 13 Sep 2026, 7:56 PM NZT",
-  "generated_at_iso": "2026-09-13T19:56:43.277667+12:00",
+  "generated_at": "Sun 13 Sep 2026, 8:26 PM NZT",
+  "generated_at_iso": "2026-09-13T20:26:52.555902+12:00",
   "engine_version": "1.67.1",
   "fixtures": [
-    {
-      "status": "upcoming",
-      "match_id": 29059,
-      "home_team": "Penrith Panthers",
-      "away_team": "Sydney Roosters",
-      "kickoff": "Sun 13 Sep, 6:05 PM NZT",
-      "venue": "CommBank Stadium",
-      "home_win_probability": 0.6647416974068939,
-      "away_win_probability": 0.3352583025931061,
-      "independent_home_win_probability": 0.6647416974068939,
-      "independent_away_win_probability": 0.3352583025931061,
-      "home_fair_odds": 1.5043437231347496,
-      "away_fair_odds": 2.982774750887148,
-      "home_conservative_fair_odds": 1.4690242540478764,
-      "away_conservative_fair_odds": 3.1320859025297305,
-      "bookmaker_provider": "Betcha",
-      "bookmaker_prices": {
-        "Betcha": {
-          "home_h2h": 1.35,
-          "away_h2h": 3.3,
-          "home_line": -8.5,
-          "home_line_odds": 1.9,
-          "away_line": 8.5,
-          "away_line_odds": 1.9,
-          "total": 42.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-13T06:01:24.655198+00:00",
-          "snapshot_id": "6c620c481ac788687ba5cf1a",
-          "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
-          "validation_issues": []
-        },
-        "TAB NZ": {
-          "home_h2h": 1.35,
-          "away_h2h": 3.3,
-          "home_line": -8.5,
-          "home_line_odds": 1.9,
-          "away_line": 8.5,
-          "away_line_odds": 1.9,
-          "total": 42.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-13T06:01:31.381410+00:00",
-          "snapshot_id": "68999bacc51cec3170462caf",
-          "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
-          "validation_issues": []
-        },
-        "Best Available": {
-          "home_h2h": 1.35,
-          "away_h2h": 3.3,
-          "home_line": -8.5,
-          "home_line_odds": 1.9,
-          "away_line": 8.5,
-          "away_line_odds": 1.9,
-          "total": 42.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-13T06:01:31.381410+00:00",
-          "price_sources": {
-            "home_h2h": "TAB NZ",
-            "away_h2h": "TAB NZ",
-            "home_line_odds": "TAB NZ",
-            "away_line_odds": "TAB NZ",
-            "over_odds": "TAB NZ",
-            "under_odds": "TAB NZ"
-          },
-          "validation_issues": null
-        }
-      },
-      "bookmaker_views": {
-        "Betcha": {
-          "home_h2h": 1.35,
-          "away_h2h": 3.3,
-          "home_line": -8.5,
-          "home_line_odds": 1.9,
-          "away_line": 8.5,
-          "away_line_odds": 1.9,
-          "total": 42.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-13T06:01:24.655198+00:00",
-          "snapshot_id": "6c620c481ac788687ba5cf1a",
-          "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
-          "validation_issues": [],
-          "home_cover_probability": 0.40468937469126465,
-          "away_cover_probability": 0.5953106253087354,
-          "over_probability": 0.49097333269154686,
-          "under_probability": 0.5090266673084531,
-          "home_line_fair_odds": 2.4710310241352262,
-          "away_line_fair_odds": 1.6797953160694685,
-          "over_fair_odds": 2.0367704993628406,
-          "under_fair_odds": 1.964533617241773
-        },
-        "TAB NZ": {
-          "home_h2h": 1.35,
-          "away_h2h": 3.3,
-          "home_line": -8.5,
-          "home_line_odds": 1.9,
-          "away_line": 8.5,
-          "away_line_odds": 1.9,
-          "total": 42.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-13T06:01:31.381410+00:00",
-          "snapshot_id": "68999bacc51cec3170462caf",
-          "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-sydney-roosters/318090d6-4b59-4125-a98a-447a910f455d",
-          "validation_issues": [],
-          "home_cover_probability": 0.40468937469126465,
-          "away_cover_probability": 0.5953106253087354,
-          "over_probability": 0.49097333269154686,
-          "under_probability": 0.5090266673084531,
-          "home_line_fair_odds": 2.4710310241352262,
-          "away_line_fair_odds": 1.6797953160694685,
-          "over_fair_odds": 2.0367704993628406,
-          "under_fair_odds": 1.964533617241773
-        },
-        "Best Available": {
-          "home_h2h": 1.35,
-          "away_h2h": 3.3,
-          "home_line": -8.5,
-          "home_line_odds": 1.9,
-          "away_line": 8.5,
-          "away_line_odds": 1.9,
-          "total": 42.5,
-          "over_odds": 1.9,
-          "under_odds": 1.9,
-          "observed_at": "2026-09-13T06:01:31.381410+00:00",
-          "snapshot_id": null,
-          "source_url": null,
-          "validation_issues": null,
-          "home_cover_probability": 0.40468937469126465,
-          "away_cover_probability": 0.5953106253087354,
-          "over_probability": 0.49097333269154686,
-          "under_probability": 0.5090266673084531,
-          "home_line_fair_odds": 2.4710310241352262,
-          "away_line_fair_odds": 1.6797953160694685,
-          "over_fair_odds": 2.0367704993628406,
-          "under_fair_odds": 1.964533617241773
-        }
-      },
-      "home_bookmaker_odds": 1.35,
-      "away_bookmaker_odds": 3.3,
-      "home_h2h_ev": -0.10259870850069319,
-      "away_h2h_ev": 0.10635239855724987,
-      "winner": "Penrith Panthers",
-      "home_points": 23.81508948770416,
-      "away_points": 18.390740915989255,
-      "likely_home_points": 24,
-      "likely_away_points": 18,
-      "projected_margin": 5.424348571714905,
-      "projected_total": 42.20583040369341,
-      "close_game_probability": 0.4443912857071273,
-      "fav_1_12_probability": 0.62,
-      "fav_13_plus_probability": 0.38,
-      "high_scoring_probability": 0.4897040641292694,
-      "margin_probabilities": {
-        "Penrith Panthers 1-12": 0.36087100779045417,
-        "Penrith Panthers 13+": 0.289463386133337,
-        "Sydney Roosters 1-12": 0.2412022260810413,
-        "Sydney Roosters 13+": 0.07988711850395035
-      },
-      "margin_remainder_probability": 0.02857626149121717,
-      "market_line": -8.5,
-      "home_line_odds": 1.9,
-      "away_line": 8.5,
-      "away_line_odds": 1.9,
-      "home_cover_probability": 0.40468937469126465,
-      "away_cover_probability": 0.5953106253087354,
-      "home_line_fair_odds": 2.4710310241352262,
-      "away_line_fair_odds": 1.6797953160694685,
-      "home_line_ev": -0.2310901880865972,
-      "away_line_ev": 0.13109018808659711,
-      "market_total": 42.5,
-      "over_odds": 1.9,
-      "under_odds": 1.9,
-      "over_probability": 0.49097333269154686,
-      "under_probability": 0.5090266673084531,
-      "over_ev": -0.06715066788606106,
-      "under_ev": -0.032849332113939034,
-      "confidence": "Developing",
-      "confidence_score": 58,
-      "data_quality": "Developing",
-      "prediction_strength_score": 63,
-      "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-13T06:01:24.655198+00:00",
-      "context_effects": {
-        "venue_classification": "HOME",
-        "home_advantage": 1.5,
-        "ladder": 0.0,
-        "availability_margin": -0.7671461816640321,
-        "availability_total": -2.6608410059945005,
-        "weather_total": 0.37930780791469504,
-        "referee_margin": -0.1209026387184289,
-        "referee_total": -0.06893579523414789,
-        "late_season_margin": -2.0,
-        "controlled_context_margin": 2.9502187330668077
-      },
-      "drivers": [
-        "Point-in-time scoring base: Penrith Panthers 26.4 PF / 17.2 PA from 70 prior games; Sydney Roosters 25.7 PF / 20.7 PA from 70 prior games.",
-        "Penrith Panthers hold a 10.4-point defensive-rating advantage.",
-        "Recognised home-field advantage is an input to the raw-conditioned stack controller, not a separate full addition.",
-        "Penrith Panthers are playing at a recognised home venue; standard home-field uplift applied.",
-        "Opponent-adjusted h175_s4p0 team strength is active.",
-        "Availability applied from the Data & Context snapshot: 2 Penrith Panthers absence(s), 2 Sydney Roosters absence(s); replacement-adjusted score effects -1.71/-0.95; net pre-team margin swing -0.77 pts.",
-        "Weather Fine / Dry: scoring +1.0% vs NRL across 1308 games; CommBank Stadium in fine / dry conditions +1.1% vs its own baseline across 95 games. Sample-shrunk forecast effect +0.4 points.",
-        "Referee Gerard Sutton environment: stoppages -0.2% vs NRL, historical scoring -0.5% vs NRL and home-win environment -4.1% vs NRL; conservative adjustments -0.1 total points and -0.1 home-margin points.",
-        "Late-season elite interaction input: Applied -2.00 home-margin points: Penrith Panthers elite effect -1.13 (n=33) active; Sydney Roosters elite effect +0.98 (n=46) active.",
-        "Stacked-advantage control: learned context +3.72, live availability -0.77, final downstream adjustment +2.95; same-direction evidence cap 5.00, opposing cap 5.00.",
-        "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
-        "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 63/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 64.4% of the -4.5pp raw market disagreement, leaving -2.9pp of betting edge."
-      ],
-      "ats_players": [
-        {
-          "player": "Thomas Jenkins",
-          "nrl_player_id": 100007927,
-          "team": "Penrith Panthers",
-          "probability": 0.37653612551784743,
-          "fair_odds": 2.6557876714344664,
-          "bookmaker_odds": 1.83,
-          "bookmaker_prices": {
-            "Betcha": 1.83,
-            "TAB NZ": 1.83,
-            "Best Available": 1.83
-          },
-          "ev": -0.3109388903023391
-        },
-        {
-          "player": "Mark Nawaqanitawase",
-          "nrl_player_id": 100018452,
-          "team": "Sydney Roosters",
-          "probability": 0.3542825233249822,
-          "fair_odds": 2.8226060676515594,
-          "bookmaker_odds": 2.5,
-          "bookmaker_prices": {
-            "Betcha": 2.5,
-            "TAB NZ": 2.5,
-            "Best Available": 2.5
-          },
-          "ev": -0.11429369168754444
-        },
-        {
-          "player": "Brian To'o",
-          "nrl_player_id": 505410,
-          "team": "Penrith Panthers",
-          "probability": 0.3468123716618766,
-          "fair_odds": 2.8834034818542924,
-          "bookmaker_odds": 2.05,
-          "bookmaker_prices": {
-            "Betcha": 2.05,
-            "TAB NZ": 2.05,
-            "Best Available": 2.05
-          },
-          "ev": -0.289034638093153
-        },
-        {
-          "player": "Daniel Tupou",
-          "nrl_player_id": 500002,
-          "team": "Sydney Roosters",
-          "probability": 0.34132285664555456,
-          "fair_odds": 2.9297774248926034,
-          "bookmaker_odds": 2.5,
-          "bookmaker_prices": {
-            "Betcha": 2.5,
-            "TAB NZ": 2.5,
-            "Best Available": 2.5
-          },
-          "ev": -0.14669285838611357
-        },
-        {
-          "player": "James Tedesco",
-          "nrl_player_id": 500663,
-          "team": "Sydney Roosters",
-          "probability": 0.30445024966300493,
-          "fair_odds": 3.2846089011485358,
-          "bookmaker_odds": 3.35,
-          "bookmaker_prices": {
-            "Betcha": 3.35,
-            "TAB NZ": 3.35,
-            "Best Available": 3.35
-          },
-          "ev": 0.019908336371066593
-        },
-        {
-          "player": "Casey McLean",
-          "nrl_player_id": 100011678,
-          "team": "Penrith Panthers",
-          "probability": 0.2860705594179543,
-          "fair_odds": 3.495641082516925,
-          "bookmaker_odds": 2.3,
-          "bookmaker_prices": {
-            "Betcha": 2.3,
-            "TAB NZ": 2.3,
-            "Best Available": 2.3
-          },
-          "ev": -0.34203771333870525
-        },
-        {
-          "player": "Dylan Edwards",
-          "nrl_player_id": 503340,
-          "team": "Penrith Panthers",
-          "probability": 0.263613746736258,
-          "fair_odds": 3.7934288798697837,
-          "bookmaker_odds": 2.9,
-          "bookmaker_prices": {
-            "Betcha": 2.9,
-            "TAB NZ": 2.9,
-            "Best Available": 2.9
-          },
-          "ev": -0.23552013446485187
-        },
-        {
-          "player": "Robert Toia",
-          "nrl_player_id": 100008243,
-          "team": "Sydney Roosters",
-          "probability": 0.2591983449987836,
-          "fair_odds": 3.858049325140147,
-          "bookmaker_odds": 3.6,
-          "bookmaker_prices": {
-            "Betcha": 3.6,
-            "TAB NZ": 3.6,
-            "Best Available": 3.6
-          },
-          "ev": -0.06688595800437913
-        },
-        {
-          "player": "Billy Smith",
-          "nrl_player_id": 509128,
-          "team": "Sydney Roosters",
-          "probability": 0.2567601184105665,
-          "fair_odds": 3.8946858499300596,
-          "bookmaker_odds": 3.7,
-          "bookmaker_prices": {
-            "Betcha": 3.7,
-            "TAB NZ": 3.7,
-            "Best Available": 3.7
-          },
-          "ev": -0.04998756188090392
-        },
-        {
-          "player": "Nathan Cleary",
-          "nrl_player_id": 504120,
-          "team": "Penrith Panthers",
-          "probability": 0.1980598756618705,
-          "fair_odds": 5.048978227711344,
-          "bookmaker_odds": 3.5,
-          "bookmaker_prices": {
-            "Betcha": 3.5,
-            "TAB NZ": 3.5,
-            "Best Available": 3.5
-          },
-          "ev": -0.3067904351834533
-        },
-        {
-          "player": "Liam Martin",
-          "nrl_player_id": 504125,
-          "team": "Penrith Panthers",
-          "probability": 0.1609253736908022,
-          "fair_odds": 6.214060449667644,
-          "bookmaker_odds": 3.6,
-          "bookmaker_prices": {
-            "Betcha": 3.6,
-            "TAB NZ": 3.6,
-            "Best Available": 3.6
-          },
-          "ev": -0.4206686547131121
-        },
-        {
-          "player": "Isaiah Papali'i",
-          "nrl_player_id": 505976,
-          "team": "Penrith Panthers",
-          "probability": 0.1536286760488277,
-          "fair_odds": 6.509201444150769,
-          "bookmaker_odds": 4.25,
-          "bookmaker_prices": {
-            "Betcha": 4.25,
-            "TAB NZ": 4.25,
-            "Best Available": 4.25
-          },
-          "ev": -0.3470781267924822
-        },
-        {
-          "player": "Hugo Savala",
-          "nrl_player_id": 509599,
-          "team": "Sydney Roosters",
-          "probability": 0.1498822321877479,
-          "fair_odds": 6.671904904294219,
-          "bookmaker_odds": 4.4,
-          "bookmaker_prices": {
-            "Betcha": 4.4,
-            "TAB NZ": 4.4,
-            "Best Available": 4.4
-          },
-          "ev": -0.3405181783739092
-        },
-        {
-          "player": "Daly Cherry-Evans",
-          "nrl_player_id": 500024,
-          "team": "Sydney Roosters",
-          "probability": 0.1432587185589481,
-          "fair_odds": 6.980377948784458,
-          "bookmaker_odds": 5.4,
-          "bookmaker_prices": {
-            "Betcha": 5.4,
-            "TAB NZ": 5.4,
-            "Best Available": 5.4
-          },
-          "ev": -0.22640291978168026
-        },
-        {
-          "player": "Siua Wong",
-          "nrl_player_id": 100004373,
-          "team": "Sydney Roosters",
-          "probability": 0.13245728033249035,
-          "fair_odds": 7.549603898629275,
-          "bookmaker_odds": 5.4,
-          "bookmaker_prices": {
-            "Betcha": 5.4,
-            "TAB NZ": 5.4,
-            "Best Available": 5.4
-          },
-          "ev": -0.2847306862045521
-        },
-        {
-          "player": "Victor Radley",
-          "nrl_player_id": 503920,
-          "team": "Sydney Roosters",
-          "probability": 0.11634854851739282,
-          "fair_odds": 8.594864420251113,
-          "bookmaker_odds": 11.0,
-          "bookmaker_prices": {
-            "Betcha": 11.0,
-            "TAB NZ": 11.0,
-            "Best Available": 11.0
-          },
-          "ev": 0.279834033691321
-        },
-        {
-          "player": "Lindsay Smith",
-          "nrl_player_id": 505555,
-          "team": "Penrith Panthers",
-          "probability": 0.10972731288044078,
-          "fair_odds": 9.113501221793365,
-          "bookmaker_odds": 5.8,
-          "bookmaker_prices": {
-            "Betcha": 5.8,
-            "TAB NZ": 5.8,
-            "Best Available": 5.8
-          },
-          "ev": -0.36358158529344353
-        },
-        {
-          "player": "Reece Robson",
-          "nrl_player_id": 503944,
-          "team": "Sydney Roosters",
-          "probability": 0.10120376950004296,
-          "fair_odds": 9.881054875130669,
-          "bookmaker_odds": 9.75,
-          "bookmaker_prices": {
-            "Betcha": 9.75,
-            "TAB NZ": 9.75,
-            "Best Available": 9.75
-          },
-          "ev": -0.013263247374581066
-        },
-        {
-          "player": "Jack Cole",
-          "nrl_player_id": 100003896,
-          "team": "Penrith Panthers",
-          "probability": 0.09957210706372507,
-          "fair_odds": 10.04297317279839,
-          "bookmaker_odds": 5.25,
-          "bookmaker_prices": {
-            "Betcha": 5.25,
-            "TAB NZ": 5.25,
-            "Best Available": 5.25
-          },
-          "ev": -0.4772464379154434
-        },
-        {
-          "player": "Connor Watson",
-          "nrl_player_id": 503327,
-          "team": "Sydney Roosters",
-          "probability": 0.09035506597994294,
-          "fair_odds": 11.067448063421041,
-          "bookmaker_odds": 11.5,
-          "bookmaker_prices": {
-            "Betcha": 11.5,
-            "TAB NZ": 11.5,
-            "Best Available": 11.5
-          },
-          "ev": 0.03908325876934393
-        },
-        {
-          "player": "Liam Henry",
-          "nrl_player_id": 100007929,
-          "team": "Penrith Panthers",
-          "probability": 0.08808790414510131,
-          "fair_odds": 11.352296432808378,
-          "bookmaker_odds": 5.8,
-          "bookmaker_prices": {
-            "Betcha": 5.8,
-            "TAB NZ": 5.8,
-            "Best Available": 5.8
-          },
-          "ev": -0.48909015595841243
-        },
-        {
-          "player": "Isaah Yeo",
-          "nrl_player_id": 500534,
-          "team": "Penrith Panthers",
-          "probability": 0.08690996916534037,
-          "fair_odds": 11.506159875601465,
-          "bookmaker_odds": 6.75,
-          "bookmaker_prices": {
-            "Betcha": 6.75,
-            "TAB NZ": 6.75,
-            "Best Available": 6.75
-          },
-          "ev": -0.41335770813395245
-        },
-        {
-          "player": "Nat Butcher",
-          "nrl_player_id": 503639,
-          "team": "Sydney Roosters",
-          "probability": 0.08673181679182058,
-          "fair_odds": 11.529794220732926,
-          "bookmaker_odds": 16.0,
-          "bookmaker_prices": {
-            "Betcha": 16.0,
-            "TAB NZ": 16.0,
-            "Best Available": 16.0
-          },
-          "ev": 0.38770906866912935
-        },
-        {
-          "player": "Freddy Lussick",
-          "nrl_player_id": 504830,
-          "team": "Penrith Panthers",
-          "probability": 0.08604971780645498,
-          "fair_odds": 11.621188604583494,
-          "bookmaker_odds": 6.75,
-          "bookmaker_prices": {
-            "Betcha": 6.75,
-            "TAB NZ": 6.75,
-            "Best Available": 6.75
-          },
-          "ev": -0.4191644048064289
-        },
-        {
-          "player": "Scott Sorensen",
-          "nrl_player_id": 500852,
-          "team": "Penrith Panthers",
-          "probability": 0.08112639232774983,
-          "fair_odds": 12.326444838814103,
-          "bookmaker_odds": 9.25,
-          "bookmaker_prices": {
-            "Betcha": 9.25,
-            "TAB NZ": 9.25,
-            "Best Available": 9.25
-          },
-          "ev": -0.24958087096831405
-        },
-        {
-          "player": "Salesi Foketi",
-          "nrl_player_id": 100008234,
-          "team": "Sydney Roosters",
-          "probability": 0.07674645229072809,
-          "fair_odds": 13.029918258785914,
-          "bookmaker_odds": 7.5,
-          "bookmaker_prices": {
-            "Betcha": 7.5,
-            "TAB NZ": 7.5,
-            "Best Available": 7.5
-          },
-          "ev": -0.4244016078195394
-        },
-        {
-          "player": "Billy Phillips",
-          "nrl_player_id": 100008487,
-          "team": "Penrith Panthers",
-          "probability": 0.07603738102247193,
-          "fair_odds": 13.15142613479102,
-          "bookmaker_odds": 8.25,
-          "bookmaker_prices": {
-            "Betcha": 8.25,
-            "TAB NZ": 8.25,
-            "Best Available": 8.25
-          },
-          "ev": -0.37269160656460665
-        },
-        {
-          "player": "Moses Leota",
-          "nrl_player_id": 501461,
-          "team": "Penrith Panthers",
-          "probability": 0.07302879184739344,
-          "fair_odds": 13.693229405871545,
-          "bookmaker_odds": 9.75,
-          "bookmaker_prices": {
-            "Betcha": 9.75,
-            "TAB NZ": 9.75,
-            "Best Available": 9.75
-          },
-          "ev": -0.28796927948791395
-        },
-        {
-          "player": "Spencer Leniu",
-          "nrl_player_id": 505560,
-          "team": "Sydney Roosters",
-          "probability": 0.07182426252425936,
-          "fair_odds": 13.92287181037522,
-          "bookmaker_odds": 17.0,
-          "bookmaker_prices": {
-            "Betcha": 17.0,
-            "TAB NZ": 17.0,
-            "Best Available": 17.0
-          },
-          "ev": 0.22101246291240906
-        },
-        {
-          "player": "Lindsay Collins",
-          "nrl_player_id": 501781,
-          "team": "Sydney Roosters",
-          "probability": 0.07056049147926607,
-          "fair_odds": 14.172236885479265,
-          "bookmaker_odds": 12.0,
-          "bookmaker_prices": {
-            "Betcha": 12.0,
-            "TAB NZ": 12.0,
-            "Best Available": 12.0
-          },
-          "ev": -0.1532741022488071
-        },
-        {
-          "player": "Mitch Kenny",
-          "nrl_player_id": 505414,
-          "team": "Penrith Panthers",
-          "probability": 0.06326914950963258,
-          "fair_odds": 15.805491424343428,
-          "bookmaker_odds": 5.8,
-          "bookmaker_prices": {
-            "Betcha": 5.8,
-            "TAB NZ": 5.8,
-            "Best Available": 5.8
-          },
-          "ev": -0.633038932844131
-        },
-        {
-          "player": "Naufahu Whyte",
-          "nrl_player_id": 100006390,
-          "team": "Sydney Roosters",
-          "probability": 0.06269142041959301,
-          "fair_odds": 15.951145999037996,
-          "bookmaker_odds": 12.0,
-          "bookmaker_prices": {
-            "Betcha": 12.0,
-            "TAB NZ": 12.0,
-            "Best Available": 12.0
-          },
-          "ev": -0.24770295496488393
-        }
-      ],
-      "safe_bet": {
-        "available": true,
-        "probability": 0.1306,
-        "fair_odds": 7.656967840735069,
-        "singles_product_odds": 4.575,
-        "target_met": false,
-        "legs": [
-          {
-            "player": "Thomas Jenkins",
-            "team": "Penrith Panthers",
-            "probability": 0.37653612551784743,
-            "fair_odds": 2.6557876714344664,
-            "market_odds": 1.83
-          },
-          {
-            "player": "Daniel Tupou",
-            "team": "Sydney Roosters",
-            "probability": 0.34132285664555456,
-            "fair_odds": 2.9297774248926034,
-            "market_odds": 2.5
-          }
-        ],
-        "method": "Shared match simulation",
-        "probability_method": "shared_simulation",
-        "simulation_draws": 25000,
-        "fallback_reason": null
-      },
-      "start_time": "2026-09-13T06:05:00Z",
-      "super_boost_reviews": [],
-      "clive_churchill_candidates": [],
-      "safe_bets": {
-        "Betcha": {
-          "available": true,
-          "probability": 0.1306,
-          "fair_odds": 7.656967840735069,
-          "singles_product_odds": 4.575,
-          "target_met": false,
-          "legs": [
-            {
-              "player": "Thomas Jenkins",
-              "team": "Penrith Panthers",
-              "probability": 0.37653612551784743,
-              "fair_odds": 2.6557876714344664,
-              "market_odds": 1.83
-            },
-            {
-              "player": "Daniel Tupou",
-              "team": "Sydney Roosters",
-              "probability": 0.34132285664555456,
-              "fair_odds": 2.9297774248926034,
-              "market_odds": 2.5
-            }
-          ],
-          "method": "Shared match simulation",
-          "probability_method": "shared_simulation",
-          "simulation_draws": 25000,
-          "fallback_reason": null
-        },
-        "TAB NZ": {
-          "available": true,
-          "probability": 0.1306,
-          "fair_odds": 7.656967840735069,
-          "singles_product_odds": 4.575,
-          "target_met": false,
-          "legs": [
-            {
-              "player": "Thomas Jenkins",
-              "team": "Penrith Panthers",
-              "probability": 0.37653612551784743,
-              "fair_odds": 2.6557876714344664,
-              "market_odds": 1.83
-            },
-            {
-              "player": "Daniel Tupou",
-              "team": "Sydney Roosters",
-              "probability": 0.34132285664555456,
-              "fair_odds": 2.9297774248926034,
-              "market_odds": 2.5
-            }
-          ],
-          "method": "Shared match simulation",
-          "probability_method": "shared_simulation",
-          "simulation_draws": 25000,
-          "fallback_reason": null
-        },
-        "Best Available": {
-          "available": true,
-          "probability": 0.1306,
-          "fair_odds": 7.656967840735069,
-          "singles_product_odds": 4.575,
-          "target_met": false,
-          "legs": [
-            {
-              "player": "Thomas Jenkins",
-              "team": "Penrith Panthers",
-              "probability": 0.37653612551784743,
-              "fair_odds": 2.6557876714344664,
-              "market_odds": 1.83
-            },
-            {
-              "player": "Daniel Tupou",
-              "team": "Sydney Roosters",
-              "probability": 0.34132285664555456,
-              "fair_odds": 2.9297774248926034,
-              "market_odds": 2.5
-            }
-          ],
-          "method": "Shared match simulation",
-          "probability_method": "shared_simulation",
-          "simulation_draws": 25000,
-          "fallback_reason": null
-        }
-      },
-      "provenance": {
-        "match_engine": "Best-of-Both + evidence-aware stack and reversal control",
-        "match_fallback_reason": null,
-        "ats_engine": {
-          "engine_type": "ERA_FINALIST",
-          "engine_id": "ERA-R1",
-          "source": "IMMUTABLE_READ_ONLY_PRODUCTION_ATS_RECONSTRUCTION",
-          "players_loaded": 32
-        },
-        "pair_method": "Shared match simulation",
-        "pair_fallback_reason": null,
-        "simulation_draws": 25000,
-        "calibration_report_status": "No linked evaluation report",
-        "prediction_state": "Current projection; historical locks remain separate"
-      },
-      "summary_id": "75927b7794e0efa1"
-    },
     {
       "status": "completed",
       "analysis": {
@@ -6173,6 +5381,1576 @@
       "winner": "Cronulla-Sutherland Sharks",
       "result_state": "FullTime",
       "start_time": "2026-09-12T09:50:00Z"
+    },
+    {
+      "status": "completed",
+      "analysis": {
+        "schema_version": 1,
+        "match_id": 29059,
+        "home_team": "Penrith Panthers",
+        "away_team": "Sydney Roosters",
+        "round": 28,
+        "kickoff": "2026-09-13T06:05:00Z",
+        "source_url": "https://www.nrl.com/draw/nrl-premiership/2026/finals-week-1/panthers-v-roosters",
+        "available": true,
+        "events": [
+          {
+            "seconds": 0,
+            "clock": "00:00",
+            "type": "GameTime",
+            "category": "match",
+            "title": "KICK OFF",
+            "team": "",
+            "side": "neutral",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 194,
+            "clock": "03:14",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 206,
+            "clock": "03:26",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Isaiah Papali'i",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 292,
+            "clock": "04:52",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 399,
+            "clock": "06:39",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 404,
+            "clock": "06:44",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Robert Toia",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 448,
+            "clock": "07:28",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Lindsay Collins",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 474,
+            "clock": "07:54",
+            "type": "CaptainsChallenge",
+            "category": "other",
+            "title": "Video Referee - Captain's Challenge",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "",
+            "detail": "Unsuccessful",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 505,
+            "clock": "08:25",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Brian To'o",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 624,
+            "clock": "10:24",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 628,
+            "clock": "10:28",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Daniel Tupou",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 691,
+            "clock": "11:31",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Liam Martin",
+            "detail": "",
+            "home_score": 4.0,
+            "away_score": null
+          },
+          {
+            "seconds": 782,
+            "clock": "13:02",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": 6.0,
+            "away_score": null
+          },
+          {
+            "seconds": 784,
+            "clock": "13:04",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #1",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Nat Butcher",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 893,
+            "clock": "14:53",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Offside inside 10m",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Naufahu Whyte",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1025,
+            "clock": "17:05",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Nat Butcher",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1026,
+            "clock": "17:06",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1080,
+            "clock": "18:00",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Mitch Kenny",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1113,
+            "clock": "18:33",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA no return",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Salesi Foketi",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1133,
+            "clock": "18:53",
+            "type": "RuckInfringement",
+            "category": "discipline",
+            "title": "Ruck Infringement",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Blaize Talagi",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1137,
+            "clock": "18:57",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1165,
+            "clock": "19:25",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Daniel Tupou",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1181,
+            "clock": "19:41",
+            "type": "OffsideWithinTenMetres",
+            "category": "discipline",
+            "title": "Inside 10 Metres",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Casey McLean",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1184,
+            "clock": "19:44",
+            "type": "SetRestart",
+            "category": "six_agains",
+            "title": "Six-again awarded",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1188,
+            "clock": "19:48",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Robert Toia",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1189,
+            "clock": "19:49",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Robert Toia",
+            "detail": "",
+            "home_score": 6.0,
+            "away_score": 4.0
+          },
+          {
+            "seconds": 1281,
+            "clock": "21:21",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Hugo Savala",
+            "detail": "",
+            "home_score": 6.0,
+            "away_score": 6.0
+          },
+          {
+            "seconds": 1360,
+            "clock": "22:40",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1360,
+            "clock": "22:40",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #1",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Scott Sorensen",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1372,
+            "clock": "22:52",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Dylan Edwards",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1466,
+            "clock": "24:26",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #2",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Isaah Yeo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1480,
+            "clock": "24:40",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Lindsay Smith",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1487,
+            "clock": "24:47",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Mark Nawaqanitawase",
+            "detail": "",
+            "home_score": 6.0,
+            "away_score": 10.0
+          },
+          {
+            "seconds": 1542,
+            "clock": "25:42",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #3",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Spencer Leniu",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1577,
+            "clock": "26:17",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Hugo Savala",
+            "detail": "",
+            "home_score": 6.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 1726,
+            "clock": "28:46",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Daly Cherry-Evans",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1747,
+            "clock": "29:07",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #3",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Billy Phillips",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1822,
+            "clock": "30:22",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Hugo Savala",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1937,
+            "clock": "32:17",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Daly Cherry-Evans",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1943,
+            "clock": "32:23",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Billy Smith",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 1994,
+            "clock": "33:14",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Billy Scott",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2021,
+            "clock": "33:41",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2069,
+            "clock": "34:29",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Victor Radley",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2143,
+            "clock": "35:43",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Dylan Edwards",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2145,
+            "clock": "35:45",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Dylan Edwards",
+            "detail": "",
+            "home_score": 10.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 2235,
+            "clock": "37:15",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": 12.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 2253,
+            "clock": "37:33",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Nat Butcher",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2273,
+            "clock": "37:53",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "On Report",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Nat Butcher",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2319,
+            "clock": "38:39",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2386,
+            "clock": "39:46",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Pressure on Kicker",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2399,
+            "clock": "39:59",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "On Report",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2399,
+            "clock": "39:59",
+            "type": "SinBin",
+            "category": "discipline",
+            "title": "Sin Bin",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2399,
+            "clock": "39:59",
+            "type": "GoalMissed",
+            "category": "scoring",
+            "title": "Penalty Shot-Missed",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Hugo Savala",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2402,
+            "clock": "40:02",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA Cleared",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Mitch Kenny",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2500,
+            "clock": "41:40",
+            "type": "LineBreak",
+            "category": "attack",
+            "title": "Linebreak",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Robert Toia",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2500,
+            "clock": "41:40",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Thomas Jenkins",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2551,
+            "clock": "42:31",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalties - Other",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Hugo Savala",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2610,
+            "clock": "43:30",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Jack Cole",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2615,
+            "clock": "43:35",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Mark Nawaqanitawase",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2766,
+            "clock": "46:06",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Jack Cole",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2769,
+            "clock": "46:09",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Thomas Jenkins",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2862,
+            "clock": "47:42",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Daniel Tupou",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2933,
+            "clock": "48:53",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Sin Bin Return",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2946,
+            "clock": "49:06",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2949,
+            "clock": "49:09",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Brian To'o",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2959,
+            "clock": "49:19",
+            "type": "CaptainsChallenge",
+            "category": "other",
+            "title": "Video Referee - Captain's Challenge",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "",
+            "detail": "Unsuccessful",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2959,
+            "clock": "49:19",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #4",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Liam Henry",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2960,
+            "clock": "49:20",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #4",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Lindsay Collins",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 2961,
+            "clock": "49:21",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #5",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Connor Watson",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3005,
+            "clock": "50:05",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Hugo Savala",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3009,
+            "clock": "50:09",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Robert Toia",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3150,
+            "clock": "52:30",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Jack Cole",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3175,
+            "clock": "52:55",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Siua Wong",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3221,
+            "clock": "53:41",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Offside inside 10m",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Reece Robson",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3274,
+            "clock": "54:34",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Isaah Yeo",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3363,
+            "clock": "56:03",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Thomas Jenkins",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3413,
+            "clock": "56:53",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Lindsay Collins",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3579,
+            "clock": "59:39",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #5",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Moses Leota",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3596,
+            "clock": "59:56",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3662,
+            "clock": "61:02",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Billy Smith",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3728,
+            "clock": "62:08",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Casey McLean",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3775,
+            "clock": "62:55",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #6",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Naufahu Whyte",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3815,
+            "clock": "63:35",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Hugo Savala",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3820,
+            "clock": "63:40",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Dylan Edwards",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3852,
+            "clock": "64:12",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Robert Toia",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3943,
+            "clock": "65:43",
+            "type": "Penalty",
+            "category": "discipline",
+            "title": "Penalty conceded — Dangerous Tackle",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Billy Smith",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 3971,
+            "clock": "66:11",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #6",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Lindsay Smith",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4042,
+            "clock": "67:22",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #7",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Victor Radley",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4210,
+            "clock": "70:10",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #7",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Isaiah Papali'i",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4259,
+            "clock": "70:59",
+            "type": "OnePointFieldGoal",
+            "category": "other",
+            "title": "1 Point Field Goal-Made",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": 13.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 4312,
+            "clock": "71:52",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange - HIA",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Nat Butcher",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4324,
+            "clock": "72:04",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Moses Leota",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4395,
+            "clock": "73:15",
+            "type": "OnePointFieldGoalMissed",
+            "category": "other",
+            "title": "1 Point Field Goal-Missed",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Daly Cherry-Evans",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4464,
+            "clock": "74:24",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Jack Cole",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4468,
+            "clock": "74:28",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Thomas Jenkins",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4532,
+            "clock": "75:32",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Mark Nawaqanitawase",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4615,
+            "clock": "76:55",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Hugo Savala",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4622,
+            "clock": "77:02",
+            "type": "Try",
+            "category": "scoring",
+            "title": "Try",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Brian To'o",
+            "detail": "",
+            "home_score": 17.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 4629,
+            "clock": "77:09",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #8",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Scott Sorensen",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4713,
+            "clock": "78:33",
+            "type": "Goal",
+            "category": "scoring",
+            "title": "Conversion-Made",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Dylan Edwards",
+            "detail": "",
+            "home_score": 19.0,
+            "away_score": 12.0
+          },
+          {
+            "seconds": 4717,
+            "clock": "78:37",
+            "type": "Interchange",
+            "category": "interchanges",
+            "title": "Interchange #8",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Spencer Leniu",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4777,
+            "clock": "79:37",
+            "type": "KickBomb",
+            "category": "other",
+            "title": "Kick Bomb",
+            "team": "Penrith Panthers",
+            "side": "home",
+            "player": "Nathan Cleary",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4800,
+            "clock": "80:00",
+            "type": "Error",
+            "category": "errors",
+            "title": "Error",
+            "team": "Sydney Roosters",
+            "side": "away",
+            "player": "Mark Nawaqanitawase",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          },
+          {
+            "seconds": 4800,
+            "clock": "80:00",
+            "type": "GameTime",
+            "category": "match",
+            "title": "FULL TIME",
+            "team": "",
+            "side": "neutral",
+            "player": "",
+            "detail": "",
+            "home_score": null,
+            "away_score": null
+          }
+        ],
+        "stats": [
+          {
+            "label": "Possession %",
+            "home": 55.0,
+            "away": 45.0,
+            "unit": "%"
+          },
+          {
+            "label": "Completion Rate",
+            "home": 78.0,
+            "away": 73.0,
+            "unit": "%"
+          },
+          {
+            "label": "All Run Metres",
+            "home": 1835.0,
+            "away": 1513.0,
+            "unit": ""
+          },
+          {
+            "label": "Line Breaks",
+            "home": 2.0,
+            "away": 3.0,
+            "unit": ""
+          },
+          {
+            "label": "Errors",
+            "home": 13.0,
+            "away": 12.0,
+            "unit": ""
+          },
+          {
+            "label": "Penalties Conceded",
+            "home": 2.0,
+            "away": 7.0,
+            "unit": ""
+          },
+          {
+            "label": "Six-agains awarded (timeline)",
+            "home": 1,
+            "away": 2,
+            "unit": ""
+          }
+        ],
+        "turning_points": [
+          "11:31 — Penrith Panthers took the lead, 4–0.",
+          "24:47 — Sydney Roosters took the lead, 6–10.",
+          "24:47 — Sydney Roosters scored through Mark Nawaqanitawase, 7 seconds after Penrith Panthers made an error. The timing shows the sequence; it does not establish that the earlier event caused the try.",
+          "35:45 — Penrith Panthers scored through Dylan Edwards, 76 seconds after Sydney Roosters made an error. The timing shows the sequence; it does not establish that the earlier event caused the try.",
+          "39:59 — Penrith Panthers: Nathan Cleary was sent to the sin bin.",
+          "70:59 — Penrith Panthers took the lead, 13–12.",
+          "77:02 — Penrith Panthers scored through Brian To'o, 7 seconds after Sydney Roosters made an error. The timing shows the sequence; it does not establish that the earlier event caused the try."
+        ],
+        "explanations": [
+          "The locked pre-match pick was Penrith Panthers; the winner prediction was correct.",
+          "Penrith Panthers scored 4.9 points fewer than forecast; Sydney Roosters scored 6.3 points fewer. Together those differences moved the home-minus-away margin by +1.4 points. The winner verdict and the score accuracy are assessed separately.",
+          "Penrith Panthers finished with a higher completion rate, fewer penalties conceded. These are match-level advantages consistent with the result; the event timeline shows the recorded scoring sequence.",
+          "The model projected Penrith Panthers 23.9–18.3 Sydney Roosters. The signed margin missed by 1.39 points and the total by 11.26 points.",
+          "Final possession was Penrith Panthers 55% and Sydney Roosters 45%. This is the full-match split; it does not show when possession changed.",
+          "Penrith Panthers: 78% completion rate; Sydney Roosters: 73%.",
+          "Penrith Panthers: 2 line breaks; Sydney Roosters: 3.",
+          "Penrith Panthers: 13 errors; Sydney Roosters: 12.",
+          "Penrith Panthers: 2 penalties conceded; Sydney Roosters: 7.",
+          "The comparisons above measure exactly how the forecast differed. The following match statistics and scoring events help explain that outcome; they do not prove how much each error, penalty or six-again caused the model to miss.",
+          "Decisive score change: 70:59 — Penrith Panthers took the lead, 13–12."
+        ],
+        "score_flow": [
+          {
+            "seconds": 0,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "seconds": 691,
+            "home": 4,
+            "away": 0
+          },
+          {
+            "seconds": 782,
+            "home": 6,
+            "away": 0
+          },
+          {
+            "seconds": 1189,
+            "home": 6,
+            "away": 4
+          },
+          {
+            "seconds": 1281,
+            "home": 6,
+            "away": 6
+          },
+          {
+            "seconds": 1487,
+            "home": 6,
+            "away": 10
+          },
+          {
+            "seconds": 1577,
+            "home": 6,
+            "away": 12
+          },
+          {
+            "seconds": 2145,
+            "home": 10,
+            "away": 12
+          },
+          {
+            "seconds": 2235,
+            "home": 12,
+            "away": 12
+          },
+          {
+            "seconds": 4259,
+            "home": 13,
+            "away": 12
+          },
+          {
+            "seconds": 4622,
+            "home": 17,
+            "away": 12
+          },
+          {
+            "seconds": 4713,
+            "home": 19,
+            "away": 12
+          },
+          {
+            "seconds": 4800,
+            "home": 19,
+            "away": 12
+          }
+        ],
+        "limitations": [
+          "Possession is a final total. No continuous possession, field-position or live win-probability series is inferred from event counts."
+        ],
+        "prediction": {
+          "winner": "Penrith Panthers",
+          "home_points": 23.934337571237098,
+          "away_points": 18.324118095018225,
+          "probability": 0.6700376800408743,
+          "audit": {
+            "locked_at": "2026-09-08 06:08:04",
+            "cutoff": "2026-09-08T06:07:46+00:00",
+            "model": "ERA_FINALIST:ERA-R1:7ee4122080dee8295d3962707d68d12a6094419a0c402f8f2a60748e83f83379+ATS_RECAL:CONTEXT_RIDGE:CONTEXT_RIDGE_20260805_201139_8ec98f6e3a0e:0e40b4a54abbcd4c",
+            "hash": "31fd5d6f7b988deaa35ae5c58a13b25fb3b7dc9e5957cebb2a9af717208a7b84"
+          },
+          "signed_margin": 5.61,
+          "margin_error": 1.39,
+          "total_error": 11.26
+        },
+        "verdict": "Correct",
+        "comparisons": [
+          {
+            "label": "Winner",
+            "predicted": "Penrith Panthers",
+            "actual": "Penrith Panthers",
+            "difference": "Same winner"
+          },
+          {
+            "label": "Penrith Panthers points",
+            "predicted": "23.9",
+            "actual": "19",
+            "difference": "-4.9 points (actual − predicted)"
+          },
+          {
+            "label": "Sydney Roosters points",
+            "predicted": "18.3",
+            "actual": "12",
+            "difference": "-6.3 points (actual − predicted)"
+          },
+          {
+            "label": "Total points",
+            "predicted": "42.3",
+            "actual": "31",
+            "difference": "-11.3 points (actual − predicted)"
+          },
+          {
+            "label": "Margin (home minus away)",
+            "predicted": "5.6",
+            "actual": "7",
+            "difference": "+1.4 points (actual − predicted)"
+          }
+        ],
+        "home_score": 19,
+        "away_score": 12,
+        "winner": "Penrith Panthers",
+        "actual_margin": 7,
+        "summary": "Penrith Panthers won 19–12.",
+        "source": {
+          "collected_at": "2026-09-13 08:05:24",
+          "url": "https://www.nrl.com/draw/nrl-premiership/2026/finals-week-1/panthers-v-roosters"
+        }
+      },
+      "match_id": 29059,
+      "home_team": "Penrith Panthers",
+      "away_team": "Sydney Roosters",
+      "kickoff": "Sun 13 Sep, 6:05 PM NZT",
+      "venue": "CommBank Stadium",
+      "home_score": 19,
+      "away_score": 12,
+      "winner": "Penrith Panthers",
+      "result_state": "FullTime",
+      "start_time": "2026-09-13T06:05:00Z"
     }
   ]
 }
