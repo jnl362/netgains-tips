@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 29,
   "round_label": "Finals Round 2",
-  "generated_at": "Wed 16 Sep 2026, 10:27 AM NZT",
-  "generated_at_iso": "2026-09-16T10:27:00.984337+12:00",
+  "generated_at": "Wed 16 Sep 2026, 10:57 AM NZT",
+  "generated_at_iso": "2026-09-16T10:57:45.504985+12:00",
   "engine_version": "1.67.2",
   "fixtures": [
     {
@@ -40,8 +40,8 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:21.385855+00:00",
-          "snapshot_id": "8e3d9c124db8c589c88fed05",
+          "observed_at": "2026-09-15T22:57:06.389466+00:00",
+          "snapshot_id": "39d6d1a521fab8b199e35f0e",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-cronulla-sharks/bb239115-53dc-4bba-9cd8-a0d95d861809",
           "validation_issues": []
         },
@@ -55,8 +55,8 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:35.728909+00:00",
-          "snapshot_id": "6f99c92db3a1d16753a16af0",
+          "observed_at": "2026-09-15T22:57:20.055136+00:00",
+          "snapshot_id": "d8330b77c5c1c58b29112b38",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-cronulla-sharks/bb239115-53dc-4bba-9cd8-a0d95d861809",
           "validation_issues": []
         },
@@ -70,7 +70,7 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:35.728909+00:00",
+          "observed_at": "2026-09-15T22:57:20.055136+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -93,8 +93,8 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:21.385855+00:00",
-          "snapshot_id": "8e3d9c124db8c589c88fed05",
+          "observed_at": "2026-09-15T22:57:06.389466+00:00",
+          "snapshot_id": "39d6d1a521fab8b199e35f0e",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-cronulla-sharks/bb239115-53dc-4bba-9cd8-a0d95d861809",
           "validation_issues": [],
           "home_cover_probability": 0.3278156144930293,
@@ -116,8 +116,8 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:35.728909+00:00",
-          "snapshot_id": "6f99c92db3a1d16753a16af0",
+          "observed_at": "2026-09-15T22:57:20.055136+00:00",
+          "snapshot_id": "d8330b77c5c1c58b29112b38",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-cronulla-sharks/bb239115-53dc-4bba-9cd8-a0d95d861809",
           "validation_issues": [],
           "home_cover_probability": 0.3278156144930293,
@@ -139,7 +139,7 @@
           "total": 45.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:35.728909+00:00",
+          "observed_at": "2026-09-15T22:57:20.055136+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -197,7 +197,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 54,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-15T22:26:21.385855+00:00",
+      "bookmaker_observed_at": "2026-09-15T22:57:06.389466+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -731,7 +731,21 @@
         "fallback_reason": null
       },
       "start_time": "2026-09-19T09:50:00Z",
-      "super_boost_reviews": [],
+      "super_boost_reviews": [
+        {
+          "bookmaker": "Betcha",
+          "market_type": "Super Boost",
+          "selection": "Either Team to Win by 1-12 Points (WAS $1.75)",
+          "bookmaker_odds": 2.3,
+          "probability": null,
+          "fair_odds": null,
+          "expected_value": null,
+          "verdict": "Not yet rateable",
+          "reason": "Selection is stored, but no matching independent probability is available.",
+          "observed_at": "2026-09-15T22:57:06.371571+00:00",
+          "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-cronulla-sharks/bb239115-53dc-4bba-9cd8-a0d95d861809"
+        }
+      ],
       "clive_churchill_candidates": [],
       "safe_bets": {
         "Betcha": {
@@ -831,7 +845,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "acfaec773fe342a1"
+      "summary_id": "74333b2e141e1f41"
     },
     {
       "status": "upcoming",
@@ -860,8 +874,8 @@
           "total": 44.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:29.512146+00:00",
-          "snapshot_id": "2955d55a132c657fc83759a7",
+          "observed_at": "2026-09-15T22:57:14.683541+00:00",
+          "snapshot_id": "813ca675314a938a99f9479d",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": []
         },
@@ -875,8 +889,8 @@
           "total": 44.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:36.033384+00:00",
-          "snapshot_id": "005fa6cdfb273487a358f777",
+          "observed_at": "2026-09-15T22:57:20.368308+00:00",
+          "snapshot_id": "5189d6b3fde8627116ef4cf5",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": []
         },
@@ -890,7 +904,7 @@
           "total": 44.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:36.033384+00:00",
+          "observed_at": "2026-09-15T22:57:20.368308+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -913,8 +927,8 @@
           "total": 44.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:29.512146+00:00",
-          "snapshot_id": "2955d55a132c657fc83759a7",
+          "observed_at": "2026-09-15T22:57:14.683541+00:00",
+          "snapshot_id": "813ca675314a938a99f9479d",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": [],
           "home_cover_probability": 0.5924168261807169,
@@ -936,8 +950,8 @@
           "total": 44.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:36.033384+00:00",
-          "snapshot_id": "005fa6cdfb273487a358f777",
+          "observed_at": "2026-09-15T22:57:20.368308+00:00",
+          "snapshot_id": "5189d6b3fde8627116ef4cf5",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": [],
           "home_cover_probability": 0.5924168261807169,
@@ -959,7 +973,7 @@
           "total": 44.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-15T22:26:36.033384+00:00",
+          "observed_at": "2026-09-15T22:57:20.368308+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -1017,7 +1031,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-15T22:26:29.512146+00:00",
+      "bookmaker_observed_at": "2026-09-15T22:57:14.683541+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -1653,7 +1667,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "7394bd74178fda65"
+      "summary_id": "bbdac9a706242691"
     }
   ]
 }
