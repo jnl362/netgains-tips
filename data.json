@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 29,
   "round_label": "Finals Round 2",
-  "generated_at": "Sun 20 Sep 2026, 12:44 AM NZT",
-  "generated_at_iso": "2026-09-20T00:44:59.061351+12:00",
+  "generated_at": "Sun 20 Sep 2026, 1:15 AM NZT",
+  "generated_at_iso": "2026-09-20T01:15:20.918383+12:00",
   "engine_version": "1.67.2",
   "fixtures": [
     {
@@ -40,8 +40,8 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T12:44:39.832123+00:00",
-          "snapshot_id": "3f62e6d3c74bed226dcb48b3",
+          "observed_at": "2026-09-19T13:14:30.802082+00:00",
+          "snapshot_id": "a769041c8051f9837339b1ab",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": []
         },
@@ -55,8 +55,8 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T12:44:45.638813+00:00",
-          "snapshot_id": "c551b6c6d1f39af15973f80f",
+          "observed_at": "2026-09-19T13:14:36.637641+00:00",
+          "snapshot_id": "961e971f34af77196cf32cb9",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": []
         },
@@ -70,7 +70,7 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T12:44:45.638813+00:00",
+          "observed_at": "2026-09-19T13:14:36.637641+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -93,8 +93,8 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T12:44:39.832123+00:00",
-          "snapshot_id": "3f62e6d3c74bed226dcb48b3",
+          "observed_at": "2026-09-19T13:14:30.802082+00:00",
+          "snapshot_id": "a769041c8051f9837339b1ab",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": [],
           "home_cover_probability": 0.5595987669342748,
@@ -116,8 +116,8 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T12:44:45.638813+00:00",
-          "snapshot_id": "c551b6c6d1f39af15973f80f",
+          "observed_at": "2026-09-19T13:14:36.637641+00:00",
+          "snapshot_id": "961e971f34af77196cf32cb9",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": [],
           "home_cover_probability": 0.5595987669342748,
@@ -139,7 +139,7 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T12:44:45.638813+00:00",
+          "observed_at": "2026-09-19T13:14:36.637641+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -197,7 +197,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-19T12:44:39.832123+00:00",
+      "bookmaker_observed_at": "2026-09-19T13:14:30.802082+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -833,7 +833,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "c1a757cff27eed1c"
+      "summary_id": "ec24e3d8c2032489"
     },
     {
       "status": "completed",
