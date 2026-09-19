@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 29,
   "round_label": "Finals Round 2",
-  "generated_at": "Sun 20 Sep 2026, 10:23 AM NZT",
-  "generated_at_iso": "2026-09-20T10:23:03.160869+12:00",
+  "generated_at": "Sun 20 Sep 2026, 10:53 AM NZT",
+  "generated_at_iso": "2026-09-20T10:53:28.404452+12:00",
   "engine_version": "1.67.2",
   "fixtures": [
     {
@@ -40,8 +40,8 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T22:22:43.536715+00:00",
-          "snapshot_id": "6fa44beeaf62873f6088ed0a",
+          "observed_at": "2026-09-19T22:53:09.464752+00:00",
+          "snapshot_id": "5a2e8288cf4b128c68534be9",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": []
         },
@@ -55,8 +55,8 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T22:22:49.900954+00:00",
-          "snapshot_id": "920e321074cd4a740da625ed",
+          "observed_at": "2026-09-19T22:53:15.228441+00:00",
+          "snapshot_id": "01ad02606f5d0c69344f091f",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": []
         },
@@ -70,7 +70,7 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T22:22:49.900954+00:00",
+          "observed_at": "2026-09-19T22:53:15.228441+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -93,8 +93,8 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T22:22:43.536715+00:00",
-          "snapshot_id": "6fa44beeaf62873f6088ed0a",
+          "observed_at": "2026-09-19T22:53:09.464752+00:00",
+          "snapshot_id": "5a2e8288cf4b128c68534be9",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": [],
           "home_cover_probability": 0.5595987669342748,
@@ -116,8 +116,8 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T22:22:49.900954+00:00",
-          "snapshot_id": "920e321074cd4a740da625ed",
+          "observed_at": "2026-09-19T22:53:15.228441+00:00",
+          "snapshot_id": "01ad02606f5d0c69344f091f",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/new-zealand-warriors-vs-newcastle-knights/e5bc1fa9-e6a0-4dd4-b0ad-0adf2d7d0036",
           "validation_issues": [],
           "home_cover_probability": 0.5595987669342748,
@@ -139,7 +139,7 @@
           "total": 44.5,
           "over_odds": 1.94,
           "under_odds": 1.87,
-          "observed_at": "2026-09-19T22:22:49.900954+00:00",
+          "observed_at": "2026-09-19T22:53:15.228441+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -197,7 +197,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 68,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-19T22:22:43.536715+00:00",
+      "bookmaker_observed_at": "2026-09-19T22:53:09.464752+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -234,13 +234,13 @@
           "team": "Warriors",
           "probability": 0.68,
           "fair_odds": 1.4705882352941175,
-          "bookmaker_odds": 1.77,
+          "bookmaker_odds": 1.82,
           "bookmaker_prices": {
-            "Betcha": 1.77,
-            "TAB NZ": 1.77,
-            "Best Available": 1.77
+            "Betcha": 1.82,
+            "TAB NZ": 1.82,
+            "Best Available": 1.82
           },
-          "ev": 0.2036
+          "ev": 0.23760000000000003
         },
         {
           "player": "Charnze Nicoll-Klokstad",
@@ -248,13 +248,13 @@
           "team": "Warriors",
           "probability": 0.3937427166012866,
           "fair_odds": 2.5397295183814768,
-          "bookmaker_odds": 1.94,
+          "bookmaker_odds": 2.0,
           "bookmaker_prices": {
-            "Betcha": 1.94,
-            "TAB NZ": 1.94,
-            "Best Available": 1.94
+            "Betcha": 2.0,
+            "TAB NZ": 2.0,
+            "Best Available": 2.0
           },
-          "ev": -0.23613912979350393
+          "ev": -0.21251456679742675
         },
         {
           "player": "Dominic Young",
@@ -262,13 +262,13 @@
           "team": "Newcastle Knights",
           "probability": 0.38721679078957183,
           "fair_odds": 2.582532637494632,
-          "bookmaker_odds": 1.98,
+          "bookmaker_odds": 2.05,
           "bookmaker_prices": {
-            "Betcha": 1.98,
-            "TAB NZ": 1.98,
-            "Best Available": 1.98
+            "Betcha": 2.05,
+            "TAB NZ": 2.05,
+            "Best Available": 2.05
           },
-          "ev": -0.23331075423664782
+          "ev": -0.2062055788813778
         },
         {
           "player": "Greg Marzhew",
@@ -276,13 +276,13 @@
           "team": "Newcastle Knights",
           "probability": 0.3548674067326728,
           "fair_odds": 2.817953920330913,
-          "bookmaker_odds": 2.05,
+          "bookmaker_odds": 2.1,
           "bookmaker_prices": {
-            "Betcha": 2.05,
-            "TAB NZ": 2.05,
-            "Best Available": 2.05
+            "Betcha": 2.1,
+            "TAB NZ": 2.1,
+            "Best Available": 2.1
           },
-          "ev": -0.27252181619802085
+          "ev": -0.2547784458613871
         },
         {
           "player": "Ali Leiataua",
@@ -304,13 +304,13 @@
           "team": "Warriors",
           "probability": 0.3159783069371028,
           "fair_odds": 3.1647742203994254,
-          "bookmaker_odds": 3.5,
+          "bookmaker_odds": 3.45,
           "bookmaker_prices": {
-            "Betcha": 3.5,
-            "TAB NZ": 3.5,
-            "Best Available": 3.5
+            "Betcha": 3.45,
+            "TAB NZ": 3.45,
+            "Best Available": 3.45
           },
-          "ev": 0.10592407427985995
+          "ev": 0.09012515893300477
         },
         {
           "player": "Kalyn Ponga",
@@ -318,13 +318,13 @@
           "team": "Newcastle Knights",
           "probability": 0.30419717682292063,
           "fair_odds": 3.2873414883206507,
-          "bookmaker_odds": 3.15,
+          "bookmaker_odds": 3.25,
           "bookmaker_prices": {
-            "Betcha": 3.15,
-            "TAB NZ": 3.15,
-            "Best Available": 3.15
+            "Betcha": 3.25,
+            "TAB NZ": 3.25,
+            "Best Available": 3.25
           },
-          "ev": -0.04177889300780002
+          "ev": -0.011359175325507898
         },
         {
           "player": "Bradman Best",
@@ -332,13 +332,13 @@
           "team": "Newcastle Knights",
           "probability": 0.294791183593745,
           "fair_odds": 3.392231707234878,
-          "bookmaker_odds": 3.4,
+          "bookmaker_odds": 3.6,
           "bookmaker_prices": {
-            "Betcha": 3.4,
-            "TAB NZ": 3.4,
-            "Best Available": 3.4
+            "Betcha": 3.6,
+            "TAB NZ": 3.6,
+            "Best Available": 3.6
           },
-          "ev": 0.0022900242187329223
+          "ev": 0.061248260937482035
         },
         {
           "player": "Taine Tuaupiki",
@@ -346,13 +346,13 @@
           "team": "Warriors",
           "probability": 0.2598506362479298,
           "fair_odds": 3.8483646391609203,
-          "bookmaker_odds": 2.3,
+          "bookmaker_odds": 2.45,
           "bookmaker_prices": {
-            "Betcha": 2.3,
-            "TAB NZ": 2.3,
-            "Best Available": 2.3
+            "Betcha": 2.45,
+            "TAB NZ": 2.45,
+            "Best Available": 2.45
           },
-          "ev": -0.4023435366297615
+          "ev": -0.36336594119257193
         },
         {
           "player": "Fletcher Sharpe",
@@ -360,13 +360,13 @@
           "team": "Newcastle Knights",
           "probability": 0.2542018640654829,
           "fair_odds": 3.93388145943099,
-          "bookmaker_odds": 2.95,
+          "bookmaker_odds": 3.15,
           "bookmaker_prices": {
-            "Betcha": 2.95,
-            "TAB NZ": 2.95,
-            "Best Available": 2.95
+            "Betcha": 3.15,
+            "TAB NZ": 3.15,
+            "Best Available": 3.15
           },
-          "ev": -0.25010450100682546
+          "ev": -0.19926412819372885
         },
         {
           "player": "Jacob Laban",
@@ -374,13 +374,13 @@
           "team": "Warriors",
           "probability": 0.24938695113573392,
           "fair_odds": 4.009832894006269,
-          "bookmaker_odds": 3.5,
+          "bookmaker_odds": 3.45,
           "bookmaker_prices": {
-            "Betcha": 3.5,
-            "TAB NZ": 3.5,
-            "Best Available": 3.5
+            "Betcha": 3.45,
+            "TAB NZ": 3.45,
+            "Best Available": 3.45
           },
-          "ev": -0.12714567102493124
+          "ev": -0.139615018581718
         },
         {
           "player": "Kurt Capewell",
@@ -388,13 +388,13 @@
           "team": "Warriors",
           "probability": 0.24500298315901942,
           "fair_odds": 4.081582955057119,
-          "bookmaker_odds": 5.4,
+          "bookmaker_odds": 4.5,
           "bookmaker_prices": {
-            "Betcha": 5.4,
-            "TAB NZ": 5.4,
-            "Best Available": 5.4
+            "Betcha": 4.5,
+            "TAB NZ": 4.5,
+            "Best Available": 4.5
           },
-          "ev": 0.3230161090587049
+          "ev": 0.1025134242155874
         },
         {
           "player": "Dane Gagai",
@@ -402,13 +402,13 @@
           "team": "Newcastle Knights",
           "probability": 0.242148593025605,
           "fair_odds": 4.129695686046208,
-          "bookmaker_odds": 4.0,
+          "bookmaker_odds": 3.9,
           "bookmaker_prices": {
-            "Betcha": 4.0,
-            "TAB NZ": 4.0,
-            "Best Available": 4.0
+            "Betcha": 3.9,
+            "TAB NZ": 3.9,
+            "Best Available": 3.9
           },
-          "ev": -0.031405627897579946
+          "ev": -0.055620487200140456
         },
         {
           "player": "Chanel Harris-Tavita",
@@ -444,13 +444,13 @@
           "team": "Warriors",
           "probability": 0.1391515642343115,
           "fair_odds": 7.186408614969946,
-          "bookmaker_odds": 6.2,
+          "bookmaker_odds": 5.5,
           "bookmaker_prices": {
-            "Betcha": 6.2,
-            "TAB NZ": 6.2,
-            "Best Available": 6.2
+            "Betcha": 5.5,
+            "TAB NZ": 5.5,
+            "Best Available": 5.5
           },
-          "ev": -0.13726030174726878
+          "ev": -0.23466639671128675
         },
         {
           "player": "Mitchell Barnett",
@@ -458,13 +458,13 @@
           "team": "Warriors",
           "probability": 0.12419409394407933,
           "fair_odds": 8.051912681534343,
-          "bookmaker_odds": 8.25,
+          "bookmaker_odds": 6.2,
           "bookmaker_prices": {
-            "Betcha": 8.25,
-            "TAB NZ": 8.25,
-            "Best Available": 8.25
+            "Betcha": 6.2,
+            "TAB NZ": 6.2,
+            "Best Available": 6.2
           },
-          "ev": 0.024601275038654613
+          "ev": -0.22999661754670808
         },
         {
           "player": "Francis Manuleleua",
@@ -472,13 +472,13 @@
           "team": "Newcastle Knights",
           "probability": 0.12303101423670765,
           "fair_odds": 8.12803183168134,
-          "bookmaker_odds": 4.75,
+          "bookmaker_odds": 4.2,
           "bookmaker_prices": {
-            "Betcha": 4.75,
-            "TAB NZ": 4.75,
-            "Best Available": 4.75
+            "Betcha": 4.2,
+            "TAB NZ": 4.2,
+            "Best Available": 4.2
           },
-          "ev": -0.4156026823756387
+          "ev": -0.4832697402058279
         },
         {
           "player": "Jermaine McEwen",
@@ -486,13 +486,13 @@
           "team": "Newcastle Knights",
           "probability": 0.12058399763880152,
           "fair_odds": 8.292974354652014,
-          "bookmaker_odds": 4.75,
+          "bookmaker_odds": 4.4,
           "bookmaker_prices": {
-            "Betcha": 4.75,
-            "TAB NZ": 4.75,
-            "Best Available": 4.75
+            "Betcha": 4.4,
+            "TAB NZ": 4.4,
+            "Best Available": 4.4
           },
-          "ev": -0.4272260112156928
+          "ev": -0.46943041038927324
         },
         {
           "player": "Sam Healey",
@@ -528,13 +528,13 @@
           "team": "Newcastle Knights",
           "probability": 0.08909249398121974,
           "fair_odds": 11.224290120453864,
-          "bookmaker_odds": 8.75,
+          "bookmaker_odds": 7.5,
           "bookmaker_prices": {
-            "Betcha": 8.75,
-            "TAB NZ": 8.75,
-            "Best Available": 8.75
+            "Betcha": 7.5,
+            "TAB NZ": 7.5,
+            "Best Available": 7.5
           },
-          "ev": -0.2204406776643273
+          "ev": -0.3318062951408519
         },
         {
           "player": "Eddie Ieremia-Toeava",
@@ -626,13 +626,13 @@
           "team": "Newcastle Knights",
           "probability": 0.08115675174487834,
           "fair_odds": 12.321833716849175,
-          "bookmaker_odds": 11.5,
+          "bookmaker_odds": 11.0,
           "bookmaker_prices": {
-            "Betcha": 11.5,
-            "TAB NZ": 11.5,
-            "Best Available": 11.5
+            "Betcha": 11.0,
+            "TAB NZ": 11.0,
+            "Best Available": 11.0
           },
-          "ev": -0.06669735493389906
+          "ev": -0.10727573080633823
         },
         {
           "player": "Tanner Stowers-Smith",
@@ -654,13 +654,13 @@
           "team": "Newcastle Knights",
           "probability": 0.05325499814208735,
           "fair_odds": 18.777580225088798,
-          "bookmaker_odds": 13.0,
+          "bookmaker_odds": 10.0,
           "bookmaker_prices": {
-            "Betcha": 13.0,
-            "TAB NZ": 13.0,
-            "Best Available": 13.0
+            "Betcha": 10.0,
+            "TAB NZ": 10.0,
+            "Best Available": 10.0
           },
-          "ev": -0.3076850241528645
+          "ev": -0.4674500185791265
         },
         {
           "player": "Lachlan Crouch",
@@ -709,7 +709,7 @@
         "available": true,
         "probability": 0.27416,
         "fair_odds": 3.647505106507149,
-        "singles_product_odds": 3.4337999999999997,
+        "singles_product_odds": 3.64,
         "target_met": false,
         "legs": [
           {
@@ -717,14 +717,14 @@
             "team": "Warriors",
             "probability": 0.68,
             "fair_odds": 1.4705882352941175,
-            "market_odds": 1.77
+            "market_odds": 1.82
           },
           {
             "player": "Charnze Nicoll-Klokstad",
             "team": "Warriors",
             "probability": 0.3937427166012866,
             "fair_odds": 2.5397295183814768,
-            "market_odds": 1.94
+            "market_odds": 2.0
           }
         ],
         "method": "Shared match simulation",
@@ -740,7 +740,7 @@
           "available": true,
           "probability": 0.27416,
           "fair_odds": 3.647505106507149,
-          "singles_product_odds": 3.4337999999999997,
+          "singles_product_odds": 3.64,
           "target_met": false,
           "legs": [
             {
@@ -748,14 +748,14 @@
               "team": "Warriors",
               "probability": 0.68,
               "fair_odds": 1.4705882352941175,
-              "market_odds": 1.77
+              "market_odds": 1.82
             },
             {
               "player": "Charnze Nicoll-Klokstad",
               "team": "Warriors",
               "probability": 0.3937427166012866,
               "fair_odds": 2.5397295183814768,
-              "market_odds": 1.94
+              "market_odds": 2.0
             }
           ],
           "method": "Shared match simulation",
@@ -767,7 +767,7 @@
           "available": true,
           "probability": 0.27416,
           "fair_odds": 3.647505106507149,
-          "singles_product_odds": 3.4337999999999997,
+          "singles_product_odds": 3.64,
           "target_met": false,
           "legs": [
             {
@@ -775,14 +775,14 @@
               "team": "Warriors",
               "probability": 0.68,
               "fair_odds": 1.4705882352941175,
-              "market_odds": 1.77
+              "market_odds": 1.82
             },
             {
               "player": "Charnze Nicoll-Klokstad",
               "team": "Warriors",
               "probability": 0.3937427166012866,
               "fair_odds": 2.5397295183814768,
-              "market_odds": 1.94
+              "market_odds": 2.0
             }
           ],
           "method": "Shared match simulation",
@@ -794,7 +794,7 @@
           "available": true,
           "probability": 0.27416,
           "fair_odds": 3.647505106507149,
-          "singles_product_odds": 3.4337999999999997,
+          "singles_product_odds": 3.64,
           "target_met": false,
           "legs": [
             {
@@ -802,14 +802,14 @@
               "team": "Warriors",
               "probability": 0.68,
               "fair_odds": 1.4705882352941175,
-              "market_odds": 1.77
+              "market_odds": 1.82
             },
             {
               "player": "Charnze Nicoll-Klokstad",
               "team": "Warriors",
               "probability": 0.3937427166012866,
               "fair_odds": 2.5397295183814768,
-              "market_odds": 1.94
+              "market_odds": 2.0
             }
           ],
           "method": "Shared match simulation",
@@ -833,7 +833,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "acf6f174bdb6da19"
+      "summary_id": "6690d62eb4406236"
     },
     {
       "status": "completed",
