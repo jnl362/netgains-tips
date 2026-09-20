@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 29,
   "round_label": "Finals Round 2",
-  "generated_at": "Sun 20 Sep 2026, 7:26 PM NZT",
-  "generated_at_iso": "2026-09-20T19:26:29.999486+12:00",
+  "generated_at": "Sun 20 Sep 2026, 7:56 PM NZT",
+  "generated_at_iso": "2026-09-20T19:56:50.242672+12:00",
   "engine_version": "1.67.3",
   "fixtures": [
     {
@@ -406,16 +406,6 @@
           "ev": -0.2673605951405308
         },
         {
-          "player": "Adam Pompey",
-          "nrl_player_id": 508026,
-          "team": "Warriors",
-          "probability": 0.1824063959641509,
-          "fair_odds": 5.482263901516558,
-          "bookmaker_odds": null,
-          "bookmaker_prices": {},
-          "ev": null
-        },
-        {
           "player": "Te Maire Martin",
           "nrl_player_id": 501293,
           "team": "Warriors",
@@ -428,6 +418,16 @@
             "Best Available": 3.8
           },
           "ev": -0.4448468609092353
+        },
+        {
+          "player": "Adam Pompey",
+          "nrl_player_id": 508026,
+          "team": "Warriors",
+          "probability": 0.145046196406796,
+          "fair_odds": 6.894355210773014,
+          "bookmaker_odds": null,
+          "bookmaker_prices": {},
+          "ev": null
         },
         {
           "player": "Francis Manuleleua",
@@ -486,20 +486,6 @@
           "ev": -0.34906268443221433
         },
         {
-          "player": "Sam Healey",
-          "nrl_player_id": 509563,
-          "team": "Warriors",
-          "probability": 0.1012337836559762,
-          "fair_odds": 9.87812530447652,
-          "bookmaker_odds": 6.75,
-          "bookmaker_prices": {
-            "Betcha": 6.75,
-            "TAB NZ": 6.75,
-            "Best Available": 6.75
-          },
-          "ev": -0.3166719603221607
-        },
-        {
           "player": "Phoenix Crossland",
           "nrl_player_id": 504597,
           "team": "Newcastle Knights",
@@ -540,6 +526,20 @@
             "Best Available": 13.0
           },
           "ev": 0.2317658073812512
+        },
+        {
+          "player": "Sam Healey",
+          "nrl_player_id": 509563,
+          "team": "Warriors",
+          "probability": 0.09385922291911565,
+          "fair_odds": 10.65425398697113,
+          "bookmaker_odds": 6.75,
+          "bookmaker_prices": {
+            "Betcha": 6.75,
+            "TAB NZ": 6.75,
+            "Best Available": 6.75
+          },
+          "ev": -0.36645024529596937
         },
         {
           "player": "Sandon Smith",
@@ -615,15 +615,15 @@
           "player": "Harrison Graham",
           "nrl_player_id": 506220,
           "team": "Newcastle Knights",
-          "probability": 0.08122918980487666,
-          "fair_odds": 12.310845428867792,
+          "probability": 0.08122224861751219,
+          "fair_odds": 12.31189750371417,
           "bookmaker_odds": 11.5,
           "bookmaker_prices": {
             "Betcha": 11.5,
             "TAB NZ": 11.5,
             "Best Available": 11.5
           },
-          "ev": -0.06586431724391839
+          "ev": -0.06594414089860978
         },
         {
           "player": "Cody Hopwood",
@@ -657,22 +657,22 @@
           "player": "Lachlan Crouch",
           "nrl_player_id": 100003974,
           "team": "Newcastle Knights",
-          "probability": 0.053807393315973416,
-          "fair_odds": 18.584806629224634,
+          "probability": 0.05380374837804458,
+          "fair_odds": 18.586065657984246,
           "bookmaker_odds": 15.0,
           "bookmaker_prices": {
             "Betcha": 15.0,
             "TAB NZ": 15.0,
             "Best Available": 15.0
           },
-          "ev": -0.19288910026039874
+          "ev": -0.1929437743293313
         },
         {
           "player": "Thomas Cant",
           "nrl_player_id": 509527,
           "team": "Newcastle Knights",
-          "probability": 0.041734015971592806,
-          "fair_odds": 23.96126940385206,
+          "probability": 0.0417314397345525,
+          "fair_odds": 23.962748622162373,
           "bookmaker_odds": null,
           "bookmaker_prices": {},
           "ev": null
@@ -681,21 +681,21 @@
           "player": "Pasami Saulo",
           "nrl_player_id": 504079,
           "team": "Newcastle Knights",
-          "probability": 0.04048926061553963,
-          "fair_odds": 24.69790716840612,
+          "probability": 0.04048678601551116,
+          "fair_odds": 24.69941673357039,
           "bookmaker_odds": 16.0,
           "bookmaker_prices": {
             "Betcha": 16.0,
             "TAB NZ": 16.0,
             "Best Available": 16.0
           },
-          "ev": -0.3521718301513659
+          "ev": -0.35221142375182146
         }
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.17968,
-        "fair_odds": 5.565449688334818,
+        "probability": 0.17528,
+        "fair_odds": 5.705157462345961,
         "singles_product_odds": 4.73,
         "target_met": false,
         "legs": [
@@ -725,8 +725,8 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.17968,
-          "fair_odds": 5.565449688334818,
+          "probability": 0.17528,
+          "fair_odds": 5.705157462345961,
           "singles_product_odds": 4.73,
           "target_met": false,
           "legs": [
@@ -752,8 +752,8 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.17968,
-          "fair_odds": 5.565449688334818,
+          "probability": 0.17528,
+          "fair_odds": 5.705157462345961,
           "singles_product_odds": 4.73,
           "target_met": false,
           "legs": [
@@ -779,8 +779,8 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.17968,
-          "fair_odds": 5.565449688334818,
+          "probability": 0.17528,
+          "fair_odds": 5.705157462345961,
           "singles_product_odds": 4.73,
           "target_met": false,
           "legs": [
@@ -820,7 +820,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "f3d8fd9f9662e580"
+      "summary_id": "57bdc09f4d54cef8"
     },
     {
       "status": "completed",
