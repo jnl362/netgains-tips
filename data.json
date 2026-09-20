@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 29,
   "round_label": "Finals Round 2",
-  "generated_at": "Sun 20 Sep 2026, 6:56 PM NZT",
-  "generated_at_iso": "2026-09-20T18:56:06.196738+12:00",
+  "generated_at": "Sun 20 Sep 2026, 7:26 PM NZT",
+  "generated_at_iso": "2026-09-20T19:26:29.999486+12:00",
   "engine_version": "1.67.3",
   "fixtures": [
     {
@@ -231,15 +231,15 @@
           "player": "Dominic Young",
           "nrl_player_id": 100008071,
           "team": "Newcastle Knights",
-          "probability": 0.4516349528897307,
-          "fair_odds": 2.2141776087116884,
+          "probability": 0.45145940609066826,
+          "fair_odds": 2.2150385760246323,
           "bookmaker_odds": 2.2,
           "bookmaker_prices": {
             "Betcha": 2.2,
             "TAB NZ": 2.2,
             "Best Available": 2.2
           },
-          "ev": -0.006403103642592334
+          "ev": -0.0067893066005297875
         },
         {
           "player": "Alofiana Khan-Pereira",
@@ -255,29 +255,29 @@
           "player": "Greg Marzhew",
           "nrl_player_id": 504325,
           "team": "Newcastle Knights",
-          "probability": 0.39005198558174664,
-          "fair_odds": 2.5637608241079475,
+          "probability": 0.3912547572005746,
+          "fair_odds": 2.5558794662459667,
           "bookmaker_odds": 2.15,
           "bookmaker_prices": {
             "Betcha": 2.15,
             "TAB NZ": 2.15,
             "Best Available": 2.15
           },
-          "ev": -0.1613882309992447
+          "ev": -0.15880227201876462
         },
         {
           "player": "Charnze Nicoll-Klokstad",
           "nrl_player_id": 501559,
           "team": "Warriors",
-          "probability": 0.3629274731386284,
-          "fair_odds": 2.7553714557674924,
+          "probability": 0.3628633791884023,
+          "fair_odds": 2.755858147594415,
           "bookmaker_odds": 1.82,
           "bookmaker_prices": {
             "Betcha": 1.82,
             "TAB NZ": 1.82,
             "Best Available": 1.82
           },
-          "ev": -0.3394719988876963
+          "ev": -0.3395886498771078
         },
         {
           "player": "Kalyn Ponga",
@@ -694,23 +694,23 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.17756,
-        "fair_odds": 5.631899076368551,
+        "probability": 0.17968,
+        "fair_odds": 5.565449688334818,
         "singles_product_odds": 4.73,
         "target_met": false,
         "legs": [
           {
             "player": "Dominic Young",
             "team": "Newcastle Knights",
-            "probability": 0.4516349528897307,
-            "fair_odds": 2.2141776087116884,
+            "probability": 0.45145940609066826,
+            "fair_odds": 2.2150385760246323,
             "market_odds": 2.2
           },
           {
             "player": "Greg Marzhew",
             "team": "Newcastle Knights",
-            "probability": 0.39005198558174664,
-            "fair_odds": 2.5637608241079475,
+            "probability": 0.3912547572005746,
+            "fair_odds": 2.5558794662459667,
             "market_odds": 2.15
           }
         ],
@@ -725,23 +725,23 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.17756,
-          "fair_odds": 5.631899076368551,
+          "probability": 0.17968,
+          "fair_odds": 5.565449688334818,
           "singles_product_odds": 4.73,
           "target_met": false,
           "legs": [
             {
               "player": "Dominic Young",
               "team": "Newcastle Knights",
-              "probability": 0.4516349528897307,
-              "fair_odds": 2.2141776087116884,
+              "probability": 0.45145940609066826,
+              "fair_odds": 2.2150385760246323,
               "market_odds": 2.2
             },
             {
               "player": "Greg Marzhew",
               "team": "Newcastle Knights",
-              "probability": 0.39005198558174664,
-              "fair_odds": 2.5637608241079475,
+              "probability": 0.3912547572005746,
+              "fair_odds": 2.5558794662459667,
               "market_odds": 2.15
             }
           ],
@@ -752,23 +752,23 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.17756,
-          "fair_odds": 5.631899076368551,
+          "probability": 0.17968,
+          "fair_odds": 5.565449688334818,
           "singles_product_odds": 4.73,
           "target_met": false,
           "legs": [
             {
               "player": "Dominic Young",
               "team": "Newcastle Knights",
-              "probability": 0.4516349528897307,
-              "fair_odds": 2.2141776087116884,
+              "probability": 0.45145940609066826,
+              "fair_odds": 2.2150385760246323,
               "market_odds": 2.2
             },
             {
               "player": "Greg Marzhew",
               "team": "Newcastle Knights",
-              "probability": 0.39005198558174664,
-              "fair_odds": 2.5637608241079475,
+              "probability": 0.3912547572005746,
+              "fair_odds": 2.5558794662459667,
               "market_odds": 2.15
             }
           ],
@@ -779,23 +779,23 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.17756,
-          "fair_odds": 5.631899076368551,
+          "probability": 0.17968,
+          "fair_odds": 5.565449688334818,
           "singles_product_odds": 4.73,
           "target_met": false,
           "legs": [
             {
               "player": "Dominic Young",
               "team": "Newcastle Knights",
-              "probability": 0.4516349528897307,
-              "fair_odds": 2.2141776087116884,
+              "probability": 0.45145940609066826,
+              "fair_odds": 2.2150385760246323,
               "market_odds": 2.2
             },
             {
               "player": "Greg Marzhew",
               "team": "Newcastle Knights",
-              "probability": 0.39005198558174664,
-              "fair_odds": 2.5637608241079475,
+              "probability": 0.3912547572005746,
+              "fair_odds": 2.5558794662459667,
               "market_odds": 2.15
             }
           ],
@@ -820,7 +820,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "577af59701f46f1d"
+      "summary_id": "f3d8fd9f9662e580"
     },
     {
       "status": "completed",
