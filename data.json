@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 29,
   "round_label": "Finals Round 2",
-  "generated_at": "Sun 20 Sep 2026, 6:25 PM NZT",
-  "generated_at_iso": "2026-09-20T18:25:44.567758+12:00",
+  "generated_at": "Sun 20 Sep 2026, 6:56 PM NZT",
+  "generated_at_iso": "2026-09-20T18:56:06.196738+12:00",
   "engine_version": "1.67.3",
   "fixtures": [
     {
@@ -297,57 +297,57 @@
           "player": "Bradman Best",
           "nrl_player_id": 506682,
           "team": "Newcastle Knights",
-          "probability": 0.3178734340786872,
-          "fair_odds": 3.1459061777161836,
+          "probability": 0.3177824369517243,
+          "fair_odds": 3.14680700919892,
           "bookmaker_odds": 3.7,
           "bookmaker_prices": {
             "Betcha": 3.7,
             "TAB NZ": 3.7,
             "Best Available": 3.7
           },
-          "ev": 0.1761317060911427
+          "ev": 0.17579501672137998
         },
         {
           "player": "Ali Leiataua",
           "nrl_player_id": 100006296,
           "team": "Warriors",
-          "probability": 0.3111808426147241,
-          "fair_odds": 3.2135654354471597,
+          "probability": 0.31237747863214826,
+          "fair_odds": 3.201255110896094,
           "bookmaker_odds": 3.45,
           "bookmaker_prices": {
             "Betcha": 3.45,
             "TAB NZ": 3.45,
             "Best Available": 3.45
           },
-          "ev": 0.07357390702079836
+          "ev": 0.07770230128091149
         },
         {
           "player": "Fletcher Sharpe",
           "nrl_player_id": 100006482,
           "team": "Newcastle Knights",
-          "probability": 0.2853421135830105,
-          "fair_odds": 3.5045650550600707,
+          "probability": 0.2889509279425746,
+          "fair_odds": 3.460795253783499,
           "bookmaker_odds": 3.25,
           "bookmaker_prices": {
             "Betcha": 3.25,
             "TAB NZ": 3.25,
             "Best Available": 3.25
           },
-          "ev": -0.07263813085521598
+          "ev": -0.060909484186632556
         },
         {
           "player": "Dane Gagai",
           "nrl_player_id": 500043,
           "team": "Newcastle Knights",
-          "probability": 0.26534452146186815,
-          "fair_odds": 3.768685309539006,
+          "probability": 0.26527437074126636,
+          "fair_odds": 3.769681922930065,
           "bookmaker_odds": 4.1,
           "bookmaker_prices": {
             "Betcha": 4.1,
             "TAB NZ": 4.1,
             "Best Available": 4.1
           },
-          "ev": 0.08791253799365939
+          "ev": 0.08762492003919209
         },
         {
           "player": "Taine Tuaupiki",
@@ -694,8 +694,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.17652,
-        "fair_odds": 5.665080444142307,
+        "probability": 0.17756,
+        "fair_odds": 5.631899076368551,
         "singles_product_odds": 4.73,
         "target_met": false,
         "legs": [
@@ -725,8 +725,8 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.17652,
-          "fair_odds": 5.665080444142307,
+          "probability": 0.17756,
+          "fair_odds": 5.631899076368551,
           "singles_product_odds": 4.73,
           "target_met": false,
           "legs": [
@@ -752,8 +752,8 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.17652,
-          "fair_odds": 5.665080444142307,
+          "probability": 0.17756,
+          "fair_odds": 5.631899076368551,
           "singles_product_odds": 4.73,
           "target_met": false,
           "legs": [
@@ -779,8 +779,8 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.17652,
-          "fair_odds": 5.665080444142307,
+          "probability": 0.17756,
+          "fair_odds": 5.631899076368551,
           "singles_product_odds": 4.73,
           "target_met": false,
           "legs": [
@@ -820,7 +820,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "1b5cb1a24ab9ec46"
+      "summary_id": "577af59701f46f1d"
     },
     {
       "status": "completed",
