@@ -3,7 +3,7 @@ const $=(s,p=document)=>p.querySelector(s), $$=(s,p=document)=>[...p.querySelect
 const finite=v=>v!=null&&Number.isFinite(Number(v));
 const pct=v=>!finite(v)?'—':`${(v*100).toFixed(1)}%`, odds=v=>!finite(v)?'—':`$${Number(v).toFixed(2)}`, num=(v,d=1)=>!finite(v)?'—':Number(v).toFixed(d);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const topPlayers=()=>upcomingFixtures().flatMap(f=>(f.ats_players||[]).map(p=>({...p,match:`${f.home_team} vs ${f.away_team}`}))).sort((a,b)=>b.probability-a.probability);
+const topPlayers=()=>upcomingFixtures().flatMap(f=>(f.ats_players||[]).map(p=>({...p,match:`${f.home_team} vs ${f.away_team}`,match_id:f.match_id}))).sort((a,b)=>b.probability-a.probability);
 const favourite=f=>!finite(f.home_win_probability)||!finite(f.away_win_probability)?{team:'Forecast unavailable',p:null}:f.home_win_probability>=f.away_win_probability?{team:f.home_team,p:f.home_win_probability}:{team:f.away_team,p:f.away_win_probability};
 const currentBook=()=>state.bookmaker||state.data?.default_bookmaker||'Betcha';
 const marketView=f=>{
@@ -39,7 +39,30 @@ function matchCard(f){
 }
 
 function atsRows(players,count=10){
-  return players.slice(0,count).map((p,i)=>{const bookOdds=atsBookOdds(p),edge=priceEV(p.probability,bookOdds);return `<article class="ats-card"><span class="rank">${i+1}</span><div><b>${esc(p.player)}</b><small>${esc(p.team)}${p.match?` · ${esc(p.match)}`:''}</small></div><div class="ats-prob"><b>${pct(p.probability)}</b><small>Fair ${odds(p.fair_odds)} · ${esc(currentBook())} ${odds(bookOdds)}${edge==null?'':` · <span class="${edge>=0?'edge':'negative'}">${signedPct(edge)}</span>`}</small></div></article>`;}).join('')||'<div class="empty">ATS rankings are not available yet.</div>';
+  return players.slice(0,count).map((p,i)=>{const bookOdds=atsBookOdds(p),edge=priceEV(p.probability,bookOdds);return `<article class="ats-card"${p.match_id?` data-match="${esc(p.match_id)}" data-open-detail="ats" tabindex="0" role="button"`:''}><span class="rank">${i+1}</span><div><b>${esc(p.player)}</b><small>${esc(p.team)}${p.match?` · ${esc(p.match)}`:''}</small></div><div class="ats-prob"><b>${pct(p.probability)}</b><small>Fair ${odds(p.fair_odds)} · ${esc(currentBook())} ${odds(bookOdds)}${edge==null?'':` · <span class="${edge>=0?'edge':'negative'}">${signedPct(edge)}</span>`}</small></div></article>`;}).join('')||'<div class="empty">ATS rankings are not available yet.</div>';
+}
+
+const playerMetric=(p,key,d=1)=>p&&p.stats&&finite(p.stats[key])?num(p.stats[key],d):'—';
+const playerProfile=(p,key,suffix='')=>p&&p.profile&&finite(p.profile[key])?`${num(p.profile[key],0)}${suffix}`:'—';
+const comparisonValue=r=>!finite(r)?'—':num(r,Math.abs(Number(r))<10?2:0);
+function matchupEvidence(row){
+  const rows=row.comparison||[],home=rows.filter(x=>x.edge==='home').length,away=rows.filter(x=>x.edge==='away').length;
+  const groups=[...new Set(rows.map(x=>x.category))].map(category=>`<section class="matchup-group"><h5>${esc(category)}</h5>${rows.filter(x=>x.category===category).map(x=>{
+    const unit=x.unit==='%'?'%':(x.unit||''),hv=x.unit==='%'&&finite(x.home)?Number(x.home)*100:x.home,av=x.unit==='%'&&finite(x.away)?Number(x.away)*100:x.away;
+    return `<div class="matchup-stat"><b class="${x.edge==='home'?'winner':''}">${comparisonValue(hv)}${finite(hv)?unit:''}</b><span>${esc(x.label)}</span><b class="${x.edge==='away'?'winner':''}">${comparisonValue(av)}${finite(av)?unit:''}</b></div>`;
+  }).join('')}</section>`).join('');
+  return `<div class="matchup-score"><span>HOME EDGES <b>${home}</b></span><i>12-stat comparison</i><span>AWAY EDGES <b>${away}</b></span></div><div class="matchup-groups">${groups}</div>`;
+}
+function matchupCard(row,ats){
+  if(!row)return '<div class="empty">The direct named opponent is not available yet.</div>';
+  const h=row.home||{},a=row.away||{};
+  const player=(p,side)=>`<div class="matchup-player"><small>${side} · #${esc(p.jersey_number??'—')} · ${esc(p.position||'—')}</small><b>${esc(p.player_name||'—')}</b><span>${playerProfile(p,'height_cm',' cm')} · ${playerProfile(p,'weight_kg',' kg')} · ${playerMetric(p,'appearances',0)} games</span></div>`;
+  return `<article class="matchup-card">${ats?`<div class="matchup-ats"><b>${esc(ats.player)}</b><span>${pct(ats.probability)} ATS</span></div>`:''}<div class="matchup-role">${esc(row.home_role||'—')} ↔ ${esc(row.away_role||'—')}</div><div class="matchup-pair">${player(h,'HOME')}${player(a,'AWAY')}</div>${matchupEvidence(row)}<div class="matchup-analysis"><strong>MATCHUP READ</strong><p>${esc(row.summary||'Comparison unavailable.')}</p></div></article>`;
+}
+function allMatchups(f){return (f.player_matchups||[]).map(row=>matchupCard(row)).join('')||'<div class="empty">Named-player matchup data is not available yet.</div>';}
+function recommendedMatchups(f){
+  const rows=f.recommended_ats_matchups||[];
+  return `<div class="matchup-note">ATS rankings remain model-driven. Direct-opponent data is supporting evidence only.</div>${rows.map(x=>matchupCard(x.matchup,x.ats)).join('')||'<div class="empty">Recommended ATS matchups are not available yet.</div>'}`;
 }
 
 function marketCard(f){
@@ -94,23 +117,26 @@ function specialMarkets(f){
   return `<h3>Super Boost review</h3><div class="detail-grid">${boostHtml}</div>${medalHtml}`;
 }
 
-function showMatch(id){
+function showMatch(id,initialDetail='overview'){
   const f=state.data.fixtures.find(x=>String(x.match_id)===String(id)); if(!f)return;
   if(isCompleted(f)){showAnalysis(f);return;}
   const fav=favourite(f),players=f.ats_players||[],ctx=f.context_effects||{},b=marketView(f);
   const hp=b.home_cover_probability??(sameNumber(b.home_line,f.market_line)?f.home_cover_probability:null),ap=b.away_cover_probability??(sameNumber(b.away_line,f.away_line)?f.away_cover_probability:null),op=b.over_probability??(sameNumber(b.total,f.market_total)?f.over_probability:null),up=b.under_probability??(sameNumber(b.total,f.market_total)?f.under_probability:null);
-  $('#drawerContent').innerHTML=`<div class="drawer-head"><div><div class="kicker">${esc(f.kickoff)} · ${esc(f.venue)}</div><h2>${esc(f.home_team)} vs ${esc(f.away_team)}</h2><div class="subtitle">${esc(b.name)} markets · model v${esc(state.data.engine_version)}</div></div><button class="close" aria-label="Close match">×</button></div><div class="projection"><div><small>${esc(f.home_team)}</small><strong>${pct(f.home_win_probability)}</strong></div><div class="score">${scoreValue(f.likely_home_points)}–${scoreValue(f.likely_away_points)}</div><div><small>${esc(f.away_team)}</small><strong>${pct(f.away_win_probability)}</strong></div></div><div class="tabs"><button class="active" data-detail="overview">Overview</button><button data-detail="ats">ATS</button><button data-detail="markets">Markets</button><button data-detail="special">Boosts${(f.clive_churchill_candidates||[]).length?' & Medal':''}</button><button data-detail="model">Model detail</button></div>
+  $('#drawerContent').innerHTML=`<div class="drawer-head"><div><div class="kicker">${esc(f.kickoff)} · ${esc(f.venue)}</div><h2>${esc(f.home_team)} vs ${esc(f.away_team)}</h2><div class="subtitle">${esc(b.name)} markets · model v${esc(state.data.engine_version)}</div></div><button class="close" aria-label="Close match">×</button></div><div class="projection"><div><small>${esc(f.home_team)}</small><strong>${pct(f.home_win_probability)}</strong></div><div class="score">${scoreValue(f.likely_home_points)}–${scoreValue(f.likely_away_points)}</div><div><small>${esc(f.away_team)}</small><strong>${pct(f.away_win_probability)}</strong></div></div><div class="tabs"><button class="active" data-detail="overview">Overview</button><button data-detail="ats">Recommended ATS</button><button data-detail="matchups">Player matchups</button><button data-detail="rankings">All ATS</button><button data-detail="markets">Markets</button><button data-detail="special">Boosts${(f.clive_churchill_candidates||[]).length?' & Medal':''}</button><button data-detail="model">Model detail</button></div>
   <section class="detail-section active" data-section="overview"><div class="detail-grid"><div class="detail-box"><small>MODEL FAVOURITE</small><b>${esc(fav.team)} · ${pct(fav.p)}</b></div><div class="detail-box"><small>PROJECTED MARGIN</small><b>${num(f.projected_margin)} points</b></div><div class="detail-box"><small>PROJECTED TOTAL</small><b>${num(f.projected_total)} points</b></div><div class="detail-box"><small>PREDICTION STRENGTH</small><b>${num(f.prediction_strength_score,0)}/100</b></div><div class="detail-box"><small>FAVOURITE 1–12</small><b>${pct(f.fav_1_12_probability)}</b></div><div class="detail-box"><small>FAVOURITE 13+</small><b>${pct(f.fav_13_plus_probability)}</b></div></div>${selectedPair(f)?.available?`<div class="pick"><small>HIGHEST-PROBABILITY TWO-PLAYER COMBINATION</small><b>${selectedPair(f).legs.map(x=>esc(x.player)).join(' + ')}</b><span>${pct(selectedPair(f).probability)} joint hit · Fair ${odds(selectedPair(f).fair_odds)}</span></div>`:''}</section>
-  <section class="detail-section" data-section="ats"><div class="ats-list">${atsRows(players,999)}</div></section>
+  <section class="detail-section" data-section="ats">${recommendedMatchups(f)}</section>
+  <section class="detail-section" data-section="matchups">${allMatchups(f)}</section>
+  <section class="detail-section" data-section="rankings"><div class="ats-list">${atsRows(players,999)}</div></section>
   <section class="detail-section" data-section="markets"><div class="detail-grid"><div class="detail-box"><small>${esc(f.home_team)} H2H · ${esc(b.name)}</small><b>${pct(f.home_win_probability)} model · ${odds(b.home_h2h)} book · ${signedPct(priceEV(f.home_win_probability,b.home_h2h))} EV</b></div><div class="detail-box"><small>${esc(f.away_team)} H2H · ${esc(b.name)}</small><b>${pct(f.away_win_probability)} model · ${odds(b.away_h2h)} book · ${signedPct(priceEV(f.away_win_probability,b.away_h2h))} EV</b></div><div class="detail-box"><small>${esc(f.home_team)} LINE · ${esc(b.name)}</small><b>${b.home_line==null?'Unavailable':`${Number(b.home_line)>=0?'+':''}${num(b.home_line)} @ ${odds(b.home_line_odds)} · ${pct(hp)}`}</b></div><div class="detail-box"><small>${esc(f.away_team)} LINE · ${esc(b.name)}</small><b>${b.away_line==null?'Unavailable':`${Number(b.away_line)>=0?'+':''}${num(b.away_line)} @ ${odds(b.away_line_odds)} · ${pct(ap)}`}</b></div><div class="detail-box"><small>OVER · ${esc(b.name)}</small><b>${b.total==null?'Unavailable':`${num(b.total)} @ ${odds(b.over_odds)} · ${pct(op)}`}</b></div><div class="detail-box"><small>UNDER · ${esc(b.name)}</small><b>${b.total==null?'Unavailable':`${num(b.total)} @ ${odds(b.under_odds)} · ${pct(up)}`}</b></div></div></section>
   <section class="detail-section" data-section="special">${specialMarkets(f)}</section>
   <section class="detail-section" data-section="model"><div class="detail-grid"><div class="detail-box"><small>DATA QUALITY</small><b>${esc(f.data_quality)}</b></div><div class="detail-box"><small>CONFIDENCE</small><b>${esc(f.confidence)} · ${num(f.confidence_score,0)}/100</b></div><div class="detail-box"><small>HOME INPUT</small><b>${Number(ctx.home_advantage||0)>=0?'+':''}${num(ctx.home_advantage)} pts</b></div><div class="detail-box"><small>CONTROLLED CONTEXT</small><b>${Number(ctx.controlled_context_margin||0)>=0?'+':''}${num(ctx.controlled_context_margin)} pts</b></div></div><ol class="drivers">${(f.drivers||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ol></section>`;
   $('#drawer').classList.add('open'); document.body.style.overflow='hidden'; $('.close').onclick=closeDrawer;
   $$('[data-detail]').forEach(button=>button.onclick=()=>{$$('[data-detail]').forEach(x=>x.classList.toggle('active',x===button));$$('[data-section]').forEach(x=>x.classList.toggle('active',x.dataset.section===button.dataset.detail));});
+  if(initialDetail!=='overview')$(`[data-detail="${initialDetail}"]`)?.click();
 }
 
 function closeDrawer(){const url=new URL(location.href);url.searchParams.delete('match');history.replaceState(null,'',url);$('#drawer').classList.remove('open');$('#drawer').removeAttribute('aria-labelledby');$('#drawer').onkeydown=null;document.body.style.overflow='';}
-function bindMatchOpen(){$$('[data-match]').forEach(el=>{el.onclick=()=>showMatch(el.dataset.match);el.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();showMatch(el.dataset.match);}};});}
+function bindMatchOpen(){$$('[data-match]').forEach(el=>{el.onclick=()=>showMatch(el.dataset.match,el.dataset.openDetail||'overview');el.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();showMatch(el.dataset.match,el.dataset.openDetail||'overview');}};});}
 function go(view){state.view=view;$$('.view').forEach(v=>v.classList.toggle('active',v.id===`${view}View`));$$('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.view===view));scrollTo({top:0,behavior:'smooth'});}
 function configureBookmakerSelector(){
   const select=$('#bookmakerSelect'),books=state.data?.available_bookmakers?.length?state.data.available_bookmakers:['Betcha','TAB NZ','Best Available'];
