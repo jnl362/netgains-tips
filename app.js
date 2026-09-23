@@ -46,18 +46,19 @@ const playerMetric=(p,key,d=1)=>p&&p.stats&&finite(p.stats[key])?num(p.stats[key
 const playerProfile=(p,key,suffix='')=>p&&p.profile&&finite(p.profile[key])?`${num(p.profile[key],0)}${suffix}`:'—';
 const comparisonValue=r=>!finite(r)?'—':num(r,Math.abs(Number(r))<10?2:0);
 function matchupEvidence(row){
-  const rows=row.comparison||[],home=rows.filter(x=>x.edge==='home').length,away=rows.filter(x=>x.edge==='away').length;
+  const rows=(row.comparison||[]).filter(x=>finite(x.home)||finite(x.away)),home=rows.filter(x=>x.edge==='home').length,away=rows.filter(x=>x.edge==='away').length,h=row.home||{},a=row.away||{};
   const groups=[...new Set(rows.map(x=>x.category))].map(category=>`<section class="matchup-group"><h5>${esc(category)}</h5>${rows.filter(x=>x.category===category).map(x=>{
     const unit=x.unit==='%'?'%':(x.unit||''),hv=x.unit==='%'&&finite(x.home)?Number(x.home)*100:x.home,av=x.unit==='%'&&finite(x.away)?Number(x.away)*100:x.away;
     return `<div class="matchup-stat"><b class="${x.edge==='home'?'winner':''}">${comparisonValue(hv)}${finite(hv)?unit:''}</b><span>${esc(x.label)}</span><b class="${x.edge==='away'?'winner':''}">${comparisonValue(av)}${finite(av)?unit:''}</b></div>`;
   }).join('')}</section>`).join('');
-  return `<div class="matchup-score"><span>HOME EDGES <b>${home}</b></span><i>12-stat comparison</i><span>AWAY EDGES <b>${away}</b></span></div><div class="matchup-groups">${groups}</div>`;
+  return `<div class="matchup-score"><span>HOME EDGES <b>${home}</b></span><i>${rows.length} stats available</i><span>AWAY EDGES <b>${away}</b></span></div><div class="matchup-stat-head"><b>HOME · ${esc(h.player_name||'—')}</b><span>STAT</span><b>AWAY · ${esc(a.player_name||'—')}</b></div><div class="matchup-groups">${groups}</div>`;
 }
 function matchupCard(row,ats){
   if(!row)return '<div class="empty">The direct named opponent is not available yet.</div>';
   const h=row.home||{},a=row.away||{};
+  const pick=row.one_on_one||{},pickName=pick.player||'Too close to split';
   const player=(p,side)=>`<div class="matchup-player"><small>${side} · #${esc(p.jersey_number??'—')} · ${esc(p.position||'—')}</small><b>${esc(p.player_name||'—')}</b><span>${playerProfile(p,'height_cm',' cm')} · ${playerProfile(p,'weight_kg',' kg')} · ${playerMetric(p,'appearances',0)} games</span></div>`;
-  return `<article class="matchup-card">${ats?`<div class="matchup-ats"><b>${esc(ats.player)}</b><span>${pct(ats.probability)} ATS</span></div>`:''}<div class="matchup-role">${esc(row.home_role||'—')} ↔ ${esc(row.away_role||'—')}</div><div class="matchup-pair">${player(h,'HOME')}${player(a,'AWAY')}</div>${matchupEvidence(row)}<div class="matchup-analysis"><strong>MATCHUP READ</strong><p>${esc(row.summary||'Comparison unavailable.')}</p></div></article>`;
+  return `<article class="matchup-card">${ats?`<div class="matchup-ats"><b>${esc(ats.player)}</b><span>${pct(ats.probability)} ATS</span></div>`:''}<div class="matchup-pick"><small>1V1 PICK · STATISTICAL MATCHUP WINNER</small><strong>${esc(pickName)}</strong><span>${num(pick.home_score,2)} home edge points · ${num(pick.away_score,2)} away edge points</span></div><div class="matchup-role">${esc(row.home_role||'—')} ↔ ${esc(row.away_role||'—')}</div><div class="matchup-pair">${player(h,'HOME')}${player(a,'AWAY')}</div>${matchupEvidence(row)}<div class="matchup-analysis"><strong>MATCHUP READ</strong><p>${esc(row.summary||'Comparison unavailable.')}</p><small>${esc(pick.basis||'Statistical comparison only; not a guarantee.')}</small></div></article>`;
 }
 function allMatchups(f){return (f.player_matchups||[]).map(row=>matchupCard(row)).join('')||'<div class="empty">Named-player matchup data is not available yet.</div>';}
 function recommendedMatchups(f){
