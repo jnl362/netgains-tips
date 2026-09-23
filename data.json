@@ -9,9 +9,9 @@
   "default_bookmaker": "Betcha",
   "round": 30,
   "round_label": "Finals Round 3",
-  "generated_at": "Wed 23 Sep 2026, 8:32 PM NZT",
-  "generated_at_iso": "2026-09-23T20:32:33.142265+12:00",
-  "engine_version": "1.68.1",
+  "generated_at": "Wed 23 Sep 2026, 8:43 PM NZT",
+  "generated_at_iso": "2026-09-23T20:43:30.757528+12:00",
+  "engine_version": "1.68.2",
   "fixtures": [
     {
       "status": "upcoming",
@@ -40,8 +40,8 @@
           "total": 45.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-23T08:19:08.528329+00:00",
-          "snapshot_id": "db11dfae18e7e0faaa2357dc",
+          "observed_at": "2026-09-23T08:42:16.935705+00:00",
+          "snapshot_id": "5cf07df39d832bf5bbc4a6aa",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/dolphins-vs-sydney-roosters/db4d5b9b-1589-4de0-9311-1af86bdb9923",
           "validation_issues": []
         },
@@ -55,8 +55,8 @@
           "total": 45.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-23T08:19:21.566798+00:00",
-          "snapshot_id": "198a94a70449fb36045b1235",
+          "observed_at": "2026-09-23T08:42:34.963173+00:00",
+          "snapshot_id": "8e8b44d6eb6b977931cc4e39",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/dolphins-vs-sydney-roosters/db4d5b9b-1589-4de0-9311-1af86bdb9923",
           "validation_issues": []
         },
@@ -70,7 +70,7 @@
           "total": 45.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-23T08:19:21.566798+00:00",
+          "observed_at": "2026-09-23T08:42:34.963173+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -93,8 +93,8 @@
           "total": 45.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-23T08:19:08.528329+00:00",
-          "snapshot_id": "db11dfae18e7e0faaa2357dc",
+          "observed_at": "2026-09-23T08:42:16.935705+00:00",
+          "snapshot_id": "5cf07df39d832bf5bbc4a6aa",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/dolphins-vs-sydney-roosters/db4d5b9b-1589-4de0-9311-1af86bdb9923",
           "validation_issues": [],
           "home_cover_probability": 0.4802074017493777,
@@ -116,8 +116,8 @@
           "total": 45.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-23T08:19:21.566798+00:00",
-          "snapshot_id": "198a94a70449fb36045b1235",
+          "observed_at": "2026-09-23T08:42:34.963173+00:00",
+          "snapshot_id": "8e8b44d6eb6b977931cc4e39",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/dolphins-vs-sydney-roosters/db4d5b9b-1589-4de0-9311-1af86bdb9923",
           "validation_issues": [],
           "home_cover_probability": 0.4802074017493777,
@@ -139,7 +139,7 @@
           "total": 45.5,
           "over_odds": 1.87,
           "under_odds": 1.94,
-          "observed_at": "2026-09-23T08:19:21.566798+00:00",
+          "observed_at": "2026-09-23T08:42:34.963173+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -197,7 +197,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 57,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-23T08:19:08.528329+00:00",
+      "bookmaker_observed_at": "2026-09-23T08:42:16.935705+00:00",
       "context_effects": {
         "venue_classification": "HOME",
         "home_advantage": 1.5,
@@ -5628,7 +5628,7 @@
           "expected_value": null,
           "verdict": "Not yet rateable",
           "reason": "Selection is stored, but no matching independent probability is available.",
-          "observed_at": "2026-09-23T08:19:08.513610+00:00",
+          "observed_at": "2026-09-23T08:42:16.918558+00:00",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/dolphins-vs-sydney-roosters/db4d5b9b-1589-4de0-9311-1af86bdb9923"
         }
       ],
@@ -5731,7 +5731,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "4eaf6a4e6ebd5983"
+      "summary_id": "69c972b3700f5d18"
     },
     {
       "status": "upcoming",
@@ -5760,8 +5760,8 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-23T08:19:15.257818+00:00",
-          "snapshot_id": "82c894d1d589f8af6aee7587",
+          "observed_at": "2026-09-23T08:42:28.045830+00:00",
+          "snapshot_id": "f530ac43470f8d2ead25b80e",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": []
         },
@@ -5775,8 +5775,8 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-23T08:19:21.956973+00:00",
-          "snapshot_id": "05f47e8e3964ef88c352c4a8",
+          "observed_at": "2026-09-23T08:42:36.159833+00:00",
+          "snapshot_id": "bf18dd3dd5e2bcac521946c5",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": []
         },
@@ -5790,7 +5790,7 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-23T08:19:21.956973+00:00",
+          "observed_at": "2026-09-23T08:42:36.159833+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -5813,8 +5813,8 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-23T08:19:15.257818+00:00",
-          "snapshot_id": "82c894d1d589f8af6aee7587",
+          "observed_at": "2026-09-23T08:42:28.045830+00:00",
+          "snapshot_id": "f530ac43470f8d2ead25b80e",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": [],
           "home_cover_probability": 0.4166713515989824,
@@ -5836,8 +5836,8 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-23T08:19:21.956973+00:00",
-          "snapshot_id": "05f47e8e3964ef88c352c4a8",
+          "observed_at": "2026-09-23T08:42:36.159833+00:00",
+          "snapshot_id": "bf18dd3dd5e2bcac521946c5",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": [],
           "home_cover_probability": 0.4166713515989824,
@@ -5859,7 +5859,7 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-23T08:19:21.956973+00:00",
+          "observed_at": "2026-09-23T08:42:36.159833+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -5917,7 +5917,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-23T08:19:15.257818+00:00",
+      "bookmaker_observed_at": "2026-09-23T08:42:28.045830+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -11430,7 +11430,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "8da03a0051e5ed87"
+      "summary_id": "ba8d0e2714a5ab4f"
     }
   ]
 }
