@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 30,
   "round_label": "Finals Round 3",
-  "generated_at": "Sat 26 Sep 2026, 5:57 PM NZT",
-  "generated_at_iso": "2026-09-26T17:57:25.692063+12:00",
+  "generated_at": "Sat 26 Sep 2026, 6:27 PM NZT",
+  "generated_at_iso": "2026-09-26T18:27:46.762158+12:00",
   "engine_version": "1.68.7",
   "fixtures": [
     {
@@ -40,8 +40,8 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-26T05:57:09.329204+00:00",
-          "snapshot_id": "d590fd6182d749c8937c46c6",
+          "observed_at": "2026-09-26T06:27:30.628638+00:00",
+          "snapshot_id": "782226dc0529f11137a82442",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": []
         },
@@ -55,8 +55,8 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-26T05:57:14.739410+00:00",
-          "snapshot_id": "62f8392f92ccedfb7b5fc680",
+          "observed_at": "2026-09-26T06:27:36.035258+00:00",
+          "snapshot_id": "b654fcc582a7e3a791f72742",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": []
         },
@@ -70,7 +70,7 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-26T05:57:14.739410+00:00",
+          "observed_at": "2026-09-26T06:27:36.035258+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -93,8 +93,8 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-26T05:57:09.329204+00:00",
-          "snapshot_id": "d590fd6182d749c8937c46c6",
+          "observed_at": "2026-09-26T06:27:30.628638+00:00",
+          "snapshot_id": "782226dc0529f11137a82442",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": [],
           "home_cover_probability": 0.4172200304630498,
@@ -116,8 +116,8 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-26T05:57:14.739410+00:00",
-          "snapshot_id": "62f8392f92ccedfb7b5fc680",
+          "observed_at": "2026-09-26T06:27:36.035258+00:00",
+          "snapshot_id": "b654fcc582a7e3a791f72742",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": [],
           "home_cover_probability": 0.4172200304630498,
@@ -139,7 +139,7 @@
           "total": 40.5,
           "over_odds": 1.8199999999999998,
           "under_odds": 1.92,
-          "observed_at": "2026-09-26T05:57:14.739410+00:00",
+          "observed_at": "2026-09-26T06:27:36.035258+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -197,7 +197,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-26T05:57:09.329204+00:00",
+      "bookmaker_observed_at": "2026-09-26T06:27:30.628638+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -4340,45 +4340,45 @@
           "home_role": "Reserve / Extended",
           "away_role": "Reserve / Extended",
           "home": {
-            "nrl_player_id": 100006259,
-            "player_name": "Billy Scott",
+            "nrl_player_id": 504830,
+            "player_name": "Freddy Lussick",
             "team": "Penrith Panthers",
             "position": "Interchange",
-            "jersey_number": 19,
+            "jersey_number": 21,
             "is_reserve": 1,
             "profile": {
-              "height_cm": null,
-              "weight_kg": null,
-              "date_of_birth": null,
-              "birthplace": null,
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/billy-scott/",
-              "captured_at": "2026-09-23 07:52:55"
+              "height_cm": 180.0,
+              "weight_kg": 84.0,
+              "date_of_birth": "28 August 2000",
+              "birthplace": "Sydney, NSW",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/freddy-lussick/",
+              "captured_at": "2026-09-23 07:53:34"
             },
             "stats": {
-              "appearances": 9.0,
-              "tries": 0.0,
-              "try_assists": 0.0,
+              "appearances": 20.0,
+              "tries": 4.0,
+              "try_assists": 1.0,
               "line_breaks": null,
-              "line_break_assists": 0.0,
+              "line_break_assists": 1.0,
               "tackle_breaks": null,
-              "avg_running_metres": 7.0,
-              "tackles": 114.0,
-              "total_running_metres": 68.0,
+              "avg_running_metres": 30.0,
+              "tackles": 689.0,
+              "total_running_metres": 602.0,
               "post_contact_metres": null,
               "avg_hit_ups": null,
-              "receipts": 265.0,
+              "receipts": 1882.0,
               "missed_tackles": null,
-              "offloads": 0.0,
-              "forced_drop_outs": 0.0,
-              "avg_kicking_metres": 1.7
+              "offloads": 4.0,
+              "forced_drop_outs": 3.0,
+              "avg_kicking_metres": 30.4
             },
             "indicators": {
-              "tries_per_game": 0.0,
+              "tries_per_game": 0.2,
               "line_breaks_per_game": null,
               "tackle_breaks_per_game": null,
-              "try_assists_per_game": 0.0,
-              "line_break_assists_per_game": 0.0,
-              "offloads_per_game": 0.0,
+              "try_assists_per_game": 0.05,
+              "line_break_assists_per_game": 0.05,
+              "offloads_per_game": 0.2,
               "post_contact_metres_per_game": null,
               "missed_tackles_per_game": null,
               "tackle_efficiency": 1.0
@@ -4433,7 +4433,7 @@
             {
               "category": "Physical",
               "label": "Height",
-              "home": null,
+              "home": 180.0,
               "away": 181.0,
               "edge": "even",
               "unit": "cm"
@@ -4441,412 +4441,8 @@
             {
               "category": "Physical",
               "label": "Weight",
-              "home": null,
-              "away": 96.0,
-              "edge": "even",
-              "unit": "kg"
-            },
-            {
-              "category": "Finishing",
-              "label": "Tries / game",
-              "home": 0.0,
-              "away": 0.0,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Evasion",
-              "label": "Line breaks / game",
-              "home": null,
-              "away": 0.0,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Evasion",
-              "label": "Tackle breaks / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Work rate",
-              "label": "Avg run metres",
-              "home": 7.0,
-              "away": 43.0,
-              "edge": "away",
-              "unit": "m"
-            },
-            {
-              "category": "Power",
-              "label": "Post-contact m / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": "m"
-            },
-            {
-              "category": "Creation",
-              "label": "Try assists / game",
-              "home": 0.0,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Creation",
-              "label": "LB assists / game",
-              "home": 0.0,
-              "away": 0.058823529411764705,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Creation",
-              "label": "Offloads / game",
-              "home": 0.0,
-              "away": 0.11764705882352941,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Defence",
-              "label": "Tackle efficiency",
-              "home": 1.0,
-              "away": 1.0,
-              "edge": "even",
-              "unit": "%"
-            },
-            {
-              "category": "Defence",
-              "label": "Missed tackles / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            }
-          ],
-          "one_on_one": {
-            "side": "away",
-            "player": "Thomas Cant",
-            "home_score": 0,
-            "away_score": 1.0,
-            "available_stats": 9,
-            "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
-          },
-          "summary": "Bench players are shown together for completeness; this is not claimed as a direct defensive matchup."
-        },
-        {
-          "kind": "reserve",
-          "home_role": "Reserve / Extended",
-          "away_role": "Reserve / Extended",
-          "home": {
-            "nrl_player_id": 100006263,
-            "player_name": "Luron Patea",
-            "team": "Penrith Panthers",
-            "position": "Reserve",
-            "jersey_number": 20,
-            "is_reserve": 1,
-            "profile": {
-              "height_cm": null,
-              "weight_kg": null,
-              "date_of_birth": null,
-              "birthplace": null,
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/luron-patea/",
-              "captured_at": "2026-09-23 07:54:24"
-            },
-            "stats": {
-              "appearances": 5.0,
-              "tries": 0.0,
-              "try_assists": null,
-              "line_breaks": null,
-              "line_break_assists": null,
-              "tackle_breaks": 10.0,
-              "avg_running_metres": 66.0,
-              "tackles": 73.0,
-              "total_running_metres": 330.0,
-              "post_contact_metres": 116.5,
-              "avg_hit_ups": 6.8,
-              "receipts": null,
-              "missed_tackles": null,
-              "offloads": 4.0,
-              "forced_drop_outs": null,
-              "avg_kicking_metres": null
-            },
-            "indicators": {
-              "tries_per_game": 0.0,
-              "line_breaks_per_game": null,
-              "tackle_breaks_per_game": 2.0,
-              "try_assists_per_game": null,
-              "line_break_assists_per_game": null,
-              "offloads_per_game": 0.8,
-              "post_contact_metres_per_game": 23.3,
-              "missed_tackles_per_game": null,
-              "tackle_efficiency": 1.0
-            }
-          },
-          "away": {
-            "nrl_player_id": 100006946,
-            "player_name": "Kyle McCarthy",
-            "team": "Newcastle Knights",
-            "position": "Reserve",
-            "jersey_number": 20,
-            "is_reserve": 1,
-            "profile": {
-              "height_cm": 193.0,
-              "weight_kg": 93.0,
-              "date_of_birth": "10 March 2004",
-              "birthplace": "Hong Kong",
-              "source_url": "https://www.newcastleknights.com.au/teams/nrl-premiership/newcastle-knights/kyle-mccarthy/",
-              "captured_at": "2026-09-23 07:58:33"
-            },
-            "stats": {
-              "appearances": 6.0,
-              "tries": 1.0,
-              "try_assists": null,
-              "line_breaks": null,
-              "line_break_assists": null,
-              "tackle_breaks": null,
-              "avg_running_metres": null,
-              "tackles": null,
-              "total_running_metres": null,
-              "post_contact_metres": null,
-              "avg_hit_ups": null,
-              "receipts": null,
-              "missed_tackles": null,
-              "offloads": null,
-              "forced_drop_outs": null,
-              "avg_kicking_metres": null
-            },
-            "indicators": {
-              "tries_per_game": 0.16666666666666666,
-              "line_breaks_per_game": null,
-              "tackle_breaks_per_game": null,
-              "try_assists_per_game": null,
-              "line_break_assists_per_game": null,
-              "offloads_per_game": null,
-              "post_contact_metres_per_game": null,
-              "missed_tackles_per_game": null,
-              "tackle_efficiency": null
-            }
-          },
-          "comparison": [
-            {
-              "category": "Physical",
-              "label": "Height",
-              "home": null,
-              "away": 193.0,
-              "edge": "even",
-              "unit": "cm"
-            },
-            {
-              "category": "Physical",
-              "label": "Weight",
-              "home": null,
-              "away": 93.0,
-              "edge": "even",
-              "unit": "kg"
-            },
-            {
-              "category": "Finishing",
-              "label": "Tries / game",
-              "home": 0.0,
-              "away": 0.16666666666666666,
-              "edge": "away",
-              "unit": ""
-            },
-            {
-              "category": "Evasion",
-              "label": "Line breaks / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Evasion",
-              "label": "Tackle breaks / game",
-              "home": 2.0,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Work rate",
-              "label": "Avg run metres",
-              "home": 66.0,
-              "away": null,
-              "edge": "even",
-              "unit": "m"
-            },
-            {
-              "category": "Power",
-              "label": "Post-contact m / game",
-              "home": 23.3,
-              "away": null,
-              "edge": "even",
-              "unit": "m"
-            },
-            {
-              "category": "Creation",
-              "label": "Try assists / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Creation",
-              "label": "LB assists / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Creation",
-              "label": "Offloads / game",
-              "home": 0.8,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Defence",
-              "label": "Tackle efficiency",
-              "home": 1.0,
-              "away": null,
-              "edge": "even",
-              "unit": "%"
-            },
-            {
-              "category": "Defence",
-              "label": "Missed tackles / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            }
-          ],
-          "one_on_one": {
-            "side": "away",
-            "player": "Kyle McCarthy",
-            "home_score": 0,
-            "away_score": 1.5,
-            "available_stats": 8,
-            "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
-          },
-          "summary": "Bench players are shown together for completeness; this is not claimed as a direct defensive matchup."
-        },
-        {
-          "kind": "reserve",
-          "home_role": "Reserve / Extended",
-          "away_role": "Reserve / Extended",
-          "home": {
-            "nrl_player_id": 504830,
-            "player_name": "Freddy Lussick",
-            "team": "Penrith Panthers",
-            "position": "Reserve",
-            "jersey_number": 21,
-            "is_reserve": 1,
-            "profile": {
-              "height_cm": 180.0,
-              "weight_kg": 84.0,
-              "date_of_birth": "28 August 2000",
-              "birthplace": "Sydney, NSW",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/freddy-lussick/",
-              "captured_at": "2026-09-23 07:53:34"
-            },
-            "stats": {
-              "appearances": 20.0,
-              "tries": 4.0,
-              "try_assists": 1.0,
-              "line_breaks": null,
-              "line_break_assists": 1.0,
-              "tackle_breaks": null,
-              "avg_running_metres": 30.0,
-              "tackles": 689.0,
-              "total_running_metres": 602.0,
-              "post_contact_metres": null,
-              "avg_hit_ups": null,
-              "receipts": 1882.0,
-              "missed_tackles": null,
-              "offloads": 4.0,
-              "forced_drop_outs": 3.0,
-              "avg_kicking_metres": 30.4
-            },
-            "indicators": {
-              "tries_per_game": 0.2,
-              "line_breaks_per_game": null,
-              "tackle_breaks_per_game": null,
-              "try_assists_per_game": 0.05,
-              "line_break_assists_per_game": 0.05,
-              "offloads_per_game": 0.2,
-              "post_contact_metres_per_game": null,
-              "missed_tackles_per_game": null,
-              "tackle_efficiency": 1.0
-            }
-          },
-          "away": {
-            "nrl_player_id": 100014185,
-            "player_name": "Elijah Salesa-Leaumoana",
-            "team": "Newcastle Knights",
-            "position": "Reserve",
-            "jersey_number": 21,
-            "is_reserve": 1,
-            "profile": {
-              "height_cm": 189.0,
-              "weight_kg": 100.0,
-              "date_of_birth": "01 May 2004",
-              "birthplace": "Motootua, Samoa",
-              "source_url": "https://www.newcastleknights.com.au/teams/nrl-premiership/newcastle-knights/elijah-salesa-leaumoana/",
-              "captured_at": "2026-09-23 07:58:27"
-            },
-            "stats": {
-              "appearances": 2.0,
-              "tries": 0.0,
-              "try_assists": null,
-              "line_breaks": 0.0,
-              "line_break_assists": 0.0,
-              "tackle_breaks": null,
-              "avg_running_metres": 31.0,
-              "tackles": 25.0,
-              "total_running_metres": 63.0,
-              "post_contact_metres": null,
-              "avg_hit_ups": null,
-              "receipts": null,
-              "missed_tackles": null,
-              "offloads": 1.0,
-              "forced_drop_outs": null,
-              "avg_kicking_metres": null
-            },
-            "indicators": {
-              "tries_per_game": 0.0,
-              "line_breaks_per_game": 0.0,
-              "tackle_breaks_per_game": null,
-              "try_assists_per_game": null,
-              "line_break_assists_per_game": 0.0,
-              "offloads_per_game": 0.5,
-              "post_contact_metres_per_game": null,
-              "missed_tackles_per_game": null,
-              "tackle_efficiency": 1.0
-            }
-          },
-          "comparison": [
-            {
-              "category": "Physical",
-              "label": "Height",
-              "home": 180.0,
-              "away": 189.0,
-              "edge": "away",
-              "unit": "cm"
-            },
-            {
-              "category": "Physical",
-              "label": "Weight",
               "home": 84.0,
-              "away": 100.0,
+              "away": 96.0,
               "edge": "away",
               "unit": "kg"
             },
@@ -4878,8 +4474,8 @@
               "category": "Work rate",
               "label": "Avg run metres",
               "home": 30.0,
-              "away": 31.0,
-              "edge": "even",
+              "away": 43.0,
+              "edge": "away",
               "unit": "m"
             },
             {
@@ -4902,7 +4498,7 @@
               "category": "Creation",
               "label": "LB assists / game",
               "home": 0.05,
-              "away": 0.0,
+              "away": 0.058823529411764705,
               "edge": "even",
               "unit": ""
             },
@@ -4910,8 +4506,8 @@
               "category": "Creation",
               "label": "Offloads / game",
               "home": 0.2,
-              "away": 0.5,
-              "edge": "away",
+              "away": 0.11764705882352941,
+              "edge": "even",
               "unit": ""
             },
             {
@@ -4933,9 +4529,9 @@
           ],
           "one_on_one": {
             "side": "away",
-            "player": "Elijah Salesa-Leaumoana",
+            "player": "Thomas Cant",
             "home_score": 1.5,
-            "away_score": 2.25,
+            "away_score": 1.75,
             "available_stats": 9,
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
@@ -4991,48 +4587,48 @@
             }
           },
           "away": {
-            "nrl_player_id": 100016039,
-            "player_name": "Toby Winter",
+            "nrl_player_id": 100006946,
+            "player_name": "Kyle McCarthy",
             "team": "Newcastle Knights",
             "position": "Reserve",
-            "jersey_number": 22,
+            "jersey_number": 20,
             "is_reserve": 1,
             "profile": {
-              "height_cm": 183.0,
-              "weight_kg": 88.0,
-              "date_of_birth": "02 August 2007",
-              "birthplace": "Newcastle, NSW",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/knights/toby-winter/",
-              "captured_at": "2026-09-23 07:55:09"
+              "height_cm": 193.0,
+              "weight_kg": 93.0,
+              "date_of_birth": "10 March 2004",
+              "birthplace": "Hong Kong",
+              "source_url": "https://www.newcastleknights.com.au/teams/nrl-premiership/newcastle-knights/kyle-mccarthy/",
+              "captured_at": "2026-09-23 07:58:33"
             },
             "stats": {
-              "appearances": 1.0,
-              "tries": 0.0,
-              "try_assists": 0.0,
-              "line_breaks": 0.0,
+              "appearances": 6.0,
+              "tries": 1.0,
+              "try_assists": null,
+              "line_breaks": null,
               "line_break_assists": null,
-              "tackle_breaks": 2.0,
-              "avg_running_metres": 69.0,
-              "tackles": 12.0,
-              "total_running_metres": 69.0,
+              "tackle_breaks": null,
+              "avg_running_metres": null,
+              "tackles": null,
+              "total_running_metres": null,
               "post_contact_metres": null,
               "avg_hit_ups": null,
-              "receipts": 8.0,
-              "missed_tackles": 0.0,
+              "receipts": null,
+              "missed_tackles": null,
               "offloads": null,
               "forced_drop_outs": null,
               "avg_kicking_metres": null
             },
             "indicators": {
-              "tries_per_game": 0.0,
-              "line_breaks_per_game": 0.0,
-              "tackle_breaks_per_game": 2.0,
-              "try_assists_per_game": 0.0,
+              "tries_per_game": 0.16666666666666666,
+              "line_breaks_per_game": null,
+              "tackle_breaks_per_game": null,
+              "try_assists_per_game": null,
               "line_break_assists_per_game": null,
               "offloads_per_game": null,
               "post_contact_metres_per_game": null,
-              "missed_tackles_per_game": 0.0,
-              "tackle_efficiency": 1.0
+              "missed_tackles_per_game": null,
+              "tackle_efficiency": null
             }
           },
           "comparison": [
@@ -5040,48 +4636,48 @@
               "category": "Physical",
               "label": "Height",
               "home": 184.0,
-              "away": 183.0,
-              "edge": "even",
+              "away": 193.0,
+              "edge": "away",
               "unit": "cm"
             },
             {
               "category": "Physical",
               "label": "Weight",
               "home": 93.0,
-              "away": 88.0,
-              "edge": "home",
+              "away": 93.0,
+              "edge": "even",
               "unit": "kg"
             },
             {
               "category": "Finishing",
               "label": "Tries / game",
               "home": 0.2,
-              "away": 0.0,
-              "edge": "home",
+              "away": 0.16666666666666666,
+              "edge": "even",
               "unit": ""
             },
             {
               "category": "Evasion",
               "label": "Line breaks / game",
               "home": 0.26666666666666666,
-              "away": 0.0,
-              "edge": "home",
+              "away": null,
+              "edge": "even",
               "unit": ""
             },
             {
               "category": "Evasion",
               "label": "Tackle breaks / game",
               "home": 2.4,
-              "away": 2.0,
-              "edge": "home",
+              "away": null,
+              "edge": "even",
               "unit": ""
             },
             {
               "category": "Work rate",
               "label": "Avg run metres",
               "home": 99.0,
-              "away": 69.0,
-              "edge": "home",
+              "away": null,
+              "edge": "even",
               "unit": "m"
             },
             {
@@ -5096,8 +4692,8 @@
               "category": "Creation",
               "label": "Try assists / game",
               "home": 0.2,
-              "away": 0.0,
-              "edge": "home",
+              "away": null,
+              "edge": "even",
               "unit": ""
             },
             {
@@ -5120,24 +4716,24 @@
               "category": "Defence",
               "label": "Tackle efficiency",
               "home": 0.9137254901960784,
-              "away": 1.0,
-              "edge": "away",
+              "away": null,
+              "edge": "even",
               "unit": "%"
             },
             {
               "category": "Defence",
               "label": "Missed tackles / game",
               "home": 1.4666666666666666,
-              "away": 0.0,
-              "edge": "away",
+              "away": null,
+              "edge": "even",
               "unit": ""
             }
           ],
           "one_on_one": {
-            "side": "home",
-            "player": "Izack Tago",
-            "home_score": 6.5,
-            "away_score": 2.5,
+            "side": "away",
+            "player": "Kyle McCarthy",
+            "home_score": 0,
+            "away_score": 0.75,
             "available_stats": 9,
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
@@ -5710,7 +5306,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "e017646756fb4450"
+      "summary_id": "50a65eeb3004a39e"
     },
     {
       "status": "completed",
