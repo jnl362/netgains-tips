@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 30,
   "round_label": "Finals Round 3",
-  "generated_at": "Sun 27 Sep 2026, 5:15 PM NZT",
-  "generated_at_iso": "2026-09-27T17:15:25.096658+13:00",
+  "generated_at": "Sun 27 Sep 2026, 5:45 PM NZT",
+  "generated_at_iso": "2026-09-27T17:45:51.028840+13:00",
   "engine_version": "1.68.7",
   "fixtures": [
     {
@@ -26,51 +26,51 @@
       "independent_away_win_probability": 0.2694362318723218,
       "home_fair_odds": 1.368805905284415,
       "away_fair_odds": 3.7114533299807713,
-      "home_conservative_fair_odds": 1.3415672536919758,
-      "away_conservative_fair_odds": 3.9276811204559916,
+      "home_conservative_fair_odds": 1.424916222758557,
+      "away_conservative_fair_odds": 3.353405086555646,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
-          "home_h2h": 1.28,
-          "away_h2h": 3.8,
-          "home_line": -10.5,
+          "home_h2h": 1.3599999999999999,
+          "away_h2h": 3.1,
+          "home_line": -7.5,
           "home_line_odds": 1.9,
-          "away_line": 10.5,
+          "away_line": 7.5,
           "away_line_odds": 1.9,
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T04:15:08.112652+00:00",
-          "snapshot_id": "9baba1f01a19cdc509a43d3d",
+          "observed_at": "2026-09-27T04:45:34.274177+00:00",
+          "snapshot_id": "8b53f1c1029fcc2d4ef9bfe2",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": []
         },
         "TAB NZ": {
-          "home_h2h": 1.28,
-          "away_h2h": 3.8,
-          "home_line": -10.5,
+          "home_h2h": 1.3599999999999999,
+          "away_h2h": 3.1,
+          "home_line": -7.5,
           "home_line_odds": 1.9,
-          "away_line": 10.5,
+          "away_line": 7.5,
           "away_line_odds": 1.9,
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T04:15:14.303612+00:00",
-          "snapshot_id": "7a0495ff4acd773c842c3748",
+          "observed_at": "2026-09-27T04:45:39.755740+00:00",
+          "snapshot_id": "8461ba203d1ca6d0f170c5c6",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": []
         },
         "Best Available": {
-          "home_h2h": 1.28,
-          "away_h2h": 3.8,
-          "home_line": -10.5,
+          "home_h2h": 1.3599999999999999,
+          "away_h2h": 3.1,
+          "home_line": -7.5,
           "home_line_odds": 1.9,
-          "away_line": 10.5,
+          "away_line": 7.5,
           "away_line_odds": 1.9,
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T04:15:14.303612+00:00",
+          "observed_at": "2026-09-27T04:45:39.755740+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -84,79 +84,79 @@
       },
       "bookmaker_views": {
         "Betcha": {
-          "home_h2h": 1.28,
-          "away_h2h": 3.8,
-          "home_line": -10.5,
+          "home_h2h": 1.3599999999999999,
+          "away_h2h": 3.1,
+          "home_line": -7.5,
           "home_line_odds": 1.9,
-          "away_line": 10.5,
+          "away_line": 7.5,
           "away_line_odds": 1.9,
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T04:15:08.112652+00:00",
-          "snapshot_id": "9baba1f01a19cdc509a43d3d",
+          "observed_at": "2026-09-27T04:45:34.274177+00:00",
+          "snapshot_id": "8b53f1c1029fcc2d4ef9bfe2",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": [],
-          "home_cover_probability": 0.4172200304630498,
-          "away_cover_probability": 0.5827799695369502,
+          "home_cover_probability": 0.5104844489450253,
+          "away_cover_probability": 0.4895155510549747,
           "over_probability": 0.5820326642372811,
           "under_probability": 0.41796733576271894,
-          "home_line_fair_odds": 2.3968168519861197,
-          "away_line_fair_odds": 1.7159134703866938,
+          "home_line_fair_odds": 1.958923532473153,
+          "away_line_fair_odds": 2.042836019907559,
           "over_fair_odds": 1.7181166306369422,
           "under_fair_odds": 2.3925314598452316
         },
         "TAB NZ": {
-          "home_h2h": 1.28,
-          "away_h2h": 3.8,
-          "home_line": -10.5,
+          "home_h2h": 1.3599999999999999,
+          "away_h2h": 3.1,
+          "home_line": -7.5,
           "home_line_odds": 1.9,
-          "away_line": 10.5,
+          "away_line": 7.5,
           "away_line_odds": 1.9,
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T04:15:14.303612+00:00",
-          "snapshot_id": "7a0495ff4acd773c842c3748",
+          "observed_at": "2026-09-27T04:45:39.755740+00:00",
+          "snapshot_id": "8461ba203d1ca6d0f170c5c6",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": [],
-          "home_cover_probability": 0.4172200304630498,
-          "away_cover_probability": 0.5827799695369502,
+          "home_cover_probability": 0.5104844489450253,
+          "away_cover_probability": 0.4895155510549747,
           "over_probability": 0.5820326642372811,
           "under_probability": 0.41796733576271894,
-          "home_line_fair_odds": 2.3968168519861197,
-          "away_line_fair_odds": 1.7159134703866938,
+          "home_line_fair_odds": 1.958923532473153,
+          "away_line_fair_odds": 2.042836019907559,
           "over_fair_odds": 1.7181166306369422,
           "under_fair_odds": 2.3925314598452316
         },
         "Best Available": {
-          "home_h2h": 1.28,
-          "away_h2h": 3.8,
-          "home_line": -10.5,
+          "home_h2h": 1.3599999999999999,
+          "away_h2h": 3.1,
+          "home_line": -7.5,
           "home_line_odds": 1.9,
-          "away_line": 10.5,
+          "away_line": 7.5,
           "away_line_odds": 1.9,
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T04:15:14.303612+00:00",
+          "observed_at": "2026-09-27T04:45:39.755740+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
-          "home_cover_probability": 0.4172200304630498,
-          "away_cover_probability": 0.5827799695369502,
+          "home_cover_probability": 0.5104844489450253,
+          "away_cover_probability": 0.4895155510549747,
           "over_probability": 0.5820326642372811,
           "under_probability": 0.41796733576271894,
-          "home_line_fair_odds": 2.3968168519861197,
-          "away_line_fair_odds": 1.7159134703866938,
+          "home_line_fair_odds": 1.958923532473153,
+          "away_line_fair_odds": 2.042836019907559,
           "over_fair_odds": 1.7181166306369422,
           "under_fair_odds": 2.3925314598452316
         }
       },
-      "home_bookmaker_odds": 1.28,
-      "away_bookmaker_odds": 3.8,
-      "home_h2h_ev": -0.06487837679657193,
-      "away_h2h_ev": 0.023857681114822782,
+      "home_bookmaker_odds": 1.3599999999999999,
+      "away_bookmaker_odds": 3.1,
+      "home_h2h_ev": -0.006433275346357736,
+      "away_h2h_ev": -0.1647476811958024,
       "winner": "Penrith Panthers",
       "home_points": 25.513684002902377,
       "away_points": 17.678567565999696,
@@ -175,16 +175,16 @@
         "Newcastle Knights 13+": 0.055366059311180396
       },
       "margin_remainder_probability": 0.025901715381193124,
-      "market_line": -10.5,
+      "market_line": -7.5,
       "home_line_odds": 1.9,
-      "away_line": 10.5,
+      "away_line": 7.5,
       "away_line_odds": 1.9,
-      "home_cover_probability": 0.4172200304630498,
-      "away_cover_probability": 0.5827799695369502,
-      "home_line_fair_odds": 2.3968168519861197,
-      "away_line_fair_odds": 1.7159134703866938,
-      "home_line_ev": -0.20728194212020545,
-      "away_line_ev": 0.10728194212020536,
+      "home_cover_probability": 0.5104844489450253,
+      "away_cover_probability": 0.4895155510549747,
+      "home_line_fair_odds": 1.958923532473153,
+      "away_line_fair_odds": 2.042836019907559,
+      "home_line_ev": -0.030079547004451923,
+      "away_line_ev": -0.06992045299554817,
       "market_total": 40.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
@@ -197,7 +197,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-27T04:15:08.112652+00:00",
+      "bookmaker_observed_at": "2026-09-27T04:45:34.274177+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -225,7 +225,7 @@
         "Stacked-advantage control: learned context +2.35, live availability +0.87, final downstream adjustment +3.21; same-direction evidence cap 4.19, opposing cap 5.00.",
         "Extreme-stack guardrail: Reduced same-direction cap is 4.19, but the contextual adjustment remained inside it.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 69/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 15.1% of the -1.7pp raw market disagreement, leaving -0.3pp of betting edge."
+        "Market-relative H2H calibration retains 19.0% of the +3.5pp raw market disagreement, leaving +0.7pp of betting edge."
       ],
       "ats_players": [
         {
@@ -234,13 +234,13 @@
           "team": "Penrith Panthers",
           "probability": 0.6302463483121271,
           "fair_odds": 1.5866811488525339,
-          "bookmaker_odds": 1.9,
+          "bookmaker_odds": 1.98,
           "bookmaker_prices": {
-            "Betcha": 1.9,
-            "TAB NZ": 1.9,
-            "Best Available": 1.9
+            "Betcha": 1.98,
+            "TAB NZ": 1.98,
+            "Best Available": 1.98
           },
-          "ev": 0.19746806179304155
+          "ev": 0.24788776965801174
         },
         {
           "player": "Brian To'o",
@@ -248,13 +248,13 @@
           "team": "Penrith Panthers",
           "probability": 0.4995736730612731,
           "fair_odds": 2.0017067630330256,
-          "bookmaker_odds": 2.05,
+          "bookmaker_odds": 2.15,
           "bookmaker_prices": {
-            "Betcha": 2.05,
-            "TAB NZ": 2.05,
-            "Best Available": 2.05
+            "Betcha": 2.15,
+            "TAB NZ": 2.15,
+            "Best Available": 2.15
           },
-          "ev": 0.024126029775609847
+          "ev": 0.07408339708173717
         },
         {
           "player": "Casey McLean",
@@ -262,13 +262,13 @@
           "team": "Penrith Panthers",
           "probability": 0.40571927545815545,
           "fair_odds": 2.464758419157575,
-          "bookmaker_odds": 2.5,
+          "bookmaker_odds": 2.6,
           "bookmaker_prices": {
-            "Betcha": 2.5,
-            "TAB NZ": 2.5,
-            "Best Available": 2.5
+            "Betcha": 2.6,
+            "TAB NZ": 2.6,
+            "Best Available": 2.6
           },
-          "ev": 0.014298188645388565
+          "ev": 0.05487011619120419
         },
         {
           "player": "Dylan Edwards",
@@ -276,13 +276,13 @@
           "team": "Penrith Panthers",
           "probability": 0.372655144735418,
           "fair_odds": 2.6834461139936536,
-          "bookmaker_odds": 2.95,
+          "bookmaker_odds": 3.1,
           "bookmaker_prices": {
-            "Betcha": 2.95,
-            "TAB NZ": 2.95,
-            "Best Available": 2.95
+            "Betcha": 3.1,
+            "TAB NZ": 3.1,
+            "Best Available": 3.1
           },
-          "ev": 0.09933267696948311
+          "ev": 0.1552309486797958
         },
         {
           "player": "Blaize Talagi",
@@ -290,13 +290,13 @@
           "team": "Penrith Panthers",
           "probability": 0.36642243528414575,
           "fair_odds": 2.7290905351484294,
-          "bookmaker_odds": 3.35,
+          "bookmaker_odds": 3.5,
           "bookmaker_prices": {
-            "Betcha": 3.35,
-            "TAB NZ": 3.35,
-            "Best Available": 3.35
+            "Betcha": 3.5,
+            "TAB NZ": 3.5,
+            "Best Available": 3.5
           },
-          "ev": 0.2275151582018884
+          "ev": 0.2824785234945102
         },
         {
           "player": "Dominic Young",
@@ -304,13 +304,13 @@
           "team": "Newcastle Knights",
           "probability": 0.2942588102999511,
           "fair_odds": 3.39836893577003,
-          "bookmaker_odds": 2.85,
+          "bookmaker_odds": 2.65,
           "bookmaker_prices": {
-            "Betcha": 2.85,
-            "TAB NZ": 2.85,
-            "Best Available": 2.85
+            "Betcha": 2.65,
+            "TAB NZ": 2.65,
+            "Best Available": 2.65
           },
-          "ev": -0.16136239064513935
+          "ev": -0.22021415270512956
         },
         {
           "player": "Liam Martin",
@@ -318,13 +318,27 @@
           "team": "Penrith Panthers",
           "probability": 0.27669781575042623,
           "fair_odds": 3.6140509359928314,
-          "bookmaker_odds": 3.35,
+          "bookmaker_odds": 3.5,
           "bookmaker_prices": {
-            "Betcha": 3.35,
-            "TAB NZ": 3.35,
-            "Best Available": 3.35
+            "Betcha": 3.5,
+            "TAB NZ": 3.5,
+            "Best Available": 3.5
           },
-          "ev": -0.07306231723607204
+          "ev": -0.031557644873508206
+        },
+        {
+          "player": "Nathan Cleary",
+          "nrl_player_id": 504120,
+          "team": "Penrith Panthers",
+          "probability": 0.27411170744958274,
+          "fair_odds": 3.6481477179661495,
+          "bookmaker_odds": 4.8,
+          "bookmaker_prices": {
+            "Betcha": 4.8,
+            "TAB NZ": 4.8,
+            "Best Available": 4.8
+          },
+          "ev": 0.31573619575799716
         },
         {
           "player": "Greg Marzhew",
@@ -332,41 +346,13 @@
           "team": "Newcastle Knights",
           "probability": 0.2722185151396081,
           "fair_odds": 3.6735194132079774,
-          "bookmaker_odds": 2.85,
+          "bookmaker_odds": 2.65,
           "bookmaker_prices": {
-            "Betcha": 2.85,
-            "TAB NZ": 2.85,
-            "Best Available": 2.85
+            "Betcha": 2.65,
+            "TAB NZ": 2.65,
+            "Best Available": 2.65
           },
-          "ev": -0.2241772318521169
-        },
-        {
-          "player": "Isaiah Papali'i",
-          "nrl_player_id": 505976,
-          "team": "Penrith Panthers",
-          "probability": 0.2647079903919231,
-          "fair_odds": 3.77774769291782,
-          "bookmaker_odds": 4.4,
-          "bookmaker_prices": {
-            "Betcha": 4.4,
-            "TAB NZ": 4.4,
-            "Best Available": 4.4
-          },
-          "ev": 0.16471515772446188
-        },
-        {
-          "player": "Nathan Cleary",
-          "nrl_player_id": 504120,
-          "team": "Penrith Panthers",
-          "probability": 0.26040015230404234,
-          "fair_odds": 3.8402435296289816,
-          "bookmaker_odds": 4.1,
-          "bookmaker_prices": {
-            "Betcha": 4.1,
-            "TAB NZ": 4.1,
-            "Best Available": 4.1
-          },
-          "ev": 0.06764062444657348
+          "ev": -0.2786209348800386
         },
         {
           "player": "Kalyn Ponga",
@@ -374,13 +360,13 @@
           "team": "Newcastle Knights",
           "probability": 0.21984974481403277,
           "fair_odds": 4.548561113163371,
-          "bookmaker_odds": 4.6,
+          "bookmaker_odds": 4.2,
           "bookmaker_prices": {
-            "Betcha": 4.6,
-            "TAB NZ": 4.6,
-            "Best Available": 4.6
+            "Betcha": 4.2,
+            "TAB NZ": 4.2,
+            "Best Available": 4.2
           },
-          "ev": 0.011308826144550643
+          "ev": -0.07663107178106232
         },
         {
           "player": "Bradman Best",
@@ -388,13 +374,27 @@
           "team": "Newcastle Knights",
           "probability": 0.20802249908703072,
           "fair_odds": 4.807172322170922,
-          "bookmaker_odds": 3.15,
+          "bookmaker_odds": 2.9,
           "bookmaker_prices": {
-            "Betcha": 3.15,
-            "TAB NZ": 3.15,
-            "Best Available": 3.15
+            "Betcha": 2.9,
+            "TAB NZ": 2.9,
+            "Best Available": 2.9
           },
-          "ev": -0.3447291278758533
+          "ev": -0.39673475264761093
+        },
+        {
+          "player": "Scott Sorensen",
+          "nrl_player_id": 500852,
+          "team": "Penrith Panthers",
+          "probability": 0.20144010196648754,
+          "fair_odds": 4.964254834255219,
+          "bookmaker_odds": 9.5,
+          "bookmaker_prices": {
+            "Betcha": 9.5,
+            "TAB NZ": 9.5,
+            "Best Available": 9.5
+          },
+          "ev": 0.9136809686816316
         },
         {
           "player": "Fletcher Sharpe",
@@ -402,13 +402,27 @@
           "team": "Newcastle Knights",
           "probability": 0.1842751180667585,
           "fair_odds": 5.426668616420171,
-          "bookmaker_odds": 3.45,
+          "bookmaker_odds": 3.2,
           "bookmaker_prices": {
-            "Betcha": 3.45,
-            "TAB NZ": 3.45,
-            "Best Available": 3.45
+            "Betcha": 3.2,
+            "TAB NZ": 3.2,
+            "Best Available": 3.2
           },
-          "ev": -0.3642508426696831
+          "ev": -0.41031962218637275
+        },
+        {
+          "player": "Isaiah Papali'i",
+          "nrl_player_id": 505976,
+          "team": "Penrith Panthers",
+          "probability": 0.17968486740995657,
+          "fair_odds": 5.565298928142174,
+          "bookmaker_odds": 5.25,
+          "bookmaker_prices": {
+            "Betcha": 5.25,
+            "TAB NZ": 5.25,
+            "Best Available": 5.25
+          },
+          "ev": -0.05665444609772807
         },
         {
           "player": "Dane Gagai",
@@ -416,13 +430,13 @@
           "team": "Newcastle Knights",
           "probability": 0.16400867881676123,
           "fair_odds": 6.097238312109388,
-          "bookmaker_odds": 4.6,
+          "bookmaker_odds": 4.25,
           "bookmaker_prices": {
-            "Betcha": 4.6,
-            "TAB NZ": 4.6,
-            "Best Available": 4.6
+            "Betcha": 4.25,
+            "TAB NZ": 4.25,
+            "Best Available": 4.25
           },
-          "ev": -0.24556007744289843
+          "ev": -0.3029631150287647
         },
         {
           "player": "Jack Cole",
@@ -430,27 +444,27 @@
           "team": "Penrith Panthers",
           "probability": 0.14972272007133774,
           "fair_odds": 6.679013041731637,
-          "bookmaker_odds": 5.4,
+          "bookmaker_odds": 5.75,
           "bookmaker_prices": {
-            "Betcha": 5.4,
-            "TAB NZ": 5.4,
-            "Best Available": 5.4
+            "Betcha": 5.75,
+            "TAB NZ": 5.75,
+            "Best Available": 5.75
           },
-          "ev": -0.19149731161477612
+          "ev": -0.13909435958980798
         },
         {
           "player": "Liam Henry",
           "nrl_player_id": 100007929,
           "team": "Penrith Panthers",
-          "probability": 0.12421746913161578,
-          "fair_odds": 8.050397476223257,
-          "bookmaker_odds": 8.5,
+          "probability": 0.12408786952625515,
+          "fair_odds": 8.058805456309448,
+          "bookmaker_odds": 7.75,
           "bookmaker_prices": {
-            "Betcha": 8.5,
-            "TAB NZ": 8.5,
-            "Best Available": 8.5
+            "Betcha": 7.75,
+            "TAB NZ": 7.75,
+            "Best Available": 7.75
           },
-          "ev": 0.05584848761873418
+          "ev": -0.03831901117152259
         },
         {
           "player": "Isaah Yeo",
@@ -458,13 +472,13 @@
           "team": "Penrith Panthers",
           "probability": 0.12105791423846293,
           "fair_odds": 8.260509081877743,
-          "bookmaker_odds": 8.0,
+          "bookmaker_odds": 8.25,
           "bookmaker_prices": {
-            "Betcha": 8.0,
-            "TAB NZ": 8.0,
-            "Best Available": 8.0
+            "Betcha": 8.25,
+            "TAB NZ": 8.25,
+            "Best Available": 8.25
           },
-          "ev": -0.03153668609229654
+          "ev": -0.001272207532680758
         },
         {
           "player": "Dylan Lucas",
@@ -472,27 +486,27 @@
           "team": "Newcastle Knights",
           "probability": 0.11173098740530375,
           "fair_odds": 8.95006858189218,
-          "bookmaker_odds": 6.4,
+          "bookmaker_odds": 5.8,
           "bookmaker_prices": {
-            "Betcha": 6.4,
-            "TAB NZ": 6.4,
-            "Best Available": 6.4
+            "Betcha": 5.8,
+            "TAB NZ": 5.8,
+            "Best Available": 5.8
           },
-          "ev": -0.28492168060605594
+          "ev": -0.35196027304923827
         },
         {
           "player": "Lindsay Smith",
           "nrl_player_id": 505555,
           "team": "Penrith Panthers",
-          "probability": 0.11168540402075375,
-          "fair_odds": 8.953721471197586,
-          "bookmaker_odds": 7.0,
+          "probability": 0.11159248413653769,
+          "fair_odds": 8.96117698013122,
+          "bookmaker_odds": 8.5,
           "bookmaker_prices": {
-            "Betcha": 7.0,
-            "TAB NZ": 7.0,
-            "Best Available": 7.0
+            "Betcha": 8.5,
+            "TAB NZ": 8.5,
+            "Best Available": 8.5
           },
-          "ev": -0.2182021718547238
+          "ev": -0.05146388483942965
         },
         {
           "player": "Francis Manuleleua",
@@ -500,27 +514,13 @@
           "team": "Newcastle Knights",
           "probability": 0.10928859702178599,
           "fair_odds": 9.150085436641266,
-          "bookmaker_odds": 6.25,
+          "bookmaker_odds": 5.75,
           "bookmaker_prices": {
-            "Betcha": 6.25,
-            "TAB NZ": 6.25,
-            "Best Available": 6.25
+            "Betcha": 5.75,
+            "TAB NZ": 5.75,
+            "Best Available": 5.75
           },
-          "ev": -0.31694626861383757
-        },
-        {
-          "player": "Scott Sorensen",
-          "nrl_player_id": 500852,
-          "team": "Penrith Panthers",
-          "probability": 0.1071675833474625,
-          "fair_odds": 9.331179903140718,
-          "bookmaker_odds": 10.5,
-          "bookmaker_prices": {
-            "Betcha": 10.5,
-            "TAB NZ": 10.5,
-            "Best Available": 10.5
-          },
-          "ev": 0.1252596251483562
+          "ev": -0.3715905671247306
         },
         {
           "player": "Jermaine McEwen",
@@ -528,13 +528,27 @@
           "team": "Newcastle Knights",
           "probability": 0.10703194690770707,
           "fair_odds": 9.343004858748326,
-          "bookmaker_odds": 6.25,
+          "bookmaker_odds": 5.75,
           "bookmaker_prices": {
-            "Betcha": 6.25,
-            "TAB NZ": 6.25,
-            "Best Available": 6.25
+            "Betcha": 5.75,
+            "TAB NZ": 5.75,
+            "Best Available": 5.75
           },
-          "ev": -0.33105033182683086
+          "ev": -0.38456630528068436
+        },
+        {
+          "player": "Jack Cogger",
+          "nrl_player_id": 502695,
+          "team": "Penrith Panthers",
+          "probability": 0.10471045794635304,
+          "fair_odds": 9.550144461332946,
+          "bookmaker_odds": 6.5,
+          "bookmaker_prices": {
+            "Betcha": 6.5,
+            "TAB NZ": 6.5,
+            "Best Available": 6.5
+          },
+          "ev": -0.31938202334870525
         },
         {
           "player": "Billy Phillips",
@@ -542,27 +556,13 @@
           "team": "Penrith Panthers",
           "probability": 0.09887247145358637,
           "fair_odds": 10.11403867323605,
-          "bookmaker_odds": 6.0,
+          "bookmaker_odds": 6.25,
           "bookmaker_prices": {
-            "Betcha": 6.0,
-            "TAB NZ": 6.0,
-            "Best Available": 6.0
+            "Betcha": 6.25,
+            "TAB NZ": 6.25,
+            "Best Available": 6.25
           },
-          "ev": -0.4067651712784818
-        },
-        {
-          "player": "Jack Cogger",
-          "nrl_player_id": 502695,
-          "team": "Penrith Panthers",
-          "probability": 0.08889472703766077,
-          "fair_odds": 11.249261157822602,
-          "bookmaker_odds": 7.0,
-          "bookmaker_prices": {
-            "Betcha": 7.0,
-            "TAB NZ": 7.0,
-            "Best Available": 7.0
-          },
-          "ev": -0.3777369107363746
+          "ev": -0.38204705341508516
         },
         {
           "player": "Moses Leota",
@@ -570,13 +570,13 @@
           "team": "Penrith Panthers",
           "probability": 0.08787972716991302,
           "fair_odds": 11.379188718537186,
-          "bookmaker_odds": 8.0,
+          "bookmaker_odds": 8.5,
           "bookmaker_prices": {
-            "Betcha": 8.0,
-            "TAB NZ": 8.0,
-            "Best Available": 8.0
+            "Betcha": 8.5,
+            "TAB NZ": 8.5,
+            "Best Available": 8.5
           },
-          "ev": -0.29696218264069585
+          "ev": -0.25302231905573935
         },
         {
           "player": "Mitch Kenny",
@@ -584,13 +584,13 @@
           "team": "Penrith Panthers",
           "probability": 0.08608488881738137,
           "fair_odds": 11.61644062898633,
-          "bookmaker_odds": 6.2,
+          "bookmaker_odds": 6.5,
           "bookmaker_prices": {
-            "Betcha": 6.2,
-            "TAB NZ": 6.2,
-            "Best Available": 6.2
+            "Betcha": 6.5,
+            "TAB NZ": 6.5,
+            "Best Available": 6.5
           },
-          "ev": -0.46627368933223545
+          "ev": -0.4404482226870211
         },
         {
           "player": "Mat Croker",
@@ -598,13 +598,13 @@
           "team": "Newcastle Knights",
           "probability": 0.08403365948419196,
           "fair_odds": 11.899993480447149,
-          "bookmaker_odds": 12.5,
+          "bookmaker_odds": 11.5,
           "bookmaker_prices": {
-            "Betcha": 12.5,
-            "TAB NZ": 12.5,
-            "Best Available": 12.5
+            "Betcha": 11.5,
+            "TAB NZ": 11.5,
+            "Best Available": 11.5
           },
-          "ev": 0.05042074355239956
+          "ev": -0.0336129159317925
         },
         {
           "player": "Tyson Frizell",
@@ -612,13 +612,13 @@
           "team": "Newcastle Knights",
           "probability": 0.08174833665739725,
           "fair_odds": 12.232664796483194,
-          "bookmaker_odds": 12.5,
+          "bookmaker_odds": 11.5,
           "bookmaker_prices": {
-            "Betcha": 12.5,
-            "TAB NZ": 12.5,
-            "Best Available": 12.5
+            "Betcha": 11.5,
+            "TAB NZ": 11.5,
+            "Best Available": 11.5
           },
-          "ev": 0.021854208217465754
+          "ev": -0.05989412843993158
         },
         {
           "player": "Sandon Smith",
@@ -626,13 +626,13 @@
           "team": "Newcastle Knights",
           "probability": 0.08069769108154881,
           "fair_odds": 12.391928276974529,
-          "bookmaker_odds": 9.5,
+          "bookmaker_odds": 8.75,
           "bookmaker_prices": {
-            "Betcha": 9.5,
-            "TAB NZ": 9.5,
-            "Best Available": 9.5
+            "Betcha": 8.75,
+            "TAB NZ": 8.75,
+            "Best Available": 8.75
           },
-          "ev": -0.23337193472528628
+          "ev": -0.2938952030364479
         },
         {
           "player": "Phoenix Crossland",
@@ -640,13 +640,13 @@
           "team": "Newcastle Knights",
           "probability": 0.07733988320924215,
           "fair_odds": 12.929939359935569,
-          "bookmaker_odds": 11.5,
+          "bookmaker_odds": 10.5,
           "bookmaker_prices": {
-            "Betcha": 11.5,
-            "TAB NZ": 11.5,
-            "Best Available": 11.5
+            "Betcha": 10.5,
+            "TAB NZ": 10.5,
+            "Best Available": 10.5
           },
-          "ev": -0.11059134309371532
+          "ev": -0.18793122630295744
         },
         {
           "player": "Harrison Graham",
@@ -654,13 +654,13 @@
           "team": "Newcastle Knights",
           "probability": 0.073452639063346,
           "fair_odds": 13.614214720557474,
-          "bookmaker_odds": 14.0,
+          "bookmaker_odds": 12.5,
           "bookmaker_prices": {
-            "Betcha": 14.0,
-            "TAB NZ": 14.0,
-            "Best Available": 14.0
+            "Betcha": 12.5,
+            "TAB NZ": 12.5,
+            "Best Available": 12.5
           },
-          "ev": 0.02833694688684396
+          "ev": -0.08184201170817507
         },
         {
           "player": "Lachlan Crouch",
@@ -668,13 +668,13 @@
           "team": "Newcastle Knights",
           "probability": 0.046425012100640733,
           "fair_odds": 21.540112856237652,
-          "bookmaker_odds": 21.0,
+          "bookmaker_odds": 19.0,
           "bookmaker_prices": {
-            "Betcha": 21.0,
-            "TAB NZ": 21.0,
-            "Best Available": 21.0
+            "Betcha": 19.0,
+            "TAB NZ": 19.0,
+            "Best Available": 19.0
           },
-          "ev": -0.02507474588654457
+          "ev": -0.11792477008782609
         },
         {
           "player": "Cody Hopwood",
@@ -682,13 +682,13 @@
           "team": "Newcastle Knights",
           "probability": 0.04355717068181024,
           "fair_odds": 22.95833233304124,
-          "bookmaker_odds": 12.5,
+          "bookmaker_odds": 11.5,
           "bookmaker_prices": {
-            "Betcha": 12.5,
-            "TAB NZ": 12.5,
-            "Best Available": 12.5
+            "Betcha": 11.5,
+            "TAB NZ": 11.5,
+            "Best Available": 11.5
           },
-          "ev": -0.45553536647737203
+          "ev": -0.4990925371591822
         },
         {
           "player": "Pasami Saulo",
@@ -696,13 +696,13 @@
           "team": "Newcastle Knights",
           "probability": 0.03567791970862238,
           "fair_odds": 28.028540009251923,
-          "bookmaker_odds": 16.0,
+          "bookmaker_odds": 15.0,
           "bookmaker_prices": {
-            "Betcha": 16.0,
-            "TAB NZ": 16.0,
-            "Best Available": 16.0
+            "Betcha": 15.0,
+            "TAB NZ": 15.0,
+            "Best Available": 15.0
           },
-          "ev": -0.42915328466204195
+          "ev": -0.4648312043706643
         }
       ],
       "player_matchups": [
@@ -1923,45 +1923,45 @@
           "home_role": "Halfback",
           "away_role": "Halfback",
           "home": {
-            "nrl_player_id": 504120,
-            "player_name": "Nathan Cleary",
+            "nrl_player_id": 502695,
+            "player_name": "Jack Cogger",
             "team": "Penrith Panthers",
             "position": "Halfback",
-            "jersey_number": 7,
+            "jersey_number": 14,
             "is_reserve": 0,
             "profile": {
-              "height_cm": 182.0,
-              "weight_kg": 92.0,
-              "date_of_birth": "14 November 1997",
-              "birthplace": "Sydney, NSW",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/nathan-cleary/",
-              "captured_at": "2026-09-23 07:54:35"
+              "height_cm": 176.0,
+              "weight_kg": 90.0,
+              "date_of_birth": "05 August 1997",
+              "birthplace": "Greenacre, NSW",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/jack-cogger/",
+              "captured_at": "2026-09-23 07:53:47"
             },
             "stats": {
-              "appearances": 22.0,
-              "tries": 6.0,
-              "try_assists": 29.0,
+              "appearances": 16.0,
+              "tries": 1.0,
+              "try_assists": 6.0,
               "line_breaks": null,
-              "line_break_assists": 25.0,
+              "line_break_assists": 1.0,
               "tackle_breaks": null,
-              "avg_running_metres": 99.0,
-              "tackles": 445.0,
-              "total_running_metres": 2190.0,
+              "avg_running_metres": 35.0,
+              "tackles": 283.0,
+              "total_running_metres": 568.0,
               "post_contact_metres": null,
               "avg_hit_ups": null,
-              "receipts": 1390.0,
+              "receipts": 634.0,
               "missed_tackles": null,
-              "offloads": 24.0,
-              "forced_drop_outs": 6.0,
-              "avg_kicking_metres": 513.7
+              "offloads": 3.0,
+              "forced_drop_outs": 3.0,
+              "avg_kicking_metres": 85.6
             },
             "indicators": {
-              "tries_per_game": 0.2727272727272727,
+              "tries_per_game": 0.0625,
               "line_breaks_per_game": null,
               "tackle_breaks_per_game": null,
-              "try_assists_per_game": 1.3181818181818181,
-              "line_break_assists_per_game": 1.1363636363636365,
-              "offloads_per_game": 1.0909090909090908,
+              "try_assists_per_game": 0.375,
+              "line_break_assists_per_game": 0.0625,
+              "offloads_per_game": 0.1875,
               "post_contact_metres_per_game": null,
               "missed_tackles_per_game": null,
               "tackle_efficiency": 1.0
@@ -2016,15 +2016,15 @@
             {
               "category": "Physical",
               "label": "Height",
-              "home": 182.0,
+              "home": 176.0,
               "away": 176.0,
-              "edge": "home",
+              "edge": "even",
               "unit": "cm"
             },
             {
               "category": "Physical",
               "label": "Weight",
-              "home": 92.0,
+              "home": 90.0,
               "away": 82.0,
               "edge": "home",
               "unit": "kg"
@@ -2032,9 +2032,9 @@
             {
               "category": "Finishing",
               "label": "Tries / game",
-              "home": 0.2727272727272727,
+              "home": 0.0625,
               "away": 0.043478260869565216,
-              "edge": "home",
+              "edge": "even",
               "unit": ""
             },
             {
@@ -2056,9 +2056,9 @@
             {
               "category": "Work rate",
               "label": "Avg run metres",
-              "home": 99.0,
+              "home": 35.0,
               "away": 71.0,
-              "edge": "home",
+              "edge": "away",
               "unit": "m"
             },
             {
@@ -2072,25 +2072,25 @@
             {
               "category": "Creation",
               "label": "Try assists / game",
-              "home": 1.3181818181818181,
+              "home": 0.375,
               "away": 0.6956521739130435,
-              "edge": "home",
+              "edge": "away",
               "unit": ""
             },
             {
               "category": "Creation",
               "label": "LB assists / game",
-              "home": 1.1363636363636365,
+              "home": 0.0625,
               "away": 0.8260869565217391,
-              "edge": "home",
+              "edge": "away",
               "unit": ""
             },
             {
               "category": "Creation",
               "label": "Offloads / game",
-              "home": 1.0909090909090908,
+              "home": 0.1875,
               "away": 0.4782608695652174,
-              "edge": "home",
+              "edge": "away",
               "unit": ""
             },
             {
@@ -2111,59 +2111,59 @@
             }
           ],
           "one_on_one": {
-            "side": "home",
-            "player": "Nathan Cleary",
-            "home_score": 6.25,
-            "away_score": 0,
+            "side": "away",
+            "player": "Sandon Smith",
+            "home_score": 0.75,
+            "away_score": 3.25,
             "available_stats": 8,
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
-          "summary": "The physical mismatch favours Nathan Cleary. Recent finishing and yardage output favour Nathan Cleary. Nathan Cleary offers more secondary creation around the ball. Overall statistical 1v1 pick: Nathan Cleary on the weighted available-stat score; Sandon Smith's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
+          "summary": "The body-size comparison leans toward Jack Cogger. Recent finishing and yardage output favour Sandon Smith. Sandon Smith offers more secondary creation around the ball. Overall statistical 1v1 pick: Sandon Smith on the weighted available-stat score; Jack Cogger's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
         },
         {
           "kind": "starter",
           "home_role": "Left Edge",
           "away_role": "Right Edge",
           "home": {
-            "nrl_player_id": 505976,
-            "player_name": "Isaiah Papali'i",
+            "nrl_player_id": 504125,
+            "player_name": "Liam Martin",
             "team": "Penrith Panthers",
             "position": "2nd Row",
-            "jersey_number": 11,
+            "jersey_number": 12,
             "is_reserve": 0,
             "profile": {
-              "height_cm": 182.0,
-              "weight_kg": 111.0,
-              "date_of_birth": "20 September 1998",
-              "birthplace": "Auckland, NZ",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/isaiah-papalii/",
-              "captured_at": "2026-09-23 07:53:43"
+              "height_cm": 183.0,
+              "weight_kg": 103.0,
+              "date_of_birth": "05 March 1997",
+              "birthplace": "Temora, NSW",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/liam-martin/",
+              "captured_at": "2026-09-23 07:54:19"
             },
             "stats": {
-              "appearances": 24.0,
-              "tries": 3.0,
+              "appearances": 17.0,
+              "tries": 8.0,
               "try_assists": null,
-              "line_breaks": 3.0,
-              "line_break_assists": 7.0,
+              "line_breaks": 7.0,
+              "line_break_assists": 3.0,
               "tackle_breaks": null,
-              "avg_running_metres": 123.0,
-              "tackles": 802.0,
-              "total_running_metres": 2953.0,
+              "avg_running_metres": 87.0,
+              "tackles": 492.0,
+              "total_running_metres": 1480.0,
               "post_contact_metres": null,
               "avg_hit_ups": null,
               "receipts": null,
               "missed_tackles": null,
-              "offloads": 40.0,
+              "offloads": 19.0,
               "forced_drop_outs": null,
               "avg_kicking_metres": null
             },
             "indicators": {
-              "tries_per_game": 0.125,
-              "line_breaks_per_game": 0.125,
+              "tries_per_game": 0.47058823529411764,
+              "line_breaks_per_game": 0.4117647058823529,
               "tackle_breaks_per_game": null,
               "try_assists_per_game": null,
-              "line_break_assists_per_game": 0.2916666666666667,
-              "offloads_per_game": 1.6666666666666667,
+              "line_break_assists_per_game": 0.17647058823529413,
+              "offloads_per_game": 1.1176470588235294,
               "post_contact_metres_per_game": null,
               "missed_tackles_per_game": null,
               "tackle_efficiency": 1.0
@@ -2218,7 +2218,7 @@
             {
               "category": "Physical",
               "label": "Height",
-              "home": 182.0,
+              "home": 183.0,
               "away": 186.0,
               "edge": "away",
               "unit": "cm"
@@ -2226,23 +2226,23 @@
             {
               "category": "Physical",
               "label": "Weight",
-              "home": 111.0,
+              "home": 103.0,
               "away": 110.0,
-              "edge": "even",
+              "edge": "away",
               "unit": "kg"
             },
             {
               "category": "Finishing",
               "label": "Tries / game",
-              "home": 0.125,
+              "home": 0.47058823529411764,
               "away": 0.15384615384615385,
-              "edge": "even",
+              "edge": "home",
               "unit": ""
             },
             {
               "category": "Evasion",
               "label": "Line breaks / game",
-              "home": 0.125,
+              "home": 0.4117647058823529,
               "away": 0.6153846153846154,
               "edge": "away",
               "unit": ""
@@ -2258,9 +2258,9 @@
             {
               "category": "Work rate",
               "label": "Avg run metres",
-              "home": 123.0,
+              "home": 87.0,
               "away": 79.0,
-              "edge": "home",
+              "edge": "even",
               "unit": "m"
             },
             {
@@ -2282,7 +2282,7 @@
             {
               "category": "Creation",
               "label": "LB assists / game",
-              "home": 0.2916666666666667,
+              "home": 0.17647058823529413,
               "away": 0.23076923076923078,
               "edge": "even",
               "unit": ""
@@ -2290,7 +2290,7 @@
             {
               "category": "Creation",
               "label": "Offloads / game",
-              "home": 1.6666666666666667,
+              "home": 1.1176470588235294,
               "away": 0.8461538461538461,
               "edge": "home",
               "unit": ""
@@ -2315,57 +2315,57 @@
           "one_on_one": {
             "side": "away",
             "player": "Francis Manuleleua",
-            "home_score": 1.75,
-            "away_score": 2.0,
+            "home_score": 2.25,
+            "away_score": 2.75,
             "available_stats": 8,
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
-          "summary": "Francis Manuleleua has the stronger physical profile. Tackle- and line-break rates point to more evasiveness from Francis Manuleleua. Isaiah Papali'i has supplied more of the measurable attacking threat. Isaiah Papali'i adds the stronger creation profile through assists and offloads. Overall statistical 1v1 pick: Francis Manuleleua on the weighted available-stat score; Isaiah Papali'i's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
+          "summary": "The physical mismatch favours Francis Manuleleua. Francis Manuleleua has the better movement/agility indicators from tackle and line breaks. Recent finishing and yardage output favour Liam Martin. Liam Martin offers more secondary creation around the ball. Overall statistical 1v1 pick: Francis Manuleleua on the weighted available-stat score; Liam Martin's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
         },
         {
           "kind": "starter",
           "home_role": "Right Edge",
           "away_role": "Left Edge",
           "home": {
-            "nrl_player_id": 504125,
-            "player_name": "Liam Martin",
+            "nrl_player_id": 500852,
+            "player_name": "Scott Sorensen",
             "team": "Penrith Panthers",
             "position": "2nd Row",
-            "jersey_number": 12,
+            "jersey_number": 15,
             "is_reserve": 0,
             "profile": {
               "height_cm": 183.0,
-              "weight_kg": 103.0,
-              "date_of_birth": "05 March 1997",
-              "birthplace": "Temora, NSW",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/liam-martin/",
-              "captured_at": "2026-09-23 07:54:19"
+              "weight_kg": 100.0,
+              "date_of_birth": "16 March 1993",
+              "birthplace": "Sydney, NSW",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/scott-sorensen/",
+              "captured_at": "2026-09-23 07:54:52"
             },
             "stats": {
-              "appearances": 17.0,
-              "tries": 8.0,
+              "appearances": 24.0,
+              "tries": 0.0,
               "try_assists": null,
-              "line_breaks": 7.0,
-              "line_break_assists": 3.0,
+              "line_breaks": 2.0,
+              "line_break_assists": 0.0,
               "tackle_breaks": null,
-              "avg_running_metres": 87.0,
-              "tackles": 492.0,
-              "total_running_metres": 1480.0,
+              "avg_running_metres": 75.0,
+              "tackles": 571.0,
+              "total_running_metres": 1800.0,
               "post_contact_metres": null,
               "avg_hit_ups": null,
               "receipts": null,
               "missed_tackles": null,
-              "offloads": 19.0,
+              "offloads": 5.0,
               "forced_drop_outs": null,
               "avg_kicking_metres": null
             },
             "indicators": {
-              "tries_per_game": 0.47058823529411764,
-              "line_breaks_per_game": 0.4117647058823529,
+              "tries_per_game": 0.0,
+              "line_breaks_per_game": 0.08333333333333333,
               "tackle_breaks_per_game": null,
               "try_assists_per_game": null,
-              "line_break_assists_per_game": 0.17647058823529413,
-              "offloads_per_game": 1.1176470588235294,
+              "line_break_assists_per_game": 0.0,
+              "offloads_per_game": 0.20833333333333334,
               "post_contact_metres_per_game": null,
               "missed_tackles_per_game": null,
               "tackle_efficiency": 1.0
@@ -2428,25 +2428,25 @@
             {
               "category": "Physical",
               "label": "Weight",
-              "home": 103.0,
+              "home": 100.0,
               "away": 106.0,
-              "edge": "even",
+              "edge": "away",
               "unit": "kg"
             },
             {
               "category": "Finishing",
               "label": "Tries / game",
-              "home": 0.47058823529411764,
+              "home": 0.0,
               "away": 0.18181818181818182,
-              "edge": "home",
+              "edge": "away",
               "unit": ""
             },
             {
               "category": "Evasion",
               "label": "Line breaks / game",
-              "home": 0.4117647058823529,
+              "home": 0.08333333333333333,
               "away": 0.22727272727272727,
-              "edge": "home",
+              "edge": "away",
               "unit": ""
             },
             {
@@ -2460,7 +2460,7 @@
             {
               "category": "Work rate",
               "label": "Avg run metres",
-              "home": 87.0,
+              "home": 75.0,
               "away": 105.0,
               "edge": "away",
               "unit": "m"
@@ -2484,17 +2484,17 @@
             {
               "category": "Creation",
               "label": "LB assists / game",
-              "home": 0.17647058823529413,
+              "home": 0.0,
               "away": 0.09090909090909091,
-              "edge": "home",
+              "edge": "away",
               "unit": ""
             },
             {
               "category": "Creation",
               "label": "Offloads / game",
-              "home": 1.1176470588235294,
+              "home": 0.20833333333333334,
               "away": 0.22727272727272727,
-              "edge": "home",
+              "edge": "even",
               "unit": ""
             },
             {
@@ -2515,14 +2515,14 @@
             }
           ],
           "one_on_one": {
-            "side": "home",
-            "player": "Liam Martin",
-            "home_score": 4.25,
-            "away_score": 1.0,
+            "side": "away",
+            "player": "Jermaine McEwen",
+            "home_score": 0,
+            "away_score": 5.25,
             "available_stats": 8,
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
-          "summary": "Liam Martin has the better movement/agility indicators from tackle and line breaks. Liam Martin offers more secondary creation around the ball. Overall statistical 1v1 pick: Liam Martin on the weighted available-stat score; Jermaine McEwen's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
+          "summary": "Jermaine McEwen has the stronger physical profile. Tackle- and line-break rates point to more evasiveness from Jermaine McEwen. Jermaine McEwen has supplied more of the measurable attacking threat. Jermaine McEwen adds the stronger creation profile through assists and offloads. Overall statistical 1v1 pick: Jermaine McEwen on the weighted available-stat score; Scott Sorensen's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
         },
         {
           "kind": "starter",
@@ -2731,46 +2731,46 @@
           "home_role": "Right Prop",
           "away_role": "Left Prop",
           "home": {
-            "nrl_player_id": 505555,
-            "player_name": "Lindsay Smith",
+            "nrl_player_id": 100007929,
+            "player_name": "Liam Henry",
             "team": "Penrith Panthers",
             "position": "Prop",
-            "jersey_number": 10,
+            "jersey_number": 16,
             "is_reserve": 0,
             "profile": {
-              "height_cm": 194.0,
-              "weight_kg": 106.0,
-              "date_of_birth": "13 January 2000",
-              "birthplace": "Sydney, NSW",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/lindsay-smith/",
-              "captured_at": "2026-09-23 07:54:21"
+              "height_cm": 190.0,
+              "weight_kg": 105.0,
+              "date_of_birth": "24 July 2001",
+              "birthplace": "Orange, NSW",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/liam-henry/",
+              "captured_at": "2026-09-23 07:54:18"
             },
             "stats": {
-              "appearances": 25.0,
-              "tries": 3.0,
+              "appearances": 16.0,
+              "tries": 4.0,
               "try_assists": null,
               "line_breaks": null,
               "line_break_assists": null,
-              "tackle_breaks": 30.0,
-              "avg_running_metres": 97.0,
-              "tackles": 772.0,
-              "total_running_metres": 2432.0,
-              "post_contact_metres": 733.1,
-              "avg_hit_ups": 9.3,
+              "tackle_breaks": 20.0,
+              "avg_running_metres": 117.0,
+              "tackles": 538.0,
+              "total_running_metres": 1878.0,
+              "post_contact_metres": 617.0,
+              "avg_hit_ups": 11.1,
               "receipts": null,
               "missed_tackles": null,
-              "offloads": 20.0,
+              "offloads": 0.0,
               "forced_drop_outs": null,
               "avg_kicking_metres": null
             },
             "indicators": {
-              "tries_per_game": 0.12,
+              "tries_per_game": 0.25,
               "line_breaks_per_game": null,
-              "tackle_breaks_per_game": 1.2,
+              "tackle_breaks_per_game": 1.25,
               "try_assists_per_game": null,
               "line_break_assists_per_game": null,
-              "offloads_per_game": 0.8,
-              "post_contact_metres_per_game": 29.324,
+              "offloads_per_game": 0.0,
+              "post_contact_metres_per_game": 38.5625,
               "missed_tackles_per_game": null,
               "tackle_efficiency": 1.0
             }
@@ -2824,7 +2824,7 @@
             {
               "category": "Physical",
               "label": "Height",
-              "home": 194.0,
+              "home": 190.0,
               "away": 183.0,
               "edge": "home",
               "unit": "cm"
@@ -2832,7 +2832,7 @@
             {
               "category": "Physical",
               "label": "Weight",
-              "home": 106.0,
+              "home": 105.0,
               "away": 108.0,
               "edge": "even",
               "unit": "kg"
@@ -2840,9 +2840,9 @@
             {
               "category": "Finishing",
               "label": "Tries / game",
-              "home": 0.12,
+              "home": 0.25,
               "away": 0.08695652173913043,
-              "edge": "even",
+              "edge": "home",
               "unit": ""
             },
             {
@@ -2856,7 +2856,7 @@
             {
               "category": "Evasion",
               "label": "Tackle breaks / game",
-              "home": 1.2,
+              "home": 1.25,
               "away": null,
               "edge": "even",
               "unit": ""
@@ -2864,15 +2864,15 @@
             {
               "category": "Work rate",
               "label": "Avg run metres",
-              "home": 97.0,
+              "home": 117.0,
               "away": 88.0,
-              "edge": "even",
+              "edge": "home",
               "unit": "m"
             },
             {
               "category": "Power",
               "label": "Post-contact m / game",
-              "home": 29.324,
+              "home": 38.5625,
               "away": null,
               "edge": "even",
               "unit": "m"
@@ -2896,9 +2896,9 @@
             {
               "category": "Creation",
               "label": "Offloads / game",
-              "home": 0.8,
+              "home": 0.0,
               "away": 0.6956521739130435,
-              "edge": "even",
+              "edge": "away",
               "unit": ""
             },
             {
@@ -2920,13 +2920,13 @@
           ],
           "one_on_one": {
             "side": "home",
-            "player": "Lindsay Smith",
-            "home_score": 0.75,
-            "away_score": 0,
+            "player": "Liam Henry",
+            "home_score": 3.25,
+            "away_score": 0.75,
             "available_stats": 10,
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
-          "summary": "Lindsay Smith has the stronger physical profile. Overall statistical 1v1 pick: Lindsay Smith on the weighted available-stat score; Tyson Frizell's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
+          "summary": "Liam Henry has the stronger physical profile. Liam Henry has supplied more of the measurable attacking threat. Tyson Frizell adds the stronger creation profile through assists and offloads. Overall statistical 1v1 pick: Liam Henry on the weighted available-stat score; Tyson Frizell's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
         },
         {
           "kind": "starter",
@@ -3334,48 +3334,48 @@
         },
         {
           "kind": "starter_unmapped",
-          "home_role": "Other 14",
+          "home_role": "Other 7",
           "away_role": "Other 14",
           "home": {
-            "nrl_player_id": 502695,
-            "player_name": "Jack Cogger",
+            "nrl_player_id": 504120,
+            "player_name": "Nathan Cleary",
             "team": "Penrith Panthers",
             "position": "Interchange",
-            "jersey_number": 14,
+            "jersey_number": 7,
             "is_reserve": 0,
             "profile": {
-              "height_cm": 176.0,
-              "weight_kg": 90.0,
-              "date_of_birth": "05 August 1997",
-              "birthplace": "Greenacre, NSW",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/jack-cogger/",
-              "captured_at": "2026-09-23 07:53:47"
+              "height_cm": 182.0,
+              "weight_kg": 92.0,
+              "date_of_birth": "14 November 1997",
+              "birthplace": "Sydney, NSW",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/nathan-cleary/",
+              "captured_at": "2026-09-23 07:54:35"
             },
             "stats": {
-              "appearances": 16.0,
-              "tries": 1.0,
-              "try_assists": 6.0,
+              "appearances": 22.0,
+              "tries": 6.0,
+              "try_assists": 29.0,
               "line_breaks": null,
-              "line_break_assists": 1.0,
+              "line_break_assists": 25.0,
               "tackle_breaks": null,
-              "avg_running_metres": 35.0,
-              "tackles": 283.0,
-              "total_running_metres": 568.0,
+              "avg_running_metres": 99.0,
+              "tackles": 445.0,
+              "total_running_metres": 2190.0,
               "post_contact_metres": null,
               "avg_hit_ups": null,
-              "receipts": 634.0,
+              "receipts": 1390.0,
               "missed_tackles": null,
-              "offloads": 3.0,
-              "forced_drop_outs": 3.0,
-              "avg_kicking_metres": 85.6
+              "offloads": 24.0,
+              "forced_drop_outs": 6.0,
+              "avg_kicking_metres": 513.7
             },
             "indicators": {
-              "tries_per_game": 0.0625,
+              "tries_per_game": 0.2727272727272727,
               "line_breaks_per_game": null,
               "tackle_breaks_per_game": null,
-              "try_assists_per_game": 0.375,
-              "line_break_assists_per_game": 0.0625,
-              "offloads_per_game": 0.1875,
+              "try_assists_per_game": 1.3181818181818181,
+              "line_break_assists_per_game": 1.1363636363636365,
+              "offloads_per_game": 1.0909090909090908,
               "post_contact_metres_per_game": null,
               "missed_tackles_per_game": null,
               "tackle_efficiency": 1.0
@@ -3430,15 +3430,15 @@
             {
               "category": "Physical",
               "label": "Height",
-              "home": 176.0,
+              "home": 182.0,
               "away": 177.0,
-              "edge": "even",
+              "edge": "home",
               "unit": "cm"
             },
             {
               "category": "Physical",
               "label": "Weight",
-              "home": 90.0,
+              "home": 92.0,
               "away": 83.0,
               "edge": "home",
               "unit": "kg"
@@ -3446,9 +3446,9 @@
             {
               "category": "Finishing",
               "label": "Tries / game",
-              "home": 0.0625,
+              "home": 0.2727272727272727,
               "away": 0.1111111111111111,
-              "edge": "even",
+              "edge": "home",
               "unit": ""
             },
             {
@@ -3470,9 +3470,9 @@
             {
               "category": "Work rate",
               "label": "Avg run metres",
-              "home": 35.0,
+              "home": 99.0,
               "away": 35.0,
-              "edge": "even",
+              "edge": "home",
               "unit": "m"
             },
             {
@@ -3486,7 +3486,7 @@
             {
               "category": "Creation",
               "label": "Try assists / game",
-              "home": 0.375,
+              "home": 1.3181818181818181,
               "away": 0.1111111111111111,
               "edge": "home",
               "unit": ""
@@ -3494,17 +3494,17 @@
             {
               "category": "Creation",
               "label": "LB assists / game",
-              "home": 0.0625,
+              "home": 1.1363636363636365,
               "away": 0.1111111111111111,
-              "edge": "even",
+              "edge": "home",
               "unit": ""
             },
             {
               "category": "Creation",
               "label": "Offloads / game",
-              "home": 0.1875,
+              "home": 1.0909090909090908,
               "away": 0.3333333333333333,
-              "edge": "even",
+              "edge": "home",
               "unit": ""
             },
             {
@@ -3526,59 +3526,59 @@
           ],
           "one_on_one": {
             "side": "home",
-            "player": "Jack Cogger",
-            "home_score": 1.5,
+            "player": "Nathan Cleary",
+            "home_score": 6.25,
             "away_score": 0,
             "available_stats": 8,
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
-          "summary": "Jack Cogger owns the clearer height/weight edge. The link-play numbers tilt toward Jack Cogger. Overall statistical 1v1 pick: Jack Cogger on the weighted available-stat score; Harrison Graham's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
+          "summary": "Nathan Cleary holds the size advantage. Nathan Cleary carries the stronger current attacking output. The link-play numbers tilt toward Nathan Cleary. Overall statistical 1v1 pick: Nathan Cleary on the weighted available-stat score; Harrison Graham's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
         },
         {
           "kind": "starter_unmapped",
-          "home_role": "Other 15",
+          "home_role": "Other 10",
           "away_role": "Other 15",
           "home": {
-            "nrl_player_id": 500852,
-            "player_name": "Scott Sorensen",
+            "nrl_player_id": 505555,
+            "player_name": "Lindsay Smith",
             "team": "Penrith Panthers",
             "position": "Interchange",
-            "jersey_number": 15,
+            "jersey_number": 10,
             "is_reserve": 0,
             "profile": {
-              "height_cm": 183.0,
-              "weight_kg": 100.0,
-              "date_of_birth": "16 March 1993",
+              "height_cm": 194.0,
+              "weight_kg": 106.0,
+              "date_of_birth": "13 January 2000",
               "birthplace": "Sydney, NSW",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/scott-sorensen/",
-              "captured_at": "2026-09-23 07:54:52"
+              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/lindsay-smith/",
+              "captured_at": "2026-09-23 07:54:21"
             },
             "stats": {
-              "appearances": 24.0,
-              "tries": 0.0,
+              "appearances": 25.0,
+              "tries": 3.0,
               "try_assists": null,
-              "line_breaks": 2.0,
-              "line_break_assists": 0.0,
-              "tackle_breaks": null,
-              "avg_running_metres": 75.0,
-              "tackles": 571.0,
-              "total_running_metres": 1800.0,
-              "post_contact_metres": null,
-              "avg_hit_ups": null,
+              "line_breaks": null,
+              "line_break_assists": null,
+              "tackle_breaks": 30.0,
+              "avg_running_metres": 97.0,
+              "tackles": 772.0,
+              "total_running_metres": 2432.0,
+              "post_contact_metres": 733.1,
+              "avg_hit_ups": 9.3,
               "receipts": null,
               "missed_tackles": null,
-              "offloads": 5.0,
+              "offloads": 20.0,
               "forced_drop_outs": null,
               "avg_kicking_metres": null
             },
             "indicators": {
-              "tries_per_game": 0.0,
-              "line_breaks_per_game": 0.08333333333333333,
-              "tackle_breaks_per_game": null,
+              "tries_per_game": 0.12,
+              "line_breaks_per_game": null,
+              "tackle_breaks_per_game": 1.2,
               "try_assists_per_game": null,
-              "line_break_assists_per_game": 0.0,
-              "offloads_per_game": 0.20833333333333334,
-              "post_contact_metres_per_game": null,
+              "line_break_assists_per_game": null,
+              "offloads_per_game": 0.8,
+              "post_contact_metres_per_game": 29.324,
               "missed_tackles_per_game": null,
               "tackle_efficiency": 1.0
             }
@@ -3632,31 +3632,31 @@
             {
               "category": "Physical",
               "label": "Height",
-              "home": 183.0,
+              "home": 194.0,
               "away": 191.0,
-              "edge": "away",
+              "edge": "home",
               "unit": "cm"
             },
             {
               "category": "Physical",
               "label": "Weight",
-              "home": 100.0,
+              "home": 106.0,
               "away": 106.0,
-              "edge": "away",
+              "edge": "even",
               "unit": "kg"
             },
             {
               "category": "Finishing",
               "label": "Tries / game",
-              "home": 0.0,
+              "home": 0.12,
               "away": 0.0,
-              "edge": "even",
+              "edge": "home",
               "unit": ""
             },
             {
               "category": "Evasion",
               "label": "Line breaks / game",
-              "home": 0.08333333333333333,
+              "home": null,
               "away": null,
               "edge": "even",
               "unit": ""
@@ -3664,23 +3664,23 @@
             {
               "category": "Evasion",
               "label": "Tackle breaks / game",
-              "home": null,
+              "home": 1.2,
               "away": 0.6,
-              "edge": "even",
+              "edge": "home",
               "unit": ""
             },
             {
               "category": "Work rate",
               "label": "Avg run metres",
-              "home": 75.0,
+              "home": 97.0,
               "away": 69.0,
-              "edge": "even",
+              "edge": "home",
               "unit": "m"
             },
             {
               "category": "Power",
               "label": "Post-contact m / game",
-              "home": null,
+              "home": 29.324,
               "away": 28.889999999999997,
               "edge": "even",
               "unit": "m"
@@ -3696,7 +3696,7 @@
             {
               "category": "Creation",
               "label": "LB assists / game",
-              "home": 0.0,
+              "home": null,
               "away": null,
               "edge": "even",
               "unit": ""
@@ -3704,9 +3704,9 @@
             {
               "category": "Creation",
               "label": "Offloads / game",
-              "home": 0.20833333333333334,
+              "home": 0.8,
               "away": 0.1,
-              "edge": "even",
+              "edge": "home",
               "unit": ""
             },
             {
@@ -3727,60 +3727,60 @@
             }
           ],
           "one_on_one": {
-            "side": "away",
-            "player": "Lachlan Crouch",
-            "home_score": 0,
-            "away_score": 1.5,
-            "available_stats": 10,
+            "side": "home",
+            "player": "Lindsay Smith",
+            "home_score": 5.25,
+            "away_score": 0,
+            "available_stats": 8,
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
-          "summary": "Lachlan Crouch holds the size advantage. Overall statistical 1v1 pick: Lachlan Crouch on the weighted available-stat score; Scott Sorensen's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
+          "summary": "Lindsay Smith owns the clearer height/weight edge. Lindsay Smith is producing the sharper open-field indicators. Lindsay Smith carries the stronger current attacking output. The link-play numbers tilt toward Lindsay Smith. Overall statistical 1v1 pick: Lindsay Smith on the weighted available-stat score; Lachlan Crouch's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
         },
         {
           "kind": "starter_unmapped",
-          "home_role": "Other 16",
+          "home_role": "Other 11",
           "away_role": "Other 16",
           "home": {
-            "nrl_player_id": 100007929,
-            "player_name": "Liam Henry",
+            "nrl_player_id": 505976,
+            "player_name": "Isaiah Papali'i",
             "team": "Penrith Panthers",
             "position": "Interchange",
-            "jersey_number": 16,
+            "jersey_number": 11,
             "is_reserve": 0,
             "profile": {
-              "height_cm": 190.0,
-              "weight_kg": 105.0,
-              "date_of_birth": "24 July 2001",
-              "birthplace": "Orange, NSW",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/liam-henry/",
-              "captured_at": "2026-09-23 07:54:18"
+              "height_cm": 182.0,
+              "weight_kg": 111.0,
+              "date_of_birth": "20 September 1998",
+              "birthplace": "Auckland, NZ",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/isaiah-papalii/",
+              "captured_at": "2026-09-23 07:53:43"
             },
             "stats": {
-              "appearances": 16.0,
-              "tries": 4.0,
+              "appearances": 24.0,
+              "tries": 3.0,
               "try_assists": null,
-              "line_breaks": null,
-              "line_break_assists": null,
-              "tackle_breaks": 20.0,
-              "avg_running_metres": 117.0,
-              "tackles": 538.0,
-              "total_running_metres": 1878.0,
-              "post_contact_metres": 617.0,
-              "avg_hit_ups": 11.1,
+              "line_breaks": 3.0,
+              "line_break_assists": 7.0,
+              "tackle_breaks": null,
+              "avg_running_metres": 123.0,
+              "tackles": 802.0,
+              "total_running_metres": 2953.0,
+              "post_contact_metres": null,
+              "avg_hit_ups": null,
               "receipts": null,
               "missed_tackles": null,
-              "offloads": 0.0,
+              "offloads": 40.0,
               "forced_drop_outs": null,
               "avg_kicking_metres": null
             },
             "indicators": {
-              "tries_per_game": 0.25,
-              "line_breaks_per_game": null,
-              "tackle_breaks_per_game": 1.25,
+              "tries_per_game": 0.125,
+              "line_breaks_per_game": 0.125,
+              "tackle_breaks_per_game": null,
               "try_assists_per_game": null,
-              "line_break_assists_per_game": null,
-              "offloads_per_game": 0.0,
-              "post_contact_metres_per_game": 38.5625,
+              "line_break_assists_per_game": 0.2916666666666667,
+              "offloads_per_game": 1.6666666666666667,
+              "post_contact_metres_per_game": null,
               "missed_tackles_per_game": null,
               "tackle_efficiency": 1.0
             }
@@ -3834,23 +3834,23 @@
             {
               "category": "Physical",
               "label": "Height",
-              "home": 190.0,
+              "home": 182.0,
               "away": 190.0,
-              "edge": "even",
+              "edge": "away",
               "unit": "cm"
             },
             {
               "category": "Physical",
               "label": "Weight",
-              "home": 105.0,
+              "home": 111.0,
               "away": 111.0,
-              "edge": "away",
+              "edge": "even",
               "unit": "kg"
             },
             {
               "category": "Finishing",
               "label": "Tries / game",
-              "home": 0.25,
+              "home": 0.125,
               "away": 0.0,
               "edge": "home",
               "unit": ""
@@ -3858,7 +3858,7 @@
             {
               "category": "Evasion",
               "label": "Line breaks / game",
-              "home": null,
+              "home": 0.125,
               "away": null,
               "edge": "even",
               "unit": ""
@@ -3866,15 +3866,15 @@
             {
               "category": "Evasion",
               "label": "Tackle breaks / game",
-              "home": 1.25,
+              "home": null,
               "away": 0.5,
-              "edge": "home",
+              "edge": "even",
               "unit": ""
             },
             {
               "category": "Work rate",
               "label": "Avg run metres",
-              "home": 117.0,
+              "home": 123.0,
               "away": 49.0,
               "edge": "home",
               "unit": "m"
@@ -3882,9 +3882,9 @@
             {
               "category": "Power",
               "label": "Post-contact m / game",
-              "home": 38.5625,
+              "home": null,
               "away": 15.65,
-              "edge": "home",
+              "edge": "even",
               "unit": "m"
             },
             {
@@ -3898,7 +3898,7 @@
             {
               "category": "Creation",
               "label": "LB assists / game",
-              "home": null,
+              "home": 0.2916666666666667,
               "away": null,
               "edge": "even",
               "unit": ""
@@ -3906,9 +3906,9 @@
             {
               "category": "Creation",
               "label": "Offloads / game",
-              "home": 0.0,
+              "home": 1.6666666666666667,
               "away": 0.125,
-              "edge": "even",
+              "edge": "home",
               "unit": ""
             },
             {
@@ -3930,13 +3930,13 @@
           ],
           "one_on_one": {
             "side": "home",
-            "player": "Liam Henry",
-            "home_score": 4.75,
+            "player": "Isaiah Papali'i",
+            "home_score": 3.25,
             "away_score": 0.75,
-            "available_stats": 8,
+            "available_stats": 10,
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
-          "summary": "Pasami Saulo has the stronger physical profile. Tackle- and line-break rates point to more evasiveness from Liam Henry. Liam Henry has supplied more of the measurable attacking threat. Overall statistical 1v1 pick: Liam Henry on the weighted available-stat score; Pasami Saulo's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
+          "summary": "Pasami Saulo has the stronger physical profile. Isaiah Papali'i has supplied more of the measurable attacking threat. Isaiah Papali'i adds the stronger creation profile through assists and offloads. Overall statistical 1v1 pick: Isaiah Papali'i on the weighted available-stat score; Pasami Saulo's advantages above are category-specific. Speed and agility are statistical indicators, not measured testing data."
         },
         {
           "kind": "starter_unmapped",
@@ -4536,208 +4536,6 @@
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
           "summary": "Bench players are shown together for completeness; this is not claimed as a direct defensive matchup."
-        },
-        {
-          "kind": "reserve",
-          "home_role": "Reserve / Extended",
-          "away_role": "Reserve / Extended",
-          "home": {
-            "nrl_player_id": 509467,
-            "player_name": "Izack Tago",
-            "team": "Penrith Panthers",
-            "position": "Reserve",
-            "jersey_number": 22,
-            "is_reserve": 1,
-            "profile": {
-              "height_cm": 184.0,
-              "weight_kg": 93.0,
-              "date_of_birth": "05 April 2002",
-              "birthplace": "Sydney, NSW",
-              "source_url": "https://www.nrl.com/players/nrl-premiership/panthers/izack-tago/",
-              "captured_at": "2026-09-23 07:53:45"
-            },
-            "stats": {
-              "appearances": 15.0,
-              "tries": 3.0,
-              "try_assists": 3.0,
-              "line_breaks": 4.0,
-              "line_break_assists": null,
-              "tackle_breaks": 36.0,
-              "avg_running_metres": 99.0,
-              "tackles": 233.0,
-              "total_running_metres": 1493.0,
-              "post_contact_metres": null,
-              "avg_hit_ups": null,
-              "receipts": 184.0,
-              "missed_tackles": 22.0,
-              "offloads": null,
-              "forced_drop_outs": null,
-              "avg_kicking_metres": null
-            },
-            "indicators": {
-              "tries_per_game": 0.2,
-              "line_breaks_per_game": 0.26666666666666666,
-              "tackle_breaks_per_game": 2.4,
-              "try_assists_per_game": 0.2,
-              "line_break_assists_per_game": null,
-              "offloads_per_game": null,
-              "post_contact_metres_per_game": null,
-              "missed_tackles_per_game": 1.4666666666666666,
-              "tackle_efficiency": 0.9137254901960784
-            }
-          },
-          "away": {
-            "nrl_player_id": 100006946,
-            "player_name": "Kyle McCarthy",
-            "team": "Newcastle Knights",
-            "position": "Reserve",
-            "jersey_number": 20,
-            "is_reserve": 1,
-            "profile": {
-              "height_cm": 193.0,
-              "weight_kg": 93.0,
-              "date_of_birth": "10 March 2004",
-              "birthplace": "Hong Kong",
-              "source_url": "https://www.newcastleknights.com.au/teams/nrl-premiership/newcastle-knights/kyle-mccarthy/",
-              "captured_at": "2026-09-23 07:58:33"
-            },
-            "stats": {
-              "appearances": 6.0,
-              "tries": 1.0,
-              "try_assists": null,
-              "line_breaks": null,
-              "line_break_assists": null,
-              "tackle_breaks": null,
-              "avg_running_metres": null,
-              "tackles": null,
-              "total_running_metres": null,
-              "post_contact_metres": null,
-              "avg_hit_ups": null,
-              "receipts": null,
-              "missed_tackles": null,
-              "offloads": null,
-              "forced_drop_outs": null,
-              "avg_kicking_metres": null
-            },
-            "indicators": {
-              "tries_per_game": 0.16666666666666666,
-              "line_breaks_per_game": null,
-              "tackle_breaks_per_game": null,
-              "try_assists_per_game": null,
-              "line_break_assists_per_game": null,
-              "offloads_per_game": null,
-              "post_contact_metres_per_game": null,
-              "missed_tackles_per_game": null,
-              "tackle_efficiency": null
-            }
-          },
-          "comparison": [
-            {
-              "category": "Physical",
-              "label": "Height",
-              "home": 184.0,
-              "away": 193.0,
-              "edge": "away",
-              "unit": "cm"
-            },
-            {
-              "category": "Physical",
-              "label": "Weight",
-              "home": 93.0,
-              "away": 93.0,
-              "edge": "even",
-              "unit": "kg"
-            },
-            {
-              "category": "Finishing",
-              "label": "Tries / game",
-              "home": 0.2,
-              "away": 0.16666666666666666,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Evasion",
-              "label": "Line breaks / game",
-              "home": 0.26666666666666666,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Evasion",
-              "label": "Tackle breaks / game",
-              "home": 2.4,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Work rate",
-              "label": "Avg run metres",
-              "home": 99.0,
-              "away": null,
-              "edge": "even",
-              "unit": "m"
-            },
-            {
-              "category": "Power",
-              "label": "Post-contact m / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": "m"
-            },
-            {
-              "category": "Creation",
-              "label": "Try assists / game",
-              "home": 0.2,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Creation",
-              "label": "LB assists / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Creation",
-              "label": "Offloads / game",
-              "home": null,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            },
-            {
-              "category": "Defence",
-              "label": "Tackle efficiency",
-              "home": 0.9137254901960784,
-              "away": null,
-              "edge": "even",
-              "unit": "%"
-            },
-            {
-              "category": "Defence",
-              "label": "Missed tackles / game",
-              "home": 1.4666666666666666,
-              "away": null,
-              "edge": "even",
-              "unit": ""
-            }
-          ],
-          "one_on_one": {
-            "side": "away",
-            "player": "Kyle McCarthy",
-            "home_score": 0,
-            "away_score": 0.75,
-            "available_stats": 9,
-            "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
-          },
-          "summary": "Bench players are shown together for completeness; this is not claimed as a direct defensive matchup."
         }
       ],
       "recommended_ats_matchups": [
@@ -4748,13 +4546,13 @@
             "team": "Penrith Panthers",
             "probability": 0.6302463483121271,
             "fair_odds": 1.5866811488525339,
-            "bookmaker_odds": 1.9,
+            "bookmaker_odds": 1.98,
             "bookmaker_prices": {
-              "Betcha": 1.9,
-              "TAB NZ": 1.9,
-              "Best Available": 1.9
+              "Betcha": 1.98,
+              "TAB NZ": 1.98,
+              "Best Available": 1.98
             },
-            "ev": 0.19746806179304155
+            "ev": 0.24788776965801174
           },
           "matchup": {
             "kind": "starter",
@@ -4966,13 +4764,13 @@
             "team": "Penrith Panthers",
             "probability": 0.4995736730612731,
             "fair_odds": 2.0017067630330256,
-            "bookmaker_odds": 2.05,
+            "bookmaker_odds": 2.15,
             "bookmaker_prices": {
-              "Betcha": 2.05,
-              "TAB NZ": 2.05,
-              "Best Available": 2.05
+              "Betcha": 2.15,
+              "TAB NZ": 2.15,
+              "Best Available": 2.15
             },
-            "ev": 0.024126029775609847
+            "ev": 0.07408339708173717
           },
           "matchup": {
             "kind": "starter",
@@ -5180,9 +4978,9 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.32308,
-        "fair_odds": 3.09520861706079,
-        "singles_product_odds": 3.8949999999999996,
+        "probability": 0.323,
+        "fair_odds": 3.095975232198142,
+        "singles_product_odds": 4.257,
         "target_met": false,
         "legs": [
           {
@@ -5190,14 +4988,14 @@
             "team": "Penrith Panthers",
             "probability": 0.6302463483121271,
             "fair_odds": 1.5866811488525339,
-            "market_odds": 1.9
+            "market_odds": 1.98
           },
           {
             "player": "Brian To'o",
             "team": "Penrith Panthers",
             "probability": 0.4995736730612731,
             "fair_odds": 2.0017067630330256,
-            "market_odds": 2.05
+            "market_odds": 2.15
           }
         ],
         "method": "Shared match simulation",
@@ -5211,9 +5009,9 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.32308,
-          "fair_odds": 3.09520861706079,
-          "singles_product_odds": 3.8949999999999996,
+          "probability": 0.323,
+          "fair_odds": 3.095975232198142,
+          "singles_product_odds": 4.257,
           "target_met": false,
           "legs": [
             {
@@ -5221,14 +5019,14 @@
               "team": "Penrith Panthers",
               "probability": 0.6302463483121271,
               "fair_odds": 1.5866811488525339,
-              "market_odds": 1.9
+              "market_odds": 1.98
             },
             {
               "player": "Brian To'o",
               "team": "Penrith Panthers",
               "probability": 0.4995736730612731,
               "fair_odds": 2.0017067630330256,
-              "market_odds": 2.05
+              "market_odds": 2.15
             }
           ],
           "method": "Shared match simulation",
@@ -5238,9 +5036,9 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.32308,
-          "fair_odds": 3.09520861706079,
-          "singles_product_odds": 3.8949999999999996,
+          "probability": 0.323,
+          "fair_odds": 3.095975232198142,
+          "singles_product_odds": 4.257,
           "target_met": false,
           "legs": [
             {
@@ -5248,14 +5046,14 @@
               "team": "Penrith Panthers",
               "probability": 0.6302463483121271,
               "fair_odds": 1.5866811488525339,
-              "market_odds": 1.9
+              "market_odds": 1.98
             },
             {
               "player": "Brian To'o",
               "team": "Penrith Panthers",
               "probability": 0.4995736730612731,
               "fair_odds": 2.0017067630330256,
-              "market_odds": 2.05
+              "market_odds": 2.15
             }
           ],
           "method": "Shared match simulation",
@@ -5265,9 +5063,9 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.32308,
-          "fair_odds": 3.09520861706079,
-          "singles_product_odds": 3.8949999999999996,
+          "probability": 0.323,
+          "fair_odds": 3.095975232198142,
+          "singles_product_odds": 4.257,
           "target_met": false,
           "legs": [
             {
@@ -5275,14 +5073,14 @@
               "team": "Penrith Panthers",
               "probability": 0.6302463483121271,
               "fair_odds": 1.5866811488525339,
-              "market_odds": 1.9
+              "market_odds": 1.98
             },
             {
               "player": "Brian To'o",
               "team": "Penrith Panthers",
               "probability": 0.4995736730612731,
               "fair_odds": 2.0017067630330256,
-              "market_odds": 2.05
+              "market_odds": 2.15
             }
           ],
           "method": "Shared match simulation",
@@ -5306,7 +5104,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "6856b8b952d0bf4c"
+      "summary_id": "45ce2fce049bd0f2"
     },
     {
       "status": "completed",
