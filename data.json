@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 30,
   "round_label": "Finals Round 3",
-  "generated_at": "Sun 27 Sep 2026, 8:21 PM NZT",
-  "generated_at_iso": "2026-09-27T20:21:14.383823+13:00",
+  "generated_at": "Sun 27 Sep 2026, 8:51 PM NZT",
+  "generated_at_iso": "2026-09-27T20:51:31.721899+13:00",
   "engine_version": "1.68.7",
   "fixtures": [
     {
@@ -231,29 +231,29 @@
           "player": "Thomas Jenkins",
           "nrl_player_id": 100007927,
           "team": "Penrith Panthers",
-          "probability": 0.4563587407448386,
-          "fair_odds": 2.191258566381058,
+          "probability": 0.4562418285620079,
+          "fair_odds": 2.1918200774177587,
           "bookmaker_odds": 2.02,
           "bookmaker_prices": {
             "Betcha": 2.02,
             "TAB NZ": 2.02,
             "Best Available": 2.02
           },
-          "ev": -0.07815534369542598
+          "ev": -0.07839150630474401
         },
         {
           "player": "Brian To'o",
           "nrl_player_id": 505410,
           "team": "Penrith Panthers",
-          "probability": 0.4152830915604149,
-          "fair_odds": 2.407995943785063,
+          "probability": 0.415193425182102,
+          "fair_odds": 2.4085159815847383,
           "bookmaker_odds": 2.15,
           "bookmaker_prices": {
             "Betcha": 2.15,
             "TAB NZ": 2.15,
             "Best Available": 2.15
           },
-          "ev": -0.10714135314510809
+          "ev": -0.10733413585848073
         },
         {
           "player": "Casey McLean",
@@ -539,15 +539,15 @@
           "player": "Jack Cogger",
           "nrl_player_id": 502695,
           "team": "Penrith Panthers",
-          "probability": 0.09426039641580511,
-          "fair_odds": 10.608909340766628,
+          "probability": 0.09418061132468691,
+          "fair_odds": 10.617896676764051,
           "bookmaker_odds": 6.6,
           "bookmaker_prices": {
             "Betcha": 6.6,
             "TAB NZ": 6.6,
             "Best Available": 6.6
           },
-          "ev": -0.37788138365568635
+          "ev": -0.37840796525706644
         },
         {
           "player": "Billy Phillips",
@@ -578,6 +578,20 @@
           "ev": -0.026914728676487476
         },
         {
+          "player": "Sandon Smith",
+          "nrl_player_id": 509579,
+          "team": "Newcastle Knights",
+          "probability": 0.08626301027899692,
+          "fair_odds": 11.592454248532956,
+          "bookmaker_odds": 8.5,
+          "bookmaker_prices": {
+            "Betcha": 8.5,
+            "TAB NZ": 8.5,
+            "Best Available": 8.5
+          },
+          "ev": -0.2667644126285261
+        },
+        {
           "player": "Tyson Frizell",
           "nrl_player_id": 500622,
           "team": "Newcastle Knights",
@@ -590,20 +604,6 @@
             "Best Available": 11.0
           },
           "ev": -0.05178006018035042
-        },
-        {
-          "player": "Sandon Smith",
-          "nrl_player_id": 509579,
-          "team": "Newcastle Knights",
-          "probability": 0.08506033607282681,
-          "fair_odds": 11.756360792459386,
-          "bookmaker_odds": 8.5,
-          "bookmaker_prices": {
-            "Betcha": 8.5,
-            "TAB NZ": 8.5,
-            "Best Available": 8.5
-          },
-          "ev": -0.2769871433809721
         },
         {
           "player": "Moses Leota",
@@ -4140,7 +4140,7 @@
             "nrl_player_id": 501271,
             "player_name": "Luke Garner",
             "team": "Penrith Panthers",
-            "position": "Interchange",
+            "position": "Replacement",
             "jersey_number": 18,
             "is_reserve": 1,
             "profile": {
@@ -4185,7 +4185,7 @@
             "nrl_player_id": 100008414,
             "player_name": "Fletcher Hunt",
             "team": "Newcastle Knights",
-            "position": "Interchange",
+            "position": "Reserve",
             "jersey_number": 18,
             "is_reserve": 1,
             "profile": {
@@ -4342,7 +4342,7 @@
             "nrl_player_id": 504830,
             "player_name": "Freddy Lussick",
             "team": "Penrith Panthers",
-            "position": "Interchange",
+            "position": "Reserve",
             "jersey_number": 21,
             "is_reserve": 1,
             "profile": {
@@ -4387,7 +4387,7 @@
             "nrl_player_id": 509527,
             "player_name": "Thomas Cant",
             "team": "Newcastle Knights",
-            "position": "Interchange",
+            "position": "Reserve",
             "jersey_number": 19,
             "is_reserve": 1,
             "profile": {
@@ -4543,15 +4543,15 @@
             "player": "Thomas Jenkins",
             "nrl_player_id": 100007927,
             "team": "Penrith Panthers",
-            "probability": 0.4563587407448386,
-            "fair_odds": 2.191258566381058,
+            "probability": 0.4562418285620079,
+            "fair_odds": 2.1918200774177587,
             "bookmaker_odds": 2.02,
             "bookmaker_prices": {
               "Betcha": 2.02,
               "TAB NZ": 2.02,
               "Best Available": 2.02
             },
-            "ev": -0.07815534369542598
+            "ev": -0.07839150630474401
           },
           "matchup": {
             "kind": "starter",
@@ -4761,15 +4761,15 @@
             "player": "Brian To'o",
             "nrl_player_id": 505410,
             "team": "Penrith Panthers",
-            "probability": 0.4152830915604149,
-            "fair_odds": 2.407995943785063,
+            "probability": 0.415193425182102,
+            "fair_odds": 2.4085159815847383,
             "bookmaker_odds": 2.15,
             "bookmaker_prices": {
               "Betcha": 2.15,
               "TAB NZ": 2.15,
               "Best Available": 2.15
             },
-            "ev": -0.10714135314510809
+            "ev": -0.10733413585848073
           },
           "matchup": {
             "kind": "starter",
@@ -4977,23 +4977,23 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.19268,
-        "fair_odds": 5.189952252439277,
+        "probability": 0.1884,
+        "fair_odds": 5.307855626326964,
         "singles_product_odds": 4.343,
         "target_met": false,
         "legs": [
           {
             "player": "Thomas Jenkins",
             "team": "Penrith Panthers",
-            "probability": 0.4563587407448386,
-            "fair_odds": 2.191258566381058,
+            "probability": 0.4562418285620079,
+            "fair_odds": 2.1918200774177587,
             "market_odds": 2.02
           },
           {
             "player": "Brian To'o",
             "team": "Penrith Panthers",
-            "probability": 0.4152830915604149,
-            "fair_odds": 2.407995943785063,
+            "probability": 0.415193425182102,
+            "fair_odds": 2.4085159815847383,
             "market_odds": 2.15
           }
         ],
@@ -5008,23 +5008,23 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.19268,
-          "fair_odds": 5.189952252439277,
+          "probability": 0.1884,
+          "fair_odds": 5.307855626326964,
           "singles_product_odds": 4.343,
           "target_met": false,
           "legs": [
             {
               "player": "Thomas Jenkins",
               "team": "Penrith Panthers",
-              "probability": 0.4563587407448386,
-              "fair_odds": 2.191258566381058,
+              "probability": 0.4562418285620079,
+              "fair_odds": 2.1918200774177587,
               "market_odds": 2.02
             },
             {
               "player": "Brian To'o",
               "team": "Penrith Panthers",
-              "probability": 0.4152830915604149,
-              "fair_odds": 2.407995943785063,
+              "probability": 0.415193425182102,
+              "fair_odds": 2.4085159815847383,
               "market_odds": 2.15
             }
           ],
@@ -5035,23 +5035,23 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.19268,
-          "fair_odds": 5.189952252439277,
+          "probability": 0.1884,
+          "fair_odds": 5.307855626326964,
           "singles_product_odds": 4.343,
           "target_met": false,
           "legs": [
             {
               "player": "Thomas Jenkins",
               "team": "Penrith Panthers",
-              "probability": 0.4563587407448386,
-              "fair_odds": 2.191258566381058,
+              "probability": 0.4562418285620079,
+              "fair_odds": 2.1918200774177587,
               "market_odds": 2.02
             },
             {
               "player": "Brian To'o",
               "team": "Penrith Panthers",
-              "probability": 0.4152830915604149,
-              "fair_odds": 2.407995943785063,
+              "probability": 0.415193425182102,
+              "fair_odds": 2.4085159815847383,
               "market_odds": 2.15
             }
           ],
@@ -5062,23 +5062,23 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.19268,
-          "fair_odds": 5.189952252439277,
+          "probability": 0.1884,
+          "fair_odds": 5.307855626326964,
           "singles_product_odds": 4.343,
           "target_met": false,
           "legs": [
             {
               "player": "Thomas Jenkins",
               "team": "Penrith Panthers",
-              "probability": 0.4563587407448386,
-              "fair_odds": 2.191258566381058,
+              "probability": 0.4562418285620079,
+              "fair_odds": 2.1918200774177587,
               "market_odds": 2.02
             },
             {
               "player": "Brian To'o",
               "team": "Penrith Panthers",
-              "probability": 0.4152830915604149,
-              "fair_odds": 2.407995943785063,
+              "probability": 0.415193425182102,
+              "fair_odds": 2.4085159815847383,
               "market_odds": 2.15
             }
           ],
@@ -5103,7 +5103,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "d27f7c7dbc4466b5"
+      "summary_id": "13307aee25af0cf6"
     },
     {
       "status": "completed",
