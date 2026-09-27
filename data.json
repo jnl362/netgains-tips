@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 30,
   "round_label": "Finals Round 3",
-  "generated_at": "Sun 27 Sep 2026, 7:20 PM NZT",
-  "generated_at_iso": "2026-09-27T19:20:35.385998+13:00",
+  "generated_at": "Sun 27 Sep 2026, 7:50 PM NZT",
+  "generated_at_iso": "2026-09-27T19:50:56.736470+13:00",
   "engine_version": "1.68.7",
   "fixtures": [
     {
@@ -259,43 +259,43 @@
           "player": "Casey McLean",
           "nrl_player_id": 100011678,
           "team": "Penrith Panthers",
-          "probability": 0.3623206077247246,
-          "fair_odds": 2.7599865386617934,
+          "probability": 0.3639723765715272,
+          "fair_odds": 2.747461248074912,
           "bookmaker_odds": 2.65,
           "bookmaker_prices": {
             "Betcha": 2.65,
             "TAB NZ": 2.65,
             "Best Available": 2.65
           },
-          "ev": -0.039850389529479946
+          "ev": -0.035473202085452904
         },
         {
           "player": "Dylan Edwards",
           "nrl_player_id": 503340,
           "team": "Penrith Panthers",
-          "probability": 0.3403599357144768,
-          "fair_odds": 2.9380661325511768,
+          "probability": 0.34269571358282336,
+          "fair_odds": 2.9180405834236325,
           "bookmaker_odds": 3.2,
           "bookmaker_prices": {
             "Betcha": 3.2,
             "TAB NZ": 3.2,
             "Best Available": 3.2
           },
-          "ev": 0.0891517942863258
+          "ev": 0.09662628346503488
         },
         {
           "player": "Blaize Talagi",
           "nrl_player_id": 100006848,
           "team": "Penrith Panthers",
-          "probability": 0.31708054540832675,
-          "fair_odds": 3.1537728015202893,
+          "probability": 0.3182825594958555,
+          "fair_odds": 3.1418623803451644,
           "bookmaker_odds": 3.6,
           "bookmaker_prices": {
             "Betcha": 3.6,
             "TAB NZ": 3.6,
             "Best Available": 3.6
           },
-          "ev": 0.14148996346997644
+          "ev": 0.14581721418507976
         },
         {
           "player": "Dominic Young",
@@ -329,15 +329,15 @@
           "player": "Liam Martin",
           "nrl_player_id": 504125,
           "team": "Penrith Panthers",
-          "probability": 0.2591152873024093,
-          "fair_odds": 3.8592859974059195,
+          "probability": 0.25900295616335817,
+          "fair_odds": 3.8609597929425976,
           "bookmaker_odds": 3.6,
           "bookmaker_prices": {
             "Betcha": 3.6,
             "TAB NZ": 3.6,
             "Best Available": 3.6
           },
-          "ev": -0.06718496571132648
+          "ev": -0.06758935781191056
         },
         {
           "player": "Nathan Cleary",
@@ -357,15 +357,15 @@
           "player": "Kalyn Ponga",
           "nrl_player_id": 504870,
           "team": "Newcastle Knights",
-          "probability": 0.2312551904068291,
-          "fair_odds": 4.324227267032487,
+          "probability": 0.23114529311011783,
+          "fair_odds": 4.326283207175666,
           "bookmaker_odds": 4.1,
           "bookmaker_prices": {
             "Betcha": 4.1,
             "TAB NZ": 4.1,
             "Best Available": 4.1
           },
-          "ev": -0.05185371933200078
+          "ev": -0.05230429824851701
         },
         {
           "player": "Bradman Best",
@@ -399,15 +399,15 @@
           "player": "Scott Sorensen",
           "nrl_player_id": 500852,
           "team": "Penrith Panthers",
-          "probability": 0.1862334473126345,
-          "fair_odds": 5.369604732286764,
+          "probability": 0.18615639232215556,
+          "fair_odds": 5.371827351861418,
           "bookmaker_odds": 6.75,
           "bookmaker_prices": {
             "Betcha": 6.75,
             "TAB NZ": 6.75,
             "Best Available": 6.75
           },
-          "ev": 0.25707576936028276
+          "ev": 0.2565556481745499
         },
         {
           "player": "Dane Gagai",
@@ -4977,8 +4977,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.18832,
-        "fair_odds": 5.310110450297366,
+        "probability": 0.19324,
+        "fair_odds": 5.17491202649555,
         "singles_product_odds": 4.343,
         "target_met": false,
         "legs": [
@@ -5008,8 +5008,8 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.18832,
-          "fair_odds": 5.310110450297366,
+          "probability": 0.19324,
+          "fair_odds": 5.17491202649555,
           "singles_product_odds": 4.343,
           "target_met": false,
           "legs": [
@@ -5035,8 +5035,8 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.18832,
-          "fair_odds": 5.310110450297366,
+          "probability": 0.19324,
+          "fair_odds": 5.17491202649555,
           "singles_product_odds": 4.343,
           "target_met": false,
           "legs": [
@@ -5062,8 +5062,8 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.18832,
-          "fair_odds": 5.310110450297366,
+          "probability": 0.19324,
+          "fair_odds": 5.17491202649555,
           "singles_product_odds": 4.343,
           "target_met": false,
           "legs": [
@@ -5103,7 +5103,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "5805fae180fc603a"
+      "summary_id": "a1e4991f93bf42b0"
     },
     {
       "status": "completed",
