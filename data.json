@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 30,
   "round_label": "Finals Round 3",
-  "generated_at": "Sun 27 Sep 2026, 6:40 PM NZT",
-  "generated_at_iso": "2026-09-27T18:40:18.976823+13:00",
+  "generated_at": "Sun 27 Sep 2026, 6:50 PM NZT",
+  "generated_at_iso": "2026-09-27T18:50:18.487220+13:00",
   "engine_version": "1.68.7",
   "fixtures": [
     {
@@ -40,8 +40,8 @@
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T05:40:02.222131+00:00",
-          "snapshot_id": "0ab4e4f8aa752ce48c21d7d9",
+          "observed_at": "2026-09-27T05:50:01.861864+00:00",
+          "snapshot_id": "f565dba1480f39d515e9b031",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": []
         },
@@ -55,8 +55,8 @@
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T05:40:07.815733+00:00",
-          "snapshot_id": "58598abb1e77340ffe3e7ddb",
+          "observed_at": "2026-09-27T05:50:07.298178+00:00",
+          "snapshot_id": "7b49256192ca679f4e084904",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": []
         },
@@ -70,7 +70,7 @@
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T05:40:07.815733+00:00",
+          "observed_at": "2026-09-27T05:50:07.298178+00:00",
           "price_sources": {
             "home_h2h": "TAB NZ",
             "away_h2h": "TAB NZ",
@@ -93,8 +93,8 @@
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T05:40:02.222131+00:00",
-          "snapshot_id": "0ab4e4f8aa752ce48c21d7d9",
+          "observed_at": "2026-09-27T05:50:01.861864+00:00",
+          "snapshot_id": "f565dba1480f39d515e9b031",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": [],
           "home_cover_probability": 0.541699026254485,
@@ -116,8 +116,8 @@
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T05:40:07.815733+00:00",
-          "snapshot_id": "58598abb1e77340ffe3e7ddb",
+          "observed_at": "2026-09-27T05:50:07.298178+00:00",
+          "snapshot_id": "7b49256192ca679f4e084904",
           "source_url": "https://www.tab.co.nz/sports/rugby-league/nrl/penrith-panthers-vs-newcastle-knights/b8ca5cf9-1427-4b53-b400-6adeab8cc2ce",
           "validation_issues": [],
           "home_cover_probability": 0.541699026254485,
@@ -139,7 +139,7 @@
           "total": 40.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-27T05:40:07.815733+00:00",
+          "observed_at": "2026-09-27T05:50:07.298178+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -197,7 +197,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 69,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-27T05:40:02.222131+00:00",
+      "bookmaker_observed_at": "2026-09-27T05:50:01.861864+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -5104,7 +5104,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "b1307cceabcf1961"
+      "summary_id": "ba95989b10c262da"
     },
     {
       "status": "completed",
