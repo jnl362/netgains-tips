@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 30,
   "round_label": "Finals Round 3",
-  "generated_at": "Sun 27 Sep 2026, 7:50 PM NZT",
-  "generated_at_iso": "2026-09-27T19:50:56.736470+13:00",
+  "generated_at": "Sun 27 Sep 2026, 8:21 PM NZT",
+  "generated_at_iso": "2026-09-27T20:21:14.383823+13:00",
   "engine_version": "1.68.7",
   "fixtures": [
     {
@@ -273,15 +273,15 @@
           "player": "Dylan Edwards",
           "nrl_player_id": 503340,
           "team": "Penrith Panthers",
-          "probability": 0.34269571358282336,
-          "fair_odds": 2.9180405834236325,
+          "probability": 0.3403599357144768,
+          "fair_odds": 2.9380661325511768,
           "bookmaker_odds": 3.2,
           "bookmaker_prices": {
             "Betcha": 3.2,
             "TAB NZ": 3.2,
             "Best Available": 3.2
           },
-          "ev": 0.09662628346503488
+          "ev": 0.0891517942863258
         },
         {
           "player": "Blaize Talagi",
@@ -357,15 +357,15 @@
           "player": "Kalyn Ponga",
           "nrl_player_id": 504870,
           "team": "Newcastle Knights",
-          "probability": 0.23114529311011783,
-          "fair_odds": 4.326283207175666,
+          "probability": 0.2312551904068291,
+          "fair_odds": 4.324227267032487,
           "bookmaker_odds": 4.1,
           "bookmaker_prices": {
             "Betcha": 4.1,
             "TAB NZ": 4.1,
             "Best Available": 4.1
           },
-          "ev": -0.05230429824851701
+          "ev": -0.05185371933200078
         },
         {
           "player": "Bradman Best",
@@ -4977,8 +4977,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.19324,
-        "fair_odds": 5.17491202649555,
+        "probability": 0.19268,
+        "fair_odds": 5.189952252439277,
         "singles_product_odds": 4.343,
         "target_met": false,
         "legs": [
@@ -5008,8 +5008,8 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.19324,
-          "fair_odds": 5.17491202649555,
+          "probability": 0.19268,
+          "fair_odds": 5.189952252439277,
           "singles_product_odds": 4.343,
           "target_met": false,
           "legs": [
@@ -5035,8 +5035,8 @@
         },
         "TAB NZ": {
           "available": true,
-          "probability": 0.19324,
-          "fair_odds": 5.17491202649555,
+          "probability": 0.19268,
+          "fair_odds": 5.189952252439277,
           "singles_product_odds": 4.343,
           "target_met": false,
           "legs": [
@@ -5062,8 +5062,8 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.19324,
-          "fair_odds": 5.17491202649555,
+          "probability": 0.19268,
+          "fair_odds": 5.189952252439277,
           "singles_product_odds": 4.343,
           "target_met": false,
           "legs": [
@@ -5103,7 +5103,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "a1e4991f93bf42b0"
+      "summary_id": "d27f7c7dbc4466b5"
     },
     {
       "status": "completed",
