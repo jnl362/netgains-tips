@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 31,
   "round_label": "Grand Final",
-  "generated_at": "Mon 28 Sep 2026, 9:05 PM NZT",
-  "generated_at_iso": "2026-09-28T21:05:13.747708+13:00",
+  "generated_at": "Mon 28 Sep 2026, 9:07 PM NZT",
+  "generated_at_iso": "2026-09-28T21:07:33.190901+13:00",
   "engine_version": "1.68.9",
   "fixtures": [
     {
@@ -26,15 +26,99 @@
       "independent_away_win_probability": 0.31311934982999823,
       "home_fair_odds": 1.455856996048006,
       "away_fair_odds": 3.1936704024932654,
-      "home_conservative_fair_odds": 1.515192561834059,
-      "away_conservative_fair_odds": 2.9410218121939717,
+      "home_conservative_fair_odds": 1.5052797172989363,
+      "away_conservative_fair_odds": 2.9791018039387773,
       "bookmaker_provider": "Betcha",
-      "bookmaker_prices": {},
-      "bookmaker_views": {},
-      "home_bookmaker_odds": null,
-      "away_bookmaker_odds": null,
-      "home_h2h_ev": null,
-      "away_h2h_ev": null,
+      "bookmaker_prices": {
+        "Betcha": {
+          "home_h2h": 1.44,
+          "away_h2h": 2.8,
+          "home_line": -6.5,
+          "home_line_odds": 1.9,
+          "away_line": 6.5,
+          "away_line_odds": 1.9,
+          "total": 42.5,
+          "over_odds": 1.9,
+          "under_odds": 1.9,
+          "observed_at": "2026-09-28T08:06:33.828539+00:00",
+          "snapshot_id": "7190e9a1cc82883c9c17d28b",
+          "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
+          "validation_issues": []
+        },
+        "Best Available": {
+          "home_h2h": 1.44,
+          "away_h2h": 2.8,
+          "home_line": -6.5,
+          "home_line_odds": 1.9,
+          "away_line": 6.5,
+          "away_line_odds": 1.9,
+          "total": 42.5,
+          "over_odds": 1.9,
+          "under_odds": 1.9,
+          "observed_at": "2026-09-28T08:06:33.828539+00:00",
+          "price_sources": {
+            "home_h2h": "Betcha",
+            "away_h2h": "Betcha",
+            "home_line_odds": "Betcha",
+            "away_line_odds": "Betcha",
+            "over_odds": "Betcha",
+            "under_odds": "Betcha"
+          },
+          "validation_issues": null
+        }
+      },
+      "bookmaker_views": {
+        "Betcha": {
+          "home_h2h": 1.44,
+          "away_h2h": 2.8,
+          "home_line": -6.5,
+          "home_line_odds": 1.9,
+          "away_line": 6.5,
+          "away_line_odds": 1.9,
+          "total": 42.5,
+          "over_odds": 1.9,
+          "under_odds": 1.9,
+          "observed_at": "2026-09-28T08:06:33.828539+00:00",
+          "snapshot_id": "7190e9a1cc82883c9c17d28b",
+          "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
+          "validation_issues": [],
+          "home_cover_probability": 0.4909143885977505,
+          "away_cover_probability": 0.5090856114022495,
+          "over_probability": 0.575424444344147,
+          "under_probability": 0.42457555565585303,
+          "home_line_fair_odds": 2.037015054409799,
+          "away_line_fair_odds": 1.9643061551976546,
+          "over_fair_odds": 1.7378476181000142,
+          "under_fair_odds": 2.355293390490354
+        },
+        "Best Available": {
+          "home_h2h": 1.44,
+          "away_h2h": 2.8,
+          "home_line": -6.5,
+          "home_line_odds": 1.9,
+          "away_line": 6.5,
+          "away_line_odds": 1.9,
+          "total": 42.5,
+          "over_odds": 1.9,
+          "under_odds": 1.9,
+          "observed_at": "2026-09-28T08:06:33.828539+00:00",
+          "snapshot_id": null,
+          "source_url": null,
+          "validation_issues": null,
+          "home_cover_probability": 0.4909143885977505,
+          "away_cover_probability": 0.5090856114022495,
+          "over_probability": 0.575424444344147,
+          "under_probability": 0.42457555565585303,
+          "home_line_fair_odds": 2.037015054409799,
+          "away_line_fair_odds": 1.9643061551976546,
+          "over_fair_odds": 1.7378476181000142,
+          "under_fair_odds": 2.355293390490354
+        }
+      },
+      "home_bookmaker_odds": 1.44,
+      "away_bookmaker_odds": 2.8,
+      "home_h2h_ev": -0.010891863755197462,
+      "away_h2h_ev": -0.12326582047600498,
       "winner": "Sydney Roosters",
       "home_points": 25.59111238292988,
       "away_points": 19.38150918152151,
@@ -53,29 +137,29 @@
         "Newcastle Knights 13+": 0.07113093774225117
       },
       "margin_remainder_probability": 0.027784879792521533,
-      "market_line": null,
-      "home_line_odds": null,
-      "away_line": null,
-      "away_line_odds": null,
-      "home_cover_probability": null,
-      "away_cover_probability": null,
-      "home_line_fair_odds": null,
-      "away_line_fair_odds": null,
-      "home_line_ev": null,
-      "away_line_ev": null,
-      "market_total": null,
-      "over_odds": null,
-      "under_odds": null,
-      "over_probability": null,
-      "under_probability": null,
-      "over_ev": null,
-      "under_ev": null,
+      "market_line": -6.5,
+      "home_line_odds": 1.9,
+      "away_line": 6.5,
+      "away_line_odds": 1.9,
+      "home_cover_probability": 0.4909143885977505,
+      "away_cover_probability": 0.5090856114022495,
+      "home_line_fair_odds": 2.037015054409799,
+      "away_line_fair_odds": 1.9643061551976546,
+      "home_line_ev": -0.06726266166427408,
+      "away_line_ev": -0.03273733833572601,
+      "market_total": 42.5,
+      "over_odds": 1.9,
+      "under_odds": 1.9,
+      "over_probability": 0.575424444344147,
+      "under_probability": 0.42457555565585303,
+      "over_ev": 0.09330644425387913,
+      "under_ev": -0.19330644425387933,
       "confidence": "Developing",
       "confidence_score": 55,
       "data_quality": "Developing",
       "prediction_strength_score": 65,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "",
+      "bookmaker_observed_at": "2026-09-28T08:06:33.828539+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -102,7 +186,7 @@
         "Stacked-advantage control: learned context +2.64, live availability +0.90, final downstream adjustment +3.55; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 65/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 13.8% of the +3.1pp raw market disagreement, leaving +0.4pp of betting edge."
+        "Market-relative H2H calibration retains 14.9% of the +2.7pp raw market disagreement, leaving +0.4pp of betting edge."
       ],
       "ats_players": [
         {
@@ -4855,7 +4939,9 @@
           "probability": 0.20742675558601856,
           "fair_odds": 4.820978842265633,
           "reason": "High-involvement spine role, strong running output, heavy defensive workload",
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "Betcha": 7.0
+          },
           "sample_games": 275
         },
         {
@@ -4865,7 +4951,9 @@
           "probability": 0.08640839469177043,
           "fair_odds": 11.572949637209733,
           "reason": "Strong running output, heavy defensive workload",
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "Betcha": 15.0
+          },
           "sample_games": 44
         },
         {
@@ -4875,7 +4963,9 @@
           "probability": 0.05296259366709697,
           "fair_odds": 18.881250534776026,
           "reason": "Strong running output, heavy defensive workload",
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "Betcha": 21.0
+          },
           "sample_games": 43
         },
         {
@@ -4885,7 +4975,9 @@
           "probability": 0.04985966295991461,
           "fair_odds": 20.056292815375915,
           "reason": "Strong running output, heavy defensive workload",
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "Betcha": 26.0
+          },
           "sample_games": 278
         },
         {
@@ -4895,7 +4987,9 @@
           "probability": 0.049702962067319986,
           "fair_odds": 20.119525243697826,
           "reason": "High-involvement spine role, strong running output, heavy defensive workload",
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "Betcha": 8.0
+          },
           "sample_games": 155
         },
         {
@@ -4905,7 +4999,9 @@
           "probability": 0.04327545802637988,
           "fair_odds": 23.107785465619322,
           "reason": "High-involvement spine role, strong running output, heavy defensive workload",
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "Betcha": 8.0
+          },
           "sample_games": 312
         },
         {
@@ -4915,7 +5011,9 @@
           "probability": 0.04238265256537504,
           "fair_odds": 23.594559081867395,
           "reason": "Strong running output, heavy defensive workload",
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "Betcha": 51.0
+          },
           "sample_games": 110
         },
         {
@@ -4925,7 +5023,9 @@
           "probability": 0.0409044759553781,
           "fair_odds": 24.447202332842025,
           "reason": "High-involvement spine role, strong running output, heavy defensive workload",
-          "bookmaker_prices": {},
+          "bookmaker_prices": {
+            "Betcha": 15.0
+          },
           "sample_games": 47
         }
       ],
@@ -5004,7 +5104,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "36b70996c591e557"
+      "summary_id": "e300eea6a573f62d"
     }
   ]
 }
