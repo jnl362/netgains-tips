@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 31,
   "round_label": "Grand Final",
-  "generated_at": "Tue 29 Sep 2026, 6:08 PM NZT",
-  "generated_at_iso": "2026-09-29T18:08:15.260377+13:00",
+  "generated_at": "Tue 29 Sep 2026, 6:38 PM NZT",
+  "generated_at_iso": "2026-09-29T18:38:37.411402+13:00",
   "engine_version": "1.68.9",
   "fixtures": [
     {
@@ -40,8 +40,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T05:07:58.467181+00:00",
-          "snapshot_id": "581a0e68ae9705c1897891ec",
+          "observed_at": "2026-09-29T05:38:20.583958+00:00",
+          "snapshot_id": "f54f2a7583594620d048f141",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": []
         },
@@ -55,7 +55,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T05:07:58.467181+00:00",
+          "observed_at": "2026-09-29T05:38:20.583958+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -78,8 +78,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T05:07:58.467181+00:00",
-          "snapshot_id": "581a0e68ae9705c1897891ec",
+          "observed_at": "2026-09-29T05:38:20.583958+00:00",
+          "snapshot_id": "f54f2a7583594620d048f141",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": [],
           "home_cover_probability": 0.4909143885977505,
@@ -101,7 +101,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T05:07:58.467181+00:00",
+          "observed_at": "2026-09-29T05:38:20.583958+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -159,7 +159,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 65,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-29T05:07:58.467181+00:00",
+      "bookmaker_observed_at": "2026-09-29T05:38:20.583958+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -5104,7 +5104,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "bc596146fd57c831"
+      "summary_id": "d28617eee64f0a05"
     }
   ]
 }
