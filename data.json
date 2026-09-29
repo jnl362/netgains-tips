@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 31,
   "round_label": "Grand Final",
-  "generated_at": "Tue 29 Sep 2026, 6:38 PM NZT",
-  "generated_at_iso": "2026-09-29T18:38:37.411402+13:00",
+  "generated_at": "Tue 29 Sep 2026, 7:09 PM NZT",
+  "generated_at_iso": "2026-09-29T19:09:04.156298+13:00",
   "engine_version": "1.68.9",
   "fixtures": [
     {
@@ -40,8 +40,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T05:38:20.583958+00:00",
-          "snapshot_id": "f54f2a7583594620d048f141",
+          "observed_at": "2026-09-29T06:08:45.420397+00:00",
+          "snapshot_id": "f83e683702346f17d67b0cd4",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": []
         },
@@ -55,7 +55,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T05:38:20.583958+00:00",
+          "observed_at": "2026-09-29T06:08:45.420397+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -78,8 +78,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T05:38:20.583958+00:00",
-          "snapshot_id": "f54f2a7583594620d048f141",
+          "observed_at": "2026-09-29T06:08:45.420397+00:00",
+          "snapshot_id": "f83e683702346f17d67b0cd4",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": [],
           "home_cover_probability": 0.4909143885977505,
@@ -101,7 +101,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T05:38:20.583958+00:00",
+          "observed_at": "2026-09-29T06:08:45.420397+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -159,7 +159,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 65,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-29T05:38:20.583958+00:00",
+      "bookmaker_observed_at": "2026-09-29T06:08:45.420397+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -195,12 +195,12 @@
           "team": "Sydney Roosters",
           "probability": 0.68,
           "fair_odds": 1.4705882352941175,
-          "bookmaker_odds": 1.8,
+          "bookmaker_odds": 1.82,
           "bookmaker_prices": {
-            "Betcha": 1.8,
-            "Best Available": 1.8
+            "Betcha": 1.82,
+            "Best Available": 1.82
           },
-          "ev": 0.2240000000000002
+          "ev": 0.23760000000000003
         },
         {
           "player": "Daniel Tupou",
@@ -260,12 +260,12 @@
           "team": "Newcastle Knights",
           "probability": 0.3117674267627289,
           "fair_odds": 3.2075191766619406,
-          "bookmaker_odds": 2.4,
+          "bookmaker_odds": 2.45,
           "bookmaker_prices": {
-            "Betcha": 2.4,
-            "Best Available": 2.4
+            "Betcha": 2.45,
+            "Best Available": 2.45
           },
-          "ev": -0.2517581757694507
+          "ev": -0.2361698044313142
         },
         {
           "player": "Greg Marzhew",
@@ -273,12 +273,12 @@
           "team": "Newcastle Knights",
           "probability": 0.2966446645693817,
           "fair_odds": 3.371036527663931,
-          "bookmaker_odds": 2.4,
+          "bookmaker_odds": 2.45,
           "bookmaker_prices": {
-            "Betcha": 2.4,
-            "Best Available": 2.4
+            "Betcha": 2.45,
+            "Best Available": 2.45
           },
-          "ev": -0.28805280503348396
+          "ev": -0.2732205718050148
         },
         {
           "player": "Daly Cherry-Evans",
@@ -338,12 +338,12 @@
           "team": "Newcastle Knights",
           "probability": 0.2213397142080027,
           "fair_odds": 4.517942040262399,
-          "bookmaker_odds": 3.7,
+          "bookmaker_odds": 3.75,
           "bookmaker_prices": {
-            "Betcha": 3.7,
-            "Best Available": 3.7
+            "Betcha": 3.75,
+            "Best Available": 3.75
           },
-          "ev": -0.18104305743038995
+          "ev": -0.16997607171998985
         },
         {
           "player": "Fletcher Sharpe",
@@ -351,12 +351,12 @@
           "team": "Newcastle Knights",
           "probability": 0.21492885753177135,
           "fair_odds": 4.652702347576464,
-          "bookmaker_odds": 3.1,
+          "bookmaker_odds": 3.15,
           "bookmaker_prices": {
-            "Betcha": 3.1,
-            "Best Available": 3.1
+            "Betcha": 3.15,
+            "Best Available": 3.15
           },
-          "ev": -0.3337205416515088
+          "ev": -0.3229740987749202
         },
         {
           "player": "Angus Crichton",
@@ -452,12 +452,12 @@
           "team": "Newcastle Knights",
           "probability": 0.11948270973820109,
           "fair_odds": 8.369411793481273,
-          "bookmaker_odds": 6.75,
+          "bookmaker_odds": 6.8,
           "bookmaker_prices": {
-            "Betcha": 6.75,
-            "Best Available": 6.75
+            "Betcha": 6.8,
+            "Best Available": 6.8
           },
-          "ev": -0.19349170926714265
+          "ev": -0.1875175737802326
         },
         {
           "player": "Francis Manuleleua",
@@ -489,14 +489,14 @@
           "player": "Spencer Leniu",
           "nrl_player_id": 505560,
           "team": "Sydney Roosters",
-          "probability": 0.08778850546707377,
-          "fair_odds": 11.391012919966647,
-          "bookmaker_odds": 13.0,
+          "probability": 0.08999884777182178,
+          "fair_odds": 11.111253363324673,
+          "bookmaker_odds": 14.0,
           "bookmaker_prices": {
-            "Betcha": 13.0,
-            "Best Available": 13.0
+            "Betcha": 14.0,
+            "Best Available": 14.0
           },
-          "ev": 0.14125057107195893
+          "ev": 0.25998386880550495
         },
         {
           "player": "Sandon Smith",
@@ -556,12 +556,12 @@
           "team": "Sydney Roosters",
           "probability": 0.0821940225100128,
           "fair_odds": 12.166334843609594,
-          "bookmaker_odds": 11.5,
+          "bookmaker_odds": 12.0,
           "bookmaker_prices": {
-            "Betcha": 11.5,
-            "Best Available": 11.5
+            "Betcha": 12.0,
+            "Best Available": 12.0
           },
-          "ev": -0.05476874113485275
+          "ev": -0.013671729879846328
         },
         {
           "player": "Phoenix Crossland",
@@ -579,12 +579,12 @@
           "team": "Newcastle Knights",
           "probability": 0.0770914818253037,
           "fair_odds": 12.971601742798132,
-          "bookmaker_odds": 10.0,
+          "bookmaker_odds": 6.5,
           "bookmaker_prices": {
-            "Betcha": 10.0,
-            "Best Available": 10.0
+            "Betcha": 6.5,
+            "Best Available": 6.5
           },
-          "ev": -0.22908518174696302
+          "ev": -0.4989053681355259
         },
         {
           "player": "Lachlan Crouch",
@@ -618,12 +618,12 @@
           "team": "Newcastle Knights",
           "probability": 0.03684736987666486,
           "fair_odds": 27.13897907359982,
-          "bookmaker_odds": 13.0,
+          "bookmaker_odds": 14.0,
           "bookmaker_prices": {
-            "Betcha": 13.0,
-            "Best Available": 13.0
+            "Betcha": 14.0,
+            "Best Available": 14.0
           },
-          "ev": -0.5209841916033568
+          "ev": -0.48413682172669203
         }
       ],
       "player_matchups": [
@@ -3867,7 +3867,7 @@
             "nrl_player_id": 505560,
             "player_name": "Spencer Leniu",
             "team": "Sydney Roosters",
-            "position": "Reserve",
+            "position": "Interchange",
             "jersey_number": 17,
             "is_reserve": 0,
             "profile": {
@@ -4114,7 +4114,7 @@
             "nrl_player_id": 100008414,
             "player_name": "Fletcher Hunt",
             "team": "Newcastle Knights",
-            "position": "Reserve",
+            "position": "Interchange",
             "jersey_number": 18,
             "is_reserve": 1,
             "profile": {
@@ -4271,7 +4271,7 @@
             "nrl_player_id": 509404,
             "player_name": "Cody Ramsey",
             "team": "Sydney Roosters",
-            "position": "Reserve",
+            "position": "Interchange",
             "jersey_number": 19,
             "is_reserve": 1,
             "profile": {
@@ -4316,7 +4316,7 @@
             "nrl_player_id": 509527,
             "player_name": "Thomas Cant",
             "team": "Newcastle Knights",
-            "position": "Reserve",
+            "position": "Interchange",
             "jersey_number": 19,
             "is_reserve": 1,
             "profile": {
@@ -4464,6 +4464,612 @@
             "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
           },
           "summary": "Bench players are shown together for completeness; this is not claimed as a direct defensive matchup."
+        },
+        {
+          "kind": "reserve",
+          "home_role": "Reserve / Extended",
+          "away_role": "Reserve / Extended",
+          "home": {
+            "nrl_player_id": 100007527,
+            "player_name": "Benaiah Ioelu",
+            "team": "Sydney Roosters",
+            "position": "Reserve",
+            "jersey_number": 20,
+            "is_reserve": 1,
+            "profile": {
+              "height_cm": 180.0,
+              "weight_kg": 91.0,
+              "date_of_birth": "23 February 2004",
+              "birthplace": "Auckland, NZ",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/roosters/benaiah-ioelu/",
+              "captured_at": "2026-09-23 07:52:53"
+            },
+            "stats": {
+              "appearances": 5.0,
+              "tries": 0.0,
+              "try_assists": 1.0,
+              "line_breaks": null,
+              "line_break_assists": 0.0,
+              "tackle_breaks": null,
+              "avg_running_metres": 27.0,
+              "tackles": 151.0,
+              "total_running_metres": 135.0,
+              "post_contact_metres": null,
+              "avg_hit_ups": null,
+              "receipts": 297.0,
+              "missed_tackles": null,
+              "offloads": 0.0,
+              "forced_drop_outs": 0.0,
+              "avg_kicking_metres": 43.4
+            },
+            "indicators": {
+              "tries_per_game": 0.0,
+              "line_breaks_per_game": null,
+              "tackle_breaks_per_game": null,
+              "try_assists_per_game": 0.2,
+              "line_break_assists_per_game": 0.0,
+              "offloads_per_game": 0.0,
+              "post_contact_metres_per_game": null,
+              "missed_tackles_per_game": null,
+              "tackle_efficiency": 1.0
+            }
+          },
+          "away": {
+            "nrl_player_id": 100006946,
+            "player_name": "Kyle McCarthy",
+            "team": "Newcastle Knights",
+            "position": "Reserve",
+            "jersey_number": 20,
+            "is_reserve": 1,
+            "profile": {
+              "height_cm": 193.0,
+              "weight_kg": 93.0,
+              "date_of_birth": "10 March 2004",
+              "birthplace": "Hong Kong",
+              "source_url": "https://www.newcastleknights.com.au/teams/nrl-premiership/newcastle-knights/kyle-mccarthy/",
+              "captured_at": "2026-09-23 07:58:33"
+            },
+            "stats": {
+              "appearances": 6.0,
+              "tries": 1.0,
+              "try_assists": null,
+              "line_breaks": null,
+              "line_break_assists": null,
+              "tackle_breaks": null,
+              "avg_running_metres": null,
+              "tackles": null,
+              "total_running_metres": null,
+              "post_contact_metres": null,
+              "avg_hit_ups": null,
+              "receipts": null,
+              "missed_tackles": null,
+              "offloads": null,
+              "forced_drop_outs": null,
+              "avg_kicking_metres": null
+            },
+            "indicators": {
+              "tries_per_game": 0.16666666666666666,
+              "line_breaks_per_game": null,
+              "tackle_breaks_per_game": null,
+              "try_assists_per_game": null,
+              "line_break_assists_per_game": null,
+              "offloads_per_game": null,
+              "post_contact_metres_per_game": null,
+              "missed_tackles_per_game": null,
+              "tackle_efficiency": null
+            }
+          },
+          "comparison": [
+            {
+              "category": "Physical",
+              "label": "Height",
+              "home": 180.0,
+              "away": 193.0,
+              "edge": "away",
+              "unit": "cm"
+            },
+            {
+              "category": "Physical",
+              "label": "Weight",
+              "home": 91.0,
+              "away": 93.0,
+              "edge": "even",
+              "unit": "kg"
+            },
+            {
+              "category": "Finishing",
+              "label": "Tries / game",
+              "home": 0.0,
+              "away": 0.16666666666666666,
+              "edge": "away",
+              "unit": ""
+            },
+            {
+              "category": "Evasion",
+              "label": "Line breaks / game",
+              "home": null,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Evasion",
+              "label": "Tackle breaks / game",
+              "home": null,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Work rate",
+              "label": "Avg run metres",
+              "home": 27.0,
+              "away": null,
+              "edge": "even",
+              "unit": "m"
+            },
+            {
+              "category": "Power",
+              "label": "Post-contact m / game",
+              "home": null,
+              "away": null,
+              "edge": "even",
+              "unit": "m"
+            },
+            {
+              "category": "Creation",
+              "label": "Try assists / game",
+              "home": 0.2,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Creation",
+              "label": "LB assists / game",
+              "home": 0.0,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Creation",
+              "label": "Offloads / game",
+              "home": 0.0,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Defence",
+              "label": "Tackle efficiency",
+              "home": 1.0,
+              "away": null,
+              "edge": "even",
+              "unit": "%"
+            },
+            {
+              "category": "Defence",
+              "label": "Missed tackles / game",
+              "home": null,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            }
+          ],
+          "one_on_one": {
+            "side": "away",
+            "player": "Kyle McCarthy",
+            "home_score": 0,
+            "away_score": 2.25,
+            "available_stats": 8,
+            "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
+          },
+          "summary": "Bench players are shown together for completeness; this is not claimed as a direct defensive matchup."
+        },
+        {
+          "kind": "reserve",
+          "home_role": "Reserve / Extended",
+          "away_role": "Reserve / Extended",
+          "home": {
+            "nrl_player_id": 505642,
+            "player_name": "Tommy Talau",
+            "team": "Sydney Roosters",
+            "position": "Reserve",
+            "jersey_number": 21,
+            "is_reserve": 1,
+            "profile": {
+              "height_cm": 189.0,
+              "weight_kg": 92.0,
+              "date_of_birth": "30 April 2000",
+              "birthplace": "Sydney, NSW",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/roosters/tommy-talau/",
+              "captured_at": "2026-09-23 07:55:11"
+            },
+            "stats": {
+              "appearances": 5.0,
+              "tries": 1.0,
+              "try_assists": 1.0,
+              "line_breaks": 3.0,
+              "line_break_assists": null,
+              "tackle_breaks": 15.0,
+              "avg_running_metres": 133.0,
+              "tackles": 39.0,
+              "total_running_metres": 665.0,
+              "post_contact_metres": null,
+              "avg_hit_ups": null,
+              "receipts": 98.0,
+              "missed_tackles": 3.0,
+              "offloads": null,
+              "forced_drop_outs": null,
+              "avg_kicking_metres": null
+            },
+            "indicators": {
+              "tries_per_game": 0.2,
+              "line_breaks_per_game": 0.6,
+              "tackle_breaks_per_game": 3.0,
+              "try_assists_per_game": 0.2,
+              "line_break_assists_per_game": null,
+              "offloads_per_game": null,
+              "post_contact_metres_per_game": null,
+              "missed_tackles_per_game": 0.6,
+              "tackle_efficiency": 0.9285714285714286
+            }
+          },
+          "away": {
+            "nrl_player_id": 100013938,
+            "player_name": "Diesel Hagan",
+            "team": "Newcastle Knights",
+            "position": "Reserve",
+            "jersey_number": 21,
+            "is_reserve": 1,
+            "profile": {
+              "height_cm": null,
+              "weight_kg": null,
+              "date_of_birth": null,
+              "birthplace": null,
+              "source_url": "https://www.nrl.com/players/nrl-premiership/knights/diesel-hagan/",
+              "captured_at": "2026-09-23 07:53:18"
+            },
+            "stats": {
+              "appearances": 2.0,
+              "tries": 0.0,
+              "try_assists": null,
+              "line_breaks": 0.0,
+              "line_break_assists": null,
+              "tackle_breaks": 0.0,
+              "avg_running_metres": 0.0,
+              "tackles": null,
+              "total_running_metres": null,
+              "post_contact_metres": null,
+              "avg_hit_ups": null,
+              "receipts": null,
+              "missed_tackles": null,
+              "offloads": null,
+              "forced_drop_outs": null,
+              "avg_kicking_metres": null
+            },
+            "indicators": {
+              "tries_per_game": 0.0,
+              "line_breaks_per_game": 0.0,
+              "tackle_breaks_per_game": 0.0,
+              "try_assists_per_game": null,
+              "line_break_assists_per_game": null,
+              "offloads_per_game": null,
+              "post_contact_metres_per_game": null,
+              "missed_tackles_per_game": null,
+              "tackle_efficiency": null
+            }
+          },
+          "comparison": [
+            {
+              "category": "Physical",
+              "label": "Height",
+              "home": 189.0,
+              "away": null,
+              "edge": "even",
+              "unit": "cm"
+            },
+            {
+              "category": "Physical",
+              "label": "Weight",
+              "home": 92.0,
+              "away": null,
+              "edge": "even",
+              "unit": "kg"
+            },
+            {
+              "category": "Finishing",
+              "label": "Tries / game",
+              "home": 0.2,
+              "away": 0.0,
+              "edge": "home",
+              "unit": ""
+            },
+            {
+              "category": "Evasion",
+              "label": "Line breaks / game",
+              "home": 0.6,
+              "away": 0.0,
+              "edge": "home",
+              "unit": ""
+            },
+            {
+              "category": "Evasion",
+              "label": "Tackle breaks / game",
+              "home": 3.0,
+              "away": 0.0,
+              "edge": "home",
+              "unit": ""
+            },
+            {
+              "category": "Work rate",
+              "label": "Avg run metres",
+              "home": 133.0,
+              "away": 0.0,
+              "edge": "home",
+              "unit": "m"
+            },
+            {
+              "category": "Power",
+              "label": "Post-contact m / game",
+              "home": null,
+              "away": null,
+              "edge": "even",
+              "unit": "m"
+            },
+            {
+              "category": "Creation",
+              "label": "Try assists / game",
+              "home": 0.2,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Creation",
+              "label": "LB assists / game",
+              "home": null,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Creation",
+              "label": "Offloads / game",
+              "home": null,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Defence",
+              "label": "Tackle efficiency",
+              "home": 0.9285714285714286,
+              "away": null,
+              "edge": "even",
+              "unit": "%"
+            },
+            {
+              "category": "Defence",
+              "label": "Missed tackles / game",
+              "home": 0.6,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            }
+          ],
+          "one_on_one": {
+            "side": "home",
+            "player": "Tommy Talau",
+            "home_score": 5.0,
+            "away_score": 0,
+            "available_stats": 9,
+            "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
+          },
+          "summary": "Bench players are shown together for completeness; this is not claimed as a direct defensive matchup."
+        },
+        {
+          "kind": "reserve",
+          "home_role": "Reserve / Extended",
+          "away_role": "Reserve / Extended",
+          "home": {
+            "nrl_player_id": 504678,
+            "player_name": "Egan Butcher",
+            "team": "Sydney Roosters",
+            "position": "Reserve",
+            "jersey_number": 22,
+            "is_reserve": 1,
+            "profile": {
+              "height_cm": 187.0,
+              "weight_kg": 96.0,
+              "date_of_birth": "05 August 2000",
+              "birthplace": "Sydney, NSW",
+              "source_url": "https://www.nrl.com/players/nrl-premiership/roosters/egan-butcher/",
+              "captured_at": "2026-09-23 07:53:23"
+            },
+            "stats": {
+              "appearances": 17.0,
+              "tries": 1.0,
+              "try_assists": null,
+              "line_breaks": null,
+              "line_break_assists": null,
+              "tackle_breaks": 13.0,
+              "avg_running_metres": 54.0,
+              "tackles": 296.0,
+              "total_running_metres": 931.0,
+              "post_contact_metres": 338.2,
+              "avg_hit_ups": 4.8,
+              "receipts": null,
+              "missed_tackles": null,
+              "offloads": 3.0,
+              "forced_drop_outs": null,
+              "avg_kicking_metres": null
+            },
+            "indicators": {
+              "tries_per_game": 0.058823529411764705,
+              "line_breaks_per_game": null,
+              "tackle_breaks_per_game": 0.7647058823529411,
+              "try_assists_per_game": null,
+              "line_break_assists_per_game": null,
+              "offloads_per_game": 0.17647058823529413,
+              "post_contact_metres_per_game": 19.894117647058824,
+              "missed_tackles_per_game": null,
+              "tackle_efficiency": 1.0
+            }
+          },
+          "away": {
+            "nrl_player_id": 100014185,
+            "player_name": "Elijah Salesa-Leaumoana",
+            "team": "Newcastle Knights",
+            "position": "Reserve",
+            "jersey_number": 22,
+            "is_reserve": 1,
+            "profile": {
+              "height_cm": 189.0,
+              "weight_kg": 100.0,
+              "date_of_birth": "01 May 2004",
+              "birthplace": "Motootua, Samoa",
+              "source_url": "https://www.newcastleknights.com.au/teams/nrl-premiership/newcastle-knights/elijah-salesa-leaumoana/",
+              "captured_at": "2026-09-23 07:58:27"
+            },
+            "stats": {
+              "appearances": 2.0,
+              "tries": 0.0,
+              "try_assists": null,
+              "line_breaks": 0.0,
+              "line_break_assists": 0.0,
+              "tackle_breaks": null,
+              "avg_running_metres": 31.0,
+              "tackles": 25.0,
+              "total_running_metres": 63.0,
+              "post_contact_metres": null,
+              "avg_hit_ups": null,
+              "receipts": null,
+              "missed_tackles": null,
+              "offloads": 1.0,
+              "forced_drop_outs": null,
+              "avg_kicking_metres": null
+            },
+            "indicators": {
+              "tries_per_game": 0.0,
+              "line_breaks_per_game": 0.0,
+              "tackle_breaks_per_game": null,
+              "try_assists_per_game": null,
+              "line_break_assists_per_game": 0.0,
+              "offloads_per_game": 0.5,
+              "post_contact_metres_per_game": null,
+              "missed_tackles_per_game": null,
+              "tackle_efficiency": 1.0
+            }
+          },
+          "comparison": [
+            {
+              "category": "Physical",
+              "label": "Height",
+              "home": 187.0,
+              "away": 189.0,
+              "edge": "even",
+              "unit": "cm"
+            },
+            {
+              "category": "Physical",
+              "label": "Weight",
+              "home": 96.0,
+              "away": 100.0,
+              "edge": "even",
+              "unit": "kg"
+            },
+            {
+              "category": "Finishing",
+              "label": "Tries / game",
+              "home": 0.058823529411764705,
+              "away": 0.0,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Evasion",
+              "label": "Line breaks / game",
+              "home": null,
+              "away": 0.0,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Evasion",
+              "label": "Tackle breaks / game",
+              "home": 0.7647058823529411,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Work rate",
+              "label": "Avg run metres",
+              "home": 54.0,
+              "away": 31.0,
+              "edge": "home",
+              "unit": "m"
+            },
+            {
+              "category": "Power",
+              "label": "Post-contact m / game",
+              "home": 19.894117647058824,
+              "away": null,
+              "edge": "even",
+              "unit": "m"
+            },
+            {
+              "category": "Creation",
+              "label": "Try assists / game",
+              "home": null,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Creation",
+              "label": "LB assists / game",
+              "home": null,
+              "away": 0.0,
+              "edge": "even",
+              "unit": ""
+            },
+            {
+              "category": "Creation",
+              "label": "Offloads / game",
+              "home": 0.17647058823529413,
+              "away": 0.5,
+              "edge": "away",
+              "unit": ""
+            },
+            {
+              "category": "Defence",
+              "label": "Tackle efficiency",
+              "home": 1.0,
+              "away": 1.0,
+              "edge": "even",
+              "unit": "%"
+            },
+            {
+              "category": "Defence",
+              "label": "Missed tackles / game",
+              "home": null,
+              "away": null,
+              "edge": "even",
+              "unit": ""
+            }
+          ],
+          "one_on_one": {
+            "side": "home",
+            "player": "Egan Butcher",
+            "home_score": 1.0,
+            "away_score": 0.75,
+            "available_stats": 10,
+            "basis": "Weighted statistical matchup lean from available official indicators; not a guarantee."
+          },
+          "summary": "Bench players are shown together for completeness; this is not claimed as a direct defensive matchup."
         }
       ],
       "recommended_ats_matchups": [
@@ -4474,12 +5080,12 @@
             "team": "Sydney Roosters",
             "probability": 0.68,
             "fair_odds": 1.4705882352941175,
-            "bookmaker_odds": 1.8,
+            "bookmaker_odds": 1.82,
             "bookmaker_prices": {
-              "Betcha": 1.8,
-              "Best Available": 1.8
+              "Betcha": 1.82,
+              "Best Available": 1.82
             },
-            "ev": 0.2240000000000002
+            "ev": 0.23760000000000003
           },
           "matchup": {
             "kind": "starter",
@@ -4904,9 +5510,9 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.3458,
-        "fair_odds": 2.891844997108155,
-        "singles_product_odds": 3.492,
+        "probability": 0.34716,
+        "fair_odds": 2.8805161885009793,
+        "singles_product_odds": 3.5308,
         "target_met": false,
         "legs": [
           {
@@ -4914,7 +5520,7 @@
             "team": "Sydney Roosters",
             "probability": 0.68,
             "fair_odds": 1.4705882352941175,
-            "market_odds": 1.8
+            "market_odds": 1.82
           },
           {
             "player": "Daniel Tupou",
@@ -5032,9 +5638,9 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.3458,
-          "fair_odds": 2.891844997108155,
-          "singles_product_odds": 3.492,
+          "probability": 0.34716,
+          "fair_odds": 2.8805161885009793,
+          "singles_product_odds": 3.5308,
           "target_met": false,
           "legs": [
             {
@@ -5042,7 +5648,7 @@
               "team": "Sydney Roosters",
               "probability": 0.68,
               "fair_odds": 1.4705882352941175,
-              "market_odds": 1.8
+              "market_odds": 1.82
             },
             {
               "player": "Daniel Tupou",
@@ -5063,9 +5669,9 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.3458,
-          "fair_odds": 2.891844997108155,
-          "singles_product_odds": 3.492,
+          "probability": 0.34716,
+          "fair_odds": 2.8805161885009793,
+          "singles_product_odds": 3.5308,
           "target_met": false,
           "legs": [
             {
@@ -5073,7 +5679,7 @@
               "team": "Sydney Roosters",
               "probability": 0.68,
               "fair_odds": 1.4705882352941175,
-              "market_odds": 1.8
+              "market_odds": 1.82
             },
             {
               "player": "Daniel Tupou",
@@ -5104,7 +5710,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "d28617eee64f0a05"
+      "summary_id": "1a2b03d4582e8fb6"
     }
   ]
 }
