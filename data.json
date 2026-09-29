@@ -9,9 +9,9 @@
   "default_bookmaker": "Betcha",
   "round": 31,
   "round_label": "Grand Final",
-  "generated_at": "Tue 29 Sep 2026, 7:39 PM NZT",
-  "generated_at_iso": "2026-09-29T19:39:26.776156+13:00",
-  "engine_version": "1.68.9",
+  "generated_at": "Tue 29 Sep 2026, 8:05 PM NZT",
+  "generated_at_iso": "2026-09-29T20:05:42.938451+13:00",
+  "engine_version": "1.68.8",
   "fixtures": [
     {
       "status": "upcoming",
@@ -20,14 +20,14 @@
       "away_team": "Newcastle Knights",
       "kickoff": "Sun 4 Oct, 9:30 PM NZT",
       "venue": "Accor Stadium",
-      "home_win_probability": 0.6868806501700018,
-      "away_win_probability": 0.31311934982999823,
-      "independent_home_win_probability": 0.6868806501700018,
-      "independent_away_win_probability": 0.31311934982999823,
-      "home_fair_odds": 1.455856996048006,
-      "away_fair_odds": 3.1936704024932654,
-      "home_conservative_fair_odds": 1.5052797172989363,
-      "away_conservative_fair_odds": 2.9791018039387773,
+      "home_win_probability": 0.6868158534760908,
+      "away_win_probability": 0.31318414652390925,
+      "independent_home_win_probability": 0.6868158534760908,
+      "independent_away_win_probability": 0.31318414652390925,
+      "home_fair_odds": 1.4559943468672594,
+      "away_fair_odds": 3.1930096433653854,
+      "home_conservative_fair_odds": 1.5053016050191328,
+      "away_conservative_fair_odds": 2.979016076867866,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
@@ -40,8 +40,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T06:39:10.139380+00:00",
-          "snapshot_id": "be5c3c3342ca0820bf8dab9f",
+          "observed_at": "2026-09-29T06:55:17.603137+00:00",
+          "snapshot_id": "67915102f9f3600dc985468a",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": []
         },
@@ -55,7 +55,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T06:39:10.139380+00:00",
+          "observed_at": "2026-09-29T06:55:17.603137+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -78,18 +78,18 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T06:39:10.139380+00:00",
-          "snapshot_id": "be5c3c3342ca0820bf8dab9f",
+          "observed_at": "2026-09-29T06:55:17.603137+00:00",
+          "snapshot_id": "67915102f9f3600dc985468a",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": [],
-          "home_cover_probability": 0.4909143885977505,
-          "away_cover_probability": 0.5090856114022495,
-          "over_probability": 0.575424444344147,
-          "under_probability": 0.42457555565585303,
-          "home_line_fair_odds": 2.037015054409799,
-          "away_line_fair_odds": 1.9643061551976546,
-          "over_fair_odds": 1.7378476181000142,
-          "under_fair_odds": 2.355293390490354
+          "home_cover_probability": 0.4908414552060275,
+          "away_cover_probability": 0.5091585447939725,
+          "over_probability": 0.5788555468622094,
+          "under_probability": 0.4211444531377906,
+          "home_line_fair_odds": 2.037317731405259,
+          "away_line_fair_odds": 1.9640247821130905,
+          "over_fair_odds": 1.7275467176926607,
+          "under_fair_odds": 2.374482181943445
         },
         "Best Available": {
           "home_h2h": 1.44,
@@ -101,65 +101,65 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-09-29T06:39:10.139380+00:00",
+          "observed_at": "2026-09-29T06:55:17.603137+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
-          "home_cover_probability": 0.4909143885977505,
-          "away_cover_probability": 0.5090856114022495,
-          "over_probability": 0.575424444344147,
-          "under_probability": 0.42457555565585303,
-          "home_line_fair_odds": 2.037015054409799,
-          "away_line_fair_odds": 1.9643061551976546,
-          "over_fair_odds": 1.7378476181000142,
-          "under_fair_odds": 2.355293390490354
+          "home_cover_probability": 0.4908414552060275,
+          "away_cover_probability": 0.5091585447939725,
+          "over_probability": 0.5788555468622094,
+          "under_probability": 0.4211444531377906,
+          "home_line_fair_odds": 2.037317731405259,
+          "away_line_fair_odds": 1.9640247821130905,
+          "over_fair_odds": 1.7275467176926607,
+          "under_fair_odds": 2.374482181943445
         }
       },
       "home_bookmaker_odds": 1.44,
       "away_bookmaker_odds": 2.8,
-      "home_h2h_ev": -0.010891863755197462,
-      "away_h2h_ev": -0.12326582047600498,
+      "home_h2h_ev": -0.010985170994429305,
+      "away_h2h_ev": -0.12308438973305413,
       "winner": "Sydney Roosters",
-      "home_points": 25.59111238292988,
-      "away_points": 19.38150918152151,
+      "home_points": 25.646918449586178,
+      "away_points": 19.43964677321166,
       "likely_home_points": 26,
       "likely_away_points": 20,
-      "projected_margin": 6.20960320140837,
-      "projected_total": 44.97262156445139,
-      "close_game_probability": 0.4247599199647907,
-      "fav_1_12_probability": 0.6147599199647907,
-      "fav_13_plus_probability": 0.38524008003520926,
-      "high_scoring_probability": 0.5865417547557985,
+      "projected_margin": 6.207271676374518,
+      "projected_total": 45.08656522279784,
+      "close_game_probability": 0.424818208090637,
+      "fav_1_12_probability": 0.614818208090637,
+      "fav_13_plus_probability": 0.38518179190936297,
+      "high_scoring_probability": 0.5905297827979243,
       "margin_probabilities": {
-        "Sydney Roosters 1-12": 0.36197801795793005,
-        "Sydney Roosters 13+": 0.3108775466209279,
-        "Newcastle Knights 1-12": 0.22822861788636933,
-        "Newcastle Knights 13+": 0.07113093774225117
+        "Sydney Roosters 1-12": 0.36197661275368087,
+        "Sydney Roosters 13+": 0.31081295667962516,
+        "Newcastle Knights 1-12": 0.2282672795908558,
+        "Newcastle Knights 13+": 0.07115579827944207
       },
-      "margin_remainder_probability": 0.027784879792521533,
+      "margin_remainder_probability": 0.027787352696396095,
       "market_line": -6.5,
       "home_line_odds": 1.9,
       "away_line": 6.5,
       "away_line_odds": 1.9,
-      "home_cover_probability": 0.4909143885977505,
-      "away_cover_probability": 0.5090856114022495,
-      "home_line_fair_odds": 2.037015054409799,
-      "away_line_fair_odds": 1.9643061551976546,
-      "home_line_ev": -0.06726266166427408,
-      "away_line_ev": -0.03273733833572601,
+      "home_cover_probability": 0.4908414552060275,
+      "away_cover_probability": 0.5091585447939725,
+      "home_line_fair_odds": 2.037317731405259,
+      "away_line_fair_odds": 1.9640247821130905,
+      "home_line_ev": -0.06740123510854779,
+      "away_line_ev": -0.0325987648914523,
       "market_total": 42.5,
       "over_odds": 1.9,
       "under_odds": 1.9,
-      "over_probability": 0.575424444344147,
-      "under_probability": 0.42457555565585303,
-      "over_ev": 0.09330644425387913,
-      "under_ev": -0.19330644425387933,
+      "over_probability": 0.5788555468622094,
+      "under_probability": 0.4211444531377906,
+      "over_ev": 0.09982553903819791,
+      "under_ev": -0.19982553903819789,
       "confidence": "Developing",
-      "confidence_score": 55,
+      "confidence_score": 58,
       "data_quality": "Developing",
       "prediction_strength_score": 65,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-09-29T06:39:10.139380+00:00",
+      "bookmaker_observed_at": "2026-09-29T06:55:17.603137+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -167,10 +167,10 @@
         "availability_margin": 0.9049095521134554,
         "availability_total": -1.671915183686084,
         "weather_total": 0.05792107059088483,
-        "referee_margin": 0.0,
-        "referee_total": 0.0,
+        "referee_margin": -0.09392979050027102,
+        "referee_total": 0.11394365834644528,
         "late_season_margin": 1.9865455829294718,
-        "controlled_context_margin": 3.549541032177248
+        "controlled_context_margin": 3.547209507143393
       },
       "drivers": [
         "Point-in-time scoring base: Sydney Roosters 26.3 PF / 20.2 PA from 70 prior games; Newcastle Knights 22.6 PF / 23.3 PA from 70 prior games.",
@@ -182,11 +182,12 @@
         "Opponent-adjusted h175_s4p0 team strength is active.",
         "Availability applied from the Data & Context snapshot: 2 Sydney Roosters absence(s), 2 Newcastle Knights absence(s); replacement-adjusted score effects -0.38/-1.29; net pre-team margin swing +0.90 pts.",
         "Weather Fine / Dry: scoring +1.0% vs NRL across 1312 games; Accor Stadium in fine / dry conditions -1.5% vs its own baseline across 113 games. Sample-shrunk forecast effect +0.1 points.",
+        "Referee Adam Gee environment: stoppages +6.3% vs NRL, historical scoring +0.8% vs NRL and home-win environment -0.8% vs NRL; conservative adjustments +0.1 total points and -0.1 home-margin points.",
         "Late-season elite interaction input: Applied +1.99 home-margin points: Sydney Roosters elite effect +0.98 (n=46) active; Newcastle Knights elite effect -1.00 (n=40) active.",
         "Stacked-advantage control: learned context +2.64, live availability +0.90, final downstream adjustment +3.55; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 65/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 14.9% of the +2.7pp raw market disagreement, leaving +0.4pp of betting edge."
+        "Market-relative H2H calibration retains 14.9% of the +2.6pp raw market disagreement, leaving +0.4pp of betting edge."
       ],
       "ats_players": [
         {
@@ -206,216 +207,216 @@
           "player": "Daniel Tupou",
           "nrl_player_id": 500002,
           "team": "Sydney Roosters",
-          "probability": 0.4934430563633011,
-          "fair_odds": 2.0265762930581044,
+          "probability": 0.49402987773203516,
+          "fair_odds": 2.0241690737223106,
           "bookmaker_odds": 1.94,
           "bookmaker_prices": {
             "Betcha": 1.94,
             "Best Available": 1.94
           },
-          "ev": -0.04272047065519591
+          "ev": -0.04158203719985176
         },
         {
           "player": "James Tedesco",
           "nrl_player_id": 500663,
           "team": "Sydney Roosters",
-          "probability": 0.4145064803735399,
-          "fair_odds": 2.412507517611865,
+          "probability": 0.414499366611871,
+          "fair_odds": 2.412548921784916,
           "bookmaker_odds": 2.4,
           "bookmaker_prices": {
             "Betcha": 2.4,
             "Best Available": 2.4
           },
-          "ev": -0.005184447103504297
+          "ev": -0.0052015201315096515
         },
         {
           "player": "Billy Smith",
           "nrl_player_id": 509128,
           "team": "Sydney Roosters",
-          "probability": 0.35864529291462405,
-          "fair_odds": 2.788270248504422,
+          "probability": 0.35898140704548,
+          "fair_odds": 2.78565959231785,
           "bookmaker_odds": 3.2,
           "bookmaker_prices": {
             "Betcha": 3.2,
             "Best Available": 3.2
           },
-          "ev": 0.14766493732679709
+          "ev": 0.14874050254553595
         },
         {
           "player": "Robert Toia",
           "nrl_player_id": 100008243,
           "team": "Sydney Roosters",
-          "probability": 0.35741111313707236,
-          "fair_odds": 2.7978984515136927,
-          "bookmaker_odds": 2.55,
+          "probability": 0.3577514515397595,
+          "fair_odds": 2.7952367368350504,
+          "bookmaker_odds": 2.6,
           "bookmaker_prices": {
-            "Betcha": 2.55,
-            "Best Available": 2.55
+            "Betcha": 2.6,
+            "Best Available": 2.6
           },
-          "ev": -0.08860166150046556
+          "ev": -0.06984622599662527
         },
         {
           "player": "Dominic Young",
           "nrl_player_id": 100008071,
           "team": "Newcastle Knights",
-          "probability": 0.3117674267627289,
-          "fair_odds": 3.2075191766619406,
+          "probability": 0.3120747871606689,
+          "fair_odds": 3.2043601121969494,
           "bookmaker_odds": 2.45,
           "bookmaker_prices": {
             "Betcha": 2.45,
             "Best Available": 2.45
           },
-          "ev": -0.2361698044313142
+          "ev": -0.2354167714563612
         },
         {
           "player": "Greg Marzhew",
           "nrl_player_id": 504325,
           "team": "Newcastle Knights",
-          "probability": 0.2966446645693817,
-          "fair_odds": 3.371036527663931,
+          "probability": 0.29690660480995473,
+          "fair_odds": 3.368062494399828,
           "bookmaker_odds": 2.45,
           "bookmaker_prices": {
             "Betcha": 2.45,
             "Best Available": 2.45
           },
-          "ev": -0.2732205718050148
+          "ev": -0.2725788182156108
         },
         {
           "player": "Daly Cherry-Evans",
           "nrl_player_id": 500024,
           "team": "Sydney Roosters",
-          "probability": 0.25645056007236533,
-          "fair_odds": 3.899387077641084,
+          "probability": 0.25665087816754306,
+          "fair_odds": 3.896343574352372,
           "bookmaker_odds": 4.5,
           "bookmaker_prices": {
             "Betcha": 4.5,
             "Best Available": 4.5
           },
-          "ev": 0.15402752032564404
+          "ev": 0.15492895175394383
         },
         {
           "player": "Sam Walker",
           "nrl_player_id": 100004843,
           "team": "Sydney Roosters",
-          "probability": 0.23168482431425513,
-          "fair_odds": 4.3162084653572705,
+          "probability": 0.23186851088098892,
+          "fair_odds": 4.312789158823165,
           "bookmaker_odds": 3.9,
           "bookmaker_prices": {
             "Betcha": 3.9,
             "Best Available": 3.9
           },
-          "ev": -0.09642918517440502
+          "ev": -0.09571280756414324
         },
         {
           "player": "Siua Wong",
           "nrl_player_id": 100004373,
           "team": "Sydney Roosters",
-          "probability": 0.2278741029913634,
-          "fair_odds": 4.388388091813578,
+          "probability": 0.2280420031581442,
+          "fair_odds": 4.3851570594497575,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "Best Available": 7.0
           },
-          "ev": 0.5951187209395439
+          "ev": 0.5962940221070094
         },
         {
           "player": "Kalyn Ponga",
           "nrl_player_id": 504870,
           "team": "Newcastle Knights",
-          "probability": 0.22491535102815433,
-          "fair_odds": 4.4461171522028415,
+          "probability": 0.2250908143039367,
+          "fair_odds": 4.442651305395853,
           "bookmaker_odds": 3.6,
           "bookmaker_prices": {
             "Betcha": 3.6,
             "Best Available": 3.6
           },
-          "ev": -0.19030473629864442
+          "ev": -0.18967306850582788
         },
         {
           "player": "Bradman Best",
           "nrl_player_id": 506682,
           "team": "Newcastle Knights",
-          "probability": 0.2213397142080027,
-          "fair_odds": 4.517942040262399,
+          "probability": 0.22151418978340845,
+          "fair_odds": 4.514383484768074,
           "bookmaker_odds": 3.75,
           "bookmaker_prices": {
             "Betcha": 3.75,
             "Best Available": 3.75
           },
-          "ev": -0.16997607171998985
+          "ev": -0.16932178831221834
         },
         {
           "player": "Fletcher Sharpe",
           "nrl_player_id": 100006482,
           "team": "Newcastle Knights",
-          "probability": 0.21492885753177135,
-          "fair_odds": 4.652702347576464,
-          "bookmaker_odds": 3.15,
+          "probability": 0.21511799159354464,
+          "fair_odds": 4.648611641417019,
+          "bookmaker_odds": 3.25,
           "bookmaker_prices": {
-            "Betcha": 3.15,
-            "Best Available": 3.15
+            "Betcha": 3.25,
+            "Best Available": 3.25
           },
-          "ev": -0.3229740987749202
+          "ev": -0.30086652732097996
         },
         {
           "player": "Angus Crichton",
           "nrl_player_id": 503240,
           "team": "Sydney Roosters",
-          "probability": 0.20978476773356944,
-          "fair_odds": 4.7667903194478765,
+          "probability": 0.20994700080660106,
+          "fair_odds": 4.763106861055757,
           "bookmaker_odds": 7.5,
           "bookmaker_prices": {
             "Betcha": 7.5,
             "Best Available": 7.5
           },
-          "ev": 0.5733857580017707
+          "ev": 0.5746025060495079
         },
         {
           "player": "Salesi Foketi",
           "nrl_player_id": 100008234,
           "team": "Sydney Roosters",
-          "probability": 0.19957480974930958,
-          "fair_odds": 5.010652402756253,
+          "probability": 0.19971821862508057,
+          "fair_odds": 5.007054473469153,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "Best Available": 7.0
           },
-          "ev": 0.3970236682451671
+          "ev": 0.39802753037556404
         },
         {
           "player": "Dane Gagai",
           "nrl_player_id": 500043,
           "team": "Newcastle Knights",
-          "probability": 0.18605857923558275,
-          "fair_odds": 5.374651381884545,
+          "probability": 0.1861983206003379,
+          "fair_odds": 5.370617719729236,
           "bookmaker_odds": 4.25,
           "bookmaker_prices": {
             "Betcha": 4.25,
             "Best Available": 4.25
           },
-          "ev": -0.20925103824877334
+          "ev": -0.20865713744856396
         },
         {
           "player": "Reece Robson",
           "nrl_player_id": 503944,
           "team": "Sydney Roosters",
-          "probability": 0.1714128591549438,
-          "fair_odds": 5.833868036096861,
+          "probability": 0.1715463076960937,
+          "fair_odds": 5.829329779406096,
           "bookmaker_odds": 8.75,
           "bookmaker_prices": {
             "Betcha": 8.75,
             "Best Available": 8.75
           },
-          "ev": 0.4998625176057583
+          "ev": 0.5010301923408198
         },
         {
           "player": "Connor Watson",
           "nrl_player_id": 503327,
           "team": "Sydney Roosters",
-          "probability": 0.1522686415366289,
-          "fair_odds": 6.567340392010036,
+          "probability": 0.15239084114811946,
+          "fair_odds": 6.562074153971164,
           "bookmaker_odds": null,
           "bookmaker_prices": {},
           "ev": null
@@ -424,151 +425,151 @@
           "player": "Nat Butcher",
           "nrl_player_id": 503639,
           "team": "Sydney Roosters",
-          "probability": 0.14282203624689807,
-          "fair_odds": 7.001720646744517,
+          "probability": 0.14293612679405013,
+          "fair_odds": 6.996131925701698,
           "bookmaker_odds": 7.0,
           "bookmaker_prices": {
             "Betcha": 7.0,
             "Best Available": 7.0
           },
-          "ev": -0.0002457462717134762
+          "ev": 0.000552887558350923
         },
         {
           "player": "Victor Radley",
           "nrl_player_id": 503920,
           "team": "Sydney Roosters",
-          "probability": 0.12857683504979042,
-          "fair_odds": 7.77745073296257,
+          "probability": 0.12867896138016094,
+          "fair_odds": 7.77127814270791,
           "bookmaker_odds": 9.5,
           "bookmaker_prices": {
             "Betcha": 9.5,
             "Best Available": 9.5
           },
-          "ev": 0.22147993297300905
+          "ev": 0.22245013311152895
         },
         {
           "player": "Dylan Lucas",
           "nrl_player_id": 505582,
           "team": "Newcastle Knights",
-          "probability": 0.11948270973820109,
-          "fair_odds": 8.369411793481273,
+          "probability": 0.11958478786539575,
+          "fair_odds": 8.3622676249223,
           "bookmaker_odds": 6.8,
           "bookmaker_prices": {
             "Betcha": 6.8,
             "Best Available": 6.8
           },
-          "ev": -0.1875175737802326
+          "ev": -0.1868234425153089
         },
         {
           "player": "Francis Manuleleua",
           "nrl_player_id": 100013721,
           "team": "Newcastle Knights",
-          "probability": 0.11487069263753158,
-          "fair_odds": 8.70544067454566,
-          "bookmaker_odds": 6.6,
+          "probability": 0.11496090912153491,
+          "fair_odds": 8.698609011023176,
+          "bookmaker_odds": 5.75,
           "bookmaker_prices": {
-            "Betcha": 6.6,
-            "Best Available": 6.6
+            "Betcha": 5.75,
+            "Best Available": 5.75
           },
-          "ev": -0.24185342859229164
+          "ev": -0.33897477255117425
         },
         {
           "player": "Jermaine McEwen",
           "nrl_player_id": 100008236,
           "team": "Newcastle Knights",
-          "probability": 0.11372688577543853,
-          "fair_odds": 8.792995545262428,
+          "probability": 0.11381662039987524,
+          "fair_odds": 8.786063023894673,
           "bookmaker_odds": 7.25,
           "bookmaker_prices": {
             "Betcha": 7.25,
             "Best Available": 7.25
           },
-          "ev": -0.17548007812807065
+          "ev": -0.17482950210090453
         },
         {
           "player": "Spencer Leniu",
           "nrl_player_id": 505560,
           "team": "Sydney Roosters",
-          "probability": 0.08999884777182178,
-          "fair_odds": 11.111253363324673,
+          "probability": 0.09007087775602451,
+          "fair_odds": 11.102367656599345,
           "bookmaker_odds": 14.0,
           "bookmaker_prices": {
             "Betcha": 14.0,
             "Best Available": 14.0
           },
-          "ev": 0.25998386880550495
+          "ev": 0.2609922885843432
         },
         {
           "player": "Sandon Smith",
           "nrl_player_id": 509579,
           "team": "Newcastle Knights",
-          "probability": 0.0865290184954978,
-          "fair_odds": 11.5568166308512,
+          "probability": 0.08659108412932338,
+          "fair_odds": 11.548533085767868,
           "bookmaker_odds": 8.0,
           "bookmaker_prices": {
             "Betcha": 8.0,
             "Best Available": 8.0
           },
-          "ev": -0.30776785203601764
+          "ev": -0.3072713269654129
         },
         {
           "player": "Tyson Frizell",
           "nrl_player_id": 500622,
           "team": "Newcastle Knights",
-          "probability": 0.08587601175829336,
-          "fair_odds": 11.6446954105717,
+          "probability": 0.08593331147303,
+          "fair_odds": 11.636930811328597,
           "bookmaker_odds": 13.0,
           "bookmaker_prices": {
             "Betcha": 13.0,
             "Best Available": 13.0
           },
-          "ev": 0.11638815285781368
+          "ev": 0.11713304914939004
         },
         {
           "player": "Mat Croker",
           "nrl_player_id": 504298,
           "team": "Newcastle Knights",
-          "probability": 0.08537656722716656,
-          "fair_odds": 11.712815734781651,
+          "probability": 0.08544054721962795,
+          "fair_odds": 11.704044889008783,
           "bookmaker_odds": 14.0,
           "bookmaker_prices": {
             "Betcha": 14.0,
             "Best Available": 14.0
           },
-          "ev": 0.19527194118033186
+          "ev": 0.19616766107479133
         },
         {
           "player": "Lindsay Collins",
           "nrl_player_id": 501781,
           "team": "Sydney Roosters",
-          "probability": 0.0852946969733389,
-          "fair_odds": 11.724058300043863,
+          "probability": 0.08536158465307177,
+          "fair_odds": 11.71487155567952,
           "bookmaker_odds": 9.75,
           "bookmaker_prices": {
             "Betcha": 9.75,
             "Best Available": 9.75
           },
-          "ev": -0.16837670450994568
+          "ev": -0.16772454963255023
         },
         {
           "player": "Naufahu Whyte",
           "nrl_player_id": 100006390,
           "team": "Sydney Roosters",
-          "probability": 0.0821940225100128,
-          "fair_odds": 12.166334843609594,
+          "probability": 0.08225129019259671,
+          "fair_odds": 12.157864000168695,
           "bookmaker_odds": 12.0,
           "bookmaker_prices": {
             "Betcha": 12.0,
             "Best Available": 12.0
           },
-          "ev": -0.013671729879846328
+          "ev": -0.012984517688839459
         },
         {
           "player": "Phoenix Crossland",
           "nrl_player_id": 504597,
           "team": "Newcastle Knights",
-          "probability": 0.08110889974404098,
-          "fair_odds": 12.32910325692674,
+          "probability": 0.08116164813441118,
+          "fair_odds": 12.32109035469447,
           "bookmaker_odds": null,
           "bookmaker_prices": {},
           "ev": null
@@ -577,53 +578,53 @@
           "player": "Harrison Graham",
           "nrl_player_id": 506220,
           "team": "Newcastle Knights",
-          "probability": 0.0770914818253037,
-          "fair_odds": 12.971601742798132,
+          "probability": 0.07714162523315675,
+          "fair_odds": 12.963169974414583,
           "bookmaker_odds": 6.5,
           "bookmaker_prices": {
             "Betcha": 6.5,
             "Best Available": 6.5
           },
-          "ev": -0.4989053681355259
+          "ev": -0.4985794359844812
         },
         {
           "player": "Lachlan Crouch",
           "nrl_player_id": 100003974,
           "team": "Newcastle Knights",
-          "probability": 0.04821207525301359,
-          "fair_odds": 20.74169167686871,
+          "probability": 0.04823844732551614,
+          "fair_odds": 20.730352145290578,
           "bookmaker_odds": 17.0,
           "bookmaker_prices": {
             "Betcha": 17.0,
             "Best Available": 17.0
           },
-          "ev": -0.18039472069876894
+          "ev": -0.1799463954662256
         },
         {
           "player": "Cody Hopwood",
           "nrl_player_id": 100011256,
           "team": "Newcastle Knights",
-          "probability": 0.045168330074504805,
-          "fair_odds": 22.139406047345737,
+          "probability": 0.04519239990940787,
+          "fair_odds": 22.127614421995464,
           "bookmaker_odds": 13.0,
           "bookmaker_prices": {
             "Betcha": 13.0,
             "Best Available": 13.0
           },
-          "ev": -0.4128117090314375
+          "ev": -0.41249880117769766
         },
         {
           "player": "Pasami Saulo",
           "nrl_player_id": 504079,
           "team": "Newcastle Knights",
-          "probability": 0.03684736987666486,
-          "fair_odds": 27.13897907359982,
+          "probability": 0.036865374315701305,
+          "fair_odds": 27.125724845118167,
           "bookmaker_odds": 14.0,
           "bookmaker_prices": {
             "Betcha": 14.0,
             "Best Available": 14.0
           },
-          "ev": -0.48413682172669203
+          "ev": -0.48388475958018173
         }
       ],
       "player_matchups": [
@@ -5295,14 +5296,14 @@
             "player": "Daniel Tupou",
             "nrl_player_id": 500002,
             "team": "Sydney Roosters",
-            "probability": 0.4934430563633011,
-            "fair_odds": 2.0265762930581044,
+            "probability": 0.49402987773203516,
+            "fair_odds": 2.0241690737223106,
             "bookmaker_odds": 1.94,
             "bookmaker_prices": {
               "Betcha": 1.94,
               "Best Available": 1.94
             },
-            "ev": -0.04272047065519591
+            "ev": -0.04158203719985176
           },
           "matchup": {
             "kind": "starter",
@@ -5510,8 +5511,8 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.34716,
-        "fair_odds": 2.8805161885009793,
+        "probability": 0.34628,
+        "fair_odds": 2.887836432944438,
         "singles_product_odds": 3.5308,
         "target_met": false,
         "legs": [
@@ -5525,8 +5526,8 @@
           {
             "player": "Daniel Tupou",
             "team": "Sydney Roosters",
-            "probability": 0.4934430563633011,
-            "fair_odds": 2.0265762930581044,
+            "probability": 0.49402987773203516,
+            "fair_odds": 2.0241690737223106,
             "market_odds": 1.94
           }
         ],
@@ -5638,8 +5639,8 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.34716,
-          "fair_odds": 2.8805161885009793,
+          "probability": 0.34628,
+          "fair_odds": 2.887836432944438,
           "singles_product_odds": 3.5308,
           "target_met": false,
           "legs": [
@@ -5653,8 +5654,8 @@
             {
               "player": "Daniel Tupou",
               "team": "Sydney Roosters",
-              "probability": 0.4934430563633011,
-              "fair_odds": 2.0265762930581044,
+              "probability": 0.49402987773203516,
+              "fair_odds": 2.0241690737223106,
               "market_odds": 1.94
             }
           ],
@@ -5669,8 +5670,8 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.34716,
-          "fair_odds": 2.8805161885009793,
+          "probability": 0.34628,
+          "fair_odds": 2.887836432944438,
           "singles_product_odds": 3.5308,
           "target_met": false,
           "legs": [
@@ -5684,8 +5685,8 @@
             {
               "player": "Daniel Tupou",
               "team": "Sydney Roosters",
-              "probability": 0.4934430563633011,
-              "fair_odds": 2.0265762930581044,
+              "probability": 0.49402987773203516,
+              "fair_odds": 2.0241690737223106,
               "market_odds": 1.94
             }
           ],
@@ -5710,7 +5711,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "1f335fc147910d8c"
+      "summary_id": "88cdf78d3f20ce1f"
     }
   ]
 }
