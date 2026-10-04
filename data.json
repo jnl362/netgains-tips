@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 31,
   "round_label": "Grand Final",
-  "generated_at": "Sun 4 Oct 2026, 10:30 PM NZT",
-  "generated_at_iso": "2026-10-04T22:30:57.554856+13:00",
+  "generated_at": "Sun 4 Oct 2026, 11:01 PM NZT",
+  "generated_at_iso": "2026-10-04T23:01:16.704297+13:00",
   "engine_version": "1.68.9",
   "fixtures": [
     {
@@ -232,27 +232,27 @@
           "player": "Billy Smith",
           "nrl_player_id": 509128,
           "team": "Sydney Roosters",
-          "probability": 0.3625719861351527,
-          "fair_odds": 2.7580729847871894,
+          "probability": 0.3641083734545228,
+          "fair_odds": 2.7464350531474393,
           "bookmaker_odds": 3.45,
           "bookmaker_prices": {
             "Betcha": 3.45,
             "Best Available": 3.45
           },
-          "ev": 0.2508733521662767
+          "ev": 0.25617388841810373
         },
         {
           "player": "Robert Toia",
           "nrl_player_id": 100008243,
           "team": "Sydney Roosters",
-          "probability": 0.3620495625914276,
-          "fair_odds": 2.762052777642763,
+          "probability": 0.36360381795534547,
+          "fair_odds": 2.7502461487431655,
           "bookmaker_odds": 2.6,
           "bookmaker_prices": {
             "Betcha": 2.6,
             "Best Available": 2.6
           },
-          "ev": -0.05867113726228812
+          "ev": -0.05463007331610181
         },
         {
           "player": "Dominic Young",
@@ -4006,7 +4006,7 @@
             "nrl_player_id": 100008414,
             "player_name": "Fletcher Hunt",
             "team": "Newcastle Knights",
-            "position": "Interchange",
+            "position": "Reserve",
             "jersey_number": 18,
             "is_reserve": 1,
             "profile": {
@@ -4163,7 +4163,7 @@
             "nrl_player_id": 509404,
             "player_name": "Cody Ramsey",
             "team": "Sydney Roosters",
-            "position": "Interchange",
+            "position": "Reserve",
             "jersey_number": 19,
             "is_reserve": 1,
             "profile": {
@@ -4365,7 +4365,7 @@
             "nrl_player_id": 100007527,
             "player_name": "Benaiah Ioelu",
             "team": "Sydney Roosters",
-            "position": "Interchange",
+            "position": "Reserve",
             "jersey_number": 20,
             "is_reserve": 1,
             "profile": {
@@ -4410,7 +4410,7 @@
             "nrl_player_id": 100013938,
             "player_name": "Diesel Hagan",
             "team": "Newcastle Knights",
-            "position": "Interchange",
+            "position": "Reserve",
             "jersey_number": 21,
             "is_reserve": 1,
             "profile": {
@@ -5212,7 +5212,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "f96cff98fecb16e3"
+      "summary_id": "94ca7820db883cbe"
     }
   ]
 }
