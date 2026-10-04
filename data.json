@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 31,
   "round_label": "Grand Final",
-  "generated_at": "Sun 4 Oct 2026, 3:54 PM NZT",
-  "generated_at_iso": "2026-10-04T15:54:24.875804+13:00",
+  "generated_at": "Sun 4 Oct 2026, 4:24 PM NZT",
+  "generated_at_iso": "2026-10-04T16:24:47.428139+13:00",
   "engine_version": "1.68.9",
   "fixtures": [
     {
@@ -40,8 +40,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-10-04T02:54:10.271009+00:00",
-          "snapshot_id": "b24beb98032aabfee07a5e83",
+          "observed_at": "2026-10-04T03:24:32.125996+00:00",
+          "snapshot_id": "f5b92c379e6f0126cd7fb2e2",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": []
         },
@@ -55,7 +55,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-10-04T02:54:10.271009+00:00",
+          "observed_at": "2026-10-04T03:24:32.125996+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -78,8 +78,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-10-04T02:54:10.271009+00:00",
-          "snapshot_id": "b24beb98032aabfee07a5e83",
+          "observed_at": "2026-10-04T03:24:32.125996+00:00",
+          "snapshot_id": "f5b92c379e6f0126cd7fb2e2",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": [],
           "home_cover_probability": 0.4399359979234331,
@@ -101,7 +101,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-10-04T02:54:10.271009+00:00",
+          "observed_at": "2026-10-04T03:24:32.125996+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -159,7 +159,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 66,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-10-04T02:54:10.271009+00:00",
+      "bookmaker_observed_at": "2026-10-04T03:24:32.125996+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -196,12 +196,12 @@
           "team": "Sydney Roosters",
           "probability": 0.68,
           "fair_odds": 1.4705882352941175,
-          "bookmaker_odds": 1.85,
+          "bookmaker_odds": 1.82,
           "bookmaker_prices": {
-            "Betcha": 1.85,
-            "Best Available": 1.85
+            "Betcha": 1.82,
+            "Best Available": 1.82
           },
-          "ev": 0.25800000000000023
+          "ev": 0.23760000000000003
         },
         {
           "player": "Daniel Tupou",
@@ -209,12 +209,12 @@
           "team": "Sydney Roosters",
           "probability": 0.49406746173607335,
           "fair_odds": 2.024015093983646,
-          "bookmaker_odds": 1.98,
+          "bookmaker_odds": 2.02,
           "bookmaker_prices": {
-            "Betcha": 1.98,
-            "Best Available": 1.98
+            "Betcha": 2.02,
+            "Best Available": 2.02
           },
-          "ev": -0.021746425762574795
+          "ev": -0.0019837272931317873
         },
         {
           "player": "James Tedesco",
@@ -248,12 +248,12 @@
           "team": "Sydney Roosters",
           "probability": 0.3576665195572732,
           "fair_odds": 2.795900497585908,
-          "bookmaker_odds": 2.7,
+          "bookmaker_odds": 2.6,
           "bookmaker_prices": {
-            "Betcha": 2.7,
-            "Best Available": 2.7
+            "Betcha": 2.6,
+            "Best Available": 2.6
           },
-          "ev": -0.034300397195362375
+          "ev": -0.07006704915108963
         },
         {
           "player": "Dominic Young",
@@ -339,12 +339,12 @@
           "team": "Newcastle Knights",
           "probability": 0.22121314529415886,
           "fair_odds": 4.520527017823678,
-          "bookmaker_odds": 4.2,
+          "bookmaker_odds": 4.25,
           "bookmaker_prices": {
-            "Betcha": 4.2,
-            "Best Available": 4.2
+            "Betcha": 4.25,
+            "Best Available": 4.25
           },
-          "ev": -0.07090478976453274
+          "ev": -0.05984413249982479
         },
         {
           "player": "Fletcher Sharpe",
@@ -4657,12 +4657,12 @@
             "team": "Sydney Roosters",
             "probability": 0.68,
             "fair_odds": 1.4705882352941175,
-            "bookmaker_odds": 1.85,
+            "bookmaker_odds": 1.82,
             "bookmaker_prices": {
-              "Betcha": 1.85,
-              "Best Available": 1.85
+              "Betcha": 1.82,
+              "Best Available": 1.82
             },
-            "ev": 0.25800000000000023
+            "ev": 0.23760000000000003
           },
           "matchup": {
             "kind": "starter",
@@ -4874,12 +4874,12 @@
             "team": "Sydney Roosters",
             "probability": 0.49406746173607335,
             "fair_odds": 2.024015093983646,
-            "bookmaker_odds": 1.98,
+            "bookmaker_odds": 2.02,
             "bookmaker_prices": {
-              "Betcha": 1.98,
-              "Best Available": 1.98
+              "Betcha": 2.02,
+              "Best Available": 2.02
             },
-            "ev": -0.021746425762574795
+            "ev": -0.0019837272931317873
           },
           "matchup": {
             "kind": "starter",
@@ -5089,7 +5089,7 @@
         "available": true,
         "probability": 0.34588,
         "fair_odds": 2.8911761304498667,
-        "singles_product_odds": 3.6630000000000003,
+        "singles_product_odds": 3.6764,
         "target_met": false,
         "legs": [
           {
@@ -5097,14 +5097,14 @@
             "team": "Sydney Roosters",
             "probability": 0.68,
             "fair_odds": 1.4705882352941175,
-            "market_odds": 1.85
+            "market_odds": 1.82
           },
           {
             "player": "Daniel Tupou",
             "team": "Sydney Roosters",
             "probability": 0.49406746173607335,
             "fair_odds": 2.024015093983646,
-            "market_odds": 1.98
+            "market_odds": 2.02
           }
         ],
         "method": "Shared match simulation",
@@ -5124,7 +5124,7 @@
           "expected_value": null,
           "verdict": "Not yet rateable",
           "reason": "Selection is stored, but no matching independent probability is available.",
-          "observed_at": "2026-10-04T02:54:10.236205+00:00",
+          "observed_at": "2026-10-04T03:24:32.087517+00:00",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0"
         }
       ],
@@ -5137,7 +5137,7 @@
           "fair_odds": 4.698581303164624,
           "reason": "High-involvement spine role, strong running output, heavy defensive workload",
           "bookmaker_prices": {
-            "Betcha": 7.5
+            "Betcha": 6.0
           },
           "sample_games": 275
         },
@@ -5149,7 +5149,7 @@
           "fair_odds": 11.279129522647958,
           "reason": "Strong running output, heavy defensive workload",
           "bookmaker_prices": {
-            "Betcha": 13.0
+            "Betcha": 15.0
           },
           "sample_games": 44
         },
@@ -5161,7 +5161,7 @@
           "fair_odds": 18.401883444353345,
           "reason": "Strong running output, heavy defensive workload",
           "bookmaker_prices": {
-            "Betcha": 19.0
+            "Betcha": 21.0
           },
           "sample_games": 43
         },
@@ -5185,7 +5185,7 @@
           "fair_odds": 19.608720185579813,
           "reason": "High-involvement spine role, strong running output, heavy defensive workload",
           "bookmaker_prices": {
-            "Betcha": 7.0
+            "Betcha": 8.0
           },
           "sample_games": 155
         },
@@ -5221,7 +5221,7 @@
           "fair_odds": 23.826523939232217,
           "reason": "High-involvement spine role, strong running output, heavy defensive workload",
           "bookmaker_prices": {
-            "Betcha": 15.0
+            "Betcha": 17.0
           },
           "sample_games": 47
         }
@@ -5231,7 +5231,7 @@
           "available": true,
           "probability": 0.34588,
           "fair_odds": 2.8911761304498667,
-          "singles_product_odds": 3.6630000000000003,
+          "singles_product_odds": 3.6764,
           "target_met": false,
           "legs": [
             {
@@ -5239,14 +5239,14 @@
               "team": "Sydney Roosters",
               "probability": 0.68,
               "fair_odds": 1.4705882352941175,
-              "market_odds": 1.85
+              "market_odds": 1.82
             },
             {
               "player": "Daniel Tupou",
               "team": "Sydney Roosters",
               "probability": 0.49406746173607335,
               "fair_odds": 2.024015093983646,
-              "market_odds": 1.98
+              "market_odds": 2.02
             }
           ],
           "method": "Shared match simulation",
@@ -5262,7 +5262,7 @@
           "available": true,
           "probability": 0.34588,
           "fair_odds": 2.8911761304498667,
-          "singles_product_odds": 3.6630000000000003,
+          "singles_product_odds": 3.6764,
           "target_met": false,
           "legs": [
             {
@@ -5270,14 +5270,14 @@
               "team": "Sydney Roosters",
               "probability": 0.68,
               "fair_odds": 1.4705882352941175,
-              "market_odds": 1.85
+              "market_odds": 1.82
             },
             {
               "player": "Daniel Tupou",
               "team": "Sydney Roosters",
               "probability": 0.49406746173607335,
               "fair_odds": 2.024015093983646,
-              "market_odds": 1.98
+              "market_odds": 2.02
             }
           ],
           "method": "Shared match simulation",
@@ -5301,7 +5301,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "d8f0d37cf064c1b0"
+      "summary_id": "0ae17a07b83b18ee"
     }
   ]
 }
