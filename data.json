@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 31,
   "round_label": "Grand Final",
-  "generated_at": "Sun 4 Oct 2026, 6:56 PM NZT",
-  "generated_at_iso": "2026-10-04T18:56:44.008144+13:00",
+  "generated_at": "Sun 4 Oct 2026, 7:27 PM NZT",
+  "generated_at_iso": "2026-10-04T19:27:08.400599+13:00",
   "engine_version": "1.68.9",
   "fixtures": [
     {
@@ -26,13 +26,13 @@
       "independent_away_win_probability": 0.3030895459674918,
       "home_fair_odds": 1.4349045766407085,
       "away_fair_odds": 3.2993549705183693,
-      "home_conservative_fair_odds": 1.4742413254772222,
-      "away_conservative_fair_odds": 3.1086310835389854,
+      "home_conservative_fair_odds": 1.4870277984403135,
+      "away_conservative_fair_odds": 3.0532708876217307,
       "bookmaker_provider": "Betcha",
       "bookmaker_prices": {
         "Betcha": {
-          "home_h2h": 1.42,
-          "away_h2h": 2.95,
+          "home_h2h": 1.44,
+          "away_h2h": 2.9,
           "home_line": -8.5,
           "home_line_odds": 1.96,
           "away_line": 8.5,
@@ -40,14 +40,14 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-10-04T05:27:18.384664+00:00",
-          "snapshot_id": "4aa176e9fe70f14d2ff2a041",
+          "observed_at": "2026-10-04T06:26:52.902294+00:00",
+          "snapshot_id": "d67c371a0e0575bd1b3d84a4",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": []
         },
         "Best Available": {
-          "home_h2h": 1.42,
-          "away_h2h": 2.95,
+          "home_h2h": 1.44,
+          "away_h2h": 2.9,
           "home_line": -8.5,
           "home_line_odds": 1.96,
           "away_line": 8.5,
@@ -55,7 +55,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-10-04T05:27:18.384664+00:00",
+          "observed_at": "2026-10-04T06:26:52.902294+00:00",
           "price_sources": {
             "home_h2h": "Betcha",
             "away_h2h": "Betcha",
@@ -69,8 +69,8 @@
       },
       "bookmaker_views": {
         "Betcha": {
-          "home_h2h": 1.42,
-          "away_h2h": 2.95,
+          "home_h2h": 1.44,
+          "away_h2h": 2.9,
           "home_line": -8.5,
           "home_line_odds": 1.96,
           "away_line": 8.5,
@@ -78,8 +78,8 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-10-04T05:27:18.384664+00:00",
-          "snapshot_id": "4aa176e9fe70f14d2ff2a041",
+          "observed_at": "2026-10-04T06:26:52.902294+00:00",
+          "snapshot_id": "d67c371a0e0575bd1b3d84a4",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0",
           "validation_issues": [],
           "home_cover_probability": 0.4399359979234331,
@@ -92,8 +92,8 @@
           "under_fair_odds": 2.424143468771099
         },
         "Best Available": {
-          "home_h2h": 1.42,
-          "away_h2h": 2.95,
+          "home_h2h": 1.44,
+          "away_h2h": 2.9,
           "home_line": -8.5,
           "home_line_odds": 1.96,
           "away_line": 8.5,
@@ -101,7 +101,7 @@
           "total": 42.5,
           "over_odds": 1.9,
           "under_odds": 1.9,
-          "observed_at": "2026-10-04T05:27:18.384664+00:00",
+          "observed_at": "2026-10-04T06:26:52.902294+00:00",
           "snapshot_id": null,
           "source_url": null,
           "validation_issues": null,
@@ -115,10 +115,10 @@
           "under_fair_odds": 2.424143468771099
         }
       },
-      "home_bookmaker_odds": 1.42,
-      "away_bookmaker_odds": 2.95,
-      "home_h2h_ev": -0.010387155273838489,
-      "away_h2h_ev": -0.10588583939589902,
+      "home_bookmaker_odds": 1.44,
+      "away_bookmaker_odds": 2.9,
+      "home_h2h_ev": 0.0035510538068117548,
+      "away_h2h_ev": -0.12104031669427373,
       "winner": "Sydney Roosters",
       "home_points": 25.97352727315511,
       "away_points": 19.400453714383385,
@@ -159,7 +159,7 @@
       "data_quality": "Developing",
       "prediction_strength_score": 66,
       "forecast_engine": "Best-of-Both + evidence-aware stack and reversal control",
-      "bookmaker_observed_at": "2026-10-04T05:27:18.384664+00:00",
+      "bookmaker_observed_at": "2026-10-04T06:26:52.902294+00:00",
       "context_effects": {
         "venue_classification": "NEUTRAL",
         "home_advantage": 0.0,
@@ -187,7 +187,7 @@
         "Stacked-advantage control: learned context +2.64, live availability +1.27, final downstream adjustment +3.91; same-direction evidence cap 5.00, opposing cap 5.00.",
         "Extreme-stack guardrail: Raw margin is inside the fully supported +/-3.0 range; full +/-5.0 same-direction context cap retained.",
         "Low-confidence reversal guardrail: INACTIVE: provisional prediction strength was 66/100, above the low-confidence ceiling of 59/100.",
-        "Market-relative H2H calibration retains 14.9% of the +2.2pp raw market disagreement, leaving +0.3pp of betting edge."
+        "Market-relative H2H calibration retains 14.9% of the +2.9pp raw market disagreement, leaving +0.4pp of betting edge."
       ],
       "ats_players": [
         {
@@ -5124,7 +5124,7 @@
           "expected_value": null,
           "verdict": "Not yet rateable",
           "reason": "Selection is stored, but no matching independent probability is available.",
-          "observed_at": "2026-10-04T05:27:18.348662+00:00",
+          "observed_at": "2026-10-04T06:26:52.882584+00:00",
           "source_url": "https://www.betcha.co.nz/sports/rugby-league/nrl/sydney-roosters-vs-newcastle-knights/357d84d0-de39-47b8-bace-a3094819b5b0"
         }
       ],
@@ -5301,7 +5301,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "bbfaa88014a8bcc4"
+      "summary_id": "a2b96feb48b5910b"
     }
   ]
 }
