@@ -9,8 +9,8 @@
   "default_bookmaker": "Betcha",
   "round": 31,
   "round_label": "Grand Final",
-  "generated_at": "Sun 4 Oct 2026, 11:01 PM NZT",
-  "generated_at_iso": "2026-10-04T23:01:16.704297+13:00",
+  "generated_at": "Sun 4 Oct 2026, 11:31 PM NZT",
+  "generated_at_iso": "2026-10-04T23:31:32.300015+13:00",
   "engine_version": "1.68.9",
   "fixtures": [
     {
@@ -193,27 +193,27 @@
           "player": "Mark Nawaqanitawase",
           "nrl_player_id": 100018452,
           "team": "Sydney Roosters",
-          "probability": 0.5938484176743616,
-          "fair_odds": 1.6839314044419207,
+          "probability": 0.5962231992188605,
+          "fair_odds": 1.677224236343279,
           "bookmaker_odds": 1.82,
           "bookmaker_prices": {
             "Betcha": 1.82,
             "Best Available": 1.82
           },
-          "ev": 0.08080412016733818
+          "ev": 0.08512622257832603
         },
         {
           "player": "Daniel Tupou",
           "nrl_player_id": 500002,
           "team": "Sydney Roosters",
-          "probability": 0.4747327030654498,
-          "fair_odds": 2.1064485204890833,
+          "probability": 0.476235295317442,
+          "fair_odds": 2.099802366251402,
           "bookmaker_odds": 2.02,
           "bookmaker_prices": {
             "Betcha": 2.02,
             "Best Available": 2.02
           },
-          "ev": -0.041039939807791415
+          "ev": -0.038004703458767164
         },
         {
           "player": "James Tedesco",
@@ -4163,7 +4163,7 @@
             "nrl_player_id": 509404,
             "player_name": "Cody Ramsey",
             "team": "Sydney Roosters",
-            "position": "Reserve",
+            "position": "Interchange",
             "jersey_number": 19,
             "is_reserve": 1,
             "profile": {
@@ -4365,7 +4365,7 @@
             "nrl_player_id": 100007527,
             "player_name": "Benaiah Ioelu",
             "team": "Sydney Roosters",
-            "position": "Reserve",
+            "position": "Interchange",
             "jersey_number": 20,
             "is_reserve": 1,
             "profile": {
@@ -4566,14 +4566,14 @@
             "player": "Mark Nawaqanitawase",
             "nrl_player_id": 100018452,
             "team": "Sydney Roosters",
-            "probability": 0.5938484176743616,
-            "fair_odds": 1.6839314044419207,
+            "probability": 0.5962231992188605,
+            "fair_odds": 1.677224236343279,
             "bookmaker_odds": 1.82,
             "bookmaker_prices": {
               "Betcha": 1.82,
               "Best Available": 1.82
             },
-            "ev": 0.08080412016733818
+            "ev": 0.08512622257832603
           },
           "matchup": {
             "kind": "starter",
@@ -4783,14 +4783,14 @@
             "player": "Daniel Tupou",
             "nrl_player_id": 500002,
             "team": "Sydney Roosters",
-            "probability": 0.4747327030654498,
-            "fair_odds": 2.1064485204890833,
+            "probability": 0.476235295317442,
+            "fair_odds": 2.099802366251402,
             "bookmaker_odds": 2.02,
             "bookmaker_prices": {
               "Betcha": 2.02,
               "Best Available": 2.02
             },
-            "ev": -0.041039939807791415
+            "ev": -0.038004703458767164
           },
           "matchup": {
             "kind": "starter",
@@ -4998,23 +4998,23 @@
       ],
       "safe_bet": {
         "available": true,
-        "probability": 0.28952,
-        "fair_odds": 3.4539928156949435,
+        "probability": 0.29152,
+        "fair_odds": 3.4302963776070254,
         "singles_product_odds": 3.6764,
         "target_met": false,
         "legs": [
           {
             "player": "Mark Nawaqanitawase",
             "team": "Sydney Roosters",
-            "probability": 0.5938484176743616,
-            "fair_odds": 1.6839314044419207,
+            "probability": 0.5962231992188605,
+            "fair_odds": 1.677224236343279,
             "market_odds": 1.82
           },
           {
             "player": "Daniel Tupou",
             "team": "Sydney Roosters",
-            "probability": 0.4747327030654498,
-            "fair_odds": 2.1064485204890833,
+            "probability": 0.476235295317442,
+            "fair_odds": 2.099802366251402,
             "market_odds": 2.02
           }
         ],
@@ -5140,23 +5140,23 @@
       "safe_bets": {
         "Betcha": {
           "available": true,
-          "probability": 0.28952,
-          "fair_odds": 3.4539928156949435,
+          "probability": 0.29152,
+          "fair_odds": 3.4302963776070254,
           "singles_product_odds": 3.6764,
           "target_met": false,
           "legs": [
             {
               "player": "Mark Nawaqanitawase",
               "team": "Sydney Roosters",
-              "probability": 0.5938484176743616,
-              "fair_odds": 1.6839314044419207,
+              "probability": 0.5962231992188605,
+              "fair_odds": 1.677224236343279,
               "market_odds": 1.82
             },
             {
               "player": "Daniel Tupou",
               "team": "Sydney Roosters",
-              "probability": 0.4747327030654498,
-              "fair_odds": 2.1064485204890833,
+              "probability": 0.476235295317442,
+              "fair_odds": 2.099802366251402,
               "market_odds": 2.02
             }
           ],
@@ -5171,23 +5171,23 @@
         },
         "Best Available": {
           "available": true,
-          "probability": 0.28952,
-          "fair_odds": 3.4539928156949435,
+          "probability": 0.29152,
+          "fair_odds": 3.4302963776070254,
           "singles_product_odds": 3.6764,
           "target_met": false,
           "legs": [
             {
               "player": "Mark Nawaqanitawase",
               "team": "Sydney Roosters",
-              "probability": 0.5938484176743616,
-              "fair_odds": 1.6839314044419207,
+              "probability": 0.5962231992188605,
+              "fair_odds": 1.677224236343279,
               "market_odds": 1.82
             },
             {
               "player": "Daniel Tupou",
               "team": "Sydney Roosters",
-              "probability": 0.4747327030654498,
-              "fair_odds": 2.1064485204890833,
+              "probability": 0.476235295317442,
+              "fair_odds": 2.099802366251402,
               "market_odds": 2.02
             }
           ],
@@ -5212,7 +5212,7 @@
         "calibration_report_status": "No linked evaluation report",
         "prediction_state": "Current projection; historical locks remain separate"
       },
-      "summary_id": "94ca7820db883cbe"
+      "summary_id": "96dc64232126b3d8"
     }
   ]
 }
